@@ -1,0 +1,14 @@
+{
+ "record_id": "doi:10.3389/fgene.2025.1631446",
+ "tables": {},
+ "claims": {
+  "ZhengL2025-1": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S2-S4 give only per-exposure MR results (method, nSNP, beta, SE, P, PVE, OR); Image1.pdf is a western blot. For RSPO3 (deCODE, 4 SNPs, IVW OR 1.004) main-text Table 4 names only two of the SNPs (rs853974, rs9285458) with F statistics, and Fig. 4 is an unlabelled MR-Egger scatter; no SNP-level exposure beta, alleles or outcome effects are reported."
+  },
+  "ZhengL2025-2": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S2-S4 give only per-exposure MR results (method, nSNP, beta, SE, P, PVE, OR); Image1.pdf is a western blot. For FLT1 (deCODE, 2 SNPs, IVW OR 0.987) main-text Tables 2 and 4 list rs34867831 and rs56728557 with allele frequencies and F statistics only; no SNP-level exposure beta, alleles or outcome effects are reported."
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "record_id": "doi:10.1186/s12958-025-01508-7",
+ "tables": {
+  "T17": {
+   "file": "10.1186_s12958-025-01508-7__SuppTable17_EPHB4_strong_IVs.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   },
+   "source": "text/12958_2025_1508_MOESM20_ESM.mislabelled.txt (Supplementary Table 17, tab-delimited plain text despite .xlsx name); header + rows copied verbatim by script (tab->comma, title line dropped) because instruments.py reads comma-delimited files only"
+  },
+  "T22": {
+   "file": "10.1186_s12958-025-01508-7__SuppTable22_PTGER4_strong_IVs.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   },
+   "source": "text/12958_2025_1508_MOESM25_ESM.mislabelled.txt (Supplementary Table 22, tab-delimited plain text despite .xlsx name); header + rows copied verbatim by script (tab->comma, title line dropped) because instruments.py reads comma-delimited files only"
+  }
+ },
+ "claims": {
+  "Shi2025RBE-1": {
+   "status": "mapped",
+   "table": "T17",
+   "filters": [],
+   "expected_n": 9,
+   "notes": "Supplementary Table 17 (MOESM20) holds only EPHB4 (GTEx v8 EUR whole-blood cis-eQTL -> GCST90454213) harmonised TwoSampleMR rows with F>10, so no row filter is needed; identical to the 'initial SNP dataset' table. Mechanical TSV->CSV copy, values unchanged."
+  },
+  "Shi2025RBE-2": {
+   "status": "mapped",
+   "table": "T22",
+   "filters": [],
+   "expected_n": 5,
+   "notes": "Supplementary Table 22 (MOESM25) holds only PTGER4 (GTEx v8 EUR whole-blood cis-eQTL -> GCST90454213) harmonised TwoSampleMR rows with F>10, so no row filter is needed; identical to the 'initial SNP dataset' table. Mechanical TSV->CSV copy, values unchanged."
+  }
+ }
+}

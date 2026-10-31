@@ -1,0 +1,66 @@
+{
+ "record_id": "doi:10.3389/fendo.2024.1416978",
+ "tables": {
+  "S3": {
+   "file": "text/Table_1__S3.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   },
+   "description": "Supplementary Table S3: SMR of UKB-PPP plasma cis-pQTL (b_eQTL header kept for pQTL effects) on FinnGen R10 N14_ENDOMETRIOSIS; one top cis-pQTL per protein, b_eQTL and b_GWAS both on A1. The same SNPs with identical exposure beta/se are the MR instruments in Supplementary Table S1 (F-values of all IVs), whose Wald ratios are in Table S2."
+  }
+ },
+ "claims": {
+  "Tao2024-1": {
+   "status": "mapped",
+   "table": "S3",
+   "filters": [{"column": "Gene", "op": "equals", "value": "EPHB4"}],
+   "expected_n": 1,
+   "notes": "Single cis-pQTL rs314361 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.3349."
+  },
+  "Tao2024-2": {
+   "status": "mapped",
+   "table": "S3",
+   "filters": [{"column": "Gene", "op": "equals", "value": "FSHB"}],
+   "expected_n": 1,
+   "notes": "Single cis-pQTL rs11031006 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 1.3623."
+  },
+  "Tao2024-3": {
+   "status": "mapped",
+   "table": "S3",
+   "filters": [{"column": "Gene", "op": "equals", "value": "RSPO3"}],
+   "expected_n": 1,
+   "notes": "Single cis-pQTL rs1936800 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.4705."
+  },
+  "Tao2024-4": {
+   "status": "mapped",
+   "table": "S3",
+   "filters": [{"column": "Gene", "op": "equals", "value": "SEZ6L2"}],
+   "expected_n": 1,
+   "notes": "Single cis-pQTL rs113443718 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.3613."
+  },
+  "Tao2024-5": {
+   "status": "mapped",
+   "table": "S3",
+   "filters": [{"column": "Gene", "op": "equals", "value": "WASHC3"}],
+   "expected_n": 1,
+   "notes": "Single cis-pQTL rs10860846 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.6919 (claim n_instruments not stated)."
+  },
+  "Tao2024-6": {
+   "status": "mapped",
+   "table": "S3",
+   "filters": [{"column": "Gene", "op": "equals", "value": "KDR"}],
+   "expected_n": 1,
+   "notes": "Single cis-pQTL rs1870377 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta -0.1969 (OR 0.821). The claim's OR 0.8 is the text value rounded to one decimal, so the recompute check against log(0.8) may fall just outside tolerance."
+  }
+ }
+}

@@ -1,0 +1,942 @@
+[
+ [
+  "Wang2026FRH-1",
+  "HMGCL",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-2",
+  "MTX1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-3",
+  "MRPL55",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-4",
+  "MRPL33",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-5",
+  "NFU1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-6",
+  "IMMT",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-7",
+  "MMADHC",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-8",
+  "GLS",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-9",
+  "CASP8",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-10",
+  "NT5DC2",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-11",
+  "EHHADH",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-12",
+  "LYRM7",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-13",
+  "FIS1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-14",
+  "DNA2",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-15",
+  "NARS2",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-16",
+  "NLRX1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-17",
+  "MRPS35",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-18",
+  "BLOC1S1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-19",
+  "UNG",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-20",
+  "CARS2",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-21",
+  "ERAL1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-22",
+  "MRPL12",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-23",
+  "ACAA2",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-24",
+  "ME2",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-25",
+  "COX6B1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-26",
+  "ACSS1",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Wang2026FRH-27",
+  "BID",
+  "eQTLGen Consortium blood eQTL summary statist",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Meng2026IJWH-1",
+  "FRMD4B",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Meng2026IJWH-2",
+  "CRYZ",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Meng2026IJWH-3",
+  "PLK2",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Meng2026IJWH-4",
+  "FZD6",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Meng2026IJWH-5",
+  "ZNF606",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Meng2026IJWH-6",
+  "TPST1",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Meng2026IJWH-7",
+  "PPA1",
+  "IEU OpenGWAS eQTL datasets for the candidate ",
+  "R1 rule",
+  5e-08,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "WeiY2024ITT-1",
+  "CXCL5",
+  "Zhao et al. 2023 (Nat Immunol) genome-wide pQ",
+  "R1 rule",
+  5e-07,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "WeiY2024ITT-2",
+  "CXCL11",
+  "Zhao et al. 2023 (Nat Immunol) genome-wide pQ",
+  "R1 rule",
+  5e-07,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "WeiY2024ITT-3",
+  "CXCL6",
+  "Zhao et al. 2023 (Nat Immunol) genome-wide pQ",
+  "R1 rule",
+  5e-07,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "WeiY2024ITT-4",
+  "FGF21",
+  "Zhao et al. 2023 (Nat Immunol) genome-wide pQ",
+  "R1 rule",
+  5e-07,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "WeiY2024ITT-5",
+  "IL15RA",
+  "Zhao et al. 2023 (Nat Immunol) genome-wide pQ",
+  "R1 rule",
+  5e-07,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "WeiY2024ITT-6",
+  "TNFSF11",
+  "Zhao et al. 2023 (Nat Immunol) genome-wide pQ",
+  "R1 rule",
+  5e-07,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Lv2025-1",
+  "IL6ST",
+  "IEU OpenGWAS prot-a-1542 (IL-6R beta), prot-a",
+  "none",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Lv2025-2",
+  "IL3RA",
+  "IEU OpenGWAS prot-a-1542 (IL-6R beta), prot-a",
+  "none",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Lv2025-3",
+  "IL1RL1",
+  "IEU OpenGWAS prot-a-1542 (IL-6R beta), prot-a",
+  "none",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Aru2025cath-1",
+  "CTSH",
+  "INTERVAL study plasma protein GWAS (Sun et al",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  null
+ ],
+ [
+  "Lai2026-1",
+  "GNLY",
+  "IEU OpenGWAS eqtl-a-ENSG00000115523 (GNLY exp",
+  "R2 known variants",
+  5e-08,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Xu2025BMCPT-1",
+  "IL1B",
+  "IEU OpenGWAS eqtl-a-ENSG00000125538 (IL1B exp",
+  "R2 known variants",
+  5e-08,
+  null,
+  null,
+  null
+ ],
+ [
+  "Xu2025JCMM-1",
+  "TNFSF10",
+  "Ahola-Olli et al. 2017 41-cytokine GWAS meta-",
+  "R2 known variants",
+  1e-05,
+  null,
+  0.1,
+  500
+ ],
+ [
+  "Kai2025BMCWH-1",
+  "CENPE",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-2",
+  "CFD",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-3",
+  "ECT2",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-4",
+  "FBXO5",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-5",
+  "GALNT12",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-6",
+  "HMMR",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-7",
+  "IER3",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-8",
+  "MKI67",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-9",
+  "NDC80",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-10",
+  "PARPBP",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-11",
+  "PRIM1",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-12",
+  "RLN2",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-13",
+  "RMI1",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-14",
+  "STIL",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-15",
+  "STMN1",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-16",
+  "TYMS",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Kai2025BMCWH-17",
+  "VRK1",
+  "IEU OpenGWAS gene-expression eQTL datasets (t",
+  "R2 known variants",
+  5e-06,
+  null,
+  0.001,
+  10
+ ],
+ [
+  "Zeng2024Gene-1",
+  "IMMT",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-2",
+  "SKAP1",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-3",
+  "KMT5A",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-4",
+  "KLF12",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-5",
+  "GIGYF1",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-6",
+  "WNT7A",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-7",
+  "SUN1",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-8",
+  "PARP3",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-9",
+  "PAQR8",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-10",
+  "AP3M1",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-11",
+  "SURF6",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-12",
+  "TUB",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Zeng2024Gene-13",
+  "POLDIP2",
+  "Abstract: cis-eQTL from GTEx V8 (838 particip",
+  "R2 known variants",
+  null,
+  null,
+  null,
+  null
+ ],
+ [
+  "Li2026tg-1",
+  "SLC9A1",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Li2026tg-2",
+  "SCN3A",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Li2026tg-3",
+  "VEGFA",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Li2026tg-4",
+  "APOA1",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Li2026tg-5",
+  "TNF",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Li2026tg-6",
+  "ITGAV",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Li2026tg-7",
+  "BACE1",
+  "GLGC triglycerides GWAS, European. Table 1: '",
+  "R1 rule",
+  5e-08,
+  100000,
+  0.3,
+  100
+ ],
+ [
+  "Guo2025Med-1",
+  "IL17A",
+  "Zhao et al. 2023, 91 circulating inflammatory",
+  "R2 known variants",
+  null,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Guo2025Med-2",
+  "CDCP1",
+  "Zhao et al. 2023, 91 circulating inflammatory",
+  "R2 known variants",
+  null,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Guo2025Med-3",
+  "TNFSF10",
+  "Zhao et al. 2023, 91 circulating inflammatory",
+  "R2 known variants",
+  null,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Guo2025Med-4",
+  "CCL4",
+  "Zhao et al. 2023, 91 circulating inflammatory",
+  "R2 known variants",
+  null,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Guo2025Med-5",
+  "CD274",
+  "Zhao et al. 2023, 91 circulating inflammatory",
+  "R2 known variants",
+  null,
+  null,
+  0.001,
+  10000
+ ],
+ [
+  "Gao2025Med-1",
+  "NGF",
+  "Zhao et al. 2023 pQTL study [ref 10]: 91 circ",
+  "R2 known variants",
+  5e-08,
+  1000,
+  0.001,
+  null
+ ],
+ [
+  "Gao2025Med-2",
+  "CXCL11",
+  "Zhao et al. 2023 pQTL study [ref 10]: 91 circ",
+  "R2 known variants",
+  5e-08,
+  1000,
+  0.001,
+  null
+ ],
+ [
+  "Gao2025Med-3",
+  "SLAMF1",
+  "Zhao et al. 2023 pQTL study [ref 10]: 91 circ",
+  "R2 known variants",
+  5e-08,
+  1000,
+  0.001,
+  null
+ ],
+ [
+  "Xue2025ugcg-1",
+  "UGCG",
+  "IEU OpenGWAS eQTL dataset eqtl-a-ENSG00000148",
+  "R1 rule",
+  1e-05,
+  300,
+  0.3,
+  100
+ ],
+ [
+  "Lin2023JCEM-1",
+  "CSF1",
+  "Bouras et al. cytokine GWAS meta-analysis (Fi",
+  "none",
+  null,
+  null,
+  null,
+  null
+ ]
+]

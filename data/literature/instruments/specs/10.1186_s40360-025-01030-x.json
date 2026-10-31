@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1186/s40360-025-01030-x",
+ "tables": {},
+ "claims": {
+  "Xu2025BMCPT-1": {
+   "status": "not_available",
+   "reason": "Only supplement (MOESM1 docx) lists database URLs and the 19 overlapping targets; main-text Table 1 gives method-level ORs only. Fig. 6B names the six IL1B instruments (rs56388170, rs7846314, rs8078723, rs6893300, rs6542082, rs1531070) but plots only per-SNP Wald ratios, and Fig. 6A plots SNP-exposure effects as unlabelled points with no printed values. No per-SNP exposure beta/alleles are reported."
+  }
+ }
+}

@@ -1,0 +1,1701 @@
+[
+ {
+  "record_id": "doi:10.1016/j.gene.2023.147970",
+  "doi": "10.1016/j.gene.2023.147970",
+  "pmcid": null,
+  "title": "Therapeutic targets for endometriosis: Genome-wide Mendelian randomization and colocalization analyses.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.gene.2023.147970",
+  "claims": [
+   {
+    "claim_id": "Zeng2024Gene-1",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.059
+     ],
+     "ci_low": [
+      null,
+      1.03
+     ],
+     "ci_high": [
+      null,
+      1.08
+     ],
+     "p_value": [
+      null,
+      4.88e-06
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs13035593. eQTLGen row also Bonferroni-significant but opposite: OR 0.945 (0.92-0.97), P 6.56e-6; GTEx row chosen to match abstract's positive association. Main text paywalled; PP.H4 unavailable."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-2",
+    "gene_symbol": "SKAP1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.058
+     ],
+     "ci_low": [
+      null,
+      1.03
+     ],
+     "ci_high": [
+      null,
+      1.08
+     ],
+     "p_value": [
+      null,
+      1.19e-05
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs2305433. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-3",
+    "gene_symbol": "KMT5A",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.059
+     ],
+     "ci_low": [
+      null,
+      1.03
+     ],
+     "ci_high": [
+      null,
+      1.08
+     ],
+     "p_value": [
+      null,
+      2.02e-05
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs28825193. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-4",
+    "gene_symbol": "KLF12",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.087
+     ],
+     "ci_low": [
+      null,
+      1.05
+     ],
+     "ci_high": [
+      null,
+      1.12
+     ],
+     "p_value": [
+      null,
+      6.33e-06
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen, top SNP rs9600237. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-5",
+    "gene_symbol": "GIGYF1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.071
+     ],
+     "ci_low": [
+      null,
+      1.04
+     ],
+     "ci_high": [
+      null,
+      1.1
+     ],
+     "p_value": [
+      null,
+      6.12e-05
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen (ENSG00000146830) row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen (ENSG00000146830), top SNP rs506597. GTEx whole-blood row opposite: OR 0.935 (0.90-0.97), Bonferroni P 0.021, P_HEIDI 0.021; eQTLGen row chosen to match abstract's positive association. Main text paywalled; PP.H4 unavailable."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-6",
+    "gene_symbol": "WNT7A",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.054
+     ],
+     "ci_low": [
+      null,
+      1.03
+     ],
+     "ci_high": [
+      null,
+      1.08
+     ],
+     "p_value": [
+      null,
+      7.16e-05
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen, top SNP rs9310431. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-7",
+    "gene_symbol": "SUN1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      0.95
+     ],
+     "ci_low": [
+      null,
+      0.92
+     ],
+     "ci_high": [
+      null,
+      0.98
+     ],
+     "p_value": [
+      null,
+      0.000103884
+     ],
+     "direction": [
+      "risk_increasing",
+      "protective"
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen, top SNP rs10267796. Abstract lists SUN1 as positively associated, but the only table row is protective (OR 0.950). Main text paywalled; PP.H4 unavailable."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-8",
+    "gene_symbol": "PARP3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.068
+     ],
+     "ci_low": [
+      null,
+      1.03
+     ],
+     "ci_high": [
+      null,
+      1.1
+     ],
+     "p_value": [
+      null,
+      0.000125814
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen, top SNP rs62260389. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-9",
+    "gene_symbol": "PAQR8",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      0.93
+     ],
+     "ci_low": [
+      null,
+      0.9
+     ],
+     "ci_high": [
+      null,
+      0.96
+     ],
+     "p_value": [
+      null,
+      6.71e-06
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs9382100. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-10",
+    "gene_symbol": "AP3M1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      0.938
+     ],
+     "ci_low": [
+      null,
+      0.91
+     ],
+     "ci_high": [
+      null,
+      0.97
+     ],
+     "p_value": [
+      null,
+      4.47e-05
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs67594352. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-11",
+    "gene_symbol": "SURF6",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      0.95
+     ],
+     "ci_low": [
+      null,
+      0.93
+     ],
+     "ci_high": [
+      null,
+      0.97
+     ],
+     "p_value": [
+      null,
+      4.04e-05
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Uterus row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: GTEx v8 Uterus, top SNP rs886090. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-12",
+    "gene_symbol": "TUB",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.051
+     ],
+     "ci_low": [
+      null,
+      1.03
+     ],
+     "ci_high": [
+      null,
+      1.08
+     ],
+     "p_value": [
+      null,
+      6.49e-05
+     ],
+     "direction": [
+      "protective",
+      "risk_increasing"
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen, top SNP rs2280729. Abstract lists TUB as inversely associated, but the only table row is risk-increasing (OR 1.051). Main text paywalled; PP.H4 unavailable."
+    }
+   },
+   {
+    "claim_id": "Zeng2024Gene-13",
+    "gene_symbol": "POLDIP2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.079
+     ],
+     "ci_low": [
+      null,
+      1.04
+     ],
+     "ci_high": [
+      null,
+      1.12
+     ],
+     "p_value": [
+      null,
+      0.000118631
+     ],
+     "direction": [
+      "protective",
+      "risk_increasing"
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      8288
+     ],
+     "outcome_controls": [
+      null,
+      68969
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "MR (method not stated in abstract)",
+      "SMR (single top cis-eQTL SNP)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "FinnGen (8,288 cases/68,969 controls) and UK Biobank (1,496 cases/359,698 controls); per-gene discovery outcome not stated in abstract",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS."
+    },
+    "second": {
+     "source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+     "outcome_source": "FinnGen endometriosis (Supplementary Table S1 labels it 'Finngen R9')",
+     "method": "SMR (single top cis-eQTL SNP)",
+     "notes": "Exposure row: eQTLGen, top SNP rs3093704. Abstract lists POLDIP2 as inversely associated, but the only table row is risk-increasing (OR 1.079). Main text paywalled; PP.H4 unavailable."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1007/s10142-025-01543-y",
+  "doi": "10.1007/s10142-025-01543-y",
+  "pmcid": "PMC11947010",
+  "title": "A new perspective on endometriosis: Integrating eQTL mendelian randomization with transcriptomics and single-cell data analyses.",
+  "supplement_dir": "data/upstream/supplements/10.1007_s10142-025-01543-y",
+  "claims": [
+   {
+    "claim_id": "Dou2025FIG-1",
+    "gene_symbol": "HNMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "differences": {
+     "estimate": [
+      null,
+      0.864712325
+     ],
+     "ci_low": [
+      null,
+      0.787656868
+     ],
+     "ci_high": [
+      null,
+      0.949306019
+     ],
+     "p_value": [
+      null,
+      0.002269485
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ],
+     "n_instruments": [
+      null,
+      5
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results/Discussion text (direction); estimates only in Fig. 2C; Fig. 3 forest plots (unreadable at available resolution) and supplementary CSV",
+     "outcome_source": "ebi-a-GCST90018839 (European; 4,511 cases, 231,771 controls as reported)",
+     "method": "IVW",
+     "notes": "Direction from text; numeric estimate not extractable from main text. IVs at P<5e-8, r2<0.001, 10,000 kb clumping, F>10 (no cis window stated). Significance: IVW p<0.05, consistent direction, no pleiotropy; no multiple-testing correction. Gene is one of 30 MR hits intersecting DEGs; 24 other intersecting genes appear only in figures and the full MR hit list only in supplements (not extracted). Controls figure (231,771) equals total N in GWAS Catalog. GCST90018839 is Sakaue 2021; IEU N=231,771 European (FinnGen+UKB meta); GWAS Catalog entry also lists BBJ/East Asian samples, so verify cohort set."
+    },
+    "second": {
+     "source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (GWAS Catalog GCST90018839)",
+     "method": "IVW",
+     "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+    }
+   },
+   {
+    "claim_id": "Dou2025FIG-2",
+    "gene_symbol": "CCDC28A",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "differences": {
+     "estimate": [
+      null,
+      0.896162272
+     ],
+     "ci_low": [
+      null,
+      0.804829746
+     ],
+     "ci_high": [
+      null,
+      0.997859263
+     ],
+     "p_value": [
+      null,
+      0.045600098
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ],
+     "n_instruments": [
+      null,
+      3
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results/Discussion text (direction); estimates only in Fig. 2C; Fig. 3 forest plots (unreadable at available resolution) and supplementary CSV",
+     "outcome_source": "ebi-a-GCST90018839 (European; 4,511 cases, 231,771 controls as reported)",
+     "method": "IVW",
+     "notes": "Direction from text; numeric estimate not extractable from main text. IVs at P<5e-8, r2<0.001, 10,000 kb clumping, F>10 (no cis window stated). Significance: IVW p<0.05, consistent direction, no pleiotropy; no multiple-testing correction. Gene is one of 30 MR hits intersecting DEGs; 24 other intersecting genes appear only in figures and the full MR hit list only in supplements (not extracted). Controls figure (231,771) equals total N in GWAS Catalog. GCST90018839 is Sakaue 2021; IEU N=231,771 European (FinnGen+UKB meta); GWAS Catalog entry also lists BBJ/East Asian samples, so verify cohort set."
+    },
+    "second": {
+     "source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (GWAS Catalog GCST90018839)",
+     "method": "IVW",
+     "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+    }
+   },
+   {
+    "claim_id": "Dou2025FIG-3",
+    "gene_symbol": "FADS1",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "differences": {
+     "estimate": [
+      null,
+      1.102400264
+     ],
+     "ci_low": [
+      null,
+      1.020561379
+     ],
+     "ci_high": [
+      null,
+      1.190801815
+     ],
+     "p_value": [
+      null,
+      0.013243539
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ],
+     "n_instruments": [
+      null,
+      4
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results/Discussion text (direction); estimates only in Fig. 2C-D forest plots (unreadable at available resolution) and supplementary CSV",
+     "outcome_source": "ebi-a-GCST90018839 (European; 4,511 cases, 231,771 controls as reported)",
+     "method": "IVW",
+     "notes": "Direction from text; numeric estimate not extractable from main text. IVs at P<5e-8, r2<0.001, 10,000 kb clumping, F>10 (no cis window stated). Significance: IVW p<0.05, consistent direction, no pleiotropy; no multiple-testing correction. Gene is one of 30 MR hits intersecting DEGs; 24 other intersecting genes appear only in figures and the full MR hit list only in supplements (not extracted). Controls figure (231,771) equals total N in GWAS Catalog. GCST90018839 is Sakaue 2021; IEU N=231,771 European (FinnGen+UKB meta); GWAS Catalog entry also lists BBJ/East Asian samples, so verify cohort set."
+    },
+    "second": {
+     "source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (GWAS Catalog GCST90018839)",
+     "method": "IVW",
+     "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+    }
+   },
+   {
+    "claim_id": "Dou2025FIG-4",
+    "gene_symbol": "MGRN1",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "differences": {
+     "estimate": [
+      null,
+      1.087261874
+     ],
+     "ci_low": [
+      null,
+      1.000154871
+     ],
+     "ci_high": [
+      null,
+      1.181955331
+     ],
+     "p_value": [
+      null,
+      0.049572472
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ],
+     "n_instruments": [
+      null,
+      4
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results/Discussion text (direction); estimates only in Fig. 2C-D forest plots (unreadable at available resolution) and supplementary CSV",
+     "outcome_source": "ebi-a-GCST90018839 (European; 4,511 cases, 231,771 controls as reported)",
+     "method": "IVW",
+     "notes": "Direction from text; numeric estimate not extractable from main text. IVs at P<5e-8, r2<0.001, 10,000 kb clumping, F>10 (no cis window stated). Significance: IVW p<0.05, consistent direction, no pleiotropy; no multiple-testing correction. Gene is one of 30 MR hits intersecting DEGs; 24 other intersecting genes appear only in figures and the full MR hit list only in supplements (not extracted). Controls figure (231,771) equals total N in GWAS Catalog. GCST90018839 is Sakaue 2021; IEU N=231,771 European (FinnGen+UKB meta); GWAS Catalog entry also lists BBJ/East Asian samples, so verify cohort set."
+    },
+    "second": {
+     "source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (GWAS Catalog GCST90018839)",
+     "method": "IVW",
+     "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1416978",
+  "doi": "10.3389/fendo.2024.1416978",
+  "pmcid": "PMC11257892",
+  "title": "Identifying novel potential drug targets for endometriosis via plasma proteome screening.",
+  "supplement_dir": "data/upstream/supplements/10.3389_fendo.2024.1416978",
+  "claims": [
+   {
+    "claim_id": "Tao2024-1",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "differences": {
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Results text; Abstract; Figure 2",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "notes": "1,632 proteins tested with top cis-pQTL SNPs (within 1 Mb of TSS, P<5e-8, r2<0.1); Bonferroni P<3.06e-5. Trans-pQTL MR in Supplementary Tables S8-S10. SMR P=2.58e-5, P_HEIDI=0.682; Steiger TRUE; reverse MR P=0.338. Trans-pQTLs gave opposite (negative) association. PWAS (ARIC) P=1.14e-5 (same outcome)."
+    },
+    "second": {
+     "source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio",
+     "notes": "Top cis-pQTL rs314361; beta 0.3349, SE 0.0780. Bonferroni P<3.06e-5 (1,632 proteins). SMR P 2.58e-5, HEIDI 0.682. Replicated in ARIC PWAS. Trans-pQTL MR opposite direction."
+    }
+   },
+   {
+    "claim_id": "Tao2024-2",
+    "gene_symbol": "FSHB",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "differences": {
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Results text; Abstract; Figure 2",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "notes": "1,632 proteins tested with top cis-pQTL SNPs (within 1 Mb of TSS, P<5e-8, r2<0.1); Bonferroni P<3.06e-5. Trans-pQTL MR in Supplementary Tables S8-S10. SMR P=3.99e-25, P_HEIDI=0.112; reverse MR P=0.816. Olink-measured (biomarker rule a)."
+    },
+    "second": {
+     "source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio",
+     "notes": "Top cis-pQTL rs11031006; beta 1.3623, SE 0.1130. SMR P 3.99e-25, HEIDI 0.112. Not replicated in PWAS."
+    }
+   },
+   {
+    "claim_id": "Tao2024-3",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "differences": {
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Results text; Abstract; Figure 2",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "notes": "1,632 proteins tested with top cis-pQTL SNPs (within 1 Mb of TSS, P<5e-8, r2<0.1); Bonferroni P<3.06e-5. Trans-pQTL MR in Supplementary Tables S8-S10. SMR P=2.89e-9, P_HEIDI=0.170; reverse MR P=0.096. PWAS (ARIC) Z=6.36, P=2.03e-10 (same outcome)."
+    },
+    "second": {
+     "source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio",
+     "notes": "Top cis-pQTL rs1936800; beta 0.4705, SE 0.0764. SMR P 2.89e-9, HEIDI 0.170. Replicated in ARIC PWAS (Z 6.36)."
+    }
+   },
+   {
+    "claim_id": "Tao2024-4",
+    "gene_symbol": "SEZ6L2",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "differences": {
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Results text; Abstract; Figure 2",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "notes": "1,632 proteins tested with top cis-pQTL SNPs (within 1 Mb of TSS, P<5e-8, r2<0.1); Bonferroni P<3.06e-5. Trans-pQTL MR in Supplementary Tables S8-S10. SMR P=9.28e-6, P_HEIDI=0.189; reverse MR P=0.257."
+    },
+    "second": {
+     "source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "Wald ratio",
+     "notes": "Top cis-pQTL rs113443718; beta 0.3613, SE 0.0798. SMR P 9.28e-6, HEIDI 0.189. Not replicated in PWAS."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s12905-025-03697-0",
+  "doi": "10.1186/s12905-025-03697-0",
+  "pmcid": "PMC11972508",
+  "title": "Identifying key palmitoylation-associated genes in endometriosis through genomic data analysis.",
+  "supplement_dir": "data/upstream/supplements/10.1186_s12905-025-03697-0",
+  "claims": [
+   {
+    "claim_id": "Kai2025BMCWH-5",
+    "gene_symbol": "GALNT12",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ukb-b-9668 (UK Biobank, endometriosis)",
+     "method": "IVW",
+     "notes": "Cochran Q p=0.999813501; Egger pleiotropy p=0.831829309. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+    },
+    "second": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU OpenGWAS ukb-b-9668 (pelvic endometriosis, UK Biobank)",
+     "method": "IVW",
+     "notes": "Table 1 gives OR and P only, no CI. IVs P<5e-6, clump r2 0.001, kb=10, no cis restriction. Abstract names it a key gene from a 'causal gene set'. eqtl-a-ENSG00000119514."
+    }
+   },
+   {
+    "claim_id": "Kai2025BMCWH-13",
+    "gene_symbol": "RMI1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ukb-b-9668 (UK Biobank, endometriosis)",
+     "method": "IVW",
+     "notes": "Cochran Q p=0.659333301; Egger pleiotropy p=0.070378789. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+    },
+    "second": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU OpenGWAS ukb-b-9668 (pelvic endometriosis, UK Biobank)",
+     "method": "IVW",
+     "notes": "Table 1 gives OR and P only, no CI. IVs P<5e-6, clump r2 0.001, kb=10, no cis restriction. Abstract names it a key gene from a 'causal gene set'. eqtl-a-ENSG00000178966."
+    }
+   },
+   {
+    "claim_id": "Kai2025BMCWH-17",
+    "gene_symbol": "VRK1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ukb-b-9668 (UK Biobank, endometriosis)",
+     "method": "IVW",
+     "notes": "Cochran Q p=0.99775246; Egger pleiotropy p=0.947229403. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+    },
+    "second": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU OpenGWAS ukb-b-9668 (pelvic endometriosis, UK Biobank)",
+     "method": "IVW",
+     "notes": "Table 1 gives OR and P only, no CI. IVs P<5e-6, clump r2 0.001, kb=10, no cis restriction. Abstract names it a key gene from a 'causal gene set'. eqtl-a-ENSG00000100749."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049148",
+  "doi": "10.1097/md.0000000000049148",
+  "pmcid": "PMC13246116",
+  "title": "The effects of plasma protein levels on the risk of endometriosis: A Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000049148",
+  "claims": [
+   {
+    "claim_id": "Yao2026-1",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "differences": {
+     "instrument_scope": [
+      "genome_wide",
+      "cis"
+     ],
+     "outcome_cases": [
+      8288,
+      16588
+     ],
+     "outcome_controls": [
+      68969,
+      111583
+     ],
+     "n_instruments": [
+      null,
+      2
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R10 (per Supplementary Tables S1/S6)"
+     ],
+     "method": [
+      "Wald ratio (1 SNP) or IVW (>=2 SNPs); per-protein method not stated",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "FinnGen endometriosis (ICD-10 N80, ICD-9 617, ICD-8 6253)",
+     "method": "Wald ratio (1 SNP) or IVW (>=2 SNPs); per-protein method not stated",
+     "notes": "Beta = log-odds per SD protein; no SE or CI reported, so not converted to OR. Bonferroni P<2.58e-5 (0.05/1937 IVs/proteins). IVs P<5e-8, clumped r2<0.001 within 10,000 kb (no cis restriction). FinnGen release not stated; 8,288/68,969 matches FinnGen R5 counts. SMR beta 0.4705, P=2.89E-09, P_HEIDI=0.1403. Tier 2. SMR P identical to Tao 2024/Ling 2025 (UKB-PPP x FinnGen R10)."
+    },
+    "second": {
+     "source_location": "Table 1 (MR discovery beta, P); Supplementary Table S1",
+     "outcome_source": "FinnGen endometriosis (ICD-10 N80/ICD-9 617/ICD-8 6253); 'Endometriosis_R10' in supplement",
+     "method": "IVW",
+     "notes": "Text says 8,288 cases/68,969 controls; S6 rows give 16,588/111,583 (R10). Only beta reported (no OR/CI); SE 0.0748 in S1. No cis filter stated but all IVs within ~1 Mb."
+    }
+   },
+   {
+    "claim_id": "Yao2026-3",
+    "gene_symbol": "FSHB",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "differences": {
+     "instrument_scope": [
+      "genome_wide",
+      "cis"
+     ],
+     "outcome_cases": [
+      8288,
+      16588
+     ],
+     "outcome_controls": [
+      68969,
+      111583
+     ],
+     "n_instruments": [
+      null,
+      2
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R10 (per Supplementary Tables S1/S6)"
+     ],
+     "method": [
+      "Wald ratio (1 SNP) or IVW (>=2 SNPs); per-protein method not stated",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "FinnGen endometriosis (ICD-10 N80, ICD-9 617, ICD-8 6253)",
+     "method": "Wald ratio (1 SNP) or IVW (>=2 SNPs); per-protein method not stated",
+     "notes": "Beta = log-odds per SD protein; no SE or CI reported, so not converted to OR. Bonferroni P<2.58e-5 (0.05/1937 IVs/proteins). IVs P<5e-8, clumped r2<0.001 within 10,000 kb (no cis restriction). FinnGen release not stated; 8,288/68,969 matches FinnGen R5 counts. SMR beta 1.3623, P=3.99E-25, P_HEIDI=0.2851. Tier 1. FSHB measured on Olink panel (UKB-PPP), eligible under biomarker rule (a). SMR P identical to Tao 2024 (FinnGen R10)."
+    },
+    "second": {
+     "source_location": "Table 1 (MR discovery beta, P); Supplementary Table S1",
+     "outcome_source": "FinnGen endometriosis (ICD-10 N80/ICD-9 617/ICD-8 6253); 'Endometriosis_R10' in supplement",
+     "method": "IVW",
+     "notes": "Text says 8,288 cases/68,969 controls; S6 rows give 16,588/111,583 (R10). Only beta reported (no OR/CI); SE 0.2537 in S1. No cis filter stated but all IVs within ~1 Mb."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s12916-023-02881-z",
+  "doi": "10.1186/s12916-023-02881-z",
+  "pmcid": "PMC10210381",
+  "title": "The effects of coagulation factors on the risk of endometriosis: a Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1186_s12916-023-02881-z",
+  "claims": [
+   {
+    "claim_id": "Li2023coag-1",
+    "gene_symbol": "ADAMTS13",
+    "exposure_type": "pQTL",
+    "exposure_source": "Plasma ADAMTS13 level GWAS (Ma 2017, Blood Adv)",
+    "differences": {
+     "n_instruments": [
+      null,
+      4
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "Pan-UKB"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 2A; Results; Additional file 1 Table S2",
+     "outcome_source": "Pan-UK Biobank endometriosis, European (ICD-10 N80)",
+     "method": "IVW (fixed effects)",
+     "notes": "11 coagulation traits tested; Bonferroni-significant (Padj=1.38e-3). Instruments P<5e-7, clumped r2<0.1 within 10 Mb, not restricted to the ADAMTS13 locus. Eligible under protein rule (c): proposed as therapeutic target. Pan-UKBB counts equal the PROTOCOL Pan-UKBB replication candidate (overlap). FinnGen estimate heterogeneous (random-effects P=0.056). FinnGen subtypes: ovary 0.48, pelvic peritoneum 0.32, uterus 0.45."
+    },
+    "second": {
+     "source_location": "Additional file 1 Table S2 (12916_2023_2881_MOESM1_ESM.xlsx, sheet Table S2)",
+     "outcome_source": "Pan-UK Biobank endometriosis GWAS (European, ICD-10 N80)",
+     "method": "IVW (fixed effects)",
+     "notes": "UKB is discovery. FinnGen replication 0.46 (0.30-0.71), p=5.31e-4; meta 0.42 (0.30-0.58), p=2.85e-7. IVs p<5e-7, r2<0.1, 10 Mb (Ma 2017, n=2304). Table spells 'ADAMDTS13'."
+    }
+   },
+   {
+    "claim_id": "Li2023coag-2",
+    "gene_symbol": "VWF",
+    "exposure_type": "pQTL",
+    "exposure_source": "Plasma vWF level GWAS (Sabater-Lleal 2019, CHARGE trans-ethnic meta)",
+    "differences": {
+     "estimate": [
+      1.26,
+      1.24
+     ],
+     "ci_low": [
+      1.09,
+      0.97
+     ],
+     "ci_high": [
+      1.46,
+      1.58
+     ],
+     "p_value": [
+      0.002,
+      0.0820296110354133
+     ],
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "UK Biobank"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      4354
+     ],
+     "outcome_controls": [
+      null,
+      217500
+     ],
+     "n_instruments": [
+      null,
+      12
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "Pan-UKB"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 3; Results; Additional file 1 Table S6",
+     "outcome_source": "Author METAL meta-analysis of Pan-UK Biobank endometriosis (4354/217,500) and FinnGen finn-b-N14_ENDOMETRIOSIS (8288/68,969)",
+     "method": "IVW (fixed effects)",
+     "notes": "Meta-analysis used as the claim because vWF was null in the UKB discovery (OR 1.24, 0.97-1.58, P=0.082, Fig 2A) and FinnGen alone (OR 1.28, 1.06-1.53, P=0.009) did not survive the paper's multiple-testing correction; the paper's vWF conclusion rests on FinnGen plus the meta. Instruments P<5e-7, r2<0.1/10 Mb, genome-wide. FinnGen subtypes: ovary 1.34, pelvic peritoneum 1.48."
+    },
+    "second": {
+     "source_location": "Additional file 1 Table S2 (12916_2023_2881_MOESM1_ESM.xlsx, sheet Table S2)",
+     "outcome_source": "Pan-UK Biobank endometriosis GWAS (European, ICD-10 N80)",
+     "method": "IVW (fixed effects)",
+     "notes": "UKB discovery estimate not significant. Significant in FinnGen (Table S4: 1.28 (1.06-1.53), p=0.0091, 14 SNPs) and meta (Table S6: 1.26 (1.09-1.46), p=0.0017). UKB heterogeneity Q p=0.041."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3390/biology13110871",
+  "doi": "10.3390/biology13110871",
+  "pmcid": "PMC11591882",
+  "title": "Cross-Tissue Regulatory Network Analyses Reveal Novel Susceptibility Genes and Potential Mechanisms for Endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.3390_biology13110871",
+  "claims": [
+   {
+    "claim_id": "Zou2024Bio-34",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "differences": {
+     "p_value": [
+      8.74e-05,
+      0.008741846
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 4A",
+     "outcome_source": "FinnGen R11 endometriosis (ICD-10 N80)",
+     "method": "Wald ratio",
+     "notes": "Coloc PPH4>0.7 reported for UBE2D3 only in muscle-skeletal. Classified tier 2. P printed as 8.74x10^-5 (small exponent, hard to read) but the CI implies p near 0.009; check Table S10. Genes selected by UTMOST, FUSION and MAGMA (all FDR<0.05); MR run only in tissues with significant FUSION results, single cis-eQTL per tissue (p<5e-8, r2<0.001, F>10), significance p<0.05; Steiger checked (Table S10). SMR (Fig 4B, Table S11) supported. Values read from Fig 4A. Coloc details in Table S12."
+    },
+    "second": {
+     "source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Esophagus_Mucosa); also Figure 4A",
+     "outcome_source": "FinnGen R11 endometriosis (ICD-10 N80)",
+     "method": "Wald ratio",
+     "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-4265646/v1",
+  "doi": "10.21203/rs.3.rs-4265646/v1",
+  "pmcid": null,
+  "title": "Mendelian randomization Identifies RSPO3 in Serum as a Potential Target for Endometriosis",
+  "supplement_dir": "data/upstream/supplements/10.21203_rs.3.rs-4265646_v1",
+  "claims": [
+   {
+    "claim_id": "Guo2024-2",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "Sun 2018 INTERVAL SomaScan (n=3,301; via IEU/Zheng 2020)",
+    "differences": {
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (IVW/Wald ratio not specified for forward MR)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 4 (OR, 95% CI, P); Results text",
+     "outcome_source": "FinnGen R9 endometriosis",
+     "method": "not stated (IVW/Wald ratio not specified for forward MR)",
+     "notes": "Preprint (Research Square v1, 2024-04-18); no published version found. 1,806 proteins tested; Bonferroni P<2.77e-5. IVs P<5e-8, r2<0.001, 10,000 kb, F>10 (no cis restriction). Paper says 'serum' proteins. Text gives 'OR = 0.75, 95%CI: 1.15 ~ 0.83'; Figure 4 used. Coloc text says 0.974, Table 3 0.967 (table used). UKB estimate is opposite in direction to discovery yet described as validation. deCODE exposure (FinnGen outcome): Wald beta -0.366 (SE 0.0572) P=1.46e-10; IVW beta -0.295 (SE 0.0792) P=1.95e-4 (Table 4). Subtype: protective for uterine endometriosis."
+    },
+    "second": {
+     "source_location": "Supplementary Table 1 (SupplementaryTable17.xlsx, sheet Table S1)",
+     "outcome_source": "FinnGen R9 endometriosis",
+     "method": "Wald ratio",
+     "notes": "Converted from beta -0.2834, SE 0.0463 (OR=exp(beta), CI=exp(beta±1.96SE)). Text: OR 0.75, CI garbled '1.15~0.83'. PP.H4 0.967 (Table 3); text says 0.974. SNP lies in RSPO3 locus."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2026.1735221",
+  "doi": "10.3389/fimmu.2026.1735221",
+  "pmcid": "PMC13124487",
+  "title": "LRP1 as a potential diagnostic and immunomodulatory target in endometriosis: evidence from multi-omics and single-cell analyses.",
+  "supplement_dir": "data/upstream/supplements/10.3389_fimmu.2026.1735221",
+  "claims": [
+   {
+    "claim_id": "Xie2026FI-1",
+    "gene_symbol": "LRP1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL dataset (ID not stated)",
+    "differences": {
+     "estimate": [
+      1.3464,
+      1.39142735288651
+     ],
+     "ci_low": [
+      1.1276,
+      1.06180304880913
+     ],
+     "ci_high": [
+      1.6077,
+      1.82337965645528
+     ],
+     "p_value": [
+      0.001,
+      0.0166319620372606
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      12,
+      3
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results 'Mendelian randomization confirmed a causal association'; Figure 6A; Abstract",
+     "outcome_source": "FinnGen R10 endometriosis (endpoint not named)",
+     "method": "IVW",
+     "notes": "Text says 12 SNPs retained but names 'LRP1 SNPs (rs10098310, rs1375493, and rs55909821)'; instrument count ambiguous. Clump r2<0.001, 10,000 kb, F>10; P threshold and cis restriction not stated. Egger intercept p=0.420. Only LRP1 MR result reported (hub gene from 30-gene diagnostic model)."
+    },
+    "second": {
+     "source_location": "Supplementary Table 6 (Table6.xlsx, Sheet1)",
+     "outcome_source": "FinnGen R10 endometriosis (from R10 manifest)",
+     "method": "IVW",
+     "notes": "Table disagrees with abstract/Results: OR 1.3464 (1.1276-1.6077), P=0.0010; table used per rule. SNPs on chr8, chr2, chr12 (trans and cis). Cases/controls not stated."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e34494",
+  "doi": "10.1016/j.heliyon.2024.e34494",
+  "pmcid": "PMC11315135",
+  "title": "Repurposing anti-osteoporosis drugs for autoimmune diseases: A two-sample Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.heliyon.2024.e34494",
+  "claims": [
+   {
+    "claim_id": "Xiang2024bmd-1",
+    "gene_symbol": "ESR1",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "BMD GWAS, European, UK Biobank + FinnGen (n=326,885; details in Table S2, not accessed)",
+    "differences": {
+     "ci_high": [
+      0.99,
+      0.999947956498415
+     ],
+     "outcome_cohorts": [
+      [
+       "unknown"
+      ],
+      [
+       "UK Biobank"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      1496
+     ],
+     "outcome_controls": [
+      null,
+      359698
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "ukb-d-N80"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 3 (also Table S5)",
+     "outcome_source": "Endometriosis GWAS (source listed in Table S2, not accessed)",
+     "method": "IVW",
+     "notes": "Proxy for raloxifene/colecalciferol (ESR1 activators): BMD-associated variants (FDR<0.05) within +/-2.5 kb of ESR1, clumped (r2<0.01 Results; r2<0.001 Methods). OR per unit genetically proxied BMD via ESR1; scaling presumably BMD-raising (agonist proxy), not stated. Endometriosis estimate appears only in Fig 3 (p=3.6e-02); Results text lists six other autoimmune outcomes. 11 anti-osteoporosis targets screened against osteoporosis; only ESR1 carried forward. 134 SNPs within a +/-2.5 kb window of a ~470 kb gene; no multiple-testing correction across 11 outcomes."
+    },
+    "second": {
+     "source_location": "Supplementary Table S5 (mmc1.xlsx, sheet sT5); Figure 3",
+     "outcome_source": "IEU ukb-d-N80 (UK Biobank, ICD-10 N80)",
+     "method": "IVW",
+     "notes": "BMD-associated variants (FDR<0.05) within ESR1 +-2.5 kb, clumped r2<0.01. sT3 lists 87 ESR1 SNPs vs nsnp 134 in MR. Fig 3 rounds to 0.99 (0.99-0.99). Exposure GWAS description inconsistent (sT1 vs text)."
+    }
+   }
+  ]
+ }
+]

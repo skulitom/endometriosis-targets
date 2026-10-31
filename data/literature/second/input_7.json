@@ -1,0 +1,94 @@
+[
+ {
+  "record_id": "doi:10.1016/j.csbj.2023.02.001",
+  "doi": "10.1016/j.csbj.2023.02.001",
+  "pmcid": "PMC9957794",
+  "title": "Identification of <i>MKNK1</i> and <i>TOP3A</i> as ovarian endometriosis risk-associated genes using integrative genomic analyses and functional experiments.",
+  "year": "2023",
+  "fulltext_path": "data/upstream/fulltext/10.1016_j.csbj.2023.02.001/fulltext.txt",
+  "supplement_index": "data/upstream/supplements/10.1016_j.csbj.2023.02.001/text/INDEX.txt",
+  "supplement_files": "data/upstream/supplements/10.1016_j.csbj.2023.02.001/files",
+  "claims_to_extract": [
+   {
+    "claim_id": "Huang2023-1",
+    "gene_symbol": "TOP3A",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx whole blood (version used for SMR not restated; the paper's GTEx dataset #5 is v7, n=369)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Huang2023-2",
+    "gene_symbol": "TOP3A",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021); named as 'eQTLGen' blood eQTL, release not stated",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Huang2023-3",
+    "gene_symbol": "MKNK1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx whole blood (version used for SMR not restated; the paper's GTEx dataset #5 is v7, n=369)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Huang2023-4",
+    "gene_symbol": "MKNK1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021); named as 'eQTLGen' blood eQTL, release not stated",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.isci.2025.113207",
+  "doi": "10.1016/j.isci.2025.113207",
+  "pmcid": "PMC12359188",
+  "title": "Regulation of RNA splicing in endometrial tissue and its association with endometriosis.",
+  "year": "2025",
+  "fulltext_path": "data/upstream/fulltext/10.1016_j.isci.2025.113207/fulltext.txt",
+  "supplement_index": "data/upstream/supplements/10.1016_j.isci.2025.113207/text/INDEX.txt",
+  "supplement_files": "data/upstream/supplements/10.1016_j.isci.2025.113207/files",
+  "claims_to_extract": [
+   {
+    "claim_id": "Yang2025-1",
+    "gene_symbol": "GREB1",
+    "exposure_type": "sQTL",
+    "exposure_source": "Endometrial sQTL, 206 samples, LeafCutter + QTLtools (this study, Yang 2025)",
+    "exposure_tissue": "Endometrium"
+   },
+   {
+    "claim_id": "Yang2025-2",
+    "gene_symbol": "WASHC3",
+    "exposure_type": "sQTL",
+    "exposure_source": "Endometrial sQTL, 206 samples, LeafCutter + QTLtools (this study, Yang 2025)",
+    "exposure_tissue": "Endometrium"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1515/biol-2025-1372",
+  "doi": "10.1515/biol-2025-1372",
+  "pmcid": "PMC13552619",
+  "title": "Immune regulatory networks and gut microbiota-associated targets in endometriosis: an integrative multi-omics and network analysis.",
+  "year": "2026",
+  "fulltext_path": "data/upstream/fulltext/10.1515_biol-2025-1372/fulltext.txt",
+  "supplement_index": "data/upstream/supplements/10.1515_biol-2025-1372/text/INDEX.txt",
+  "supplement_files": "data/upstream/supplements/10.1515_biol-2025-1372/files",
+  "claims_to_extract": [
+   {
+    "claim_id": "Liu2026-1",
+    "gene_symbol": "MET",
+    "exposure_type": "pQTL",
+    "exposure_source": "FinnGen pQTL summary data (as stated; dataset and platform not specified)",
+    "exposure_tissue": "not stated"
+   },
+   {
+    "claim_id": "Liu2026-2",
+    "gene_symbol": "SELL",
+    "exposure_type": "pQTL",
+    "exposure_source": "FinnGen pQTL summary data (as stated; dataset and platform not specified)",
+    "exposure_tissue": "not stated"
+   }
+  ]
+ }
+]

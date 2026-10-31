@@ -1,0 +1,3210 @@
+{
+ "primary_claims": 305,
+ "claims_in_specs": 305,
+ "primary_without_spec": [],
+ "status": {
+  "extracted": 128,
+  "error": 0,
+  "not_available": 177
+ },
+ "variants_extracted": 537,
+ "recomputed": 106,
+ "recompute_agree": 104,
+ "recompute_sign_mismatch": 0,
+ "claims_with_count_flags": 5,
+ "spec_errors": {},
+ "per_claim": {
+  "Alesi2024Biomol-1": {
+   "status": "extracted",
+   "n": 6,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.13976194237515863,
+    "recomputed_log": 0.13856742885137413,
+    "recomputed_se": 0.06293395865149268,
+    "difference": -0.0011945135237844962,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Aru2025cath-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement s001.pdf has only MR summary tables (Supplementary Tables 1-11; Table 10 lists two pleiotropic SNPs without effect sizes) and s002.pdf only leave-one-out plots; neither the supplements nor the main text give per-SNP exposure effects for the 10 CTSH instruments."
+  },
+  "Aru2025pcsk9-1": {
+   "status": "extracted",
+   "n": 13,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Chen2024-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Chen2024HG-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs. Per-SNP effects for AGPAT4 appear only as plotted points in Fig. 3 (scatter/funnel/leave-one-out/forest plots with rsIDs) - no numeric SNP-exposure effects or alleles."
+  },
+  "Chen2024HG-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs. Per-SNP effects for COMT appear only as plotted points in Fig. 3 (scatter/funnel/leave-one-out/forest plots with rsIDs) - no numeric SNP-exposure effects or alleles."
+  },
+  "Chen2024HG-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024sel-1": {
+   "status": "extracted",
+   "n": 14,
+   "flags": [
+    "claim reports 2 instruments, table has 14"
+   ],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.08338160893905101,
+    "recomputed_log": -0.08122956393149387,
+    "recomputed_se": 0.017281693259104555,
+    "difference": 0.0021520450075571407,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.5068176023684519,
+    "recomputed_log": 0.5044978758340107,
+    "recomputed_se": 0.21775913675409042,
+    "difference": -0.0023197265344411244,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-10": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.07257069283483537,
+    "recomputed_log": -0.06983138021513918,
+    "recomputed_se": 0.024461890674165526,
+    "difference": 0.002739312619696191,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-11": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.08338160893905101,
+    "recomputed_log": -0.08232000742589977,
+    "recomputed_se": 0.036640952860192776,
+    "difference": 0.001061601513151239,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-12": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.10536051565782628,
+    "recomputed_log": -0.10633105564077534,
+    "recomputed_se": 0.05011504671593919,
+    "difference": -0.0009705399829490619,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-13": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.15082288973458366,
+    "recomputed_log": -0.14975021900229657,
+    "recomputed_se": 0.04912754220233445,
+    "difference": 0.0010726707322870899,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-14": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.16251892949777494,
+    "recomputed_log": -0.1642663801475298,
+    "recomputed_se": 0.05940450854391801,
+    "difference": -0.0017474506497548725,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-15": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.2613647641344075,
+    "recomputed_log": -0.2605248253728526,
+    "recomputed_se": 0.10723050783462339,
+    "difference": 0.0008399387615549148,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-16": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.31471074483970024,
+    "recomputed_log": -0.3117969935533577,
+    "recomputed_se": 0.12131350602417332,
+    "difference": 0.0029137512863425252,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-17": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.4942963218147801,
+    "recomputed_log": -0.4982087132174771,
+    "recomputed_se": 0.15172719902532258,
+    "difference": -0.003912391402697002,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-18": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.527632742082372,
+    "recomputed_log": -0.522946157387846,
+    "recomputed_se": 0.22168369715354344,
+    "difference": 0.004686584694525986,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-19": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.37843643572024505,
+    "recomputed_log": 0.3789209535759097,
+    "recomputed_se": 0.14554579673776663,
+    "difference": 0.0004845178556646679,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.4252677354043441,
+    "recomputed_log": 0.4258142459621916,
+    "recomputed_se": 0.1218026796589525,
+    "difference": 0.0005465105578474905,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-20": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.35065687161316933,
+    "recomputed_log": 0.34729315628192037,
+    "recomputed_se": 0.12155260469867213,
+    "difference": -0.003363715331248962,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-21": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.2700271372130602,
+    "recomputed_log": 0.2717948717948718,
+    "recomputed_se": 0.09829059829059829,
+    "difference": 0.0017677345818115642,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-22": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.2468600779315258,
+    "recomputed_log": 0.24475524475524477,
+    "recomputed_se": 0.1148851148851149,
+    "difference": -0.0021048331762810457,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-23": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.23901690047049992,
+    "recomputed_log": 0.2362689393939394,
+    "recomputed_se": 0.08049242424242425,
+    "difference": -0.002747961076560529,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-24": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.08338160893905101,
+    "recomputed_log": -0.0816571600120084,
+    "recomputed_se": 0.03422395676973882,
+    "difference": 0.0017244489270426128,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-25": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.40047756659712525,
+    "recomputed_log": -0.4026548672566372,
+    "recomputed_se": 0.1710914454277286,
+    "difference": -0.002177300659511938,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-3": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.29266961396282004,
+    "recomputed_log": 0.2957062490984566,
+    "recomputed_se": 0.1105893289311301,
+    "difference": 0.0030366351356365673,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-4": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.27763173659827955,
+    "recomputed_log": 0.27827071259705577,
+    "recomputed_se": 0.13677712992058672,
+    "difference": 0.0006389759987762145,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-5": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.23901690047049992,
+    "recomputed_log": 0.23680385138409113,
+    "recomputed_se": 0.10394360473295089,
+    "difference": -0.0022130490864087915,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-6": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.22314355131420976,
+    "recomputed_log": 0.22423066870262612,
+    "recomputed_se": 0.0790997757693313,
+    "difference": 0.0010871173884163532,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-7": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.1823215567939546,
+    "recomputed_log": 0.18599158609491476,
+    "recomputed_se": 0.06593352522941423,
+    "difference": 0.0036700293009601648,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-8": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.10436001532424286,
+    "recomputed_log": 0.10392385747794364,
+    "recomputed_se": 0.04208184369705464,
+    "difference": -0.0004361578462992177,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Chen2025SR-9": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.09531017980432493,
+    "recomputed_log": 0.09364836683830548,
+    "recomputed_se": 0.0350059390417947,
+    "difference": -0.0016618129660194575,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Dou2025FIG-1": {
+   "status": "extracted",
+   "n": 5,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.1453583996190096,
+    "recomputed_log": -0.14535839905420614,
+    "recomputed_se": 0.04761955680609011,
+    "difference": 5.648034540062241e-10,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Dou2025FIG-2": {
+   "status": "extracted",
+   "n": 3,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.10963377526226824,
+    "recomputed_log": -0.10963377565975,
+    "recomputed_se": 0.05484221637835869,
+    "difference": -3.974817558427546e-10,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Dou2025FIG-3": {
+   "status": "extracted",
+   "n": 4,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.09748986075473194,
+    "recomputed_log": 0.09748986105396447,
+    "recomputed_se": 0.039355619218278626,
+    "difference": 2.9923252764518793e-10,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Dou2025FIG-4": {
+   "status": "extracted",
+   "n": 4,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.08366249356727012,
+    "recomputed_log": 0.08366249313321432,
+    "recomputed_se": 0.04260593563334991,
+    "difference": -4.340558051874055e-10,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Dou2025FIG-5": {
+   "status": "extracted",
+   "n": 3,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Dou2025FIG-6": {
+   "status": "extracted",
+   "n": 6,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Du2025CIMB-1": {
+   "status": "extracted",
+   "n": 10,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.0010017191118408483,
+    "recomputed_log": 0.0010017191027438279,
+    "recomputed_se": 0.000505471417443627,
+    "difference": -9.097020445963944e-12,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Du2025CIMB-2": {
+   "status": "extracted",
+   "n": 5,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.0007229146342378218,
+    "recomputed_log": 0.0007229150621416434,
+    "recomputed_se": 0.0003624904275385037,
+    "difference": 4.2790382153400086e-10,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Gao2025Med-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Main-text Table 1 lists the instrument rsIDs (rs6328) with per-SNP F-statistics only (OR column repeats the gene-level estimate) - no SNP-exposure effect, SE or alleles. The supplement (s001.docx) has gene-level MR results (Supp. Tables 1-4), phenotype scanning (Table 5) and drug targets (Table 6) only."
+  },
+  "Gao2025Med-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Main-text Table 1 lists the instrument rsIDs (rs75612655, rs10733789, rs3184504) with per-SNP F-statistics only (OR column repeats the gene-level estimate) - no SNP-exposure effect, SE or alleles. The supplement (s001.docx) has gene-level MR results (Supp. Tables 1-4), phenotype scanning (Table 5) and drug targets (Table 6) only."
+  },
+  "Gao2025Med-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Main-text Table 1 lists the instrument rsIDs (rs10212190, rs570025519, rs114466578, rs2790462, rs3184504, rs56244095, rs2725405) with per-SNP F-statistics only (OR column repeats the gene-level estimate) - no SNP-exposure effect, SE or alleles. The supplement (s001.docx) has gene-level MR results (Supp. Tables 1-4), phenotype scanning (Table 5) and drug targets (Table 6) only."
+  },
+  "Guo2024-1": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.33002291294130587,
+    "recomputed_log": 0.3298816195550797,
+    "recomputed_se": 0.053528799471106024,
+    "difference": -0.00014129338622614895,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-10": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.0932123817221787,
+    "recomputed_log": -0.09333766982042022,
+    "recomputed_se": 0.02133999527958752,
+    "difference": -0.00012528809824151332,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.2836900511822435,
+    "recomputed_log": -0.28340925925925925,
+    "recomputed_se": 0.046290740740740736,
+    "difference": 0.00028079192298424704,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-3": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.41871033485818504,
+    "recomputed_log": 0.003504509723648977,
+    "recomputed_se": 0.020311226766391344,
+    "difference": -0.4152058251345361,
+    "agree": false,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-4": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.3708736633385454,
+    "recomputed_log": 0.37107575757575756,
+    "recomputed_se": 0.06461069023569023,
+    "difference": 0.00020209423721218034,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-5": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.46561903092791146,
+    "recomputed_log": 0.46575594294770206,
+    "recomputed_se": 0.08109614368726889,
+    "difference": 0.00013691201979060263,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-6": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.2941610385494901,
+    "recomputed_log": 0.29428437917222966,
+    "recomputed_se": 0.05123998664886516,
+    "difference": 0.00012334062273955393,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-7": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.4047982191204607,
+    "recomputed_log": 0.4046241395135383,
+    "recomputed_se": 0.07045204222120238,
+    "difference": -0.00017407960692239488,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-8": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.27575350158650713,
+    "recomputed_log": -0.2759713915066517,
+    "recomputed_se": 0.06198481953390096,
+    "difference": -0.00021788992014454278,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2024-9": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.24590053843682594,
+    "recomputed_log": -0.24562511753735458,
+    "recomputed_se": 0.05532663407809032,
+    "difference": 0.00027542089947135695,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Guo2025Med-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Stable8 lists the 18 SNPs for 'Interleukin-17A levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Stable8 lists the 33 SNPs for 'CUB domain-containing protein 1 levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Stable8 lists the 36 SNPs for 'TNF-related apoptosis-inducing ligand levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Stable8 lists the 31 SNPs for 'C-C motif chemokine 4 levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Stable8 lists the 23 SNPs for 'Programmed cell death 1 ligand 1 levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Hong2026RT-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for PRLR (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for SULT1B1 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for DIP2B (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for FBXO5 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for CDCA2 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for AGPAT1 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for PDE5A (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for VPS13B (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Kai2025BMCWH-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-12": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-13": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP data: supplement has no plot PDFs for this gene (Figures S1-S4 cover 14 other genes), and main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-14": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-15": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-16": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-17": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP data: supplement has no plot PDFs for this gene (Figures S1-S4 cover 14 other genes), and main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP data: supplement has no plot PDFs for this gene (Figures S1-S4 cover 14 other genes), and main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Kai2025BMCWH-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplement (MOESM1 zip) holds only TwoSampleMR plot PDFs for this gene (Figures S1-S4: scatter, single-SNP forest, funnel, leave-one-out; file for MKI67 is named 'MK167'); they show SNP IDs and eqtl-a-ENSG exposure ID but no numeric per-SNP exposure effects. Main-text Tables 1-4 are per-gene summary results (nsnp, OR, heterogeneity, pleiotropy, Steiger) only."
+  },
+  "Lai2026-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary files; main text gives only Table 1 (MR summary: 11 SNPs, OR per method) and Figures 1-3 (leave-one-out, single-SNP forest and scatter plots) without numeric per-SNP exposure effects."
+  },
+  "Li2023coag-1": {
+   "status": "extracted",
+   "n": 4,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Li2023coag-2": {
+   "status": "extracted",
+   "n": 14,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Li2026tg-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for SLC9A1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for SCN3A (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for VEGFA (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for APOA1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for TNF (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for ITGAV (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for BACE1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Lin2023JCEM-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary material was retrieved (no supplement folder exists); the per-SNP instrument list (Supplementary Table S2, hosted on Figshare) is not available locally, and there is no open full text (no PMCID) that carries per-variant exposure effects."
+  },
+  "Ling2025-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "LiuY2024Med-1": {
+   "status": "extracted",
+   "n": 4,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.3008450589780618,
+    "recomputed_log": 0.5572012615479399,
+    "recomputed_se": 0.1655720276345174,
+    "difference": 0.2563562025698781,
+    "agree": false,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "LiuY2024Med-2": {
+   "status": "extracted",
+   "n": 18,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.15548490284039498,
+    "recomputed_log": -0.15583837438627413,
+    "recomputed_se": 0.07014116189990341,
+    "difference": -0.00035347154587914154,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Lv2025-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL6ST; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+  },
+  "Lv2025-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL3RA; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+  },
+  "Lv2025-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL1RL1; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+  },
+  "Meng2026IJWH-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Meng2026IJWH-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Meng2026IJWH-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Meng2026IJWH-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Meng2026IJWH-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Meng2026IJWH-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Meng2026IJWH-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
+  },
+  "Pan2025Authorea-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Pan2025Authorea-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Pan2025Authorea-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Pan2025Authorea-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Shi2025RBE-1": {
+   "status": "extracted",
+   "n": 9,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.06765864847381486,
+    "recomputed_log": 0.06709606916899584,
+    "recomputed_se": 0.01568715814953294,
+    "difference": -0.0005625793048190247,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Shi2025RBE-2": {
+   "status": "extracted",
+   "n": 5,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.3011050927839216,
+    "recomputed_log": -0.30226631023962236,
+    "recomputed_se": 0.04559567824162418,
+    "difference": -0.001161217455700747,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Song2025-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplements contain only per-protein IVW summaries (mmc1 UKB-PPP sheet: HLA-DRA 165 SNPs, b=0.0951; mmc1 deCODE sheet: CREB3L4 110 SNPs, b=-0.1350), mediation IVW summaries (mmc3) and expression box-plot images (mmc2); no per-variant rows with exposure effect sizes, and no open full text."
+  },
+  "Song2025-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplements contain only per-protein IVW summaries (mmc1 UKB-PPP sheet: HLA-DRA 165 SNPs, b=0.0951; mmc1 deCODE sheet: CREB3L4 110 SNPs, b=-0.1350), mediation IVW summaries (mmc3) and expression box-plot images (mmc2); no per-variant rows with exposure effect sizes, and no open full text."
+  },
+  "Tao2024-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.3364722366212129,
+    "recomputed_log": 0.3349064243005306,
+    "recomputed_se": 0.07800825305926784,
+    "difference": -0.0015658123206823138,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Tao2024-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 1.3635373739972745,
+    "recomputed_log": 1.3623264397246186,
+    "recomputed_se": 0.11301591408979168,
+    "difference": -0.0012109342726558392,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Tao2024-3": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.47000362924573563,
+    "recomputed_log": 0.4705443717710534,
+    "recomputed_se": 0.0764264627287303,
+    "difference": 0.0005407425253177722,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Tao2024-4": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.36464311358790924,
+    "recomputed_log": 0.3613177457663716,
+    "recomputed_se": 0.0798173910361208,
+    "difference": -0.003325367821537639,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Tao2024-5": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.6931471805599453,
+    "recomputed_log": 0.6919384006552431,
+    "recomputed_se": 0.13242622432346954,
+    "difference": -0.0012087799047021397,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Tao2024-6": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.1972321695297089,
+    "recomputed_log": -0.1968652324859246,
+    "recomputed_se": 0.045544910626715944,
+    "difference": 0.00036693704378429337,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.6292338548162925,
+    "recomputed_log": -0.6280909452472492,
+    "recomputed_se": 0.1142734986079809,
+    "difference": 0.0011429095690432822,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.2395270305647338,
+    "recomputed_log": -0.23898529011615138,
+    "recomputed_se": 0.05286083800769097,
+    "difference": 0.0005417404485824062,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-3": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.09984533496971612,
+    "recomputed_log": 0.10008669069671945,
+    "recomputed_se": 0.022934109367157916,
+    "difference": 0.0002413557270033312,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-4": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.1301086853470204,
+    "recomputed_log": -0.12989023831817217,
+    "recomputed_se": 0.03070319921813596,
+    "difference": 0.0002184470288482121,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-5": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.4599532933922342,
+    "recomputed_log": 0.4600486921611046,
+    "recomputed_se": 0.10807693090189005,
+    "difference": 9.539876887043608e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-6": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.14149956227369942,
+    "recomputed_log": 0.14171245341884045,
+    "recomputed_se": 0.03438707860299852,
+    "difference": 0.0002128911451410309,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2025GOI-7": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.07472354619593642,
+    "recomputed_log": -0.07388525396854326,
+    "recomputed_se": 0.01828646412363994,
+    "difference": 0.0008382922273931642,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Wang2026FRH-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs11714) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4687626) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7429119) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-12": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs6595994) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-13": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs114756165) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-14": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs74797509) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-15": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7942527) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-16": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4148170) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-17": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs1127787) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-18": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4457792) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-19": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs34263) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs370545) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-20": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs440500) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-21": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4795457) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-22": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs62077191) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-23": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs75116816) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-24": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs2427777) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-25": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4806187) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-26": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs3646) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-27": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs3788279) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-28": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2B (pQTL) gives only the SMR top SNP rsID (rs17607959) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-29": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2B (pQTL) gives only the SMR top SNP rsID (rs12902310) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs849749) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs34181670) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4346430) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs12475126) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-66": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "RPL21 appears in no figure or table of the paper; Supplementary Table 7 (128 causal genes) is not in the published supplement. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs13020214) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7562400) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7560328) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "WeiL2024JRI-1": {
+   "status": "extracted",
+   "n": 16,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-10": {
+   "status": "extracted",
+   "n": 10,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-11": {
+   "status": "extracted",
+   "n": 8,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-2": {
+   "status": "extracted",
+   "n": 4,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-3": {
+   "status": "extracted",
+   "n": 9,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-4": {
+   "status": "extracted",
+   "n": 10,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-5": {
+   "status": "extracted",
+   "n": 14,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-6": {
+   "status": "extracted",
+   "n": 8,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-7": {
+   "status": "extracted",
+   "n": 8,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-8": {
+   "status": "extracted",
+   "n": 6,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiL2024JRI-9": {
+   "status": "extracted",
+   "n": 15,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "WeiY2024ITT-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "Xiang2024bmd-1": {
+   "status": "extracted",
+   "n": 87,
+   "flags": [
+    "claim reports 134 instruments, table has 87"
+   ],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Xie2024FE-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-12": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-13": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-14": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-15": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-16": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-17": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2024FE-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Table_1.xlsx Supplementary Table 6 gives per-gene MR summary results only (nSNPs, Beta, SE, P; e.g. eqtl-a IDs per gene), Tables S1-S5/S7 are gene lists, DEGs, enrichment and clustering; Image_1.tif is scRNA-seq QC; main text has only a data-source table and forest-plot Figure 3A."
+  },
+  "Xie2025Med-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.05034637443673853,
+    "recomputed_log": -0.05036752875968343,
+    "recomputed_se": 0.012741492992588047,
+    "difference": -2.1154322944902382e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Xie2025Med-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.1343317127952918,
+    "recomputed_log": -0.13428647706834532,
+    "recomputed_se": 0.041732239208633094,
+    "difference": 4.5235726946479815e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Xie2025Med-3": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.2731219211204512,
+    "recomputed_log": -0.27315145994860746,
+    "recomputed_se": 0.08178822414265509,
+    "difference": -2.953882815626141e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Xie2026FI-1": {
+   "status": "extracted",
+   "n": 3,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.33033009284983217,
+    "recomputed_log": 0.33033009284983184,
+    "recomputed_se": 0.13793961241193234,
+    "difference": -3.3306690738754696e-16,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Xu2025BMCPT-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Only supplement (MOESM1 docx) lists database URLs and the 19 overlapping targets; main-text Table 1 gives method-level ORs only. Fig. 6B names the six IL1B instruments (rs56388170, rs7846314, rs8078723, rs6893300, rs6542082, rs1531070) but plots only per-SNP Wald ratios, and Fig. 6A plots SNP-exposure effects as unlabelled points with no printed values. No per-SNP exposure beta/alleles are reported."
+  },
+  "Xu2025JCMM-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-SNP instrument table: Appendix S1 lists cytokine GWAS accessions, Appendix S2 (s001/s003 Supplementary_2) gives per-cytokine MR summary results (TRAIL GCST004424: nsnp 56, IVW b/se), Appendix S3 (s002.tif) is a method forest plot, Appendix S4 (s003 Supplementary_3) lists MAGMA gene-set loci/SNP IDs without effect sizes; main-text tables are summary only."
+  },
+  "Xue2025ugcg-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Instruments (24 SNPs, F>21) are in Supplementary Table 1, which was not obtainable (no supplementary files downloaded; PMC XML lists none); main text has only Table 1 (data sources), Table 2 (MR summary) and Table 3 (mediation), no per-SNP data."
+  },
+  "Yao2026-1": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.4615,
+    "recomputed_log": 0.46151752477352626,
+    "recomputed_se": 0.0747567709814838,
+    "difference": 1.752477352623405e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Yao2026-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.6919,
+    "recomputed_log": 0.6919384006552431,
+    "recomputed_se": 0.13242622432346954,
+    "difference": 3.840065524318703e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Yao2026-3": {
+   "status": "extracted",
+   "n": 2,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 1.2928,
+    "recomputed_log": 1.292827016680532,
+    "recomputed_se": 0.10899964079848522,
+    "difference": 2.7016680532065962e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Yao2026-4": {
+   "status": "extracted",
+   "n": 3,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.3921,
+    "recomputed_log": 0.39210862095878657,
+    "recomputed_se": 0.08900724612591217,
+    "difference": 8.62095878656488e-06,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zeng2024Gene-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for IMMT: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for AP3M1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for SURF6: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-12": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for TUB: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-13": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for POLDIP2: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for SKAP1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for KMT5A: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for KLF12: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for GIGYF1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for WNT7A: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for SUN1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for PARP3: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for PAQR8: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zhang2024lipid-1": {
+   "status": "extracted",
+   "n": 24,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "ZhengJ2026-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for ALPI: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for HSPG2: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for KHK: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-12": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for LYN: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-13": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for MELTF: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-14": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for NTF4: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-15": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for PHLDB1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-16": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for POLR2F: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-17": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for PTRHD1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-18": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for SCRN1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-19": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for SRPX: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for ARG1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-20": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for STXBP1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-21": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for TNN: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-22": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for YY1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-23": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for DDX1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for BANK1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for BLMH: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for CA1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for DCTD: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for FAM171A2: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for FN1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant exposure effects for GET3: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengL2025-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S2-S4 give only per-exposure MR results (method, nSNP, beta, SE, P, PVE, OR); Image1.pdf is a western blot. For RSPO3 (deCODE, 4 SNPs, IVW OR 1.004) main-text Table 4 names only two of the SNPs (rs853974, rs9285458) with F statistics, and Fig. 4 is an unlabelled MR-Egger scatter; no SNP-level exposure beta, alleles or outcome effects are reported."
+  },
+  "ZhengL2025-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Tables S2-S4 give only per-exposure MR results (method, nSNP, beta, SE, P, PVE, OR); Image1.pdf is a western blot. For FLT1 (deCODE, 2 SNPs, IVW OR 0.987) main-text Tables 2 and 4 list rs34867831 and rs56728557 with allele frequencies and F statistics only; no SNP-level exposure beta, alleles or outcome effects are reported."
+  },
+  "Zhong2025Gene-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhong2025Gene-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhong2025Gene-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhong2025Gene-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhou2024lipid-1": {
+   "status": "extracted",
+   "n": 33,
+   "flags": [
+    "claim reports 27 instruments, table has 33"
+   ],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Zhou2024lipid-2": {
+   "status": "extracted",
+   "n": 31,
+   "flags": [
+    "claim reports 26 instruments, table has 31"
+   ],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Zhou2024lipid-3": {
+   "status": "extracted",
+   "n": 21,
+   "flags": [
+    "claim reports 18 instruments, table has 21"
+   ],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Zou2024Bio-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.13926206733350766,
+    "recomputed_log": -0.13558100039897328,
+    "recomputed_se": 0.04079942943292836,
+    "difference": 0.003681066934534377,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-10": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.12783337150988489,
+    "recomputed_log": -0.12732624181092603,
+    "recomputed_se": 0.031165742771141768,
+    "difference": 0.0005071296989588581,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-11": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.16251892949777494,
+    "recomputed_log": -0.16796078276961848,
+    "recomputed_se": 0.05055452743762387,
+    "difference": -0.005441853271843544,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-12": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.11653381625595151,
+    "recomputed_log": -0.11802844347727197,
+    "recomputed_se": 0.03551746289346452,
+    "difference": -0.0014946272213204603,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-13": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.18632957819149348,
+    "recomputed_log": -0.1836848399750197,
+    "recomputed_se": 0.04674419269121975,
+    "difference": 0.002644738216473791,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-14": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.3285040669720361,
+    "recomputed_log": -0.32912100779262726,
+    "recomputed_se": 0.09354059837687245,
+    "difference": -0.0006169408205911608,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-15": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.11653381625595151,
+    "recomputed_log": -0.12108316309822695,
+    "recomputed_se": 0.03604222870241864,
+    "difference": -0.00454934684227544,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-16": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.08338160893905101,
+    "recomputed_log": -0.08859819746036801,
+    "recomputed_se": 0.021690193714240212,
+    "difference": -0.005216588521316998,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-17": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.12783337150988489,
+    "recomputed_log": -0.13135997920144496,
+    "recomputed_se": 0.039529227443146055,
+    "difference": -0.003526607691560074,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-18": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.10536051565782628,
+    "recomputed_log": -0.11018099820037729,
+    "recomputed_se": 0.027565546499890386,
+    "difference": -0.004820482542551005,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-19": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.16251892949777494,
+    "recomputed_log": -0.15768234505159914,
+    "recomputed_se": 0.036388282369842075,
+    "difference": 0.004836584446175796,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.2744368457017603,
+    "recomputed_log": -0.2725380320304925,
+    "recomputed_se": 0.07745895884182018,
+    "difference": 0.0018988136712678183,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-20": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.10536051565782628,
+    "recomputed_log": -0.10455961078554012,
+    "recomputed_se": 0.027172726824677473,
+    "difference": 0.000800904872286165,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-21": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.1570037488096647,
+    "recomputed_log": 0.15671406534093774,
+    "recomputed_se": 0.03865775827012203,
+    "difference": -0.00028968346872695894,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-22": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.2151113796169455,
+    "recomputed_log": 0.21142387861958817,
+    "recomputed_se": 0.052191489940925054,
+    "difference": -0.003687500997357318,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-23": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.1823215567939546,
+    "recomputed_log": 0.17806852775438822,
+    "recomputed_se": 0.04382979696185748,
+    "difference": -0.0042530290395663695,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-24": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.23901690047049992,
+    "recomputed_log": 0.2368823511806782,
+    "recomputed_se": 0.057380360937359716,
+    "difference": -0.0021345492898217078,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-25": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.20701416938432612,
+    "recomputed_log": 0.20461636573451453,
+    "recomputed_se": 0.04989544740700893,
+    "difference": -0.0023978036498115973,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-26": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.1906203596086497,
+    "recomputed_log": 0.19425654890701577,
+    "recomputed_se": 0.04812604370262793,
+    "difference": 0.003636189298366066,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-27": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.17395330712343798,
+    "recomputed_log": 0.17075562677111614,
+    "recomputed_se": 0.04286694559427902,
+    "difference": -0.0031976803523218467,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-28": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.16551443847757333,
+    "recomputed_log": 0.16763401276910825,
+    "recomputed_se": 0.040181827072185976,
+    "difference": 0.0021195742915349203,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-29": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.14842000511827322,
+    "recomputed_log": 0.14425010525273038,
+    "recomputed_se": 0.03560916565541494,
+    "difference": -0.0041698998655428365,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-3": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.1743533871447778,
+    "recomputed_log": -0.17797398071031642,
+    "recomputed_se": 0.05355644851063435,
+    "difference": -0.0036205935655386212,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-30": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.2151113796169455,
+    "recomputed_log": 0.218854345506009,
+    "recomputed_se": 0.053367361143334416,
+    "difference": 0.0037429658890635042,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-31": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.26236426446749106,
+    "recomputed_log": 0.25957022107681466,
+    "recomputed_se": 0.06188590520975127,
+    "difference": -0.002794043390676404,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-32": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.12221763272424911,
+    "recomputed_log": 0.12206236414252483,
+    "recomputed_se": 0.029257248909962248,
+    "difference": -0.00015526858172427993,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-33": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.3148107398400336,
+    "recomputed_log": 0.31606785633851336,
+    "recomputed_se": 0.07622312308731767,
+    "difference": 0.00125711649847976,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-34": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.3220834991691132,
+    "recomputed_log": 0.32113429286205675,
+    "recomputed_se": 0.12247739787929693,
+    "difference": -0.0009492063070564716,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-35": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.45107561936021673,
+    "recomputed_log": 0.4638769670958512,
+    "recomputed_se": 0.11419686854236212,
+    "difference": 0.01280134773563446,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-36": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.16551443847757333,
+    "recomputed_log": 0.1685578277896863,
+    "recomputed_se": 0.0406180586700191,
+    "difference": 0.003043389312112982,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-37": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.30010459245033816,
+    "recomputed_log": 0.29662760738361627,
+    "recomputed_se": 0.1162769561994847,
+    "difference": -0.0034769850667218938,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-38": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.371563556432483,
+    "recomputed_log": 0.37061191762322754,
+    "recomputed_se": 0.10069632005401756,
+    "difference": -0.0009516388092554728,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-4": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.15082288973458366,
+    "recomputed_log": -0.1544999223096835,
+    "recomputed_se": 0.037823943824942224,
+    "difference": -0.0036770325750998534,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-5": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.10536051565782628,
+    "recomputed_log": -0.10308373670082124,
+    "recomputed_se": 0.030684428112080844,
+    "difference": 0.002276778957005038,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-6": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.15082288973458366,
+    "recomputed_log": -0.15508755774397068,
+    "recomputed_se": 0.044077961019490255,
+    "difference": -0.004264668009387018,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-7": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.11653381625595151,
+    "recomputed_log": -0.11232995932810956,
+    "recomputed_se": 0.03291866770835727,
+    "difference": 0.004203856927841948,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-8": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.10536051565782628,
+    "recomputed_log": -0.10465758910692831,
+    "recomputed_se": 0.024133802668465314,
+    "difference": 0.0007029265508979726,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Zou2024Bio-9": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.08338160893905101,
+    "recomputed_log": -0.0864628523277062,
+    "recomputed_se": 0.02166655620674311,
+    "difference": -0.0030812433886551888,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  }
+ }
+}

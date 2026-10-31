@@ -1,0 +1,34 @@
+{
+ "record_id": "doi:10.1371/journal.pone.0301752",
+ "tables": {
+  "S2": {
+   "file": "text/pone.0301752.s002__Sheet1.csv",
+   "header_row": 3,
+   "description": "S2 Table: TG-associated instruments (GLGC, European) within 100 kb of LPL, PPARA, ANGPTL3 or APOC3, in block layout (gene label row followed by its SNP rows; no per-row gene column). Exposure statistics only.",
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Effect allele",
+    "other_allele": "Other allele",
+    "beta_exposure": "beta",
+    "se_exposure": "se",
+    "pval_exposure": "p value",
+    "eaf_exposure": "EAF"
+   }
+  }
+ },
+ "claims": {
+  "Zhang2024lipid-1": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "SNP",
+     "op": "regex",
+     "value": "^(rs10789120|rs112548469|rs114368431|rs115436978|rs1168018|rs12030293|rs12749263|rs138783696|rs148303184|rs148662400|rs17388017|rs34693359|rs35285100|rs41290148|rs4915846|rs61775882|rs61775912|rs61775945|rs7419069|rs74716393|rs78287364|rs78942743|rs79151558|rs79152165)$"
+    }
+   ],
+   "expected_n": 24,
+   "notes": "ANGPTL3 block of S2 Table (label row line 68, SNP rows lines 69-92, all chr1 ~63.0-63.2 Mb). The table has no gene column, so rows are selected by the 24 rsIDs listed in that block (no rsID appears in more than one block). Count matches S5 Table (TG via ANGPTL3 -> EMS EUR, IVW 24 SNPs, OR 0.798). No per-SNP endometriosis (GCST90269970) effects are reported, so IVW cannot be recomputed."
+  }
+ }
+}

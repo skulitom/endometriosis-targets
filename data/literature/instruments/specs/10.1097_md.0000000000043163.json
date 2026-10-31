@@ -1,0 +1,26 @@
+{
+ "record_id": "doi:10.1097/md.0000000000043163",
+ "tables": {},
+ "claims": {
+  "Guo2025Med-1": {
+   "status": "not_available",
+   "reason": "Supplementary Stable8 lists the 18 SNPs for 'Interleukin-17A levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-2": {
+   "status": "not_available",
+   "reason": "Supplementary Stable8 lists the 33 SNPs for 'CUB domain-containing protein 1 levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-3": {
+   "status": "not_available",
+   "reason": "Supplementary Stable8 lists the 36 SNPs for 'TNF-related apoptosis-inducing ligand levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-4": {
+   "status": "not_available",
+   "reason": "Supplementary Stable8 lists the 31 SNPs for 'C-C motif chemokine 4 levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  },
+  "Guo2025Med-5": {
+   "status": "not_available",
+   "reason": "Supplementary Stable8 lists the 23 SNPs for 'Programmed cell death 1 ligand 1 levels' -> EMS (FinnGen R9), but only as TwoSampleMR single-SNP results (per-SNP Wald-ratio b/se/p plus 'All - IVW/MR Egger' rows) - no SNP-exposure effect, SE or alleles. No harmonised exposure/outcome table exists elsewhere in the supplement (Stable2/6 are the same single-SNP format for other exposures)."
+  }
+ }
+}

@@ -1,0 +1,926 @@
+[
+ {
+  "record_id": "doi:10.3390/molecules27248899",
+  "title": "Health Effects of Soy Isoflavones and Green Tea Catechins on Cancer and Cardiovascular Diseases Based on Urinary Biomarker Levels.",
+  "reason_code": "E4",
+  "reason": "Review of soy isoflavones and green tea catechins; MR only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2024.1339647",
+  "title": "Potential shared pathogenic mechanisms between endometriosis and inflammatory bowel disease indicate a strong initial effect of immune factors.",
+  "reason_code": "E1",
+  "reason": "Transcriptomic bioinformatics study of shared endometriosis-IBD genes (DEGs, PPI, CIBERSORT); the only MR-matching passage is introductory background, with no own MR or SMR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/meg.0000000000002861",
+  "title": "Correlation between gut microbiota and pancreatitis: a bidirectional Mendelian randomization.",
+  "reason_code": "E2",
+  "reason": "Own bidirectional MR uses gut microbiota taxa on acute and chronic pancreatitis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC7741497",
+  "title": "Program Abstracts from The GSA 2020 Annual Scientific Meeting “Turning 75: Why Age Matters”",
+  "reason_code": "E4",
+  "reason": "GSA 2020 annual meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1289/ehp13202",
+  "title": "Total Effective Xenoestrogen Burden in Serum Samples and Risk of Endometrial Cancer in the Spanish Screenwide Case-Control Study.",
+  "reason_code": "E1",
+  "reason": "Case-control study of serum xenoestrogen burden and endometrial cancer; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fonc.2023.1291033",
+  "title": "Mendelian randomization analysis to elucidate the causal relationship between small molecule metabolites and ovarian cancer risk.",
+  "reason_code": "E2",
+  "reason": "Own MR uses 53 small-molecule metabolites as exposures and ovarian cancer subtypes (including endometrioid OC) as outcomes; endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/1471-2482-14-77",
+  "title": "Laparoscopic versus open adhesiolysis for small bowel obstruction - a multicenter, prospective, randomized, controlled trial.",
+  "reason_code": "E4",
+  "reason": "Study protocol for an RCT of laparoscopic versus open adhesiolysis; no MR (HEIDI match is a person's name).",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1089/jir.2024.0164",
+  "title": "Causal Relationship Between Inflammatory Cytokines and Pancreatitis Risk.",
+  "reason_code": "E3",
+  "reason": "Own MR of 91 circulating inflammatory proteins targets acute and chronic pancreatitis, not endometriosis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fnut.2025.1749449",
+  "title": "Editorial: Nutrition, inflammation and oxidative stress in obstetrics and gynecology.",
+  "reason_code": "E4",
+  "reason": "Editorial summarising others' work including an antioxidant-endometriosis MR; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2025.1588965",
+  "title": "The association between obesity-related indicators and female infertility: the United States National Health and Nutrition Examination Survey, 2013-2018.",
+  "reason_code": "E1",
+  "reason": "Cross-sectional NHANES study of obesity indices and female infertility; MR only suggested as future work.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.celrep.2021.108978",
+  "title": "Single-cell transcriptomics identifies gene expression networks driving differentiation and tumorigenesis in the human fallopian tube.",
+  "reason_code": "E1",
+  "reason": "Single-cell transcriptomic atlas of human fallopian tube; no MR, endometriosis only a surgical indication of tissue donors.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1159/000552071",
+  "title": "33rd European Congress on Obesity (ECO 2026) - Late Breaking Abstracts.",
+  "reason_code": "E4",
+  "reason": "Conference late-breaking abstract collection (ECO 2026) with no MR passages.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1155/prm/7732443",
+  "title": "Global Research Landscape and Emerging Trends in the Treatment of Female Chronic Pelvic Pain: A Comprehensive Bibliometric Analysis (2005-2026).",
+  "reason_code": "E1",
+  "reason": "Bibliometric analysis of female chronic pelvic pain treatment literature in which MR appears only as a burst keyword; no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1038/s41398-024-03216-z",
+  "title": "Phenome-wide investigation of bidirectional causal relationships between major depressive disorder and common human diseases.",
+  "reason_code": "E2",
+  "reason": "Own phenome-wide bidirectional MR between MDD liability and 877 FinnGen diseases; the exposures are disease liabilities, not gene products.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2025.1570284",
+  "title": "Editorial: Recent advances in endometriosis: from Bench to clinical application.",
+  "reason_code": "E4",
+  "reason": "Editorial on endometriosis research topic summarising others' telomere-length MR; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/spv.0000000000001228",
+  "title": "Centering Group Treatment for Women With Interstitial Cystitis/Bladder Pain Syndrome: A Qualitative Analysis.",
+  "reason_code": "E1",
+  "reason": "Qualitative study of group treatment for interstitial cystitis with no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/ijms222212146",
+  "title": "Recent Trends in Cancer Genomics and Bioinformatics Tools Development.",
+  "reason_code": "E4",
+  "reason": "Editorial summarising a journal collection; cites an endometriosis-to-cancer 2SMR by others.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/s0140-6736(15)60692-4",
+  "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013.",
+  "reason_code": "E1",
+  "reason": "GBD 2013 incidence/prevalence/YLD estimates (DisMod-MR modelling) in which endometriosis is a listed cause; no Mendelian randomization.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1136/bmjresp-2020-000667",
+  "title": "Minimal clinically important difference for chest discomfort in patients undergoing pleural interventions.",
+  "reason_code": "E1",
+  "reason": "Analysis of chest discomfort during thoracentesis from two trials; no MR or genetic instruments.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.17294/2330-0698.2385",
+  "title": "Abstracts From the 2026 Health Care Systems Research Network (HCSRN) Annual Conference, Dallas, Texas.",
+  "reason_code": "E4",
+  "reason": "Conference abstract supplement (HCSRN 2026) with no MR excerpts.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC11047233",
+  "title": "2024 International Congress on Integrative Medicine & Health Abstracts",
+  "reason_code": "E4",
+  "reason": "2024 Integrative Medicine & Health congress abstracts is a conference abstract collection; the only MR is dietary intake on ulcerative colitis and endometriosis appears only as a prevalence figure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.isci.2022.105839",
+  "title": "Sex differences in the oral microbiome, host traits, and their causal relationships.",
+  "reason_code": "E2",
+  "reason": "Own sex-stratified MR (GSMR) links oral microbiome features with serum metabolites and 42 Biobank Japan diseases; exposures are microbiota/metabolites, not gene products.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1128/spectrum.02263-24",
+  "title": "How does gut microbiota affect the vaginitis axis? The mediating role of plasma metabolites.",
+  "reason_code": "E2",
+  "reason": "Two-sample and two-step MR of gut microbiota taxa and plasma metabolites on vaginitis; non-gene exposures and endometriosis is not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.annepidem.2006.11.005",
+  "title": "Endometriosis among women exposed to polybrominated biphenyls.",
+  "reason_code": "E1",
+  "reason": "Observational cohort relating measured serum PBB/PCB levels to self-reported endometriosis; no MR or genetic instruments.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12916-025-03853-1",
+  "title": "Postpartum depression in relation to chronic diseases and multimorbidity in women's mid-late life: a prospective cohort study of UK Biobank.",
+  "reason_code": "E1",
+  "reason": "UK Biobank cohort of postpartum depression versus chronic diseases and multimorbidity using regression models; MR is only mentioned in the discussion and the paper runs no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1172/jci199832",
+  "title": "Women's midlife: the front line of Alzheimer prevention.",
+  "reason_code": "E4",
+  "reason": "Review on women's midlife and Alzheimer prevention calling for MR; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/humrep/deab086",
+  "title": "Large trans-ethnic meta-analysis identifies AKR1C4 as a novel gene associated with age at menarche.",
+  "reason_code": "E1",
+  "reason": "Trans-ethnic GWAS of age at menarche with no MR passages.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2023.1091780",
+  "title": "Causal associations between modifiable risk factors and pancreatitis: A comprehensive Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Own MR uses 30 modifiable risk factors (smoking, alcohol, BMI, lipids, CRP, calcium, diseases) with genome-wide instruments as exposures and pancreatitis as outcome; endometriosis not studied.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fcell.2026.1808099",
+  "title": "The role of IL-33/ST2 signaling in female reproductive diseases.",
+  "reason_code": "E4",
+  "reason": "Review of IL-33/ST2 signalling in female reproductive diseases that cites an MR of IL-33 on POI by others; no own MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/molehr/gaaa082",
+  "title": "Genetic risk factors for endometriosis near estrogen receptor 1 and coexpression of genes in this region in endometrium.",
+  "reason_code": "E1",
+  "reason": "Endometrial eQTL and expression-correlation study at the ESR1 locus with no MR or SMR estimate.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/humrep/deaf188",
+  "title": "Randomized controlled study on the use of virtual reality for pain relief in oocyte retrieval under transvaginal ultrasound guidance using paracervical block and conscious sedation.",
+  "reason_code": "E1",
+  "reason": "Randomised trial of virtual reality during oocyte retrieval with no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/life15091459",
+  "title": "Obesity/Overweight as a Meaningful Modifier of Associations Between Gene Polymorphisms Affecting the Sex Hormone-Binding Globulin Content and Uterine Myoma.",
+  "reason_code": "E3",
+  "reason": "Candidate-SNP case-control study of SHBG-level SNPs and uterine myoma stratified by BMI with no formal MR; endometriosis is not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/ijms27062521",
+  "title": "The Women's Microbiome: Molecular Insights, Clinical Gaps, and Future Frontiers in Precision Health with Implications for Gulf Cooperation Council Populations.",
+  "reason_code": "E4",
+  "reason": "Review of the women's microbiome; no own MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.rpth.2025.103276",
+  "title": "Von Willebrand disease: more than just a bleeding disorder.",
+  "reason_code": "E4",
+  "reason": "Review of non-bleeding complications of von Willebrand disease that only cites another group's MR of ADAMTS13 and VWF levels on endometriosis; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e35401",
+  "title": "Causal relationship between systemic lupus erythematosus and adverse pregnancy outcomes: A two-sample Mendelian randomized study.",
+  "reason_code": "E2",
+  "reason": "Own two-sample MR uses SLE liability as exposure and adverse pregnancy outcomes (pre-eclampsia etc.) as outcomes; no gene-level exposure and endometriosis not studied.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/biolre/ioaf164",
+  "title": "Endometriosis: new insights and opportunities for relief of symptoms.",
+  "reason_code": "E4",
+  "reason": "Narrative review of endometriosis that cites GWAS and MR studies by others.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12905-026-04547-3",
+  "title": "Causal effects of oral microbiome traits on female reproductive diseases: a two-sample Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Two-sample MR of 44 salivary oral microbiome traits on six FinnGen female reproductive diseases; microbiota exposures, not gene products.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e39914",
+  "title": "Patient-centered endometriosis care implementation at tertiary and secondary care hospitals in Indonesia.",
+  "reason_code": "E1",
+  "reason": "Questionnaire study of patient-centred endometriosis care in Indonesian hospitals; MR hit is an author-contribution statement, no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045484",
+  "title": "Assessing the relationship between gut microbiota and hyperprolactinemia: A bidirectional two-sample Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Own MR uses gut microbiota taxa on hyperprolactinaemia.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/diagnostics15040406",
+  "title": "Early Diagnosis of Ovarian Cancer: A Comprehensive Review of the Advances, Challenges, and Future Directions.",
+  "reason_code": "E4",
+  "reason": "Review of early ovarian cancer diagnosis; MR studies only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12866-022-02703-x",
+  "title": "Association between gut microbiota and longevity: a genetic correlation and mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR between gut microbiota taxa and longevity traits; non-gene exposures.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1470608",
+  "title": "Editorial: Reproductive microbiome and its interplay with the environment.",
+  "reason_code": "E4",
+  "reason": "Editorial on the reproductive microbiome summarising others' gut microbiota-POI MR; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.xhgg.2025.100456",
+  "title": "Interaction between genetic risk and comorbid conditions in endometriosis.",
+  "reason_code": "E1",
+  "reason": "Endometriosis PRS by comorbidity interaction analysis in UK Biobank and Estonian Biobank; no MR estimate.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/s0140-6736(16)31012-1",
+  "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015.",
+  "reason_code": "E1",
+  "reason": "GBD 2015 mortality estimates; MR hits are author lists and there is no Mendelian randomization.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/nu16234103",
+  "title": "Genetically Determined Plasma Docosahexaenoic Acid Showed a Causal Association with Female Reproductive Longevity-Related Phenotype: A Mendelian Randomization Study.",
+  "reason_code": "E2",
+  "reason": "Own MR of plasma polyunsaturated fatty acids (metabolites) on age at menarche and natural menopause; endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC7167823",
+  "title": "Poster Presentations",
+  "reason_code": "E4",
+  "reason": "Journal of Peptide Science 2008 poster abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fmicb.2024.1363455",
+  "title": "Role of the gut microbiota in the pathogenesis of endometriosis: a review.",
+  "reason_code": "E4",
+  "reason": "Review of gut microbiota in endometriosis pathogenesis; no own MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/biomedicines12061179",
+  "title": "Adenosine 5'-Monophosphate-to-Threonine Ratio Promotes Abdominal Aortic Aneurysms via Up-Regulation of HLA-DR on Natural Killer Cells: A Bidirectional Mendelian Randomized Analysis.",
+  "reason_code": "E2",
+  "reason": "Own two-step MR uses 731 immune-cell traits and 1400 metabolites as exposures with abdominal aortic aneurysm as outcome; endometriosis only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2023.1183219",
+  "title": "Association between gut microbiota and primary ovarian insufficiency: a bidirectional two-sample Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Own bidirectional MR uses gut microbiota as exposure and primary ovarian insufficiency as outcome; endometriosis only mentioned in the introduction.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2025.1558271",
+  "title": "Update on the pathogenesis of endometriosis-related infertility based on contemporary evidence.",
+  "reason_code": "E4",
+  "reason": "Review of endometriosis-related infertility that only cites an immune-cell MR by others.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1002/cbf.70037",
+  "title": "Vitamin D and Endometriosis: Is There a Mechanistic Link?",
+  "reason_code": "E4",
+  "reason": "Narrative review of vitamin D and endometriosis that discusses vitamin D pathway SNPs but reports no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/diseases11040132",
+  "title": "C-Reactive Protein: Pathophysiology, Diagnosis, False Test Results and a Novel Diagnostic Algorithm for Clinicians.",
+  "reason_code": "E4",
+  "reason": "Review of C-reactive protein as a biomarker; MR studies only cited and endometriosis mentioned in passing.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s00404-026-08325-2",
+  "title": "Endometriosis and eating disorders: epidemiology, shared neurobiology, and clinical implications.",
+  "reason_code": "E4",
+  "reason": "Narrative review of endometriosis and eating disorders, with no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/jcm14145091",
+  "title": "Non-Hormonal Strategies in Endometriosis: Targets with Future Clinical Potential.",
+  "reason_code": "E4",
+  "reason": "Review of non-hormonal targets in endometriosis; MR only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s10194-023-01547-8",
+  "title": "Genetics of migraine: where are we now?",
+  "reason_code": "E4",
+  "reason": "Review of migraine genetics summarising published MR studies; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC12502813",
+  "title": "Book of Posters",
+  "reason_code": "E4",
+  "reason": "Canadian Journal of Pain book of posters is a conference abstract collection; 'SMR' here is sensorimotor-rhythm neurofeedback, HEIDI is an author name, and the endometriosis abstract is a pain-catastrophizing survey.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/biology11091345",
+  "title": "Mendelian Randomization and GWAS Meta Analysis Revealed the Risk-Increasing Effect of Schizophrenia on Cancers.",
+  "reason_code": "E2",
+  "reason": "Own two-sample MR uses schizophrenia liability as exposure and 13 cancers as outcomes ('SMR' here means two-sample MR); endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s13048-025-01930-w",
+  "title": "Upregulation of PLAU in granulosa cells disrupts steroid hormone synthesis and promotes apoptosis by activating NF-κB signaling pathway in PCOS.",
+  "reason_code": "E1",
+  "reason": "RNA-seq and mouse study of PLAU in PCOS granulosa cells; MR is only cited in the introduction.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.xcrm.2025.102245",
+  "title": "Comorbidity analysis and clustering of endometriosis patients using electronic health records.",
+  "reason_code": "E1",
+  "reason": "EHR case-control comorbidity and clustering analysis of endometriosis patients that only cites genetic studies; no own MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fgene.2024.1508169",
+  "title": "Editorial: Women in applied genetic epidemiology.",
+  "reason_code": "E4",
+  "reason": "Editorial on applied genetic epidemiology summarising others' gut microbiota-endometriosis MR; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2023.1146500",
+  "title": "T cell immunity following COVID-19 vaccination in adult patients with primary antibody deficiency - a 22-month follow-up.",
+  "reason_code": "E1",
+  "reason": "Clinical follow-up study of T-cell immunity after COVID-19 vaccination in antibody deficiency; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12905-026-04340-2",
+  "title": "Improving health-related quality of life in patients with endometriosis-related chronic pain: the COGENS trial.",
+  "reason_code": "E1",
+  "reason": "COGENS RCT of CBT plus surgery for endometriosis-related chronic pain; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1038/s41598-025-26606-9",
+  "title": "Integrating inflammatory biomarkers and demographic variables with machine learning to predict endometriosis risk.",
+  "reason_code": "E1",
+  "reason": "NHANES machine-learning prediction of endometriosis from blood inflammatory indices; MR is only cited from other studies.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s453602",
+  "title": "Association Between Composite Dietary Antioxidant Index and the Risk of Endometriosis-Related Rheumatoid Arthritis in Women of Childbearing Age: A Cross-Sectional Study Based on the National Health and Nutrition Examination Survey Database.",
+  "reason_code": "E1",
+  "reason": "NHANES cross-sectional study of dietary antioxidant index, endometriosis and rheumatoid arthritis; MR is only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/nu15051153",
+  "title": "Association between Dietary Habits and Pancreatitis among Individuals of European Ancestry: A Two-Sample Mendelian Randomization Study.",
+  "reason_code": "E2",
+  "reason": "Own MR of dietary habits on pancreatitis subtypes; endometriosis not studied.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.ebiom.2024.105086",
+  "title": "A phenome-wide association and Mendelian randomisation study of alcohol use variants in a diverse cohort comprising over 3 million individuals.",
+  "reason_code": "E2",
+  "reason": "Own MR estimates effects of alcohol consumption (a behaviour, proxied via ADH1B/ADH1C variants and alcohol-consumption GWAS) on PheWAS-significant traits; no gene-product exposure, endometriosis not named in the excerpts.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s543096",
+  "title": "Global Spatiotemporal Trends and Modifiable Risk Factors for Female Infertility: An Age-Period-Cohort Using Global Burden of Disease Study 2021 and Mendelian Randomization Analysis.",
+  "reason_code": "E2",
+  "reason": "Own MR uses 16 modifiable risk factors and 10 serum biomarkers (e.g. HbA1c, triglycerides) as exposures with female infertility as outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12958-022-00957-8",
+  "title": "Association of maternal pre-pregnancy body mass index with birth weight and preterm birth among singletons conceived after frozen-thawed embryo transfer.",
+  "reason_code": "E1",
+  "reason": "Retrospective cohort of pre-pregnancy BMI and birth weight/preterm birth after frozen embryo transfer; no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1142/9789819807024_0021",
+  "title": "Uterine fibroids show evidence of shared genetic architecture with blood pressure traits.",
+  "reason_code": "E2",
+  "reason": "Bidirectional two-sample MR between uterine fibroids and blood pressure traits with LDSC; non-gene exposures and endometriosis is not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2026.1855106",
+  "title": "Immune-epigenetic-metabolic crosstalk: attempting to unravel the multidimensional mechanisms of immune evasion in endometriosis.",
+  "reason_code": "E4",
+  "reason": "Review of immune evasion in endometriosis that cites others' MR (tyrosine; CD14 on monocytic MDSCs); no own MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/biom12111721",
+  "title": "Endometriosis-Associated Ovarian Cancer: What Are the Implications for Women with Intact Endometrioma Planning for a Future Pregnancy? A Reproductive Clinical Outlook.",
+  "reason_code": "E4",
+  "reason": "Outlook review of endometriosis-associated ovarian cancer that cites published MR by others; no own estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fgene.2024.1393181",
+  "title": "SIRT1, resveratrol and aging.",
+  "reason_code": "E4",
+  "reason": "Review of SIRT1, resveratrol and aging; no MR and endometriosis only mentioned among trial populations.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC1002703",
+  "title": "",
+  "reason_code": "E1",
+  "reason": "Untitled administrative item (1991) with no abstract or excerpts; no MR analysis of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1158/1055-9965.epi-24-0717",
+  "title": "History of Infertility and Risk of Endometrial Cancer in the Women's Health Initiative.",
+  "reason_code": "E1",
+  "reason": "Women's Health Initiative cohort of infertility history (including endometriosis-related infertility) and endometrial cancer; no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2026.1732435",
+  "title": "From inflammatory activation to fibrotic remodeling: the central role of macrophage heterogeneity in frozen shoulder.",
+  "reason_code": "E4",
+  "reason": "Review of macrophage heterogeneity in frozen shoulder that cites MR by others; endometriosis not studied.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/jcm12082961",
+  "title": "Ovarian Cancer and Parkinson's Disease: A Bidirectional Mendelian Randomization Study.",
+  "reason_code": "E2",
+  "reason": "Own bidirectional MR between Parkinson's disease and ovarian cancer (including endometrioid histotype); disease exposures only and endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12885-024-12385-5",
+  "title": "Causal relationship between thyroid dysfunction and ovarian cancer: a two-sample Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Two-sample MR of TSH, free T4, hypothyroidism and hyperthyroidism (genome-wide instruments) on ovarian cancer; non-gene exposures and endometriosis is not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1038/s41598-025-33574-7",
+  "title": "Unveiling novel potential drug targets for lung cancer through Mendelian randomization analysis.",
+  "reason_code": "E3",
+  "reason": "Own eQTL/pQTL drug-target MR targets lung cancer, not endometriosis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1002/advs.202411679",
+  "title": "Multiomics and Systematic Analyses Reveal the Roles of Hemoglobin and the HIF-1 Pathway in Polycystic Ovary Syndrome.",
+  "reason_code": "E3",
+  "reason": "Own MR tests haemoglobin on PCOS, and its eQTL/pQTL MR of INSR, NFKB1 and PRKCA has testosterone as the outcome; endometriosis is not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2026.1854797",
+  "title": "Polycystic ovary syndrome and miscarriage risk: dual evidence from cohort study and Mendelian randomization.",
+  "reason_code": "E2",
+  "reason": "Own MR uses PCOS (a disease) as exposure and miscarriage as outcome; endometriosis only an exclusion criterion.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049820",
+  "title": "Association between pelvic inflammatory disease and ovarian cancer: A bidirectional Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Own bidirectional MR uses pelvic inflammatory disease liability on ovarian cancer subtypes.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC13594399",
+  "title": "Poster Session 2 : Thursday, 8 October 2026   16:00 – 17:15",
+  "reason_code": "E4",
+  "reason": "Pregnancy journal poster session (Oct 2026) is a conference abstract collection; the HEIDI match is an author name and the endometriosis abstract is an observational maternal-endometriosis offspring cohort.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:AGR:IND608695315",
+  "title": "Patient-centered endometriosis care implementation at tertiary and secondary care hospitals in Indonesia",
+  "reason_code": "E1",
+  "reason": "Questionnaire study of patient-centered endometriosis care in Indonesian hospitals; no MR or genetic instruments.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s40364-026-00957-5",
+  "title": "Guided immunotherapy for residual solid tumor: integrating platelets and CAR T cells to reduce post-surgical recurrence.",
+  "reason_code": "E4",
+  "reason": "Review proposing platelet-guided CAR-T therapy for residual solid tumours; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s13690-023-01059-6",
+  "title": "Menstrual characteristics and dysmenorrhea among Palestinian adolescent refugee camp dwellers in the West Bank and Jordan: a cross-sectional study.",
+  "reason_code": "E1",
+  "reason": "Cross-sectional survey of menstrual characteristics and dysmenorrhea in refugee-camp adolescents; the MR hit is an author name.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1038/s41467-020-19742-5",
+  "title": "The genetic architecture of sporadic and multiple consecutive miscarriage.",
+  "reason_code": "E2",
+  "reason": "Miscarriage GWAS with biobank-scale trait-level MR, heritability and genetic correlation; no gene- or protein-level MR shown and endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1159/000551335",
+  "title": "Intestinal Endometriosis Mimicking Ulcerative Colitis-Associated Neoplasia: A Case Report.",
+  "reason_code": "E1",
+  "reason": "Case report of intestinal endometriosis mimicking ulcerative colitis-associated neoplasia; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/ijms27083595",
+  "title": "Identification of Misplaced Endometrial Glands and Stroma in the Myometrium of Foetal Uteri Evocative of Developmental Adenomyosis.",
+  "reason_code": "E1",
+  "reason": "Histopathology/immunohistochemistry study of foetal uteri for developmental adenomyosis; MR only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/cancers14225696",
+  "title": "Acute Pancreatitis Increases the Risk of Gastrointestinal Cancer in Type 2 Diabetic Patients: A Korean Nationwide Cohort Study.",
+  "reason_code": "E1",
+  "reason": "Korean nationwide cohort of acute pancreatitis and gastrointestinal cancer in diabetics; MR only suggested as future work.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1101/cshperspect.a038216",
+  "title": "Prevention of Epithelial Ovarian Cancer.",
+  "reason_code": "E4",
+  "reason": "Narrative review of epithelial ovarian cancer prevention strategies with no original MR estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/metabo12121175",
+  "title": "Causal Effects of Circulating Lipid Traits on Epithelial Ovarian Cancer: A Two-Sample Mendelian Randomization Study.",
+  "reason_code": "E2",
+  "reason": "Own MR of circulating lipid traits (APOA1, APOB, HDL, LDL, TG) with genome-wide instruments on epithelial ovarian cancer subtypes; endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1302312",
+  "title": "Effects of menstrual disorders and dysmenorrhea on cardiovascular disease: a Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Own MR uses menstrual disorders and dysmenorrhea (diseases) as exposures and cardiovascular diseases as outcomes; endometriosis only appears in the dysmenorrhea ICD definition.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.ymgmr.2019.100539",
+  "title": "Bi-directional Mendelian randomization of epithelial ovarian cancer and schizophrenia and uni-directional Mendelian randomization of schizophrenia on circulating 1- or 2-glycerophosphocholine metabolites.",
+  "reason_code": "E2",
+  "reason": "Own MR uses schizophrenia liability as exposure for epithelial ovarian cancer and glycerophosphocholine metabolites (and EOC as exposure for schizophrenia); endometriosis only cited as an EOC risk factor.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1111/crj.70182",
+  "title": "Therapeutic Targets for Lung Squamous Cell Carcinoma: Proteome-Wide Mendelian Randomization and Potential Drug Prediction.",
+  "reason_code": "E3",
+  "reason": "Proteome-wide two-sample MR of plasma pQTLs (Sun et al.) on lung squamous cell carcinoma; endometriosis is not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/genes16080918",
+  "title": "The Gut-Endometriosis Axis: Genetic Mechanisms and Public Health Implications.",
+  "reason_code": "E4",
+  "reason": "Narrative review of the gut-endometriosis axis; microbiota-endometriosis MR studies only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s13048-025-01767-3",
+  "title": "The gut microbiome and ovarian cysts: a mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Own MR uses gut microbial taxa as exposures with ovarian cysts as outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s00223-024-01220-5",
+  "title": "Genetic Prediction of Osteoporosis by Anti-Müllerian Hormone Levels and Reproductive Factors in Women: A Mendelian Randomization Study.",
+  "reason_code": "E2",
+  "reason": "Own univariable and multivariable MR uses AMH levels (genome-wide instruments) and reproductive factors as exposures for BMD and osteoporosis; endometriosis is not studied.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s572252",
+  "title": "Association of Smoking and Alcohol Consumption with Female Reproductive Diseases: A Mendelian Randomization Study on the Mediating Role of Circulating Metabolites.",
+  "reason_code": "E2",
+  "reason": "Own MR uses smoking and alcohol behaviours as exposures, with circulating metabolites as mediators, and reproductive disorders (AUB, adenomyosis, endometrioid ovarian cancer, ovarian cysts, PID) as outcomes.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1371/journal.pcbi.1009586",
+  "title": "Observable variations in human sex ratio at birth.",
+  "reason_code": "E1",
+  "reason": "EMR-based analysis of environmental factors and sex ratio at birth; MR appears only in reviewer comments and endometriosis only in a reference title.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s12672-025-03043-8",
+  "title": "Integrated eQTL-pQTL Mendelian randomization and single-cell sequencing reveal therapeutic targets in ovarian clear cell cancer.",
+  "reason_code": "E3",
+  "reason": "Own eQTLGen/deCODE drug-target MR has ovarian clear cell cancer as the outcome; endometriosis is mentioned only as a limitation, not as an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/aje/kwx204",
+  "title": "Dietary Fat Intake and Fecundability in 2 Preconception Cohort Studies.",
+  "reason_code": "E1",
+  "reason": "Preconception cohort of dietary fat and fecundability with no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.hoc.2022.07.002",
+  "title": "Pancreatic Adenocarcinoma: Trends in Epidemiology, Risk Factors, and Outcomes.",
+  "reason_code": "E4",
+  "reason": "Narrative review of pancreatic adenocarcinoma epidemiology and risk factors; no original MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1002/art.42538",
+  "title": "Lowering of Circulating Sclerostin May Increase Risk of Atherosclerosis and Its Risk Factors: Evidence From a Genome-Wide Association Meta-Analysis Followed by Mendelian Randomization.",
+  "reason_code": "E3",
+  "reason": "Own MR of circulating sclerostin (SOST cis and B4GALNT3, RIN3, SERPINA1 trans instruments) has 15 atherosclerosis-related diseases and risk factors as outcomes; endometriosis appears only as a PheWAS look-up for the RIN3 variant, not as an MR outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC5350766",
+  "title": "ACTS Abstracts",
+  "reason_code": "E4",
+  "reason": "ACTS 2015 abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/nu17142316",
+  "title": "Gut Microbiota in Women with Eating Disorders: A New Frontier in Pathophysiology and Treatment.",
+  "reason_code": "E4",
+  "reason": "Review of gut microbiota in eating disorders; MR only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/pathogens14070635",
+  "title": "Gut-Vaginal Microbiome Crosstalk in Ovarian Cancer: Implications for Early Diagnosis.",
+  "reason_code": "E4",
+  "reason": "Review of gut-vaginal microbiome in ovarian cancer; MR only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC7128807",
+  "title": "Poster Presentation Abstracts",
+  "reason_code": "E4",
+  "reason": "Cytokine 2017 poster abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC11408449",
+  "title": "ECR 2024 Book of Abstracts",
+  "reason_code": "E4",
+  "reason": "ECR 2024 book of abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC10772079",
+  "title": "Abstracts from the 56th European Society of Human Genetics (ESHG) Conference: Oral Presentations",
+  "reason_code": "E4",
+  "reason": "ESHG 2024 (56th) oral presentations is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fgene.2022.890007",
+  "title": "Exploring Potential Causal Genes for Uterine Leiomyomas: A Summary Data-Based Mendelian Randomization and FUMA Analysis.",
+  "reason_code": "E3",
+  "reason": "Own SMR of CAGE blood and GTEx uterus eQTLs has uterine leiomyomas as the outcome; endometriosis appears only as an enrichment term and cited trait.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fneur.2024.1411541",
+  "title": "Causal links between blood inflammation markers and postherpetic neuralgia risk: insights from a two-sample Mendelian randomization study.",
+  "reason_code": "E3",
+  "reason": "Own MR of 41 circulating inflammatory cytokines has postherpetic neuralgia as the outcome; endometriosis only cited.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s12672-025-02741-7",
+  "title": "To explore the molecular mechanisms and shared genetic characteristics of rheumatoid arthritis and cervical cancer based on multiple omics and clinical samples.",
+  "reason_code": "E2",
+  "reason": "Own MR uses rheumatoid arthritis liability as the exposure for cervical cancer; there is no gene-level instrument.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12876-024-03277-w",
+  "title": "Metabolites mediate the causal associations between gut microbiota and NAFLD: a Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Two-step MR of gut microbiota and blood metabolites on NAFLD; non-gene exposures.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/eurheartj/ehaf1001",
+  "title": "Cardiovascular disease in women: traditional and sex-specific risk factors.",
+  "reason_code": "E4",
+  "reason": "Review of cardiovascular risk factors in women that only cites MR studies.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1021/pr500384n",
+  "title": "Ovarian endometriosis signatures established through discovery and directed mass spectrometry analysis.",
+  "reason_code": "E1",
+  "reason": "Mass-spectrometry proteomics of ovarian endometrioma versus endometrium; no MR or genetic instruments.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2022.809445",
+  "title": "Smoking Status and Type 2 Diabetes, and Cardiovascular Disease: A Comprehensive Analysis of Shared Genetic Etiology and Causal Relationship.",
+  "reason_code": "E2",
+  "reason": "Own MR uses smoking status as exposure and type 2 diabetes/cardiovascular diseases as outcomes; endometriosis only mentioned regarding CDKN2B-AS1 expression.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC9364699",
+  "title": "PROCEEDINGS OF THE ANNUAL CONGRESS OF SIAPec IAP : November 23rd-27th, 2021",
+  "reason_code": "E4",
+  "reason": "SIAPEC-IAP 2021 congress proceedings (meeting report) is a conference abstract collection; the endometriosis content is histopathology teaching and no MR passages were extracted.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s10194-025-02145-6",
+  "title": "Hallmarks of primary headache: part 3 - cluster headache.",
+  "reason_code": "E4",
+  "reason": "Review of cluster headache hallmarks citing a smoking MR; no original estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.redox.2025.103930",
+  "title": "Ferredoxins: master regulators in mitochondrial redox homeostasis and programmed cell death.",
+  "reason_code": "E4",
+  "reason": "Review of ferredoxins FDX1/FDX2 in redox homeostasis and cell death that only cites an MR/colocalisation study of multiple myeloma.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1210/endrev/bnab015",
+  "title": "The Relationship Between Bone and Reproductive Hormones Beyond Estrogens and Androgens.",
+  "reason_code": "E4",
+  "reason": "Review of reproductive hormones beyond estrogens and androgens in bone biology; no own MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1001/jamaneurol.2024.2443",
+  "title": "Pain Phenotypes and Pain Multimorbidity Among Medicare Beneficiaries With Cerebral Palsy.",
+  "reason_code": "E1",
+  "reason": "Claims-based study of pain phenotypes in Medicare beneficiaries with cerebral palsy (title only, no abstract or MR passages), with no MR or genetic instruments.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1002/14651858.cd012378.pub2",
+  "title": "Inositol for subfertile women with polycystic ovary syndrome.",
+  "reason_code": "E4",
+  "reason": "Cochrane systematic review of inositol for subfertile women with PCOS, with no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3390/ijms11093298",
+  "title": "Materials for pharmaceutical dosage forms: molecular pharmaceutics and controlled release drug delivery aspects.",
+  "reason_code": "E4",
+  "reason": "Review of pharmaceutical controlled-release materials; no MR, endometriosis mentioned only as a leuprolide indication.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049674",
+  "title": "The causal relationship between serum metabolites and the development of infertility: A Mendelian randomization analysis.",
+  "reason_code": "E2",
+  "reason": "Own MR uses 486 serum metabolites on male and female infertility.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:PMC:PMC6611732",
+  "title": "Abstracts of the 12th European Cytogenomics Conference 2019 : Salzburg, Austria. 6-9 July 2019",
+  "reason_code": "E4",
+  "reason": "European Cytogenomics Conference 2019 abstracts is a conference abstract collection; the only MR concerns a 16p11.2 locus for age at menarche and the endometriosis abstracts are cytogenetic tissue studies.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s00247-021-05192-8",
+  "title": "IPR 2021.",
+  "reason_code": "E4",
+  "reason": "IPR 2021 paediatric radiology conference abstracts; no MR passages or endometriosis sentences were extracted.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s40520-025-03119-z",
+  "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2025).",
+  "reason_code": "E2",
+  "reason": "WCO-IOF-ESCEO 2025 abstract collection whose MR abstracts use heart rate variability, gut microbiota and similar non-gene traits as exposures for bone outcomes; there is no gene-level instrument or endometriosis outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12950-018-0188-5",
+  "title": "Experimental murine acute lung injury induces increase of pulmonary TIE2-expressing macrophages.",
+  "reason_code": "E1",
+  "reason": "Murine acute lung injury experiment on TIE2-expressing macrophages; the 'MR' hits are the author name Heidi and there is no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12916-023-02843-5",
+  "title": "Exploring the causal role of the immune response to varicella-zoster virus on multiple traits: a phenome-wide Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Phenome-wide MR of anti-varicella-zoster IgG antibody levels (genome-wide and MHC instruments) on 1,370 UK Biobank traits; an immune-response trait, not a gene- or protein-level instrument.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1136/bmjment-2024-301506",
+  "title": "Psychiatric morbidity in people with autoimmune arthritides as a model of inflammatory mechanisms in mental disorders.",
+  "reason_code": "E1",
+  "reason": "Czech matched cohort of rheumatoid arthritis/axial spondyloarthritis and psychiatric outcomes that only cites MR studies; no MR of its own.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.bpobgyn.2018.05.003",
+  "title": "Genetic studies of gestational duration and preterm birth.",
+  "reason_code": "E4",
+  "reason": "Review of genetic studies of gestational duration and preterm birth that only describes MR as a method; no original MR estimates.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.62347/cahx3621",
+  "title": "Bidirectional causal relationship between rheumatoid arthritis and systemic lupus erythematosus: a Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "The paper's own bidirectional MR uses rheumatoid arthritis and systemic lupus erythematosus (diseases) as exposure and outcome of each other; no gene-level instrument and endometriosis is not studied.",
+  "human_agrees": null
+ }
+]

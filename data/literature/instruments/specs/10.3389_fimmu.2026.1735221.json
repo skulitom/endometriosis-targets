@@ -1,0 +1,32 @@
+{
+ "record_id": "doi:10.3389/fimmu.2026.1735221",
+ "tables": {
+  "SF6_harmonised": {
+   "file": "text/Table7__Sheet1.csv",
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   }
+  }
+ },
+ "claims": {
+  "Xie2026FI-1": {
+   "status": "mapped",
+   "table": "SF6_harmonised",
+   "filters": [{"column": "exposure", "op": "equals", "value": "LRP1"}, {"column": "id.exposure", "op": "equals", "value": "Twk6Uc"}, {"column": "outcome", "op": "equals", "value": "Endometriosis"}],
+   "expected_n": 3,
+   "notes": "Table7.xlsx = TwoSampleMR harmonised data (Supplementary File 6, IVs; the three SNPs rs10098310, rs1375493, rs55909821 named in the text); exposure LRP1 (local id Twk6Uc), outcome Endometriosis (local id 4yYehe). Table6.xlsx (MR results) IVW b 0.33033 (OR 1.3914) for the same ids. Two of the three SNPs lie on chr8 and chr2, i.e. not cis to LRP1 (chr12)."
+  }
+ }
+}

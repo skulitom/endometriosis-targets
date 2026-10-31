@@ -1,0 +1,98 @@
+{
+ "record_id": "doi:10.1155/mi/6617402",
+ "tables": {},
+ "claims": {
+  "ZhengJ2026-1": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for ALPI: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-2": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for ARG1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-3": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for BANK1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-4": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for BLMH: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-5": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for CA1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-6": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for DCTD: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-7": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for FAM171A2: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-8": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for FN1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-9": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for GET3: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-10": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for HSPG2: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-11": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for KHK: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-12": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for LYN: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-13": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for MELTF: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-14": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for NTF4: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-15": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for PHLDB1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-16": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for POLR2F: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-17": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for PTRHD1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-18": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for SCRN1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-19": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for SRPX: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-20": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for STXBP1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots (SNP IDs appear only as plot labels in the S3/S4 leave-one-out and forest plots, with per-SNP Wald estimates drawn graphically and no SNP-exposure beta); main text gives no SNP table."
+  },
+  "ZhengJ2026-21": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for TNN: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-22": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for YY1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  },
+  "ZhengJ2026-23": {
+   "status": "not_available",
+   "reason": "No per-variant exposure effects for DDX1: Supporting Information 1 (xlsx) Tables S1-S10 hold only per-protein MR summaries (Table S2/S3/S4/S5: Nsnp, beta, se, OR, P), sensitivity tests (S6), DEGs, druggability and GEO data; the 189 SNP instruments are never listed. Supporting Information 2-5 PDFs are scatter, funnel, leave-one-out and forest plots, drawn only for the five replicated proteins (ALPI, HSPG2, KHK, POLR2F, STXBP1); nothing for this protein; main text gives no SNP table."
+  }
+ }
+}

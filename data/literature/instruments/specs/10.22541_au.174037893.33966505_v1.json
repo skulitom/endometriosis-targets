@@ -1,0 +1,22 @@
+{
+ "record_id": "doi:10.22541/au.174037893.33966505/v1",
+ "tables": {},
+ "claims": {
+  "Pan2025Authorea-1": {
+   "status": "not_available",
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Pan2025Authorea-2": {
+   "status": "not_available",
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Pan2025Authorea-3": {
+   "status": "not_available",
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Pan2025Authorea-4": {
+   "status": "not_available",
+   "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  }
+ }
+}

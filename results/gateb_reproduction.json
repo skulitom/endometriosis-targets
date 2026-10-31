@@ -1,0 +1,45 @@
+{
+ "file": "finngen_R10_N14_ENDOMETRIOSIS.gz",
+ "targets": {
+  "Tao2024-1": {
+   "role": "primary",
+   "gene": "EPHB4",
+   "reported_estimate": 1.4,
+   "reported_log": 0.3364722366212129,
+   "n_instruments": 1,
+   "found_in_r10": 1,
+   "missing": [],
+   "kept_masked_because_of": [],
+   "recomputed_log": 0.3349064243005306,
+   "recomputed_se": 0.07800825305926784,
+   "recomputed_or": 1.397809578093383,
+   "difference": -0.0015658123206823138,
+   "agree": true,
+   "variants": [
+    {
+     "rsid": "rs314361",
+     "effect_allele": "G",
+     "other_allele": "A",
+     "beta_exposure": 0.154367,
+     "beta_outcome": 0.0516985,
+     "effect_allele_outcome": "G",
+     "finngen_pos": "7:100815383"
+    }
+   ]
+  },
+  "Xie2026FI-1": {
+   "role": "secondary: endpoint not named in paper",
+   "gene": "LRP1",
+   "reported_estimate": 1.39142735288651,
+   "reported_log": 0.33033009284983217,
+   "n_instruments": 3,
+   "found_in_r10": 2,
+   "missing": [
+    "rs55909821"
+   ],
+   "kept_masked_because_of": [
+    "PRIM1"
+   ]
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "record_id": "doi:10.1016/j.heliyon.2024.e34494",
+ "tables": {
+  "sT3": {
+   "file": "text/mmc1__sT3._SNP_for_target_gene.csv",
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure"
+   },
+   "description": "Supplementary sT3 'SNP for target gene': cis-variant BMD instruments (gene +/-2.5 kb, FDR<0.05, clumped r2<0.01) per anti-osteoporosis drug-target gene, exposure effects only. MR results for ESR1 by outcome are in sT5 (endometriosis = ukb-d-N80)."
+  }
+ },
+ "claims": {
+  "Xiang2024bmd-1": {
+   "status": "mapped",
+   "table": "sT3",
+   "filters": [{"column": "exposure", "op": "equals", "value": "ESR1"}],
+   "expected_n": 87,
+   "notes": "All 87 ESR1 rows of sT3, which the main text names as the instrument table. sT5 reports nsnp=134 for ESR1 on endometriosis (ukb-d-N80; IVW OR 0.9992, rounded 0.99 in the claim) and 128-134 for other outcomes, i.e. more SNPs than sT3 lists, so the supplement's ESR1 list is incomplete or from a different selection step; the 134-SNP set cannot be reconstructed. No outcome effects, so no recompute."
+  }
+ }
+}

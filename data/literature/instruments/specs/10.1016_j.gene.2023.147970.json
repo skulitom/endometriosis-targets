@@ -1,0 +1,58 @@
+{
+ "record_id": "doi:10.1016/j.gene.2023.147970",
+ "tables": {},
+ "claims": {
+  "Zeng2024Gene-1": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for IMMT: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-2": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for SKAP1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-3": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for KMT5A: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-4": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for KLF12: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-5": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for GIGYF1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-6": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for WNT7A: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-7": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for SUN1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-8": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for PARP3: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-9": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for PAQR8: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-10": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for AP3M1: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-11": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for SURF6: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-12": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for TUB: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  },
+  "Zeng2024Gene-13": {
+   "status": "not_available",
+   "reason": "Supplementary Table S1 (FinnGen R9 SMR) lists only Probe_ID, TopSNP, OR (95% CI), P, PSMR, PHEIDI for POLDIP2: no effect allele and no eQTL (exposure) or GWAS beta/se for the top SNP; Tables S2-S3 likewise lack per-variant effects. No per-variant data with an exposure effect size in the supplement (mmc1.xlsx)."
+  }
+ }
+}

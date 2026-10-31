@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1097/md.0000000000042579",
+ "tables": {},
+ "claims": {
+  "Aru2025cath-1": {
+   "status": "not_available",
+   "reason": "Supplement s001.pdf has only MR summary tables (Supplementary Tables 1-11; Table 10 lists two pleiotropic SNPs without effect sizes) and s002.pdf only leave-one-out plots; neither the supplements nor the main text give per-SNP exposure effects for the 10 CTSH instruments."
+  }
+ }
+}

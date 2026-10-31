@@ -1,0 +1,86 @@
+[
+ {
+  "claim_id": "Rahmioglu2023-9",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 700352,
+    "evidence": "Rahmioglu 2023 Methods ('Study-level analyses'): 58,961 cases and 700,345 controls; Supplementary Table 10 caption (European-ancestry meta-analysis used for SMR): 58,961 cases, 700,352 controls. Table value kept, as EXTRACTION.md prefers tables.",
+    "source_inconsistent": true,
+    "note": "Paper reports 700,345 (Methods) and 700,352 (Supplementary Table 10 caption)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Rahmioglu2023-10",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 700352,
+    "evidence": "Rahmioglu 2023 Methods ('Study-level analyses'): 58,961 cases and 700,345 controls; Supplementary Table 10 caption (European-ancestry meta-analysis used for SMR): 58,961 cases, 700,352 controls. Table value kept, as EXTRACTION.md prefers tables.",
+    "source_inconsistent": true,
+    "note": "Paper reports 700,345 (Methods) and 700,352 (Supplementary Table 10 caption)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Rahmioglu2023-32",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 700352,
+    "evidence": "Rahmioglu 2023 Methods ('Study-level analyses'): 58,961 cases and 700,345 controls; Supplementary Table 10 caption (European-ancestry meta-analysis used for SMR): 58,961 cases, 700,352 controls. Table value kept, as EXTRACTION.md prefers tables.",
+    "source_inconsistent": true,
+    "note": "Paper reports 700,345 (Methods) and 700,352 (Supplementary Table 10 caption)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Rahmioglu2023-33",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 700352,
+    "evidence": "Rahmioglu 2023 Methods ('Study-level analyses'): 58,961 cases and 700,345 controls; Supplementary Table 10 caption (European-ancestry meta-analysis used for SMR): 58,961 cases, 700,352 controls. Table value kept, as EXTRACTION.md prefers tables.",
+    "source_inconsistent": true,
+    "note": "Paper reports 700,345 (Methods) and 700,352 (Supplementary Table 10 caption)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Rahmioglu2023-38",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 700352,
+    "evidence": "Rahmioglu 2023 Methods ('Study-level analyses'): 58,961 cases and 700,345 controls; Supplementary Table 10 caption (European-ancestry meta-analysis used for SMR): 58,961 cases, 700,352 controls. Table value kept, as EXTRACTION.md prefers tables.",
+    "source_inconsistent": true,
+    "note": "Paper reports 700,345 (Methods) and 700,352 (Supplementary Table 10 caption)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Mortlock2019-1",
+  "fields": [
+   {
+    "field": "headline",
+    "decision": "second",
+    "value": false,
+    "evidence": "Abstract: 'one mQTL located in a known risk region for endometriosis (near GREB1)'; the conclusion speaks of target genes for functional studies without naming GREB1 as a causal or target gene.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Headline set false: GREB1 is named only as the location of a risk region."
+ }
+]

@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.2147/ijwh.s509603",
+ "tables": {},
+ "claims": {
+  "Xue2025ugcg-1": {
+   "status": "not_available",
+   "reason": "Instruments (24 SNPs, F>21) are in Supplementary Table 1, which was not obtainable (no supplementary files downloaded; PMC XML lists none); main text has only Table 1 (data sources), Table 2 (MR summary) and Table 3 (mediation), no per-SNP data."
+  }
+ }
+}

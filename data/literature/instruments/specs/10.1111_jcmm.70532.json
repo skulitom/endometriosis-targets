@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1111/jcmm.70532",
+ "tables": {},
+ "claims": {
+  "Xu2025JCMM-1": {
+   "status": "not_available",
+   "reason": "No per-SNP instrument table: Appendix S1 lists cytokine GWAS accessions, Appendix S2 (s001/s003 Supplementary_2) gives per-cytokine MR summary results (TRAIL GCST004424: nsnp 56, IVW b/se), Appendix S3 (s002.tif) is a method forest plot, Appendix S4 (s003 Supplementary_3) lists MAGMA gene-set loci/SNP IDs without effect sizes; main-text tables are summary only."
+  }
+ }
+}

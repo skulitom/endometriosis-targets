@@ -1,0 +1,56 @@
+{
+ "source": "Gao 2025 (doi:10.1097/md.0000000000045854) main-text Table 1, 'F-statistics' column; Europe PMC fullTextXML PMC12622680, read 2026-10-31",
+ "transcribed_by": "Claude (script-parsed from the XML table, printed and checked by eye against the table rows)",
+ "claims": {
+  "Gao2025Med-1": [
+   {
+    "rsid": "rs6328",
+    "F_reported": 42.68
+   }
+  ],
+  "Gao2025Med-2": [
+   {
+    "rsid": "rs75612655",
+    "F_reported": 57.63
+   },
+   {
+    "rsid": "rs10733789",
+    "F_reported": 41.18
+   },
+   {
+    "rsid": "rs3184504",
+    "F_reported": 87.68
+   }
+  ],
+  "Gao2025Med-3": [
+   {
+    "rsid": "rs10212190",
+    "F_reported": 36.1
+   },
+   {
+    "rsid": "rs570025519",
+    "F_reported": 64.88
+   },
+   {
+    "rsid": "rs114466578",
+    "F_reported": 36.65
+   },
+   {
+    "rsid": "rs2790462",
+    "F_reported": 35.15
+   },
+   {
+    "rsid": "rs3184504",
+    "F_reported": 55.67
+   },
+   {
+    "rsid": "rs56244095",
+    "F_reported": 42.17
+   },
+   {
+    "rsid": "rs2725405",
+    "F_reported": 40.2
+   }
+  ]
+ }
+}

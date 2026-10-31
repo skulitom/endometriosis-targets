@@ -1,0 +1,165 @@
+{
+ "record_id": "doi:10.1016/j.jri.2024.104293",
+ "tables": {
+  "S1": {
+   "file": "10.1016_j.jri.2024.104293__mmc1_Table_S1_IVs.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "source": "text/mmc1__Table_S1_IVs.csv (converted from files/mmc1.xls, sheet 'Table S1 IVs')",
+   "description": "Exposure-side instruments for the 41 inflammatory factors. The converted table is in block layout (an exposure label row followed by its SNP rows, no per-row exposure column) and some SNPs occur in several blocks, so it cannot be filtered by label. This copy was generated mechanically from the converted CSV: the block label is written to an 'exposure' column, every cell string is copied verbatim, the trailing footnote marker 'a' (footnote: proxy SNP used as substitute for missing data) is moved from the SNP cell to 'proxy_footnote', and 'source_line' gives the line in the converted CSV. No outcome (endometriosis) per-SNP effects are reported anywhere.",
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect allele",
+    "other_allele": "other allele",
+    "beta_exposure": "beta",
+    "se_exposure": "se",
+    "pval_exposure": "pvalue"
+   }
+  }
+ },
+ "claims": {
+  "WeiL2024JRI-1": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "MCP1"
+    }
+   ],
+   "expected_n": 16,
+   "notes": "CCL2 = 'MCP1' block of Table S1 (exposure SNPs only; same 16 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row MCP1 -> Endometriosis (overall) (beta -0.138, OR 0.871). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-2": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "MIP1a"
+    }
+   ],
+   "expected_n": 4,
+   "notes": "CCL3 = 'MIP1a' block of Table S1 (exposure SNPs only; same 4 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row MIP1a -> Endometriosis of fallopian tube (beta -1.343, OR 0.261). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-3": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "GCSF"
+    }
+   ],
+   "expected_n": 9,
+   "notes": "CSF3 = 'GCSF' block of Table S1 (exposure SNPs only; same 9 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row GCSF -> Endometriosis of intestine (beta -1.202, OR 0.300). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-4": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "MIF"
+    }
+   ],
+   "expected_n": 10,
+   "notes": "MIF = 'MIF' block of Table S1 (exposure SNPs only; same 10 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row MIF -> Endometriosis of intestine (beta 0.978 but OR column 0.660 (exp(beta)=2.66; internally inconsistent in Table S3)). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-5": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL4"
+    }
+   ],
+   "expected_n": 14,
+   "notes": "IL4 = 'IL4' block of Table S1 (exposure SNPs only; same 14 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL4 -> Endometriosis of intestine (beta 0.753, OR 2.123). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-6": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL5"
+    }
+   ],
+   "expected_n": 8,
+   "notes": "IL5 = 'IL5' block of Table S1 (exposure SNPs only; same 8 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL5 -> Endometriosis of fallopian tube (beta 1.134, OR 3.108). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-7": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL8"
+    }
+   ],
+   "expected_n": 8,
+   "notes": "CXCL8 = 'IL8' block of Table S1 (exposure SNPs only; same 8 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL8 -> Endometriosis of rectovaginal septum and vagina (beta 0.248, OR 1.282). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-8": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL9"
+    }
+   ],
+   "expected_n": 6,
+   "notes": "IL9 = 'IL9' block of Table S1 (exposure SNPs only; same 6 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL9 -> Endometriosis of rectovaginal septum and vagina (beta 0.384, OR 1.468). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-9": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL12P70"
+    }
+   ],
+   "expected_n": 15,
+   "notes": "IL12B = 'IL12P70' block of Table S1 (exposure SNPs only; same 15 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL12P70 -> Endometriosis of uterus (beta 0.287, OR 1.333). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-10": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL16"
+    }
+   ],
+   "expected_n": 10,
+   "notes": "IL16 = 'IL16' block of Table S1 (exposure SNPs only; same 10 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL16 -> Endometriosis (overall) (beta -0.104 but OR column 1.293 (exp(beta)=0.90; internally inconsistent in Table S3)). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  },
+  "WeiL2024JRI-11": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL17"
+    }
+   ],
+   "expected_n": 8,
+   "notes": "IL17A = 'IL17' block of Table S1 (exposure SNPs only; same 8 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL17 -> Endometriosis of uterus (beta -0.262, OR 0.770). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed."
+  }
+ }
+}

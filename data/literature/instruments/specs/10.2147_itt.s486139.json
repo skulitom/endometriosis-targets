@@ -1,0 +1,30 @@
+{
+ "record_id": "doi:10.2147/itt.s486139",
+ "tables": {},
+ "claims": {
+  "WeiY2024ITT-1": {
+   "status": "not_available",
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-2": {
+   "status": "not_available",
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-3": {
+   "status": "not_available",
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-4": {
+   "status": "not_available",
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-5": {
+   "status": "not_available",
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  },
+  "WeiY2024ITT-6": {
+   "status": "not_available",
+   "reason": "Per-SNP instruments are in Supplementary Table 3, which is inside the Dove Press supplementary PDF (dovepress.com get_supplementary_file.php?f=486139.pdf) not present in the supplement folder; the folder holds only the five main-text figures (flowchart, forest plots) and the main text gives only summary IVW/WM/Egger estimates, so no per-variant exposure effects are available."
+  }
+ }
+}

@@ -1,0 +1,750 @@
+[
+ {
+  "record_id": "doi:10.1093/humrep/deab254",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR between endometriosis and asthma (disease exposure); gene-level results are gene-based overlap, not MR.",
+  "exposure_summary": "Asthma / endometriosis genetic liability",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear"
+ },
+ {
+  "record_id": "doi:10.1093/humrep/deaf062",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "MR uses endometriosis variants as exposure for immune diseases; eQTL annotation only.",
+  "exposure_summary": "Genetic liability to endometriosis (39 variants)",
+  "genes_or_proteins_named": [
+   "BMPR2",
+   "BSN",
+   "MLLT10",
+   "XKR6"
+  ],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1093/humrep/deag047",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR exposures are serotonin (metabolite) and Akkermansia muciniphila, not gene products.",
+  "exposure_summary": "Serotonin levels and gut/reproductive bacteria",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1093/humrep/del446",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Family linkage analysis; no Mendelian randomization.",
+  "exposure_summary": "Not applicable (linkage analysis)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1093/humrep/dez279",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "Endometrial eQTL study with SMR of gene expression on endometriosis; genes not named in abstract.",
+  "exposure_summary": "Endometrial gene expression (cis-eQTL) via SMR; also TWAS",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1093/humupd/6.1.37",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of heritability and molecular genetics.",
+  "exposure_summary": "Not applicable (review)",
+  "genes_or_proteins_named": [
+   "PTEN"
+  ],
+  "endometriosis_role": "unclear"
+ },
+ {
+  "record_id": "doi:10.1093/humupd/dmad009",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of MR and genetic-correlation studies of endometriosis comorbidities.",
+  "exposure_summary": "Not applicable (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1093/humupd/dmag023",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of endometriosis genetic architecture.",
+  "exposure_summary": "Not applicable (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear"
+ },
+ {
+  "record_id": "doi:10.1093/postmj/qgad023",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is age at menarche, not a gene product.",
+  "exposure_summary": "Age at menarche",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1093/postmj/qgae011",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Apolipoproteins A-I and B tested; unclear whether counted as protein-level or lipid traits (genome-wide instruments).",
+  "exposure_summary": "Lipoprotein lipids and apolipoproteins A-I, B",
+  "genes_or_proteins_named": [
+   "APOA1"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1093/pubmed/fdag034",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Systematic review/meta-analysis of MR for ovarian cancer; endometriosis only as exposure.",
+  "exposure_summary": "Not applicable (review); endometriosis among OC risk factors",
+  "genes_or_proteins_named": [
+   "HMGCR"
+  ],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1096/fj.202002541rrr",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Mouse/lab study of niclosamide; no MR.",
+  "exposure_summary": "Not applicable (animal drug study)",
+  "genes_or_proteins_named": [
+   "GATA6"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/jom.0000000000003844",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR-PheWAS of night shift work, a behaviour.",
+  "exposure_summary": "Night shift work",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/js9.0000000000001909",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Abstract missing; title indicates immune-cell exposures (likely E2), direction unclear.",
+  "exposure_summary": "Immune cells (per title)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000037383",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is gut microbiota taxa.",
+  "exposure_summary": "211 gut microbiota taxa",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000038823",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are depression, anxiety, neuroticism.",
+  "exposure_summary": "Depression, anxiety, neuroticism",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000038972",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 41 circulating cytokines/inflammatory regulators on endometriosis with estimates.",
+  "exposure_summary": "41 circulating cytokines and inflammatory regulators",
+  "genes_or_proteins_named": [
+   "IL6",
+   "PDGFB"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000040690",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are circulating metabolites.",
+  "exposure_summary": "486 circulating metabolites",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000041804",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of gene expression on endometriosis identifies candidate genes.",
+  "exposure_summary": "Gene expression (eQTL) via SMR",
+  "genes_or_proteins_named": [
+   "ADK",
+   "EHHADH",
+   "CNOT7"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042579",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "MR of nine circulating cathepsin levels on endometriosis and subtypes with estimates.",
+  "exposure_summary": "Circulating levels of 9 cathepsins",
+  "genes_or_proteins_named": [
+   "CTSH"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042685",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "Drug-target MR of PCSK9/HMGCR inhibition with endometriosis outcome.",
+  "exposure_summary": "Drug-target proxies for PCSK9 and HMGCR inhibition",
+  "genes_or_proteins_named": [
+   "PCSK9",
+   "HMGCR"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043115",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Network pharmacology and molecular docking; no MR.",
+  "exposure_summary": "Not applicable (network pharmacology)",
+  "genes_or_proteins_named": [
+   "AKT1",
+   "ALB",
+   "STAT3",
+   "TNF"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043163",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "MR includes 91 inflammatory proteins with endometriosis outcome; protein estimates reported.",
+  "exposure_summary": "Lipid metabolites, immune cell traits, 91 inflammatory proteins",
+  "genes_or_proteins_named": [
+   "IL17A",
+   "TNFSF10",
+   "CCL4"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043663",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometriosis is the MR exposure; fertility outcomes.",
+  "exposure_summary": "Genetic liability to endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045026",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Blood/urine biomarker MR names IGF-1 as endometriosis risk factor; peptide hormone, check protein-level eligibility.",
+  "exposure_summary": "Blood and urine biomarkers (incl. IGF-1, lipids, calcium)",
+  "genes_or_proteins_named": [
+   "IGF1"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045729",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is depression.",
+  "exposure_summary": "Depression",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045786",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are sleep traits.",
+  "exposure_summary": "Sleep disorders and sleep traits",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045854",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 91 inflammatory proteins (pQTL) on endometriosis; beta-NGF headline.",
+  "exposure_summary": "91 circulating inflammatory proteins (pQTL)",
+  "genes_or_proteins_named": [
+   "NGF",
+   "CXCL11",
+   "SLAMF1"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045989",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is theobromine (dietary metabolite).",
+  "exposure_summary": "Theobromine levels",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000046982",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "'91 blood cells' exposure unclear; count matches Olink 91-protein panel, need full text.",
+  "exposure_summary": "91 'blood cell' traits (unclear; possibly immune cells or proteins)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000047248",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are endocrine-disrupting chemicals and plasma metabolites.",
+  "exposure_summary": "Endocrine-disrupting chemicals; plasma metabolites as mediators",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000047910",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is lipid traits with genome-wide instruments.",
+  "exposure_summary": "Triglycerides, cholesterol, LDL, HDL",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000048562",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is serum 25-hydroxyvitamin D, not a gene product.",
+  "exposure_summary": "Serum 25-hydroxyvitamin D",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000048611",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Behaviour exposures; CRP used as MR mediator, unclear if CRP-endometriosis estimate reported.",
+  "exposure_summary": "Screen time, physical activity, mood, well-being; CRP/estradiol mediators",
+  "genes_or_proteins_named": [
+   "CRP"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049148",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "Proteome-wide MR and SMR of UKB-PPP plasma proteins on endometriosis.",
+  "exposure_summary": "Plasma protein levels (UKB-PPP pQTL)",
+  "genes_or_proteins_named": [
+   "RSPO3",
+   "WASHC3",
+   "FSHB",
+   "VEGFB"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049618",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "MR of circulating granulysin level on ovarian endometriosis with estimate.",
+  "exposure_summary": "Granulysin level",
+  "genes_or_proteins_named": [
+   "GNLY"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049666",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Thyroid function MR includes TSH (peptide hormone) with endometriosis outcome; check protein-level eligibility.",
+  "exposure_summary": "Thyroid function: FT4, TSH, TPOAb, thyroid disease",
+  "genes_or_proteins_named": [
+   "TSH"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000050675",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "MR of 108 UKBB traits; unclear whether any protein-level traits were tested.",
+  "exposure_summary": "108 UK Biobank traits (telomere length, lipids, others)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1097/rd9.0000000000000108",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is leukocyte telomere length.",
+  "exposure_summary": "Leukocyte telomere length",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1099/jmm.0.002174",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is gut microbiota genera.",
+  "exposure_summary": "119 gut microbial genera",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1101/2020.11.09.20228114",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Gynecological diseases as exposures for endometrial cancer; endometriosis not an outcome.",
+  "exposure_summary": "Genetic liability to endometriosis, PCOS, uterine fibroids",
+  "genes_or_proteins_named": [
+   "WNT4"
+  ],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1101/2021.06.01.21257781",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Obesity MR with metabolic hormones (leptin, insulin); unclear if tested against endometriosis.",
+  "exposure_summary": "Obesity traits; metabolic hormones (leptin, fasting insulin)",
+  "genes_or_proteins_named": [
+   "LEP",
+   "INS"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1101/2021.06.28.21259290",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometriosis liability as exposure for ovarian cancer histotypes.",
+  "exposure_summary": "Genetic liability to endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1101/2022.02.02.22269844",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are cardiometabolic traits/diseases; preprint of JAHA 10.1161/jaha.121.026561.",
+  "exposure_summary": "BMI, CAD, T2D, hypertension",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1101/2022.10.20.22281201",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR between gastrointestinal disorders and endometriosis (disease exposures).",
+  "exposure_summary": "Gastrointestinal disorders (GORD, PUD, IBS, IBD)",
+  "genes_or_proteins_named": [
+   "FN1",
+   "TACSTD2",
+   "ETAA1",
+   "HOXC4",
+   "RERG",
+   "SEMA3F",
+   "SPAG16",
+   "HIST1H2BC",
+   "RAB5B",
+   "CCKBR",
+   "PDE4B"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1101/2022.12.20.22283736",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Transcriptomic drug repositioning and rat model; no MR.",
+  "exposure_summary": "Not applicable (expression-reversal drug repurposing)",
+  "genes_or_proteins_named": [
+   "PPARG",
+   "PPARA",
+   "PTGS2"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1101/2024.01.05.24300901",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Meta-analysis of observational anogenital distance studies; no MR.",
+  "exposure_summary": "Not applicable (anogenital distance, observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1101/2024.07.08.24310092",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometriosis as MR exposure; preprint of humrep/deaf062.",
+  "exposure_summary": "Genetic liability to endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1101/472696",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Outcome is epithelial ovarian cancer; endometriosis only among exposures.",
+  "exposure_summary": "13 ovarian cancer risk factors incl. endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1111/1471-0528.18039",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometriosis is the MR exposure; gestational duration/preterm birth outcomes.",
+  "exposure_summary": "Genetic liability to endometriosis",
+  "genes_or_proteins_named": [
+   "EBF1",
+   "WNT4",
+   "GDAP1"
+  ],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1111/aji.13917",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are 731 immune cell traits.",
+  "exposure_summary": "731 immune cell traits",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1111/aji.70064",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is abortion.",
+  "exposure_summary": "Abortion (medical, spontaneous, other)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1111/cas.14667",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is BMI.",
+  "exposure_summary": "Body mass index",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1111/j.1749-6632.2002.tb02785.x",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review.",
+  "exposure_summary": "Not applicable (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear"
+ },
+ {
+  "record_id": "doi:10.1111/jcmm.70532",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 41 circulating cytokines on endometriosis; TRAIL headline estimate.",
+  "exposure_summary": "41 circulating cytokines",
+  "genes_or_proteins_named": [
+   "TNFSF10",
+   "DSG2"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1111/jcmm.70799",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometriosis is the MR exposure; IBD outcome.",
+  "exposure_summary": "Genetic liability to endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1111/ppe.12245",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Telomere length vs fecundability/ART; endometriosis not studied.",
+  "exposure_summary": "Leukocyte telomere length",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied"
+ },
+ {
+  "record_id": "doi:10.1155/2019/2360367",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Systems pharmacology, docking and animal study; no MR.",
+  "exposure_summary": "Not applicable (herbal formula study)",
+  "genes_or_proteins_named": [
+   "BCL2",
+   "BAX",
+   "CASP9",
+   "CASP3",
+   "PARP1"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1155/bmri/8422273",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR between IBD and endometriosis (disease exposure); colocalised loci only.",
+  "exposure_summary": "Inflammatory bowel disease / endometriosis liability",
+  "genes_or_proteins_named": [
+   "ADCY3",
+   "DNAJC27",
+   "CCDC88B",
+   "GREB1",
+   "NOD2",
+   "RSPO3",
+   "SYNE1",
+   "THADA",
+   "TRAIP"
+  ],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1155/ije/3604933",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is obstructive sleep apnea.",
+  "exposure_summary": "Obstructive sleep apnea; BMI mediator",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1155/mi/6617402",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "cis-MR of UKB-PPP plasma proteins on endometriosis with replication.",
+  "exposure_summary": "Plasma protein levels (UKB-PPP cis-pQTL)",
+  "genes_or_proteins_named": [
+   "ALPI",
+   "KHK",
+   "HSPG2",
+   "STXBP1",
+   "POLR2F"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1155/prm/4194108",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometrial cancer outcome; endometriosis only an exposure.",
+  "exposure_summary": "Dysmenorrhea, pain, analgesic use, endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1158/1055-9965.epi-23-0121",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Folate MR on ovarian cancer; endometriosis only a stratifier, not outcome.",
+  "exposure_summary": "Folate status (intake, genetic proxy)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied"
+ },
+ {
+  "record_id": "doi:10.1159/000543707",
+  "decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of whole-blood cis-eQTL gene expression on endometriosis.",
+  "exposure_summary": "Whole-blood gene expression (cis-eQTL) via SMR",
+  "genes_or_proteins_named": [
+   "EEFSEC",
+   "INO80E",
+   "RAP1GAP",
+   "LDAH",
+   "RSPRY1",
+   "HCG22",
+   "ADK"
+  ],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1161/jaha.121.026561",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are cardiometabolic traits/diseases.",
+  "exposure_summary": "BMI, CAD, T2D, hypertension",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1161/strokeaha.122.041163",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Abstract missing; title indicates endometriosis as exposure, stroke outcome (likely E3).",
+  "exposure_summary": "Endometriosis liability (per title)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1177/1933719118785767",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Editorial on drug development.",
+  "exposure_summary": "Not applicable (editorial)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear"
+ },
+ {
+  "record_id": "doi:10.1186/s12884-024-06347-9",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Endometriosis is the MR exposure; autoimmune disease outcomes.",
+  "exposure_summary": "Genetic liability to endometriosis",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-023-02742-0",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is gut microbiome taxa.",
+  "exposure_summary": "211 gut microbiome taxa",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-024-02945-z",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is gut microbiota taxa.",
+  "exposure_summary": "211 gut microbiota taxa",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-024-03213-w",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposure is lipid traits with genome-wide instruments.",
+  "exposure_summary": "TG, total cholesterol, LDL, HDL",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "both"
+ }
+]

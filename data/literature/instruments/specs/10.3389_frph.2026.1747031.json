@@ -1,0 +1,126 @@
+{
+ "record_id": "doi:10.3389/frph.2026.1747031",
+ "tables": {},
+ "claims": {
+  "Wang2026FRH-1": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs11714) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-2": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs370545) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-3": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs849749) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-4": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs34181670) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-5": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4346430) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-6": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs12475126) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-7": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs13020214) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-8": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7562400) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-9": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7560328) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-10": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4687626) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-11": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7429119) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-12": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs6595994) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-13": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs114756165) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-14": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs74797509) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-15": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs7942527) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-16": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4148170) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-17": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs1127787) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-18": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4457792) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-19": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs34263) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-20": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs440500) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-21": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4795457) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-22": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs62077191) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-23": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs75116816) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-24": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs2427777) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-25": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs4806187) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-26": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs3646) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-27": {
+   "status": "not_available",
+   "reason": "Figure 2A (eQTL) gives only the SMR top SNP rsID (rs3788279) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-28": {
+   "status": "not_available",
+   "reason": "Figure 2B (pQTL) gives only the SMR top SNP rsID (rs17607959) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-29": {
+   "status": "not_available",
+   "reason": "Figure 2B (pQTL) gives only the SMR top SNP rsID (rs12902310) with OR, p_SMR, p_HEIDI and nsnp_HEIDI - no eQTL/pQTL effect size, SE or alleles for the top SNP. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  },
+  "Wang2026FRH-66": {
+   "status": "not_available",
+   "reason": "RPL21 appears in no figure or table of the paper; Supplementary Table 7 (128 causal genes) is not in the published supplement. The published supplement holds only gene-level heterogeneity/pleiotropy tables (Datasheet1 eQTL, Datasheet2 pQTL), Steiger summaries and leave-one-out/forest/funnel plot PDFs (rsIDs only, no SNP-exposure effects); the TSMR/SMR result tables cited in the text (Supplementary Tables 1-7) are not part of it."
+  }
+ }
+}

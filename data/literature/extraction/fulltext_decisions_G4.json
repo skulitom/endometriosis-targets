@@ -1,0 +1,90 @@
+[
+ {
+  "record_id": "doi:10.1016/j.xgen.2023.100341",
+  "final_decision": "exclude",
+  "reason_code": "E5",
+  "reason": "Benchmark of gene-prioritization methods across 30 traits: per-gene eQTL/pQTL MR (smr-ivw) results for endometriosis are not reported, only rank percentiles of known drug-target genes; no estimate, P or direction.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Endometriosis outcome = METAL meta-analysis of FinnGen R7 N14 and UK Biobank N80 (Table S1A). Table S9 (mmc10) lists only drug-target genes with their rank among ~16,250 (eQTL) or ~1,870 (pQTL) genes ranked by MR P: eQTL-GWAS ESR1 rank 3 (top 0.018%), ORM1 37, EPHB1 61, MUC1 100; pQTL-GWAS PDE4A rank 12 (top 0.61%). 'Prioritized' = top 1% (5% for pQTL), a rank cut-off, not a significance test; the paper makes no causal or target claim for endometriosis. Code archived at Zenodo 10.5281/zenodo.7857973 (no per-gene results deposited). Ambiguous: could be re-coded as an include with p-value-less claims if ranks are accepted as tests."
+ },
+ {
+  "record_id": "doi:10.1038/s44161-025-00700-7",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "IL6 drug-target proxy (CRP-weighted IL6-locus variants) phenome-wide MR in FinnGen R12; FDR-significant, robustness-filtered lower risk of unspecified/other endometriosis with downregulated IL-6 signalling.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Overall FinnGen N14_ENDOMETRIOSIS and other subtypes null (Supplementary Table 14); only N14_ENDOMETRIOSIS_NOS significant, so it is the claim outcome. Not headline (abstract silent on endometriosis)."
+ },
+ {
+  "record_id": "doi:10.1097/js9.0000000000005020",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Alzheimer's cis-pQTL MR whose FinnGen R12 phenome-wide MR reports EPHB4 associated with higher risk of endometriosis of the ovary (OR > 1, FDR < 0.05).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Supplemental Digital Content Table S11 (http://links.lww.com/JS9/H24) holds the estimate and could not be obtained; claim records direction only (estimate and P null). Not headline."
+ },
+ {
+  "record_id": "doi:10.1155/2024/9234876",
+  "final_decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Only endometriosis-related outcome is FinnGen R9 'Endometriosis diagnosis and infertility diagnosis occurring together' (female infertility related to endometriosis), an infertility endpoint under the provisional outcome rule.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Rule applied: FinnGen female infertility associated with endometriosis is not an endometriosis case definition (instructions_G outcome rules). For the record: 3,206 cases/201,035 controls (Table S2); IL-18 exposure = 4 genome-wide SNPs from Ahola-Olli 2016 (not cis); IL-18 on this endpoint IVW OR 0.91 (0.77-1.08), P=0.29 (Figure 3), i.e. not significant anyway."
+ },
+ {
+  "record_id": "doi:10.1186/s12958-025-01406-y",
+  "final_decision": "exclude",
+  "reason_code": "E5",
+  "reason": "Endometriosis (FinnGen R11) appears only in the genetic-correlation analysis; MR was restricted to the eight traits genetically correlated with BMI and SMR results are reported only for GDM, GH and EC; no MR or SMR result for endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "BMI-endometriosis rg 0.013 (LDSC P 0.60), not significant (Table 1). SMR results (Table S12) cover GDM, GH, EC and BMI only. No gene-level or BMI MR on endometriosis (Table S11)."
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s525908",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "POP druggable-genome eQTL MR whose phenome-wide MR reports a significant (FDR < 0.05) negative association of ESR1 blood expression with endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Table S15 with the estimate, outcome dataset (UK Biobank or FinnGen R11) and endpoint could not be obtained; claim records direction only, outcome_cohorts ['unknown']. Not headline."
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s638707",
+  "final_decision": "exclude",
+  "reason_code": "E5",
+  "reason": "FinnGen R12 N14_ENDOMETRIOSIS is used only as a colocalization specificity control, and the phenome-wide safety scan is a variant-level OpenGWAS look-up of each cis-pQTL instrument; no MR estimate for endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Colocalization with endometriosis (Discussion): FSHB PP4 0.999, ITGA11 0.945, RSPO3 0.808, PARP1 0.006, WNT9A 0.063, EIF2AK3 0.005. The OpenGWAS scan lists endometriosis among FSHB instrument associations (Results; Figure 6; Additional file 4, not available locally). Single-variant instruments, but the paper presents no Wald ratio or MR test on endometriosis."
+ },
+ {
+  "record_id": "doi:10.3389/fphar.2024.1443045",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SGLT2 (SLC5A2) drug-target proxy MR-PheWAS in FinnGen R5: genetically proxied SGLT2 inhibition associated with higher endometriosis risk (Bonferroni significant, Supplementary Table 4).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Overall endometriosis is the claim; intestinal and unspecified/other subtypes also significant (in notes). Not headline. Separate GeneATLAS variant-level PheWAS not extracted."
+ }
+]

@@ -1,0 +1,808 @@
+[
+ {
+  "target": "decision",
+  "id": "doi:10.1093/humrep/dez279",
+  "expect": {
+   "final_decision": "exclude",
+   "reason_code": "E3"
+  },
+  "set": {
+   "final_decision": "include",
+   "reason_code": "I",
+   "reason": "Standard SMR with endometriosis as outcome; no gene passed SMR plus HEIDI (CDC42 failed HEIDI). Null paper, 0 claims."
+  },
+  "why": "Paper's standard SMR uses endometriosis (Sapkota 2017) as outcome, so it is eligible; by its own criteria no gene is claimed. Excluding it as E3 would hide a null result.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-1",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta -0.000169123 (SE 8.36e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9813 (0.9705-0.9923), p 0.00086. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-2",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta -0.000129299 (SE 5.08e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 1.0146 (1.0016-1.0277), p 0.02728. MVMR OR >1 is opposite to the UVMR direction. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-3",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta 0.001665824 (SE 0.000415086); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9957 (0.9683-1.0239), p 0.76265. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-4",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta -0.000417723 (SE 0.000150319); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9980 (0.9886-1.0076), p 0.6884. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-5",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta -0.000705308 (SE 0.000298719); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9981 (0.9969-0.9994), p 0.00275. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-6",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta -0.000201089 (SE 2.6e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9989 (0.9981-0.9996), p 0.00303. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-7",
+  "expect": {
+   "outcome_cohorts": [
+    "FinnGen",
+    "UK Biobank"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "unknown"
+   ],
+   "notes": "Reported IVW beta 0.000207698 (SE 6.02e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9944 (0.9908-0.9979), p 0.00182. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+  },
+  "why": "Extraction rules forbid inferring the outcome source; the extractor reported it was assumed.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Song2025-2",
+  "expect": {
+   "direction": "protective"
+  },
+  "set": {
+   "direction": "null_or_unclear",
+   "notes": "Abstract only. Direction inferred from abstract/title mediation statement (HLA-DRA inhibits CREB3L4 expression, which increases risk), i.e. lower CREB3L4 -> higher risk; abstract does not state CREB3L4's own MR estimate or whether it passed Bonferroni. [Lead correction 2026-10-29: direction was inferred from a mediation statement, no estimate reported]"
+  },
+  "why": "Direction must come from the paper, not inference.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Guo2025Med-5",
+  "expect": {
+   "direction": "protective"
+  },
+  "set": {
+   "direction": "null_or_unclear",
+   "notes": "PD-L1 (programmed cell death 1 ligand 1) not named in the protein results but used as a mediator, so it is among the 6 significant proteins; both positive proteins are named (IL-17A, CDCP1), so direction inferred protective. Sixth significant protein unnamed in text. 91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1. [Lead correction 2026-10-29: direction inferred; protein used as mediator, no estimate reported]"
+  },
+  "why": "Direction must come from the paper, not inference.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-1",
+  "expect": {
+   "direction": "risk_increasing"
+  },
+  "set": {
+   "direction": "null_or_unclear",
+   "notes": "Abstract only (ScienceDirect and RBMO pages returned 403; no PMC copy). 'Genetic mimicry in PCSK9' OR for endometriosis stages 1-2; abstract gives no P, lipid trait used for weighting, outcome GWAS, or whether the exposure is scaled as lipid-lowering or raising. Conclusion favours lipid-lowering drugs, suggesting OR per unit higher lipid via PCSK9 variants (direction must be verified in full text). Abstract says SMR and colocalisation were run for significant targets; results not given. Overall-endometriosis estimate not in abstract. [Lead correction 2026-10-29: abstract does not say whether exposure is target lowering or raising]"
+  },
+  "why": "Direction must come from the paper, not inference.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-2",
+  "expect": {
+   "direction": "risk_increasing"
+  },
+  "set": {
+   "direction": "null_or_unclear",
+   "notes": "Abstract only (ScienceDirect and RBMO pages returned 403; no PMC copy). 'Genetic mimicry in APOB' OR for endometriosis stages 1-2; abstract gives no P, lipid trait used for weighting, outcome GWAS, or whether the exposure is scaled as lipid-lowering or raising. Conclusion favours lipid-lowering drugs, suggesting OR per unit higher lipid via APOB variants (direction must be verified in full text). Abstract says SMR and colocalisation were run for significant targets; results not given. Overall-endometriosis estimate not in abstract. [Lead correction 2026-10-29: abstract does not say whether exposure is target lowering or raising]"
+  },
+  "why": "Direction must come from the paper, not inference.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-3",
+  "expect": {
+   "direction": "risk_increasing"
+  },
+  "set": {
+   "direction": "null_or_unclear",
+   "notes": "Abstract only (ScienceDirect and RBMO pages returned 403; no PMC copy). 'Genetic mimicry in ANGPTL3' OR for endometriosis stages 1-2; abstract gives no P, lipid trait used for weighting, outcome GWAS, or whether the exposure is scaled as lipid-lowering or raising. Conclusion favours lipid-lowering drugs, suggesting OR per unit higher lipid via ANGPTL3 variants (direction must be verified in full text). Abstract says SMR and colocalisation were run for significant targets; results not given. Overall-endometriosis estimate not in abstract. [Lead correction 2026-10-29: abstract does not say whether exposure is target lowering or raising]"
+  },
+  "why": "Direction must come from the paper, not inference.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-26",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-27",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-28",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-29",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-30",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-31",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-32",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-33",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-34",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-35",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-36",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-37",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-38",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Chen2025SR-39",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-30",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-31",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-32",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-33",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-34",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-35",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-36",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-37",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-38",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-39",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-40",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-41",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-42",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-43",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-44",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-45",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-46",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-47",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-48",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-49",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-50",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-51",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-52",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-53",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-54",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-55",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-56",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-57",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-58",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-59",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-60",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-61",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-62",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-63",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-64",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Wang2026FRH-65",
+  "expect": {
+   "exposure_type": "other"
+  },
+  "set": {
+   "exposure_type": "mQTL"
+  },
+  "why": "Methylation QTL claims are labelled separately and kept out of the primary replication (PROTOCOL.md section 1).",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ }
+]

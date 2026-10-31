@@ -1,0 +1,152 @@
+[
+ {
+  "claim_id": "Zeng2024Gene-10",
+  "verdict": "partly_available",
+  "location": "mmc1.xlsx, Supplementary Table S1 (Finngen R9, Whole_Blood_GTEx_V8 row)",
+  "details": "TopSNP rs67594352 given with SMR OR/P/HEIDI only; no effect allele or eQTL/GWAS beta. Main text inaccessible (ScienceDirect 403); no PMC copy."
+ },
+ {
+  "claim_id": "WeiY2024ITT-5",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "Supplementary Table 3 (Dove supplementary PDF) not downloaded; folder has only main-text figures. Europe PMC full text (PMC11537175) has no SNP table or rsids."
+ },
+ {
+  "claim_id": "Ling2025-4",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "MOESM1 Table S1 (deCODE) SAA2 row gives probeID, b_SMR, SE, OR, P, HEIDI only; no rsids anywhere in xlsx. Main-text Table 2/Fig. 2 report OR, P, PPH4 only."
+ },
+ {
+  "claim_id": "ZhengJ2026-23",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "s001.xlsx Tables S2-S5 give protein-level MR (Nsnp, beta, se) for DDX1 only; plot PDFs s002-s005 cover only ALPI/KHK/HSPG2/POLR2F/STXBP1. No rsids in main text."
+ },
+ {
+  "claim_id": "Wang2026FRH-19",
+  "verdict": "partly_available",
+  "location": "Main-text Figure 2A (frph-08-1747031-g002.jpg)",
+  "details": "SMR topSNP rs34263 listed with OR/p_SMR/p_HEIDI only; UNG_LOO_MR.pdf lists 12 TSMR rsids without effects. Supplement holds only gene-level heterogeneity/Steiger tables and LOO plot PDFs; no eQTL beta, SE or alleles."
+ },
+ {
+  "claim_id": "Xie2024FE-11",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "Table_1.xlsx Supplementary Table 6 gives gene-level IVW (eqtl-a-ENSG00000165898, 4 SNPs, beta, SE); no rsids anywhere in xlsx or main text (PMC11324423); figures are gene-level."
+ },
+ {
+  "claim_id": "Meng2026IJWH-7",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "No supplementary tables deposited; main-text Table 1 gene-level only. Fig. 3B/D forest/LOO plots carry SNP labels but illegible at 753x641 px; no numeric per-SNP effects."
+ },
+ {
+  "claim_id": "Li2026tg-1",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "S1 Table (s003.docx) gives SLC9A1 gene-level IVW only (14 SNPs, B -0.717). S1 Fig LOO lists genome-wide TG instruments, not the SLC9A1 locus set; no effect alleles or betas."
+ },
+ {
+  "claim_id": "ZhengL2025-1",
+  "verdict": "partly_available",
+  "location": "Main-text Table 4 (PMC12394149)",
+  "details": "Table 4 names 2 of 4 RSPO3 SNPs (rs853974, rs9285458) with F statistics only; no alleles or pQTL beta. Supplementary Tables S2-S4 are exposure-level MR results."
+ },
+ {
+  "claim_id": "Wang2026FRH-9",
+  "verdict": "partly_available",
+  "location": "Main-text Figure 2A (frph-08-1747031-g002.jpg)",
+  "details": "SMR topSNP rs7560328 for CASP8 with OR/p_SMR/p_HEIDI only; no LOO PDF for CASP8. Supplement holds only gene-level heterogeneity/Steiger tables and LOO plot PDFs; no eQTL beta, SE or alleles."
+ },
+ {
+  "claim_id": "Hong2026RT-3",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "mmc1.xlsx S4/S5/S6 give DIP2B gene-level MR (5 SNPs, beta, SE) and pleiotropy only; no rsids in any sheet. Main text inaccessible (ScienceDirect 403); no PMC copy."
+ },
+ {
+  "claim_id": "Meng2026IJWH-4",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "No supplementary tables deposited; main-text Table 1 gene-level only for FZD6. Fig. 3 SNP-level plots illegible at deposited resolution; no numeric per-SNP effects."
+ },
+ {
+  "claim_id": "Meng2026IJWH-1",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "No supplementary tables deposited; main-text Table 1 gene-level only for FRMD4B. Fig. 3 SNP-level plots illegible at deposited resolution; no numeric per-SNP effects."
+ },
+ {
+  "claim_id": "Kai2025BMCWH-2",
+  "verdict": "partly_available",
+  "location": "MOESM1 Figure_S2-CFD.pdf and Figure_S4-CFD.pdf",
+  "details": "Forest/LOO plots list all 7 CFD rsids (eqtl-a-ENSG00000197766); scatter plot S1 shows exposure effects only graphically. No numeric betas or alleles; main-text tables gene-level."
+ },
+ {
+  "claim_id": "ZhengJ2026-6",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "s001.xlsx Tables S2-S5 give protein-level MR for DCTD only; plot PDFs cover only five replicated proteins (not DCTD). No rsids in main text (PMC13197833)."
+ },
+ {
+  "claim_id": "Ling2025-6",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "MOESM1 Table S2 (UKB-PPP) FSHB row gives b_SMR, SE, P, HEIDI only; no top pQTL rsid, alleles or effects anywhere. Main-text Table 2/Fig. 2 OR, P, PPH4 only."
+ },
+ {
+  "claim_id": "Xie2024FE-6",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "Table_1.xlsx Supplementary Table 6 gives gene-level IVW (eqtl-a-ENSG00000121858, 4 SNPs) for TNFSF10; no rsids in supplement or main text."
+ },
+ {
+  "claim_id": "Kai2025BMCWH-15",
+  "verdict": "partly_available",
+  "location": "MOESM1 Figure_S2-STMN1.pdf and Figure_S4-STMN1.pdf",
+  "details": "Forest/LOO plots list all 19 STMN1 rsids; scatter plot shows exposure effects only graphically. No numeric exposure betas or effect alleles in supplement or main text."
+ },
+ {
+  "claim_id": "Lv2025-3",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "Tables S2-S4 have IL1RL1 (prot-b-38) rows with nsnp, b, se, Q, Steiger r2 only; no rsids in any sheet. Main text inaccessible (T&F 403); no PMC copy."
+ },
+ {
+  "claim_id": "Wang2026FRH-21",
+  "verdict": "partly_available",
+  "location": "Main-text Figure 2A; Datasheet4 ERAL1_LOO_MR.pdf",
+  "details": "SMR topSNP rs4795457 in Fig. 2A with OR/p_SMR only; ERAL1 LOO/forest PDF lists 6 TSMR rsids graphically. Supplement holds only gene-level heterogeneity/Steiger tables and LOO plot PDFs; no eQTL beta, SE or alleles."
+ },
+ {
+  "claim_id": "ZhengJ2026-10",
+  "verdict": "partly_available",
+  "location": "Supporting Information 4 (s004.pdf) and 5 (s005.pdf)",
+  "details": "LOO and forest plots list all 8 HSPG2 rsids; s002 scatter plot shows SNP-exposure effects only graphically. No numeric betas or alleles in xlsx or main text."
+ },
+ {
+  "claim_id": "Hong2026RT-7",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "mmc1.xlsx S4 gives PDE5A Wald ratio (1 SNP, beta -0.273, SE) without the SNP rsid, allele or eQTL beta. Main text inaccessible (ScienceDirect 403)."
+ },
+ {
+  "claim_id": "Ling2025-9",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "MOESM1 Table S2 (UKB-PPP) EPHB4 row gives b_SMR, SE, P, HEIDI only; no top pQTL rsid or effects in xlsx, main-text Table 2 or Fig. 2."
+ },
+ {
+  "claim_id": "Hong2026RT-2",
+  "verdict": "confirmed_not_available",
+  "location": null,
+  "details": "mmc1.xlsx S4 gives SULT1B1 Wald ratio (1 SNP, beta 0.328, SE) without SNP rsid, allele or eQTL beta. Main text inaccessible (ScienceDirect 403)."
+ },
+ {
+  "claim_id": "Wang2026FRH-10",
+  "verdict": "partly_available",
+  "location": "Main-text Figure 2A (frph-08-1747031-g002.jpg)",
+  "details": "SMR topSNP rs4687626 for NT5DC2 with OR/p_SMR/p_HEIDI only; no LOO PDF for NT5DC2. Supplement holds only gene-level heterogeneity/Steiger tables and LOO plot PDFs; no eQTL beta, SE or alleles."
+ }
+]

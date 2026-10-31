@@ -1,0 +1,3606 @@
+{
+ "doi:10.1016/j.jri.2025.104798": {
+  "record_id": "doi:10.1016/j.jri.2025.104798",
+  "slug": "10.1016_j.jri.2025.104798",
+  "files": [
+   {
+    "name": "mmc1.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0165037825003766-mmc1.xlsx",
+    "bytes": 14866,
+    "md5": "a2ce41a2e6ad273a8c250368e4c1ab4c",
+    "sha256": "aa4aba2c612999394190fee7029ec815bf523d06a0d720b455b283a1cb082693",
+    "retrieved_at": "2026-10-29T21:37:30.749365+00:00"
+   },
+   {
+    "name": "mmc2.docx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0165037825003766-mmc2.docx",
+    "bytes": 309838,
+    "md5": "f394d6bd5d0dee3b4c91958ab201ba3b",
+    "sha256": "8010c7931645276303b1a1f2044079df666004091916ed5555877a01bc3412d2",
+    "retrieved_at": "2026-10-29T21:37:31.496315+00:00"
+   },
+   {
+    "name": "mmc3.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0165037825003766-mmc3.xlsx",
+    "bytes": 10061,
+    "md5": "31b47077f515b6c154486666ce53e45d",
+    "sha256": "6c6d5146931418143b8b4a319d7f5e2ed838d615a525d608a95429ab785f21c5",
+    "retrieved_at": "2026-10-29T21:37:32.110427+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc1.xlsx",
+   "mmc2.docx",
+   "mmc3.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:37:23.701857+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1080/09513590.2025.2512837": {
+  "record_id": "doi:10.1080/09513590.2025.2512837",
+  "slug": "10.1080_09513590.2025.2512837",
+  "files": [
+   {
+    "name": "igye_a_2512837_sm7158.xlsx",
+    "url": "https://ndownloader.figshare.com/files/55019086",
+    "bytes": 22191,
+    "md5": "373de3bdc7ee55ac94cc4fa664c2e490",
+    "sha256": "c7cc710433ee715b48de6d17d05ed236583cc581d164cc62ee8487961511cc4d",
+    "retrieved_at": "2026-10-29T21:37:33.635778+00:00"
+   },
+   {
+    "name": "igye_a_2512837_sm7157.xlsx",
+    "url": "https://ndownloader.figshare.com/files/55019089",
+    "bytes": 94557,
+    "md5": "2263a795d1855cd49a292e9c17d058bb",
+    "sha256": "5d19938d2d48e276fd68a70fb0c739656d6e61e40d94a2ff2f39da56b3a45d97",
+    "retrieved_at": "2026-10-29T21:37:34.633225+00:00"
+   },
+   {
+    "name": "igye_a_2512837_sm7156.xlsx",
+    "url": "https://ndownloader.figshare.com/files/55019092",
+    "bytes": 29965,
+    "md5": "f7f4d898a8df67f47488451e61155d28",
+    "sha256": "4f6460681859ddfe3bf25c5e1de8c70d95ff6ea531002ada575ad1138ba719fd",
+    "retrieved_at": "2026-10-29T21:37:35.561141+00:00"
+   },
+   {
+    "name": "igye_a_2512837_sm7155.xlsx",
+    "url": "https://ndownloader.figshare.com/files/55019095",
+    "bytes": 28806,
+    "md5": "b32e8acfb4118f5637791701b284118e",
+    "sha256": "1b01b56cd7d358ccce1ebbaef0e635ba2af6e399fc5164fac456c42c57660272",
+    "retrieved_at": "2026-10-29T21:37:36.489775+00:00"
+   },
+   {
+    "name": "igye_a_2512837_sm7154.xlsx",
+    "url": "https://ndownloader.figshare.com/files/55019098",
+    "bytes": 31828,
+    "md5": "6991d1bb6fad9a5c6ccac950ec7ac88b",
+    "sha256": "2045486083629df8818c1146334f561377c838820207748d7477ab931ae31826",
+    "retrieved_at": "2026-10-29T21:37:37.420540+00:00"
+   }
+  ],
+  "extracted": [
+   "igye_a_2512837_sm7158.xlsx",
+   "igye_a_2512837_sm7157.xlsx",
+   "igye_a_2512837_sm7156.xlsx",
+   "igye_a_2512837_sm7155.xlsx",
+   "igye_a_2512837_sm7154.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:37:32.611836+00:00",
+  "route": "figshare",
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000049148": {
+  "record_id": "doi:10.1097/md.0000000000049148",
+  "slug": "10.1097_md.0000000000049148",
+  "files": [
+   {
+    "name": "PMC13246116_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13246116/supplementaryFiles",
+    "bytes": 1852423,
+    "md5": "0696a22859fce8dbe31467e3bf8824c3",
+    "sha256": "1d2e3ae0bbfbf0cc8384082c587a05fe0c5a7a0909da82f970c2bb2e0ad6ca73",
+    "retrieved_at": "2026-10-29T21:39:51.165675+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-105-e49148-g003.gif",
+   "medi-105-e49148-g001.gif",
+   "medi-105-e49148-s003.docx",
+   "medi-105-e49148-g002.jpg",
+   "medi-105-e49148-g003.jpg",
+   "medi-105-e49148-g002.gif",
+   "medi-105-e49148-s007.xlsx",
+   "medi-105-e49148-s006.xlsx",
+   "medi-105-e49148-s004.xlsx",
+   "medi-105-e49148-g001.jpg",
+   "medi-105-e49148-s005.xlsx",
+   "medi-105-e49148-s001.xlsx",
+   "medi-105-e49148-s002.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:37:37.921777+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000049618": {
+  "record_id": "doi:10.1097/md.0000000000049618",
+  "slug": "10.1097_md.0000000000049618",
+  "files": [
+   {
+    "name": "PMC13384611_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13384611/supplementaryFiles",
+    "bytes": 351004,
+    "md5": "d9a7825716902a079cad1c5ef5ba5d74",
+    "sha256": "784754725af46580e410fc668231a2756ebcde499e05c21b829e86ad8adecc61",
+    "retrieved_at": "2026-10-29T21:40:11.253654+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-105-e49618-g002.jpg",
+   "medi-105-e49618-g001.jpg",
+   "medi-105-e49618-g002.gif",
+   "medi-105-e49618-g003.gif",
+   "medi-105-e49618-g001.gif",
+   "medi-105-e49618-g003.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:39:51.679649+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1155/mi/6617402": {
+  "record_id": "doi:10.1155/mi/6617402",
+  "slug": "10.1155_mi_6617402",
+  "files": [
+   {
+    "name": "PMC13197833_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13197833/supplementaryFiles",
+    "bytes": 12306641,
+    "md5": "09c06c6df06e4468e7957338af9bdcc8",
+    "sha256": "461d9d280869b8299d7cb4b03c9ca33c785f59e5c82d7fce20290ce915e46372",
+    "retrieved_at": "2026-10-29T22:29:15.020984+00:00"
+   }
+  ],
+  "extracted": [
+   "MI-2026-6617402-g002.gif",
+   "MI-2026-6617402-g002.jpg",
+   "MI-2026-6617402-s005.pdf",
+   "MI-2026-6617402-s002.pdf",
+   "MI-2026-6617402-g001.gif",
+   "MI-2026-6617402-s004.pdf",
+   "MI-2026-6617402-g001.jpg",
+   "MI-2026-6617402-g003.gif",
+   "MI-2026-6617402-s003.pdf",
+   "MI-2026-6617402-s001.xlsx",
+   "MI-2026-6617402-g004.jpg",
+   "MI-2026-6617402-g003.jpg",
+   "MI-2026-6617402-g004.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:04.513316+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1186/s41065-025-00457-w": {
+  "record_id": "doi:10.1186/s41065-025-00457-w",
+  "slug": "10.1186_s41065-025-00457-w",
+  "files": [
+   {
+    "name": "PMC12126875_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12126875/supplementaryFiles",
+    "bytes": 362307,
+    "md5": "1e321470bb80ee52ebad124331b19b7b",
+    "sha256": "5a7e2faa5ad8975887bbe3c251f4d9a73b12b9e39017bf054223bdd3ef9dce73",
+    "retrieved_at": "2026-10-29T22:29:19.587085+00:00"
+   }
+  ],
+  "extracted": [
+   "41065_2025_457_Fig2_HTML.gif",
+   "41065_2025_457_Fig1_HTML.gif",
+   "41065_2025_457_Fig1_HTML.jpg",
+   "41065_2025_457_Fig3_HTML.jpg",
+   "41065_2025_457_MOESM1_ESM.xlsx",
+   "41065_2025_457_Fig3_HTML.gif",
+   "41065_2025_457_Fig2_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:15.593927+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.21203/rs.3.rs-4265646/v1": {
+  "record_id": "doi:10.21203/rs.3.rs-4265646/v1",
+  "slug": "10.21203_rs.3.rs-4265646_v1",
+  "files": [
+   {
+    "name": "Figure1.jpeg",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/0eb8e7ec05abf6a6b02217b2.jpeg",
+    "bytes": 3996365,
+    "md5": "5b637bd167fb22dfc63c9672cb73efe8",
+    "sha256": "e8eddfb71d5778d435bbd51f9583bba13d7683145c64ba0f343269b1f00af8b4",
+    "retrieved_at": "2026-10-29T21:43:28.611152+00:00"
+   },
+   {
+    "name": "Figure2.jpg",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/3ff3e0bbbef9937b3d23a723.jpg",
+    "bytes": 890428,
+    "md5": "9f764e85cec02e346336f70ef5e03564",
+    "sha256": "7c33a63b6fd619e6d5cd95ac089fae0ba93cc0573a6884ac2578b508a1cdf18f",
+    "retrieved_at": "2026-10-29T21:43:29.651424+00:00"
+   },
+   {
+    "name": "Figure3.jpg",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/60ce8b3cde3b745b0c6686cc.jpg",
+    "bytes": 1374137,
+    "md5": "5884ceaacf4b5c42aaddd464e88267de",
+    "sha256": "63ad8254cd6e2319a32522a952ecdd0892f80aa4a7fdff30c7c7bcf6bc6288e0",
+    "retrieved_at": "2026-10-29T21:43:30.757267+00:00"
+   },
+   {
+    "name": "Figure4.jpg",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/78ee31adbddd1cd5eef0a31a.jpg",
+    "bytes": 1944837,
+    "md5": "d1a26c7181bb9f474a179831d41968db",
+    "sha256": "32a4aeb637b72203b00694371ac815e002ee567ef0a261faf5136237f2dddfae",
+    "retrieved_at": "2026-10-29T21:43:31.888287+00:00"
+   },
+   {
+    "name": "Figure5.jpg",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/6e185eb69ed6a3f6b00db036.jpg",
+    "bytes": 4163300,
+    "md5": "86b2e361489dac2267e5a56ddb14111b",
+    "sha256": "bffec05e4607838f052875eaae719814991ce04fc1c1722fd7e16d511a811837",
+    "retrieved_at": "2026-10-29T21:43:33.319906+00:00"
+   },
+   {
+    "name": "manuscript.pdf",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/9bc5be1b-2ac7-45c2-9ceb-48228c5a52ed.pdf",
+    "bytes": 1044366,
+    "md5": "61d58610946bc95624a90f335ec476f0",
+    "sha256": "dcec556b75ab02eb6c68384c3781d2fd625ea17020cf7f85376a1d9e43e8f312",
+    "retrieved_at": "2026-10-29T21:43:34.257904+00:00"
+   },
+   {
+    "name": "SupplementaryTable17.xlsx",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/e1ab0d8647c457b3b40f620a.xlsx",
+    "bytes": 39795560,
+    "md5": "7dbcc6da461501c21a04287df7b1722c",
+    "sha256": "6e56311f312097bce7f9bd7ff51ec6067b37821887405165e8ef867ae4ea6031",
+    "retrieved_at": "2026-10-29T21:43:39.671859+00:00"
+   },
+   {
+    "name": "SupplementaryTable1523.xlsx",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/b66294103be53b112b14aa6b.xlsx",
+    "bytes": 12467443,
+    "md5": "c98997d9ef4ac57fa0522ff652a6d17e",
+    "sha256": "019f7fbc9ffd96579ceeafe87813aa79d1f7b3dcea9517da1dc7216609bb1237",
+    "retrieved_at": "2026-10-29T21:43:41.835567+00:00"
+   },
+   {
+    "name": "SupplementaryTable814.xlsx",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4265646/v1/4fe03ce8445b91435aca764e.xlsx",
+    "bytes": 3041006,
+    "md5": "8086a31c4c06eb97520ec044792cbc23",
+    "sha256": "2d924866fbb422420c509ec6b43e29dfdef4f60d0f26e164bbdcc0b8093cd75a",
+    "retrieved_at": "2026-10-29T21:43:42.956637+00:00"
+   }
+  ],
+  "extracted": [
+   "Figure1.jpeg",
+   "Figure2.jpg",
+   "Figure3.jpg",
+   "Figure4.jpg",
+   "Figure5.jpg",
+   "manuscript.pdf",
+   "SupplementaryTable17.xlsx",
+   "SupplementaryTable1523.xlsx",
+   "SupplementaryTable814.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:43:27.489942+00:00",
+  "route": "researchsquare_api",
+  "status": "downloaded"
+ },
+ "doi:10.3389/fendo.2024.1371498": {
+  "record_id": "doi:10.3389/fendo.2024.1371498",
+  "slug": "10.3389_fendo.2024.1371498",
+  "files": [
+   {
+    "name": "PMC11794050_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11794050/supplementaryFiles",
+    "bytes": 2143149,
+    "md5": "9a2bd05ba60468d3ee513c82b96499a2",
+    "sha256": "b45e5c26a6fc8e61f1f88b41a504764f5e6b2dd1c170487bea24848124562358",
+    "retrieved_at": "2026-10-29T22:29:34.915552+00:00"
+   }
+  ],
+  "extracted": [
+   "Image2.jpeg",
+   "fendo-15-1371498-g005.gif",
+   "fendo-15-1371498-g004.gif",
+   "fendo-15-1371498-g004.jpg",
+   "fendo-15-1371498-g003.jpg",
+   "fendo-15-1371498-g002.gif",
+   "fendo-15-1371498-g002.jpg",
+   "fendo-15-1371498-g001.gif",
+   "Image1.jpeg",
+   "Table1.xlsx",
+   "fendo-15-1371498-g001.jpg",
+   "fendo-15-1371498-g003.gif",
+   "fendo-15-1371498-g005.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:20.095536+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.3389/fendo.2024.1416978": {
+  "record_id": "doi:10.3389/fendo.2024.1416978",
+  "slug": "10.3389_fendo.2024.1416978",
+  "files": [
+   {
+    "name": "PMC11257892_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11257892/supplementaryFiles",
+    "bytes": 8504548,
+    "md5": "b78ebe699e6075197eea77351a1d7db5",
+    "sha256": "f5316d0044c71d88e16c3a93f415c1e5aaae17b1356a2962dba0d6f0a20964a7",
+    "retrieved_at": "2026-10-29T21:49:42.938841+00:00"
+   }
+  ],
+  "extracted": [
+   "fendo-15-1416978-g004.gif",
+   "Table_1.xlsx",
+   "fendo-15-1416978-g005.gif",
+   "fendo-15-1416978-g005.jpg",
+   "fendo-15-1416978-g002.gif",
+   "fendo-15-1416978-g002.jpg",
+   "fendo-15-1416978-g001.gif",
+   "fendo-15-1416978-g003.gif",
+   "fendo-15-1416978-g001.jpg",
+   "fendo-15-1416978-g003.jpg",
+   "fendo-15-1416978-g004.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:45:00.045053+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.3389/fgene.2025.1631446": {
+  "record_id": "doi:10.3389/fgene.2025.1631446",
+  "slug": "10.3389_fgene.2025.1631446",
+  "files": [
+   {
+    "name": "PMC12394149_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12394149/supplementaryFiles",
+    "bytes": 563275,
+    "md5": "1978f13826f44adfa6bbaa986046bbf2",
+    "sha256": "1f2c9648b0b44975a9615dd439fcdc2cb0c811c811d14b2941842905f5134583",
+    "retrieved_at": "2026-10-29T22:29:46.717325+00:00"
+   }
+  ],
+  "extracted": [
+   "fgene-16-1631446-g002.gif",
+   "fgene-16-1631446-g005.gif",
+   "fgene-16-1631446-g001.jpg",
+   "fgene-16-1631446-g003.jpg",
+   "fgene-16-1631446-g004.jpg",
+   "fgene-16-1631446-g005.jpg",
+   "Table4.xlsx",
+   "fgene-16-1631446-g002.jpg",
+   "Table3.xlsx",
+   "Image1.pdf",
+   "fgene-16-1631446-g001.gif",
+   "Table2.xlsx",
+   "fgene-16-1631446-g004.gif",
+   "fgene-16-1631446-g003.gif",
+   "Table1.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:35.440185+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.64898/2026.03.06.26347586": {
+  "record_id": "doi:10.64898/2026.03.06.26347586",
+  "slug": "10.64898_2026.03.06.26347586",
+  "files": [],
+  "extracted": [],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:47.229049+00:00",
+  "route": null,
+  "status": "not_accessible",
+  "notes": "publisher blocks automated access; no open route known"
+ },
+ "doi:10.1016/j.jri.2024.104293": {
+  "record_id": "doi:10.1016/j.jri.2024.104293",
+  "slug": "10.1016_j.jri.2024.104293",
+  "files": [
+   {
+    "name": "mmc1.xls",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0165037824001025-mmc1.xls",
+    "bytes": 36210688,
+    "md5": "ce9a8b85e01ec010b013ffdb4ddf8c75",
+    "sha256": "b574f6a7f88b7cd0cbad88cf1f93f1cffd7741619097c0bf5636cc9745898931",
+    "retrieved_at": "2026-10-29T21:51:38.779103+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc1.xls"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:51:26.128854+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000038972": {
+  "record_id": "doi:10.1097/md.0000000000038972",
+  "slug": "10.1097_md.0000000000038972",
+  "files": [
+   {
+    "name": "PMC11398771_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11398771/supplementaryFiles",
+    "bytes": 516703,
+    "md5": "ef758bd9436b8a210febe70b72fe8a7a",
+    "sha256": "2dfad5be26e20a9721593f6a30d24e4d12d7e4869df6143e9fee71a0824c8350",
+    "retrieved_at": "2026-10-29T22:29:54.984308+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-103-e38972-g001.gif",
+   "medi-103-e38972-s001.docx",
+   "medi-103-e38972-g002.gif",
+   "medi-103-e38972-g002.jpg",
+   "medi-103-e38972-g001.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:47.229687+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000043163": {
+  "record_id": "doi:10.1097/md.0000000000043163",
+  "slug": "10.1097_md.0000000000043163",
+  "files": [
+   {
+    "name": "PMC12263052_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12263052/supplementaryFiles",
+    "bytes": 948635,
+    "md5": "9a0e7935896790554b8d0ad523a8e10f",
+    "sha256": "40ac8c84f8bc9a2a09a74c830b6be0620dd2d64c91e0b18c82f51718d36791df",
+    "retrieved_at": "2026-10-29T22:30:42.612279+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-104-e43163-g006.gif",
+   "medi-104-e43163-g005.jpg",
+   "medi-104-e43163-g003.gif",
+   "medi-104-e43163-g004.gif",
+   "medi-104-e43163-g001.jpg",
+   "medi-104-e43163-g003.jpg",
+   "medi-104-e43163-g004.jpg",
+   "medi-104-e43163-g001.gif",
+   "medi-104-e43163-s001.xls",
+   "medi-104-e43163-g002.gif",
+   "medi-104-e43163-g007.jpg",
+   "medi-104-e43163-g007.gif",
+   "medi-104-e43163-g002.jpg",
+   "medi-104-e43163-g006.jpg",
+   "medi-104-e43163-g005.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:29:55.491567+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000045854": {
+  "record_id": "doi:10.1097/md.0000000000045854",
+  "slug": "10.1097_md.0000000000045854",
+  "files": [
+   {
+    "name": "PMC12622680_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12622680/supplementaryFiles",
+    "bytes": 128702,
+    "md5": "86c29c11f96907a825590d805c50d69a",
+    "sha256": "f129eb51fa4bb5e9c314c05cbe4b29423abd4980fe04ae27edaefe6baefb2e7c",
+    "retrieved_at": "2026-10-29T21:58:34.227055+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-104-e45854-s001.docx",
+   "medi-104-e45854-g001.jpg",
+   "medi-104-e45854-g001.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T21:57:26.697209+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1111/jcmm.70532": {
+  "record_id": "doi:10.1111/jcmm.70532",
+  "slug": "10.1111_jcmm.70532",
+  "files": [
+   {
+    "name": "PMC11984317_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11984317/supplementaryFiles",
+    "bytes": 482314,
+    "md5": "993353a724cad2e482b9263a26c6b28d",
+    "sha256": "138b9216833640cfd2a9ad7eedd210789ead87b60a59767e9d86e60a456f1599",
+    "retrieved_at": "2026-10-29T22:31:00.809634+00:00"
+   }
+  ],
+  "extracted": [
+   "JCMM-29-e70532-s004.xlsx",
+   "JCMM-29-e70532-g004.gif",
+   "JCMM-29-e70532-g005.jpg",
+   "JCMM-29-e70532-s001.xlsx",
+   "JCMM-29-e70532-g005.gif",
+   "JCMM-29-e70532-s002.tif",
+   "JCMM-29-e70532-g003.jpg",
+   "JCMM-29-e70532-g002.gif",
+   "JCMM-29-e70532-s003.xlsx",
+   "JCMM-29-e70532-g004.jpg",
+   "JCMM-29-e70532-g001.jpg",
+   "JCMM-29-e70532-g003.gif",
+   "JCMM-29-e70532-g001.gif",
+   "JCMM-29-e70532-g002.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:30:43.128908+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1186/s12905-025-04058-7": {
+  "record_id": "doi:10.1186/s12905-025-04058-7",
+  "slug": "10.1186_s12905-025-04058-7",
+  "files": [
+   {
+    "name": "PMC12690902_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12690902/supplementaryFiles",
+    "bytes": 2170510,
+    "md5": "6d9216f399b4ee1a0fd4002ed671ba09",
+    "sha256": "e21c97b965230302d9ab5236f25d314d341654c2da08f52df94d31f06d842788",
+    "retrieved_at": "2026-10-29T22:04:36.120907+00:00"
+   }
+  ],
+  "extracted": [
+   "12905_2025_4058_Fig1_HTML.gif",
+   "12905_2025_4058_Fig6_HTML.jpg",
+   "12905_2025_4058_Fig11_HTML.gif",
+   "12905_2025_4058_Fig8_HTML.gif",
+   "12905_2025_4058_Fig5_HTML.jpg",
+   "12905_2025_4058_Fig7_HTML.jpg",
+   "12905_2025_4058_Fig6_HTML.gif",
+   "12905_2025_4058_Fig10_HTML.jpg",
+   "12905_2025_4058_Fig4_HTML.jpg",
+   "12905_2025_4058_Fig12_HTML.jpg",
+   "12905_2025_4058_Fig9_HTML.gif",
+   "12905_2025_4058_Fig2_HTML.gif",
+   "12905_2025_4058_Fig13_HTML.gif",
+   "12905_2025_4058_Fig12_HTML.gif",
+   "12905_2025_4058_Fig9_HTML.jpg",
+   "12905_2025_4058_Fig7_HTML.gif",
+   "12905_2025_4058_Fig10_HTML.gif",
+   "12905_2025_4058_Fig5_HTML.gif",
+   "12905_2025_4058_MOESM1_ESM.xls",
+   "12905_2025_4058_Fig11_HTML.jpg",
+   "12905_2025_4058_Fig13_HTML.jpg",
+   "12905_2025_4058_Fig2_HTML.jpg",
+   "12905_2025_4058_Fig3_HTML.gif",
+   "12905_2025_4058_MOESM3_ESM.xlsx",
+   "12905_2025_4058_MOESM2_ESM.xls",
+   "12905_2025_4058_Fig8_HTML.jpg",
+   "12905_2025_4058_Fig1_HTML.jpg",
+   "12905_2025_4058_Fig3_HTML.jpg",
+   "12905_2025_4058_Fig4_HTML.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:00:10.282092+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1210/clinem/dgad376": {
+  "record_id": "doi:10.1210/clinem/dgad376",
+  "slug": "10.1210_clinem_dgad376",
+  "files": [],
+  "extracted": [],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:31:01.320643+00:00",
+  "route": null,
+  "status": "not_accessible",
+  "notes": "publisher blocks automated access; no open route known"
+ },
+ "doi:10.2147/itt.s486139": {
+  "record_id": "doi:10.2147/itt.s486139",
+  "slug": "10.2147_itt.s486139",
+  "files": [
+   {
+    "name": "PMC11537175_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11537175/supplementaryFiles",
+    "bytes": 472727,
+    "md5": "07d816b75f33420d792082834c2ccc0b",
+    "sha256": "e21c23fbfca12089c203e2ef97645961130963aa779eb26de622d6790a4f0e21",
+    "retrieved_at": "2026-10-29T22:05:46.117053+00:00"
+   }
+  ],
+  "extracted": [
+   "ITT-13-585-g0003.jpg",
+   "ITT-13-585-g0004.gif",
+   "ITT-13-585-g0004.jpg",
+   "ITT-13-585-g0005.gif",
+   "ITT-13-585-g0001.jpg",
+   "ITT-13-585-g0003.gif",
+   "ITT-13-585-g0002.gif",
+   "ITT-13-585-g0002.jpg",
+   "ITT-13-585-g0001.gif",
+   "ITT-13-585-g0005.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:04:36.645613+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.22541/au.174037893.33966505/v1": {
+  "record_id": "doi:10.22541/au.174037893.33966505/v1",
+  "slug": "10.22541_au.174037893.33966505_v1",
+  "files": [],
+  "extracted": [],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:31:01.321432+00:00",
+  "route": null,
+  "status": "not_accessible",
+  "notes": "publisher blocks automated access; no open route known"
+ },
+ "doi:10.3390/biom14121544": {
+  "record_id": "doi:10.3390/biom14121544",
+  "slug": "10.3390_biom14121544",
+  "files": [
+   {
+    "name": "PMC11674023_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11674023/supplementaryFiles",
+    "bytes": 1205658,
+    "md5": "2158f164ea2343fa09e23a28d8d18c69",
+    "sha256": "04806e9b87e7b00db8a7b0fa05bf4e8faa095bdca1e0bd0f5ed820ca43dcd7b4",
+    "retrieved_at": "2026-10-29T22:06:09.782436+00:00"
+   }
+  ],
+  "extracted": [
+   "biomolecules-14-01544-g002.jpg",
+   "biomolecules-14-01544-g003.gif",
+   "biomolecules-14-01544-g001.gif",
+   "biomolecules-14-01544-g003.jpg",
+   "biomolecules-14-01544-g002.gif",
+   "biomolecules-14-01544-s001__Figures_1-3_for_main_manuscript.pdf",
+   "biomolecules-14-01544-s001__Supplementary_data_file_S1_single_SNP_analyses_Inflammation_and_reproductive_conditions.xlsx",
+   "biomolecules-14-01544-s001__Supplementary_data_file_S2_leave-one-out_analyses_Inflammation_and_reproductive_conditions.xlsx",
+   "biomolecules-14-01544-s001__Supplementary_data_file_S3_Data_harmonization_with_f-statistics_Inflammation_and_reproductive_conditions.xlsx",
+   "biomolecules-14-01544-s001__Table_S1.pdf",
+   "biomolecules-14-01544-s001__Table_S2.pdf",
+   "biomolecules-14-01544-g001.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:05:46.627124+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1007/s00439-024-02681-2": {
+  "record_id": "doi:10.1007/s00439-024-02681-2",
+  "slug": "10.1007_s00439-024-02681-2",
+  "files": [
+   {
+    "name": "PMC11485110_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11485110/supplementaryFiles",
+    "bytes": 580296,
+    "md5": "22c55a994a4551b5b3073911f204ccee",
+    "sha256": "ee326395df83883c722db6a670a74cd9f4e57578b2735b27c2c25523f690da94",
+    "retrieved_at": "2026-10-29T22:06:52.403249+00:00"
+   }
+  ],
+  "extracted": [
+   "439_2024_2681_Fig3_HTML.gif",
+   "439_2024_2681_Fig5_HTML.jpg",
+   "439_2024_2681_Fig1_HTML.gif",
+   "439_2024_2681_Fig3_HTML.jpg",
+   "439_2024_2681_Fig4_HTML.jpg",
+   "439_2024_2681_Fig4_HTML.gif",
+   "439_2024_2681_Fig5_HTML.gif",
+   "439_2024_2681_Fig6_HTML.jpg",
+   "439_2024_2681_Fig6_HTML.gif",
+   "439_2024_2681_Fig2_HTML.gif",
+   "439_2024_2681_Fig2_HTML.jpg",
+   "439_2024_2681_Fig1_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:06:10.304453+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1007/s10142-025-01543-y": {
+  "record_id": "doi:10.1007/s10142-025-01543-y",
+  "slug": "10.1007_s10142-025-01543-y",
+  "files": [
+   {
+    "name": "PMC11947010_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11947010/supplementaryFiles",
+    "bytes": 6961811,
+    "md5": "efae3477c7e0832e42c7ccbcc33deb0d",
+    "sha256": "af7b02e3a7262c2baf2cc78b2ec2fea3b765053e2a42438d4ba659ed755b0c76",
+    "retrieved_at": "2026-10-29T22:08:30.842921+00:00"
+   }
+  ],
+  "extracted": [
+   "10142_2025_1543_MOESM8_ESM.csv",
+   "10142_2025_1543_MOESM5_ESM.csv",
+   "10142_2025_1543_Fig4_HTML.jpg",
+   "10142_2025_1543_Fig3_HTML.jpg",
+   "10142_2025_1543_Fig5_HTML.gif",
+   "10142_2025_1543_MOESM6_ESM.csv",
+   "10142_2025_1543_Fig1_HTML.jpg",
+   "10142_2025_1543_Fig7_HTML.gif",
+   "10142_2025_1543_Fig2_HTML.gif",
+   "10142_2025_1543_MOESM2_ESM.xlsx",
+   "10142_2025_1543_Fig2_HTML.jpg",
+   "10142_2025_1543_MOESM3_ESM.csv",
+   "10142_2025_1543_Fig1_HTML.gif",
+   "10142_2025_1543_Fig6_HTML.jpg",
+   "10142_2025_1543_MOESM7_ESM.csv",
+   "10142_2025_1543_MOESM1_ESM.docx",
+   "10142_2025_1543_Fig7_HTML.jpg",
+   "10142_2025_1543_Fig3_HTML.gif",
+   "10142_2025_1543_Fig5_HTML.jpg",
+   "10142_2025_1543_MOESM4_ESM.csv",
+   "10142_2025_1543_Fig4_HTML.gif",
+   "10142_2025_1543_Fig6_HTML.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:06:52.912687+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.gene.2023.147970": {
+  "record_id": "doi:10.1016/j.gene.2023.147970",
+  "slug": "10.1016_j.gene.2023.147970",
+  "files": [
+   {
+    "name": "mmc1.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0378111923008119-mmc1.xlsx",
+    "bytes": 135384,
+    "md5": "72c55e3f21f9b828ec293192578a2efa",
+    "sha256": "6d15bd3193975d6c5fed30feb79b64b56985cb834f7bf825c16a8689fd32b9cc",
+    "retrieved_at": "2026-10-29T22:08:38.045631+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc1.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:08:31.428027+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.gene.2025.149754": {
+  "record_id": "doi:10.1016/j.gene.2025.149754",
+  "slug": "10.1016_j.gene.2025.149754",
+  "files": [
+   {
+    "name": "mmc1.zip",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0378111925005438-mmc1.zip",
+    "bytes": 2159075,
+    "md5": "468571b8c72c63efcc347849e90d7a07",
+    "sha256": "5cc8feb0ca9359c5f6719ebd61d1c2f4ab80e743b50ae623ccd39262b19692c0",
+    "retrieved_at": "2026-10-29T22:08:47.079105+00:00"
+   }
+  ],
+  "extracted": [
+   "Supplementary_materials__Supplementary_Table_1.xlsx",
+   "Supplementary_materials__Supplementary_Table_2.docx",
+   "Supplementary_materials__Supplementary_Table_3.xlsx",
+   "Supplementary_materials__Supplementary_Table_4.xlsx",
+   "Supplementary_materials__Supplementary_Table_5.xlsx",
+   "Supplementary_materials__Supplementary_Table_6.xlsx",
+   "Supplementary_materials__Supplementary_Table_7.xlsx",
+   "Supplementary_materials__Supplementary_Table_8.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:08:38.547336+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.reprotox.2025.109148": {
+  "record_id": "doi:10.1016/j.reprotox.2025.109148",
+  "slug": "10.1016_j.reprotox.2025.109148",
+  "files": [
+   {
+    "name": "mmc1.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0890623825003193-mmc1.xlsx",
+    "bytes": 14811096,
+    "md5": "495d501efb35bb5b87952684a751df99",
+    "sha256": "d3336fae57deb1faa2d16d1fc835a996eccd338a12fa3b60e7f3fc1bae9f45fc",
+    "retrieved_at": "2026-10-29T22:08:56.032296+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc1.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:08:47.591641+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.xfss.2025.02.003": {
+  "record_id": "doi:10.1016/j.xfss.2025.02.003",
+  "slug": "10.1016_j.xfss.2025.02.003",
+  "files": [
+   {
+    "name": "mmc1.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666335X25000175-mmc1.xlsx",
+    "bytes": 3782085,
+    "md5": "e45b2532ea3d333de04824500be49c72",
+    "sha256": "8f83c874aeeb0694c9aad7aa2016c802363e10c9cce0806531f2c264f73b0d1e",
+    "retrieved_at": "2026-10-29T22:09:04.991761+00:00"
+   },
+   {
+    "name": "mmc2.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666335X25000175-mmc2.xlsx",
+    "bytes": 25601,
+    "md5": "2b083fdcf6b579851958b4a23ed05111",
+    "sha256": "8e75cb5663479d233e95c58061910f66ca7f1f2ea726d78af4efa2e1432319f9",
+    "retrieved_at": "2026-10-29T22:09:05.627728+00:00"
+   },
+   {
+    "name": "mmc3.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666335X25000175-mmc3.xlsx",
+    "bytes": 17912,
+    "md5": "d24b8ac286b021f78a20b439cb0327ac",
+    "sha256": "1db3b44a576c418ee269d3aabebf1ecbf60c5c3daaf5bcc2300a78764e78dab9",
+    "retrieved_at": "2026-10-29T22:09:06.257526+00:00"
+   },
+   {
+    "name": "mmc4.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666335X25000175-mmc4.xlsx",
+    "bytes": 21922,
+    "md5": "7a70ed498b2dd163369f962d118a7ffc",
+    "sha256": "0f197a8b32daa766dd34d03b3065d305b3e3374c939adb6591ca675eddacab3e",
+    "retrieved_at": "2026-10-29T22:09:06.891368+00:00"
+   },
+   {
+    "name": "mmc5.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666335X25000175-mmc5.xlsx",
+    "bytes": 64214,
+    "md5": "7a38d28364db3ec29d49b6f3dcf31e48",
+    "sha256": "1693c8027c95be75e37d37666ed4786670ff60f27bfe9ceccf85baffbb5e886e",
+    "retrieved_at": "2026-10-29T22:09:07.561148+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc1.xlsx",
+   "mmc2.xlsx",
+   "mmc3.xlsx",
+   "mmc4.xlsx",
+   "mmc5.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:08:56.534030+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1093/humrep/dez279": {
+  "record_id": "doi:10.1093/humrep/dez279",
+  "slug": "10.1093_humrep_dez279",
+  "files": [
+   {
+    "name": "PMC7048713_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7048713/supplementaryFiles",
+    "bytes": 2379304,
+    "md5": "82308a1ff81e0fb1a85706499cdf2b38",
+    "sha256": "10c264d70a14512a34a9bb82200815943eca107f329c4ab8709f90f5783cf30b",
+    "retrieved_at": "2026-10-29T22:10:01.069862+00:00"
+   }
+  ],
+  "extracted": [
+   "suppf2_dez279.pdf",
+   "suppf8_dez279.pdf",
+   "suppf7_dez279.pdf",
+   "dez279f5.jpg",
+   "suppf6_dez279.pdf",
+   "dez279f4.jpg",
+   "suppt1_dez279.pdf",
+   "dez279f3.gif",
+   "suppt3_dez279.pdf",
+   "dez279f1.gif",
+   "suppf3_dez279.pdf",
+   "suppt4_dez279.pdf",
+   "suppt2_dez279.pdf",
+   "suppf9_dez279.pdf",
+   "dez279f2.gif",
+   "dez279f5.gif",
+   "dez279f1.jpg",
+   "suppt5_dez279.pdf",
+   "dez279f4.gif",
+   "suppf1_dez279.pdf",
+   "dez279f3.jpg",
+   "suppf4_dez279.pdf",
+   "dez279f2.jpg",
+   "suppf5_dez279.pdf"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:09:08.062888+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000041804": {
+  "record_id": "doi:10.1097/md.0000000000041804",
+  "slug": "10.1097_md.0000000000041804",
+  "files": [
+   {
+    "name": "PMC11977726_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11977726/supplementaryFiles",
+    "bytes": 5323702,
+    "md5": "b8eb339fe54fc58300d36b5c95f17935",
+    "sha256": "bb3ec81d23aed21a16a86b4bd317c45adf027961eb07a62fd3f252192c231541",
+    "retrieved_at": "2026-10-29T22:11:15.033495+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-104-e41804-s003.xlsx",
+   "medi-104-e41804-s002.xlsx",
+   "medi-104-e41804-g002.jpg",
+   "medi-104-e41804-g003.gif",
+   "medi-104-e41804-g001.gif",
+   "medi-104-e41804-g007.jpg",
+   "medi-104-e41804-g004.jpg",
+   "medi-104-e41804-g006.jpg",
+   "medi-104-e41804-g007.gif",
+   "medi-104-e41804-g001.jpg",
+   "medi-104-e41804-g005.gif",
+   "medi-104-e41804-s007.xlsx",
+   "medi-104-e41804-g005.jpg",
+   "medi-104-e41804-g006.gif",
+   "medi-104-e41804-s004.xlsx",
+   "medi-104-e41804-s005.xlsx",
+   "medi-104-e41804-g003.jpg",
+   "medi-104-e41804-g004.gif",
+   "medi-104-e41804-s001.xlsx",
+   "medi-104-e41804-g002.gif",
+   "medi-104-e41804-s006.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:10:01.594883+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1159/000543707": {
+  "record_id": "doi:10.1159/000543707",
+  "slug": "10.1159_000543707",
+  "files": [
+   {
+    "name": "PMC12500265_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12500265/supplementaryFiles",
+    "bytes": 4568362,
+    "md5": "c17c2261e8a4034238015cfde400a0eb",
+    "sha256": "2648f5b5ec8808ddda61f606b6b57600afa4e209e5ef2a8ac8b7fd596a80361c",
+    "retrieved_at": "2026-10-29T22:12:01.400373+00:00"
+   }
+  ],
+  "extracted": [
+   "goi-2025-0090-0005-543707_F05.gif",
+   "goi-2025-0090-0005-543707_F06.gif",
+   "goi-2025-0090-0005-543707_F02.gif",
+   "Supplementary_material-Suppl.1-s1.pdf",
+   "goi-2025-0090-0005-543707_F06.jpg",
+   "goi-2025-0090-0005-543707_F04.gif",
+   "goi-2025-0090-0005-543707_F03.jpg",
+   "goi-2025-0090-0005-543707_F07.gif",
+   "goi-2025-0090-0005-543707_F07.jpg",
+   "goi-2025-0090-0005-543707_F03.gif",
+   "goi-2025-0090-0005-543707_F02.jpg",
+   "goi-2025-0090-0005-543707_F01.jpg",
+   "goi-2025-0090-0005-543707_F04.jpg",
+   "goi-2025-0090-0005-543707_F01.gif",
+   "goi-2025-0090-0005-543707_F05.jpg",
+   "Supplementary_material-Suppl.2-s2.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:11:15.568367+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1038/s41598-025-96711-2": {
+  "record_id": "doi:10.1038/s41598-025-96711-2",
+  "slug": "10.1038_s41598-025-96711-2",
+  "files": [
+   {
+    "name": "PMC12019183_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12019183/supplementaryFiles",
+    "bytes": 4171097,
+    "md5": "78e829791fa21b67b11aeee7bd06a386",
+    "sha256": "638d71d86d0e70e5c8f4d873eaba0dbbe71399a00b763784b8ec9bcc54885905",
+    "retrieved_at": "2026-10-29T22:13:35.393840+00:00"
+   }
+  ],
+  "extracted": [
+   "41598_2025_96711_Fig5_HTML.gif",
+   "41598_2025_96711_Fig4_HTML.gif",
+   "41598_2025_96711_Fig3_HTML.gif",
+   "41598_2025_96711_Fig2_HTML.jpg",
+   "41598_2025_96711_Fig4_HTML.jpg",
+   "41598_2025_96711_Fig5_HTML.jpg",
+   "41598_2025_96711_MOESM1_ESM.xls",
+   "41598_2025_96711_Fig2_HTML.gif",
+   "41598_2025_96711_Fig3_HTML.jpg",
+   "41598_2025_96711_Fig1_HTML.gif",
+   "41598_2025_96711_Fig1_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:12:01.920384+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1186/s12905-025-03697-0": {
+  "record_id": "doi:10.1186/s12905-025-03697-0",
+  "slug": "10.1186_s12905-025-03697-0",
+  "files": [
+   {
+    "name": "PMC11972508_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11972508/supplementaryFiles",
+    "bytes": 1054366,
+    "md5": "120124bab9a0db6a8456d087341dc5ae",
+    "sha256": "72dd49b0709ab91f5fb013f5e29af41352514e4fca92eb6cdbd8a3b45c7ebfe0",
+    "retrieved_at": "2026-10-29T22:13:55.545597+00:00"
+   }
+  ],
+  "extracted": [
+   "12905_2025_3697_Fig4_HTML.gif",
+   "12905_2025_3697_Fig2_HTML.jpg",
+   "12905_2025_3697_Fig6_HTML.gif",
+   "12905_2025_3697_Fig1_HTML.jpg",
+   "12905_2025_3697_Fig5_HTML.jpg",
+   "12905_2025_3697_Fig1_HTML.gif",
+   "12905_2025_3697_Fig7_HTML.gif",
+   "12905_2025_3697_Fig7_HTML.jpg",
+   "12905_2025_3697_Fig3_HTML.jpg",
+   "12905_2025_3697_Fig3_HTML.gif",
+   "12905_2025_3697_Fig8_HTML.jpg",
+   "12905_2025_3697_Fig5_HTML.gif",
+   "12905_2025_3697_Fig2_HTML.gif",
+   "12905_2025_3697_Fig8_HTML.gif",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-CENPE.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-CFD.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-ECT2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-FBXO5.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-HMMR.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-IER3.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-MK167.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-NDC80.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-PARPBP.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-PRIM1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-RLN2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-STIL.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-STMN1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S1__Figure_S1-TYMS.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-CENPE.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-CFD.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-ECT2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-FBXO5.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-HMMR.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-IER3.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-MK167.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-NDC80.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-PARPBP.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-PRIM1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-RLN2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-STIL.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-STMN1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S2__Figure_S2-TYMS.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-CENPE.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-CFD.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-ECT2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-FBXO5.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-HMMR.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-IER3.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-MK167.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-NDC80.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-PARPBP.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-PRIM1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-RLN2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-STIL.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-STMN1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S3__Figure_S3-TYMS.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-CENPE.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-CFD.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-ECT2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-FBXO5.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-HMMR.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-IER3.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-MK167.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-NDC80.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-PARPBP.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-PRIM1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-RLN2.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-STIL.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-STMN1.pdf",
+   "12905_2025_3697_MOESM1_ESM__S4__Figure_S4-TYMS.pdf",
+   "12905_2025_3697_Fig6_HTML.jpg",
+   "12905_2025_3697_Fig4_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:13:35.928274+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1186/s12958-025-01508-7": {
+  "record_id": "doi:10.1186/s12958-025-01508-7",
+  "slug": "10.1186_s12958-025-01508-7",
+  "files": [
+   {
+    "name": "PMC12829210_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12829210/supplementaryFiles",
+    "bytes": 519155231,
+    "md5": "0915c994bf3cd0a54db08b2f5ef81b6b",
+    "sha256": "189143cf86108fb4a05bb9716390732e1dc797a40db0baa01c1496c160c4928a",
+    "retrieved_at": "2026-10-29T22:34:44.271153+00:00"
+   }
+  ],
+  "extracted": [
+   "12958_2025_1508_MOESM6_ESM.xlsx",
+   "12958_2025_1508_MOESM33_ESM.xlsx",
+   "12958_2025_1508_Fig8_HTML.gif",
+   "12958_2025_1508_Fig2_HTML.jpg",
+   "12958_2025_1508_MOESM35_ESM.xlsx",
+   "12958_2025_1508_MOESM9_ESM.xlsx",
+   "12958_2025_1508_Fig5_HTML.jpg",
+   "12958_2025_1508_MOESM7_ESM.xlsx",
+   "12958_2025_1508_Fig7_HTML.gif",
+   "12958_2025_1508_MOESM30_ESM.xlsx",
+   "12958_2025_1508_Fig8_HTML.jpg",
+   "12958_2025_1508_Fig3_HTML.gif",
+   "12958_2025_1508_MOESM15_ESM.xlsx",
+   "12958_2025_1508_MOESM29_ESM.xlsx",
+   "12958_2025_1508_Fig6_HTML.gif",
+   "12958_2025_1508_MOESM22_ESM.xlsx",
+   "12958_2025_1508_Fig1_HTML.jpg",
+   "12958_2025_1508_MOESM8_ESM.xlsx",
+   "12958_2025_1508_Fig7_HTML.jpg",
+   "12958_2025_1508_MOESM21_ESM.xlsx",
+   "12958_2025_1508_MOESM39_ESM.xlsx",
+   "12958_2025_1508_MOESM20_ESM.xlsx",
+   "12958_2025_1508_MOESM16_ESM.xlsx",
+   "12958_2025_1508_MOESM18_ESM.xlsx",
+   "12958_2025_1508_Fig4_HTML.jpg",
+   "12958_2025_1508_MOESM34_ESM.xlsx",
+   "12958_2025_1508_MOESM12_ESM.xlsx",
+   "12958_2025_1508_MOESM25_ESM.xlsx",
+   "12958_2025_1508_MOESM27_ESM.xlsx",
+   "12958_2025_1508_Fig1_HTML.gif",
+   "12958_2025_1508_MOESM36_ESM.xlsx",
+   "12958_2025_1508_MOESM28_ESM.xlsx",
+   "12958_2025_1508_Fig3_HTML.jpg",
+   "12958_2025_1508_MOESM26_ESM.xlsx",
+   "12958_2025_1508_MOESM31_ESM.xlsx",
+   "12958_2025_1508_MOESM24_ESM.xlsx",
+   "12958_2025_1508_Fig2_HTML.gif",
+   "12958_2025_1508_Fig6_HTML.jpg",
+   "12958_2025_1508_MOESM5_ESM.xlsx",
+   "12958_2025_1508_Fig5_HTML.gif",
+   "12958_2025_1508_Figa_HTML.gif",
+   "12958_2025_1508_MOESM41_ESM.xlsx",
+   "12958_2025_1508_MOESM40_ESM.xlsx",
+   "12958_2025_1508_MOESM23_ESM.xlsx",
+   "12958_2025_1508_MOESM4_ESM.xlsx",
+   "12958_2025_1508_MOESM3_ESM.docx",
+   "12958_2025_1508_MOESM11_ESM.xlsx",
+   "12958_2025_1508_MOESM14_ESM.xlsx",
+   "12958_2025_1508_MOESM17_ESM.xlsx",
+   "12958_2025_1508_MOESM32_ESM.xlsx",
+   "12958_2025_1508_Fig4_HTML.gif",
+   "12958_2025_1508_MOESM37_ESM.xlsx",
+   "12958_2025_1508_Figa_HTML.jpg",
+   "12958_2025_1508_MOESM10_ESM.xlsx",
+   "12958_2025_1508_MOESM19_ESM.xlsx",
+   "12958_2025_1508_MOESM13_ESM.xlsx",
+   "12958_2025_1508_MOESM38_ESM.xlsx"
+  ],
+  "skipped": [
+   {
+    "member": "12958_2025_1508_MOESM1_ESM.gz",
+    "reason": "type .gz not allowlisted"
+   },
+   {
+    "member": "Supplementary Data 2 GWAS summary statistics for endometriosis (ID GCST90454213).txt",
+    "reason": "too large"
+   }
+  ],
+  "checked_at": "2026-10-29T22:31:01.322111+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1186/s40360-025-01030-x": {
+  "record_id": "doi:10.1186/s40360-025-01030-x",
+  "slug": "10.1186_s40360-025-01030-x",
+  "files": [
+   {
+    "name": "PMC12619379_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12619379/supplementaryFiles",
+    "bytes": 2295352,
+    "md5": "87172869078648a62d3c59042e5d9f60",
+    "sha256": "3caf7fbd2d72ec67669eb9b6531545de2c96bc2bc0e742369e596d9d5a1d7381",
+    "retrieved_at": "2026-10-29T22:16:35.261373+00:00"
+   }
+  ],
+  "extracted": [
+   "40360_2025_1030_Fig7_HTML.jpg",
+   "40360_2025_1030_Fig2_HTML.jpg",
+   "40360_2025_1030_Fig2_HTML.gif",
+   "40360_2025_1030_Fig5_HTML.jpg",
+   "40360_2025_1030_Fig7_HTML.gif",
+   "40360_2025_1030_Fig1_HTML.gif",
+   "40360_2025_1030_MOESM1_ESM.docx",
+   "40360_2025_1030_Fig3_HTML.gif",
+   "40360_2025_1030_Fig6_HTML.gif",
+   "40360_2025_1030_Fig4_HTML.gif",
+   "40360_2025_1030_Fig5_HTML.gif",
+   "40360_2025_1030_Fig1_HTML.jpg",
+   "40360_2025_1030_Fig6_HTML.jpg",
+   "40360_2025_1030_Fig3_HTML.jpg",
+   "40360_2025_1030_Fig4_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:15:56.280584+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.2147/ijwh.s601516": {
+  "record_id": "doi:10.2147/ijwh.s601516",
+  "slug": "10.2147_ijwh.s601516",
+  "files": [
+   {
+    "name": "PMC13452016_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13452016/supplementaryFiles",
+    "bytes": 1258363,
+    "md5": "1908786fa10bfd813b8a54b2b6df087d",
+    "sha256": "42d76109ae953f4e143ccd604ade18065b574938c80259fa6a34e8ce35db0407",
+    "retrieved_at": "2026-10-29T22:18:20.907124+00:00"
+   }
+  ],
+  "extracted": [
+   "IJWH-18-601516-g0006.jpg",
+   "IJWH-18-601516-g0006.gif",
+   "IJWH-18-601516-e0001.jpg",
+   "IJWH-18-601516-g0004.gif",
+   "IJWH-18-601516-g0007.gif",
+   "IJWH-18-601516-g0005.gif",
+   "IJWH-18-601516-g0007.jpg",
+   "IJWH-18-601516-g0005.jpg",
+   "IJWH-18-601516-g0003.gif",
+   "IJWH-18-601516-g0001.gif",
+   "IJWH-18-601516-g0003.jpg",
+   "IJWH-18-601516-g0004.jpg",
+   "IJWH-18-601516-g0002.jpg",
+   "IJWH-18-601516-g0002.gif",
+   "IJWH-18-601516-g0001.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:16:35.779156+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.3389/fendo.2024.1372221": {
+  "record_id": "doi:10.3389/fendo.2024.1372221",
+  "slug": "10.3389_fendo.2024.1372221",
+  "files": [
+   {
+    "name": "PMC11324423_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11324423/supplementaryFiles",
+    "bytes": 2741154,
+    "md5": "4ef175790b74f1710648f27bf33ecbf4",
+    "sha256": "2a2fb34075253aa05dd2ba38ae25a6e4134ab9bacb0db2f2205d80c68cc2127c",
+    "retrieved_at": "2026-10-29T22:19:47.052041+00:00"
+   }
+  ],
+  "extracted": [
+   "fendo-15-1372221-g007.jpg",
+   "fendo-15-1372221-g008.jpg",
+   "fendo-15-1372221-g003.gif",
+   "fendo-15-1372221-g002.jpg",
+   "fendo-15-1372221-g001.gif",
+   "fendo-15-1372221-g003.jpg",
+   "fendo-15-1372221-g004.jpg",
+   "Table_1.xlsx",
+   "fendo-15-1372221-g008.gif",
+   "fendo-15-1372221-g001.jpg",
+   "fendo-15-1372221-g006.jpg",
+   "fendo-15-1372221-g006.gif",
+   "fendo-15-1372221-g004.gif",
+   "fendo-15-1372221-g005.gif",
+   "Image_1.tif",
+   "fendo-15-1372221-g002.gif",
+   "fendo-15-1372221-g005.jpg",
+   "fendo-15-1372221-g007.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:18:21.420668+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.3389/fimmu.2026.1735221": {
+  "record_id": "doi:10.3389/fimmu.2026.1735221",
+  "slug": "10.3389_fimmu.2026.1735221",
+  "files": [
+   {
+    "name": "PMC13124487_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13124487/supplementaryFiles",
+    "bytes": 4813826,
+    "md5": "9957d5844b470e222c54eaeb427e6347",
+    "sha256": "fd02ff1820eb7cb394d3c4daa31c09f374642b09f2c0f2190cbc1b3f9983503b",
+    "retrieved_at": "2026-10-29T22:20:53.771662+00:00"
+   }
+  ],
+  "extracted": [
+   "fimmu-17-1735221-g006.gif",
+   "Table9.xlsx",
+   "fimmu-17-1735221-g001.jpg",
+   "fimmu-17-1735221-g010.gif",
+   "Table4.xlsx",
+   "Table8.xlsx",
+   "fimmu-17-1735221-g007.gif",
+   "fimmu-17-1735221-g007.jpg",
+   "fimmu-17-1735221-g005.jpg",
+   "fimmu-17-1735221-g003.gif",
+   "fimmu-17-1735221-g009.gif",
+   "Table6.xlsx",
+   "fimmu-17-1735221-g005.gif",
+   "Image1.jpeg",
+   "fimmu-17-1735221-g001.gif",
+   "Table3.xlsx",
+   "fimmu-17-1735221-g010.jpg",
+   "Table2.xlsx",
+   "fimmu-17-1735221-g009.jpg",
+   "Table7.xlsx",
+   "fimmu-17-1735221-g004.gif",
+   "Table5.xlsx",
+   "fimmu-17-1735221-g008.jpg",
+   "fimmu-17-1735221-g002.jpg",
+   "fimmu-17-1735221-g002.gif",
+   "fimmu-17-1735221-g003.jpg",
+   "fimmu-17-1735221-g006.jpg",
+   "Image2.tif",
+   "Table1.xlsx",
+   "fimmu-17-1735221-g004.jpg",
+   "fimmu-17-1735221-g008.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:19:47.573236+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.3389/frph.2026.1747031": {
+  "record_id": "doi:10.3389/frph.2026.1747031",
+  "slug": "10.3389_frph.2026.1747031",
+  "files": [
+   {
+    "name": "PMC13180925_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13180925/supplementaryFiles",
+    "bytes": 1857131,
+    "md5": "a370af0a5e4ecf545a9cd97318e5e960",
+    "sha256": "be48601f1d8b914c07c91fadd76e59ca89a08e9a6575e6c8014392a69a1464df",
+    "retrieved_at": "2026-10-29T22:22:14.284493+00:00"
+   }
+  ],
+  "extracted": [
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__CBR4_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__COX11_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__DNA2_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__EHHADH_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__ERAL1_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__FIS1_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__IMMT_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__LYRM7_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__ME2_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__MRPL21_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__MRPL55_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__MRPS35_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__NARS2_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__NFU1_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__NME4_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__SLC25A29_LOO_MR.pdf",
+   "Datasheet4__Supplementary_documents1__eQTL_LOO__UNG_LOO_MR.pdf",
+   "frph-08-1747031-g011.jpg",
+   "Datasheet3__Supplementary_documents2__pQTL_LOO__ACP6_LOO_MR.pdf",
+   "Datasheet3__Supplementary_documents2__pQTL_LOO__CRYZ_LOO_MR.pdf",
+   "Datasheet3__Supplementary_documents2__pQTL_Steiger_results__steiger_direction_test_results.csv",
+   "frph-08-1747031-g003.gif",
+   "frph-08-1747031-g010.jpg",
+   "frph-08-1747031-g004.jpg",
+   "frph-08-1747031-g004.gif",
+   "Datasheet2.csv",
+   "frph-08-1747031-g008.gif",
+   "frph-08-1747031-g007.gif",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg00432937_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg02049041_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg02753203_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg05987564_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg06183267_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg06365623_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg06380072_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg10108389_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg12240603_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg19912559_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_LOO__cg25195673_LOO_MR.pdf",
+   "Datasheet5__Supplementary_documents3__mQTL_Steiger_results__steiger_direction_test_results.csv",
+   "Datasheet1.csv",
+   "frph-08-1747031-g001.gif",
+   "frph-08-1747031-g002.gif",
+   "frph-08-1747031-g010.gif",
+   "frph-08-1747031-g005.gif",
+   "frph-08-1747031-g008.jpg",
+   "frph-08-1747031-g009.gif",
+   "frph-08-1747031-g006.jpg",
+   "frph-08-1747031-g006.gif",
+   "frph-08-1747031-g009.jpg",
+   "frph-08-1747031-g007.jpg",
+   "frph-08-1747031-g001.jpg",
+   "frph-08-1747031-g003.jpg",
+   "frph-08-1747031-g002.jpg",
+   "frph-08-1747031-g005.jpg",
+   "frph-08-1747031-g011.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:20:54.306061+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.3390/biology13110871": {
+  "record_id": "doi:10.3390/biology13110871",
+  "slug": "10.3390_biology13110871",
+  "files": [
+   {
+    "name": "PMC11591882_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11591882/supplementaryFiles",
+    "bytes": 4807537,
+    "md5": "c9ba0520f25e01a0061a9d7f84c7fa50",
+    "sha256": "cefc34a5862df9fd4c173baf2ab5a25dfa76c04e8647194f8b0e3b7895e8ac8c",
+    "retrieved_at": "2026-10-29T22:22:38.179270+00:00"
+   }
+  ],
+  "extracted": [
+   "biology-13-00871-g005.jpg",
+   "biology-13-00871-g006.jpg",
+   "biology-13-00871-g004.gif",
+   "biology-13-00871-g001.gif",
+   "biology-13-00871-g004.jpg",
+   "biology-13-00871-g006.gif",
+   "biology-13-00871-g005.gif",
+   "biology-13-00871-g003.jpg",
+   "biology-13-00871-g002.jpg",
+   "biology-13-00871-s001__Supplementary_Figures.pdf",
+   "biology-13-00871-s001__Supplementary_Tables.xlsx",
+   "biology-13-00871-g007.jpg",
+   "biology-13-00871-g002.gif",
+   "biology-13-00871-g001.jpg",
+   "biology-13-00871-g003.gif",
+   "biology-13-00871-g007.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:22:14.902406+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.3390/cimb47100831": {
+  "record_id": "doi:10.3390/cimb47100831",
+  "slug": "10.3390_cimb47100831",
+  "files": [
+   {
+    "name": "PMC12564322_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12564322/supplementaryFiles",
+    "bytes": 1420872,
+    "md5": "c7ae6141f682aa187af39d8b1008970b",
+    "sha256": "a499a2bd851e37fbc55962829b1e20c86642b462ba2eec18f66e9e506bed054e",
+    "retrieved_at": "2026-10-29T22:23:48.013143+00:00"
+   }
+  ],
+  "extracted": [
+   "cimb-47-00831-g002.gif",
+   "cimb-47-00831-g006.jpg",
+   "cimb-47-00831-g007.jpg",
+   "cimb-47-00831-s001__Table_S3.pdf",
+   "cimb-47-00831-s001__Table_S2.pdf",
+   "cimb-47-00831-s001__Table_S1.xlsx",
+   "cimb-47-00831-s001__Table_S4.xlsx",
+   "cimb-47-00831-s001__Table_S5.xlsx",
+   "cimb-47-00831-s001__Table_S6.xlsx",
+   "cimb-47-00831-g001.gif",
+   "cimb-47-00831-g004.jpg",
+   "cimb-47-00831-g005.gif",
+   "cimb-47-00831-g005.jpg",
+   "cimb-47-00831-g007.gif",
+   "cimb-47-00831-g006.gif",
+   "cimb-47-00831-g008.jpg",
+   "cimb-47-00831-g003.gif",
+   "cimb-47-00831-g008.gif",
+   "cimb-47-00831-g001.jpg",
+   "cimb-47-00831-g003.jpg",
+   "cimb-47-00831-g002.jpg",
+   "cimb-47-00831-g004.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:22:38.717179+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.heliyon.2024.e34494": {
+  "record_id": "doi:10.1016/j.heliyon.2024.e34494",
+  "slug": "10.1016_j.heliyon.2024.e34494",
+  "files": [
+   {
+    "name": "PMC11315135_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11315135/supplementaryFiles",
+    "bytes": 995363,
+    "md5": "ccb583463aef140129f9fa61613e4e2d",
+    "sha256": "f3909750d7ab44a44cc7fa264056e183155df2600ea98d689420a5ff924aa846",
+    "retrieved_at": "2026-10-29T22:24:06.588995+00:00"
+   }
+  ],
+  "extracted": [
+   "gr3.jpg",
+   "gr1.gif",
+   "mmc1.xlsx",
+   "gr2.gif",
+   "gr4.jpg",
+   "gr2.jpg",
+   "gr1.jpg",
+   "gr4.gif",
+   "gr3.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:23:48.538371+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.rbmo.2024.103856": {
+  "record_id": "doi:10.1016/j.rbmo.2024.103856",
+  "slug": "10.1016_j.rbmo.2024.103856",
+  "files": [
+   {
+    "name": "mmc1.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc1.xlsx",
+    "bytes": 15631,
+    "md5": "f2e978037c26f62a80758845ea2b93fd",
+    "sha256": "c737dfbd429fc0485decdd43fdbc6dd18b5d5d7018418542ab34f8816c98ef89",
+    "retrieved_at": "2026-10-29T22:24:16.081354+00:00"
+   },
+   {
+    "name": "mmc2.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc2.xlsx",
+    "bytes": 512121,
+    "md5": "d855432b0a637d3563275ee5b3195dcd",
+    "sha256": "57ff0fc0d29ef991835e12dd54789facbd50f52b07ec5ddd6e47db42bbce8afd",
+    "retrieved_at": "2026-10-29T22:24:16.847855+00:00"
+   },
+   {
+    "name": "mmc3.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc3.xlsx",
+    "bytes": 13043,
+    "md5": "7092161b71c25b9cc81fa65bf93f3d1e",
+    "sha256": "0a406089ab8a0b8d26af3f2315c5a885befde0e53543fabd381eec2f72ff892f",
+    "retrieved_at": "2026-10-29T22:24:17.457911+00:00"
+   },
+   {
+    "name": "mmc4.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc4.xlsx",
+    "bytes": 34157,
+    "md5": "a390efdffd7a64ed175e29d8f61c160c",
+    "sha256": "10da108e63cf7fdab48a0b007800e7dc0407ca5718658ab4bf7e288f146dcd1c",
+    "retrieved_at": "2026-10-29T22:24:18.096152+00:00"
+   },
+   {
+    "name": "mmc5.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc5.xlsx",
+    "bytes": 27041,
+    "md5": "eb0207705454f481045989c2b2ccb6de",
+    "sha256": "a2dbc11cfd8ca388b61367333bfa07f25de2f963de6f1c3ce6caf0d9e602ba22",
+    "retrieved_at": "2026-10-29T22:24:18.737716+00:00"
+   },
+   {
+    "name": "mmc6.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc6.xlsx",
+    "bytes": 11174,
+    "md5": "92c1a50789c6d3db77e145e5cfa9adf1",
+    "sha256": "a2a3e8ea3ba6e00b98cce8478a647b1eae025dae4b176450237061ef1bdb340b",
+    "retrieved_at": "2026-10-29T22:24:19.347491+00:00"
+   },
+   {
+    "name": "mmc7.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1472648324000452-mmc7.xlsx",
+    "bytes": 18656,
+    "md5": "8e6fd7f09ffe1829ff212bbf3873f63b",
+    "sha256": "2ab6896451e4b0f8220e0178158fc2f2d8a4b79a5154ddd7811066c6342105b4",
+    "retrieved_at": "2026-10-29T22:24:19.978475+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc1.xlsx",
+   "mmc2.xlsx",
+   "mmc3.xlsx",
+   "mmc4.xlsx",
+   "mmc5.xlsx",
+   "mmc6.xlsx",
+   "mmc7.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:24:07.098695+00:00",
+  "route": "elsevier_cdn",
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000042579": {
+  "record_id": "doi:10.1097/md.0000000000042579",
+  "slug": "10.1097_md.0000000000042579",
+  "files": [
+   {
+    "name": "PMC12113994_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12113994/supplementaryFiles",
+    "bytes": 1334545,
+    "md5": "1702fa68ebff1d443de9ca41e24f9417",
+    "sha256": "1424c007e4807b160e740b154b94060bba975570a8c776ecc027b0f2580673d6",
+    "retrieved_at": "2026-10-29T22:24:32.854193+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-104-e42579-g004.jpg",
+   "medi-104-e42579-g003.gif",
+   "medi-104-e42579-s002.pdf",
+   "medi-104-e42579-s001.pdf",
+   "medi-104-e42579-g001.gif",
+   "medi-104-e42579-g001.jpg",
+   "medi-104-e42579-g002.gif",
+   "medi-104-e42579-g002.jpg",
+   "medi-104-e42579-g004.gif",
+   "medi-104-e42579-g003.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:24:20.480848+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1097/md.0000000000042685": {
+  "record_id": "doi:10.1097/md.0000000000042685",
+  "slug": "10.1097_md.0000000000042685",
+  "files": [
+   {
+    "name": "PMC12129544_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12129544/supplementaryFiles",
+    "bytes": 1184416,
+    "md5": "5ea215f4acf45dcdc456615e445e766a",
+    "sha256": "5d9292384c8f89c548b851f79306d5b87252b0efbbd29f99702e95b444be1d4d",
+    "retrieved_at": "2026-10-29T22:25:06.439083+00:00"
+   }
+  ],
+  "extracted": [
+   "medi-104-e42685-g001.jpg",
+   "medi-104-e42685-g002.gif",
+   "medi-104-e42685-g002.jpg",
+   "medi-104-e42685-g001.gif",
+   "medi-104-e42685-s001.pdf"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:24:33.368016+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1186/s12916-023-02881-z": {
+  "record_id": "doi:10.1186/s12916-023-02881-z",
+  "slug": "10.1186_s12916-023-02881-z",
+  "files": [
+   {
+    "name": "PMC10210381_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10210381/supplementaryFiles",
+    "bytes": 1801868,
+    "md5": "7c6e7b4907a1754499281416725b5b59",
+    "sha256": "d8161d047e1fff3cc6b8471f0e7ed314cd10e5b345dbe9067001bc7b3c9b0a91",
+    "retrieved_at": "2026-10-29T22:25:42.943287+00:00"
+   }
+  ],
+  "extracted": [
+   "12916_2023_2881_Fig2_HTML.gif",
+   "12916_2023_2881_Fig4_HTML.gif",
+   "12916_2023_2881_Fig3_HTML.gif",
+   "12916_2023_2881_Fig1_HTML.jpg",
+   "12916_2023_2881_Fig4_HTML.jpg",
+   "12916_2023_2881_MOESM1_ESM.xlsx",
+   "12916_2023_2881_Fig1_HTML.gif",
+   "12916_2023_2881_Fig3_HTML.jpg",
+   "12916_2023_2881_MOESM2_ESM.pdf",
+   "12916_2023_2881_Fig2_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:25:06.946539+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1371/journal.pone.0301752": {
+  "record_id": "doi:10.1371/journal.pone.0301752",
+  "slug": "10.1371_journal.pone.0301752",
+  "files": [
+   {
+    "name": "PMC11142702_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11142702/supplementaryFiles",
+    "bytes": 4171490,
+    "md5": "0b6ea68193cf3c12e60290441464e26c",
+    "sha256": "c19597a18eebe0477e3375e8305e0b9be1a5acb5f721da2f07830f5aa6e1081d",
+    "retrieved_at": "2026-10-29T22:26:17.486991+00:00"
+   }
+  ],
+  "extracted": [
+   "pone.0301752.g004.gif",
+   "pone.0301752.t003.gif",
+   "pone.0301752.t001.gif",
+   "pone.0301752.g001.gif",
+   "pone.0301752.t001.jpg",
+   "pone.0301752.t002.gif",
+   "pone.0301752.s005.xlsx",
+   "pone.0301752.s004.xlsx",
+   "pone.0301752.g002.gif",
+   "pone.0301752.g002.jpg",
+   "pone.0301752.s001.xlsx",
+   "pone.0301752.s003.xlsx",
+   "pone.0301752.t003.jpg",
+   "pone.0301752.g003.jpg",
+   "pone.0301752.g001.jpg",
+   "pone.0301752.s008.tif",
+   "pone.0301752.s010.docx",
+   "pone.0301752.t002.jpg",
+   "pone.0301752.s002.xlsx",
+   "pone.0301752.s009.docx",
+   "pone.0301752.g004.jpg",
+   "pone.0301752.s006.tif",
+   "pone.0301752.s007.tif",
+   "pone.0301752.g003.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:25:43.455456+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1371/journal.pone.0356100": {
+  "record_id": "doi:10.1371/journal.pone.0356100",
+  "slug": "10.1371_journal.pone.0356100",
+  "files": [
+   {
+    "name": "PMC13472424_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13472424/supplementaryFiles",
+    "bytes": 19665876,
+    "md5": "fb9457318e5404ab26684b349b4b40ac",
+    "sha256": "8cf8ae6856eb336b32b9ba35166a877d0837bdfe33b5e42b36d6f2eef1ced129",
+    "retrieved_at": "2026-10-29T22:27:16.171054+00:00"
+   }
+  ],
+  "extracted": [
+   "pone.0356100.g009.jpg",
+   "pone.0356100.t003.jpg",
+   "pone.0356100.g005.gif",
+   "pone.0356100.g008.jpg",
+   "pone.0356100.g007.jpg",
+   "pone.0356100.t004.jpg",
+   "pone.0356100.g004.jpg",
+   "pone.0356100.g008.gif",
+   "pone.0356100.g001.gif",
+   "pone.0356100.g001.jpg",
+   "pone.0356100.g003.gif",
+   "pone.0356100.s004__TG_inhibitor_target_gene_information__Fibrate_target_gene_information.xlsx",
+   "pone.0356100.s004__TG_inhibitor_target_gene_information__Niacin_target_gene_information.xlsx",
+   "pone.0356100.s004__TG_inhibitor_target_gene_information___-3_PUFA_target_gene_information.xlsx",
+   "pone.0356100.g003.jpg",
+   "pone.0356100.g006.gif",
+   "pone.0356100.g002.jpg",
+   "pone.0356100.g005.jpg",
+   "pone.0356100.s002.tif",
+   "pone.0356100.g006.jpg",
+   "pone.0356100.t001.jpg",
+   "pone.0356100.t002.jpg",
+   "pone.0356100.t001.gif",
+   "pone.0356100.g002.gif",
+   "pone.0356100.t003.gif",
+   "pone.0356100.s003.docx",
+   "pone.0356100.t002.gif",
+   "pone.0356100.g004.gif",
+   "pone.0356100.s001.tif",
+   "pone.0356100.g007.gif",
+   "pone.0356100.g009.gif",
+   "pone.0356100.t004.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:26:18.015214+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.21203/rs.3.rs-4160567/v1": {
+  "record_id": "doi:10.21203/rs.3.rs-4160567/v1",
+  "slug": "10.21203_rs.3.rs-4160567_v1",
+  "files": [
+   {
+    "name": "manuscript.pdf",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4160567/v1/195e8f5d-4753-436b-a1f9-0d1bb9472832.pdf",
+    "bytes": 675389,
+    "md5": "8b07b5452fd7257737fc47cfcf2199e9",
+    "sha256": "11b0900041060d703d3122b8d5fe4081be0f4a61e57b2abe0027866ce6af1c11",
+    "retrieved_at": "2026-10-29T22:27:17.535425+00:00"
+   },
+   {
+    "name": "Eselectinendometriosis.zip",
+    "url": "https://assets-eu.researchsquare.com/files/rs-4160567/v1/42d64d613ea31608afd6c84c.zip",
+    "bytes": 623885,
+    "md5": "ae4f9c0423cb8304e222df5c191d3627",
+    "sha256": "1d9b2d0246b2276fce13a8a7efc4102f0f2725288c602362be26e89eb7c3bf04",
+    "retrieved_at": "2026-10-29T22:27:18.414947+00:00"
+   }
+  ],
+  "extracted": [
+   "manuscript.pdf",
+   "E-selectin_endometriosis__P_L_E-selectin__result.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_exp.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__finn-b-N14_ENDOMETRIOSIS_out.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_dat.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__E_selectin_finn-b-N14_ENDOMETRIOSIS_scatter.pdf",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_pleio.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_heterogeneity.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_datF.csv",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__E_selectin_finn-b-N14_ENDOMETRIOSIS_funnel.pdf",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__E-selectin_finn-b-N14_ENDOMETRIOSIS_leaveone.pdf",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__E_selectin_finn-b-N14_ENDOMETRIOSIS_forest.pdf",
+   "E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___finn-b-N14_ENDOMETRIOSIS_UTERUS_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_pleio.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_heterogeneity.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_scatter.pdf",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_scatter.pdf",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_exp.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_heterogeneity_leaveoneout.pdf",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_funnel.pdf",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_heterogeneity_forest.pdf",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_datF.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_heterogeneity.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_heterogeneity_pleio.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_OR.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_dat.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__ebi-a-GCST90018839_endometriosis_out.csv",
+   "E-selectin_endometriosis__E-selectin_X_Y_ebi_-a-GCST90018839_endometriosis__prot-a-2665_E-selectin_endometriosis_heterogeneity_scatter.pdf",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_pleio.csv",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_out.csv",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_heterogeneity.csv",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_OR.csv",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_leaveone.pdf",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_scatter.pdf",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_funnel.pdf",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_datF.csv",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_exp.csv",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_forest.pdf",
+   "E-selectin_endometriosis__met-a-601_M_Y___met-a-601_endometriosis_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_heterogeneity.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_pleio.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_datF.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-c-4154_57_2_L-selectin_endometriosis_OR.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_pleio.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_dat.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis.pdf",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_heterogeneity.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_funnel.pdf",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_leaveone.pdf",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_endometriosis_forest.pdf",
+   "E-selectin_endometriosis__L-selectin_X2_Y___ebi-a-GCST90018839_endometriosis_out.csv",
+   "E-selectin_endometriosis__L-selectin_X2_Y___prot-a-2666_L-selectin_exp.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_leaveone.pdf",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_datF.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_OR.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_exp.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_heterogeneity.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_pleio.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_funnel.pdf",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_scatter.pdf",
+   "E-selectin_endometriosis__P-selectin_X1_Y___ebi-a-GCST90018839_endometriosis_out.csv",
+   "E-selectin_endometriosis__P-selectin_X1_Y___prot-c-4154_57_2_P-selectin_endometriosis_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_pleio.csv",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_OR.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__ebi-a-GCST90018839_exp.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_dat_scatter.pdf",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_forest.pdf",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_leaveone.pdf",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_pleio.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_OR.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_funnel.pdf",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_datF.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_dat.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__endometriosis_prot-a-2665_heterogeneity.csv",
+   "E-selectin_endometriosis__endometriosis_Eselectin_inverse__prot-a-2665_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___finn-b-N14_ENDOMETRIOSIS_OVARY_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_heterogeneity.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_pleio.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_pleio.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_finn-b-N14_ENDOMETRIOSIS_INTESTINE_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__finn-b-N14_ENDOMETRIOSIS_INTESTINE_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE__prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_exp.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_leaveone.pdf",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_datF.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___met-a-601_out.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_funnel.pdf",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_pleio.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___met-a-601_endometriosis_scatter.pdf",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_forest.pdf",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_heterogeneity.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_OR.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___prot-a-2665_met-a-601_dat.csv",
+   "E-selectin_endometriosis__E_selectin_prot-a-2665_met-a-601_X_M___E_selectin_prot-a-2665_met-a-601_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_pleio.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_heterogeneity.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__prot-a-2665_finn-b-N14_ENDOMET_INFERT_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMET_INFERT__finn-b-N14_ENDOMET_INFERT_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_pleio.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_leaveone.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__finn-b-N14_ENDOMETRIOSIS_NOS_out.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS__prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___Endometriosis_of_rectovaginal_septum_and_vagina_scatter.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_dat.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_plei.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_hete.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_OR.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___Endometriosis_of_rectovaginal_septum_and_vagina_funnel.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_datF.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___prot-a-2665_5e-06_exp.csv",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___Endometriosis_of_rectovaginal_septum_and_vagina_forest.pdf",
+   "E-selectin_endometriosis__prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA___finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_out.csv"
+  ],
+  "skipped": [
+   {
+    "member": "__MACOSX/._E-selectin_endometriosis",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "E-selectin_endometriosis/.DS_Store",
+    "reason": "type none not allowlisted"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._.DS_Store",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._L-selectin(X2\u03c3\u00ea\u2591Y)",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._P-selectin(X1\u03c3\u00ea\u2591Y)",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._endometriosis_Eselectin_inverse",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._P_L_E-selectin\u03c3\u00f1\u00dc\u03c3\u00c5\u00ff\u0398\u00e7\u00c5_result.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMET_INFERT",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/.Rhistory",
+    "reason": "type none not allowlisted"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._.Rhistory",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._prot-a-2665_E_selectin_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._finn-b-N14_ENDOMETRIOSIS_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._E_selectin_finn-b-N14_ENDOMETRIOSIS_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._E_selectin_finn-b-N14_ENDOMETRIOSIS_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._E-selectin_finn-b-N14_ENDOMETRIOSIS_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._E_selectin_finn-b-N14_ENDOMETRIOSIS_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin_(X\u03c3\u00ea\u2591Y)_finn-b-N14_ENDOMETRIOSIS/._prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._finn-b-N14_ENDOMETRIOSIS_UTERUS_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_UTERUS_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_heterogeneity_leaveoneout.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_heterogeneity_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_heterogeneity_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._ebi-a-GCST90018839_endometriosis_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E-selectin(X\u03c3\u00ea\u2591Y) ebi -a-GCST90018839_endometriosis/._prot-a-2665_E-selectin_endometriosis_heterogeneity_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/met-a-601(M\u03a3\u2555\u00a1\u03a3\u2557\u00ef\u03c3\u00ea\u2591Y)/._met-a-601_endometriosis_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_FALLOPIAN_TUBE_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_L-selectin_endometriosis_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_endometriosis_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._ebi-a-GCST90018839_endometriosis_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/L-selectin(X2\u03c3\u00ea\u2591Y)/._prot-a-2666_L-selectin_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._ebi-a-GCST90018839_endometriosis_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/P-selectin(X1\u03c3\u00ea\u2591Y)/._prot-c-4154_57_2_P-selectin_endometriosis_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_ENDOMETRIOSIS_PELVICPERITONEUM/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_PELVICPERITONEUM_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "E-selectin_endometriosis/endometriosis_Eselectin_inverse/.Rhistory",
+    "reason": "type none not allowlisted"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._.Rhistory",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._ebi-a-GCST90018839_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_dat_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._endometriosis_prot-a-2665_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/endometriosis_Eselectin_inverse/._prot-a-2665_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._finn-b-N14_ENDOMETRIOSIS_OVARY_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY\u03c3\u00ec\u2561\u03c3\u2556\u00f3\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_OVARY_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_finn-b-N14_ENDOMETRIOSIS_INTESTINE_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._finn-b-N14_ENDOMETRIOSIS_INTESTINE_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_INTESTINE/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._met-a-601_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._met-a-601_endometriosis_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._prot-a-2665_met-a-601_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/E_selectin_prot-a-2665_met-a-601(X\u03c3\u00ea\u2591M\u03a3\u2555\u00a1\u03a3\u2557\u00ef)/._E_selectin_prot-a-2665_met-a-601_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._prot-a-2665_finn-b-N14_ENDOMET_INFERT_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMET_INFERT/._finn-b-N14_ENDOMET_INFERT_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_leaveone.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._finn-b-N14_ENDOMETRIOSIS_NOS_out.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_NOS/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._Endometriosis of rectovaginal septum and vagina_scatter.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_dat.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_pleio.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_heterogeneity.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_OR.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._Endometriosis of rectovaginal septum and vagina_funnel.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_datF.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._prot-a-2665_5e-06_exp.csv",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._Endometriosis of rectovaginal septum and vagina_forest.pdf",
+    "reason": "macOS metadata file"
+   },
+   {
+    "member": "__MACOSX/E-selectin_endometriosis/prot-a-2665_finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA\u03c4\u00a2\u2524\u03a6\u00e9\u00e1\u0398\u00ff\u2524\u0398\u00fc\u00f4\u03c3\u00a1\u00c9\u03c3\u00ab\u00bd\u03c3\u00e5\u00e0\u03a6\u00e5\u00a3\u03c3\u255d\u00e9\u03a3\u255c\u00ec/._finn-b-N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA_out.csv",
+    "reason": "macOS metadata file"
+   }
+  ],
+  "checked_at": "2026-10-29T22:27:16.777643+00:00",
+  "route": "researchsquare_api",
+  "status": "downloaded"
+ },
+ "doi:10.2147/ijwh.s509603": {
+  "record_id": "doi:10.2147/ijwh.s509603",
+  "slug": "10.2147_ijwh.s509603",
+  "files": [
+   {
+    "name": "PMC12118494_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12118494/supplementaryFiles",
+    "bytes": 550921,
+    "md5": "0e3c682849ca90cba2d7d169e065832a",
+    "sha256": "57f1bf06dc5e6467b8d0a7d0b434de780ad5ed4488a619b4701228d984fe5941",
+    "retrieved_at": "2026-10-29T22:27:38.492182+00:00"
+   }
+  ],
+  "extracted": [
+   "IJWH-17-1497-e0003.jpg",
+   "IJWH-17-1497-g0004.jpg",
+   "IJWH-17-1497-g0001.jpg",
+   "IJWH-17-1497-g0005.jpg",
+   "IJWH-17-1497-g0001.gif",
+   "IJWH-17-1497-e0001.jpg",
+   "IJWH-17-1497-e0002.jpg",
+   "IJWH-17-1497-g0003.jpg",
+   "IJWH-17-1497-g0004.gif",
+   "IJWH-17-1497-g0002.gif",
+   "IJWH-17-1497-g0003.gif",
+   "IJWH-17-1497-g0005.gif",
+   "IJWH-17-1497-g0002.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:27:19.075621+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.heliyon.2024.e35160": {
+  "record_id": "doi:10.1016/j.heliyon.2024.e35160",
+  "slug": "10.1016_j.heliyon.2024.e35160",
+  "files": [
+   {
+    "name": "PMC11336440_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11336440/supplementaryFiles",
+    "bytes": 2342531,
+    "md5": "34fbc708cccceb550cb7dc4ece18a6d5",
+    "sha256": "b19b6ccb3b50be51d0901fc1d97cd03975e813e8eded200e61583d5b0f58f5ed",
+    "retrieved_at": "2026-10-29T22:27:54.328030+00:00"
+   }
+  ],
+  "extracted": [
+   "gr4.gif",
+   "gr2.gif",
+   "gr1.gif",
+   "gr2.jpg",
+   "gr6.gif",
+   "gr5.gif",
+   "gr3.jpg",
+   "gr7.jpg",
+   "gr4.jpg",
+   "gr6.jpg",
+   "mmc2.xlsx",
+   "mmc3.docx",
+   "gr1.jpg",
+   "gr7.gif",
+   "gr3.gif",
+   "mmc1.xlsx",
+   "gr5.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-29T22:27:39.003016+00:00",
+  "route": "europepmc",
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.csbj.2023.02.001": {
+  "record_id": "doi:10.1016/j.csbj.2023.02.001",
+  "slug": "10.1016_j.csbj.2023.02.001",
+  "files": [
+   {
+    "name": "PMC9957794_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9957794/supplementaryFiles",
+    "bytes": 1952686,
+    "md5": "33b91749b1dc8ca5ad9388f86450cb02",
+    "sha256": "3343a2fc7a80260ee0e43c5815ebd0d73a9b41772db603ff62782f6c27d11174",
+    "retrieved_at": "2026-10-31T17:20:48.409695+00:00"
+   }
+  ],
+  "extracted": [
+   "gr1.gif",
+   "gr5.jpg",
+   "ga1.gif",
+   "gr6.jpg",
+   "gr2.jpg",
+   "gr4.jpg",
+   "gr7.gif",
+   "gr7.jpg",
+   "mmc1.docx",
+   "gr3.jpg",
+   "gr6.gif",
+   "gr4.gif",
+   "ga1.jpg",
+   "gr1.jpg",
+   "gr3.gif",
+   "gr2.gif",
+   "gr5.gif"
+  ],
+  "skipped": [
+   {
+    "member": "Supplementary Material.rar",
+    "reason": "type .rar not allowlisted"
+   }
+  ],
+  "checked_at": "2026-10-31T17:20:05.088884+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.isci.2025.113207": {
+  "record_id": "doi:10.1016/j.isci.2025.113207",
+  "slug": "10.1016_j.isci.2025.113207",
+  "files": [
+   {
+    "name": "PMC12359188_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12359188/supplementaryFiles",
+    "bytes": 17894004,
+    "md5": "8185eea287cd60137b2fdc2a373b511e",
+    "sha256": "3129c30fef8e979b8f8cd2532cdb6a18f791bbc7eb1cbc72f8d1a613a2bda138",
+    "retrieved_at": "2026-10-31T17:21:32.919502+00:00"
+   }
+  ],
+  "extracted": [
+   "mmc5.xlsx",
+   "mmc1.pdf",
+   "mmc4.xlsx",
+   "gr2.jpg",
+   "gr3.gif",
+   "mmc11.xlsx",
+   "mmc7.xlsx",
+   "mmc8.xlsx",
+   "gr4.gif",
+   "gr5.jpg",
+   "gr5.gif",
+   "gr6.jpg",
+   "mmc2.xlsx",
+   "fx1.jpg",
+   "gr4.jpg",
+   "gr1.gif",
+   "mmc10.xlsx",
+   "gr2.gif",
+   "mmc6.xlsx",
+   "gr1.jpg",
+   "gr6.gif",
+   "fx1.gif",
+   "mmc12.xlsx",
+   "mmc3.xlsx",
+   "mmc9.xlsx",
+   "gr3.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:20:48.938443+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1016/j.xgen.2023.100341": {
+  "record_id": "doi:10.1016/j.xgen.2023.100341",
+  "slug": "10.1016_j.xgen.2023.100341",
+  "files": [
+   {
+    "name": "PMC10363916_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10363916/supplementaryFiles",
+    "bytes": 13590463,
+    "md5": "1b08596526a144e0b30d4df0645f0fb9",
+    "sha256": "cc51bc6239599056aa4ae109df63fce2ac7339bb0877d3786f0d483b8c3bcb6a",
+    "retrieved_at": "2026-10-31T17:22:41.082458+00:00"
+   }
+  ],
+  "extracted": [
+   "fx1.gif",
+   "gr6.gif",
+   "gr5.gif",
+   "gr4.gif",
+   "mmc1.pdf",
+   "gr2.gif",
+   "mmc16.pdf",
+   "mmc12.xlsx",
+   "gr3.gif",
+   "mmc11.xlsx",
+   "mmc7.xlsx",
+   "gr1.gif",
+   "mmc3.xlsx",
+   "mmc5.xlsx",
+   "gr3.jpg",
+   "gr5.jpg",
+   "mmc10.xlsx",
+   "mmc4.xlsx",
+   "mmc8.xlsx",
+   "mmc13.xlsx",
+   "mmc14.xlsx",
+   "gr4.jpg",
+   "gr6.jpg",
+   "mmc6.xlsx",
+   "mmc15.pdf",
+   "mmc2.xlsx",
+   "gr1.jpg",
+   "mmc9.xlsx",
+   "fx1.jpg",
+   "gr2.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:21:33.506411+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1021/envhealth.5c00576": {
+  "record_id": "doi:10.1021/envhealth.5c00576",
+  "slug": "10.1021_envhealth.5c00576",
+  "files": [
+   {
+    "name": "PMC13288232_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13288232/supplementaryFiles",
+    "bytes": 2153018,
+    "md5": "408df74c217010a7e7600d5e433c5618",
+    "sha256": "64bafce97d98628942f5ff2eecdef9ce23bc289afec55f5427fc628db0b1318a",
+    "retrieved_at": "2026-10-31T17:23:34.094016+00:00"
+   }
+  ],
+  "extracted": [
+   "eh5c00576_0006.gif",
+   "eh5c00576_0005.gif",
+   "eh5c00576_0001.gif",
+   "eh5c00576_0007.gif",
+   "eh5c00576_0003.gif",
+   "eh5c00576_0004.jpg",
+   "eh5c00576_0010.jpg",
+   "eh5c00576_0005.jpg",
+   "eh5c00576_si_001.pdf",
+   "eh5c00576_0006.jpg",
+   "eh5c00576_0008.jpg",
+   "eh5c00576_0002.gif",
+   "eh5c00576_0004.gif",
+   "eh5c00576_0001.jpg",
+   "eh5c00576_0002.jpg",
+   "eh5c00576_0007.jpg",
+   "eh5c00576_0003.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:22:41.663032+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1038/ncomms15539": {
+  "record_id": "doi:10.1038/ncomms15539",
+  "slug": "10.1038_ncomms15539",
+  "files": [
+   {
+    "name": "PMC5458088_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5458088/supplementaryFiles",
+    "bytes": 6726301,
+    "md5": "4f3eee54c5f16147a9bcf91079326aba",
+    "sha256": "cada07a895e98d4f5202ca1a121fd5979d9b76fce7c61fb6db9c193152f91f7d",
+    "retrieved_at": "2026-10-31T17:24:15.876164+00:00"
+   }
+  ],
+  "extracted": [
+   "ncomms15539-f1.jpg",
+   "ncomms15539-t1.jpg",
+   "ncomms15539-f1.gif",
+   "ncomms15539-f2.jpg",
+   "ncomms15539-f3.jpg",
+   "ncomms15539-m1.jpg",
+   "ncomms15539-f3.gif",
+   "ncomms15539-s3.pdf",
+   "ncomms15539-s2.xlsx",
+   "ncomms15539-s1.pdf",
+   "ncomms15539-f2.gif",
+   "ncomms15539-t1.gif",
+   "ncomms15539-m2.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:23:34.615669+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1038/s41588-023-01323-z": {
+  "record_id": "doi:10.1038/s41588-023-01323-z",
+  "status": "manual",
+  "files": [],
+  "notes": "Supplementary_Materials.xlsx supplied by Artem 2026-10-31: data/manual/NIHMS1873427-supplement-Supplementary_Materials.xlsx"
+ },
+ "doi:10.1038/s41588-026-02582-2": {
+  "record_id": "doi:10.1038/s41588-026-02582-2",
+  "slug": "10.1038_s41588-026-02582-2",
+  "files": [
+   {
+    "name": "PMC13195585_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13195585/supplementaryFiles",
+    "bytes": 297,
+    "md5": "b87dc525b80927729d5f6232fa0af463",
+    "sha256": "464b2a51224ff8f059012d9cd3b9459719c3d64394d0cc3e3b8886b4e65d269a",
+    "retrieved_at": "previously downloaded"
+   }
+  ],
+  "extracted": [],
+  "skipped": [
+   {
+    "member": "PMC13195585_supplementary.zip",
+    "reason": "not a zip archive (297 bytes); the route returned an error page instead of files"
+   }
+  ],
+  "checked_at": "2026-10-31T17:24:52.161498+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "not_accessible",
+  "notes": "no usable files: not a zip archive (297 bytes); the route returned an error page instead of files"
+ },
+ "doi:10.1038/s41591-026-04326-5": {
+  "record_id": "doi:10.1038/s41591-026-04326-5",
+  "slug": "10.1038_s41591-026-04326-5",
+  "files": [
+   {
+    "name": "PMC13279269_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13279269/supplementaryFiles",
+    "bytes": 4642818,
+    "md5": "341e2e816b5101b6ed06b534b5b719d6",
+    "sha256": "a39aed570b40cd0fac44d27f2d941401b19c51f341b48c852724179a56a58654",
+    "retrieved_at": "2026-10-31T17:25:32.941131+00:00"
+   }
+  ],
+  "extracted": [
+   "41591_2026_4326_Fig5_HTML.gif",
+   "41591_2026_4326_Fig4_HTML.jpg",
+   "41591_2026_4326_Fig2_HTML.gif",
+   "41591_2026_4326_Fig2_HTML.jpg",
+   "41591_2026_4326_Fig5_HTML.jpg",
+   "41591_2026_4326_Fig1_HTML.gif",
+   "41591_2026_4326_MOESM1_ESM.pdf",
+   "41591_2026_4326_Fig3_HTML.jpg",
+   "41591_2026_4326_Fig1_HTML.jpg",
+   "41591_2026_4326_Fig3_HTML.gif",
+   "41591_2026_4326_Fig4_HTML.gif",
+   "41591_2026_4326_MOESM2_ESM.xlsx"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:24:52.664872+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1038/s41598-018-29462-y": {
+  "record_id": "doi:10.1038/s41598-018-29462-y",
+  "slug": "10.1038_s41598-018-29462-y",
+  "files": [
+   {
+    "name": "PMC6065421_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6065421/supplementaryFiles",
+    "bytes": 7069813,
+    "md5": "148f5672a746420f342187f58aaf037b",
+    "sha256": "c8f023503b33cd8c0b8477c41952d6d3f424df92a81698175b2d369dc5b902de",
+    "retrieved_at": "2026-10-31T17:26:55.783828+00:00"
+   }
+  ],
+  "extracted": [
+   "41598_2018_29462_Fig5_HTML.jpg",
+   "41598_2018_29462_Fig5_HTML.gif",
+   "41598_2018_29462_Fig7_HTML.gif",
+   "41598_2018_29462_Fig4_HTML.gif",
+   "41598_2018_29462_Article_IEq2.gif",
+   "41598_2018_29462_Fig1_HTML.jpg",
+   "41598_2018_29462_Fig7_HTML.jpg",
+   "41598_2018_29462_MOESM1_ESM.docx",
+   "41598_2018_29462_Fig1_HTML.gif",
+   "41598_2018_29462_MOESM2_ESM.xlsx",
+   "41598_2018_29462_Fig2_HTML.jpg",
+   "41598_2018_29462_Fig4_HTML.jpg",
+   "41598_2018_29462_Fig6_HTML.jpg",
+   "41598_2018_29462_Fig6_HTML.gif",
+   "41598_2018_29462_Fig3_HTML.jpg",
+   "41598_2018_29462_Fig2_HTML.gif",
+   "41598_2018_29462_Article_IEq1.gif",
+   "41598_2018_29462_Fig3_HTML.gif",
+   "41598_2018_29462_Article_Equ1.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:25:33.468908+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1038/s42003-023-05070-z": {
+  "record_id": "doi:10.1038/s42003-023-05070-z",
+  "slug": "10.1038_s42003-023-05070-z",
+  "files": [
+   {
+    "name": "PMC10432557_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10432557/supplementaryFiles",
+    "bytes": 16457703,
+    "md5": "000ddd82fce12083089fa81d1ad31bcb",
+    "sha256": "4e5740a36b4d742e3e1a2750d4bbb97d773016d8804c755d8d1cd88b4d0f9278",
+    "retrieved_at": "2026-10-31T17:28:05.518532+00:00"
+   }
+  ],
+  "extracted": [
+   "42003_2023_5070_Fig4_HTML.gif",
+   "42003_2023_5070_Fig5_HTML.jpg",
+   "42003_2023_5070_Fig2_HTML.gif",
+   "42003_2023_5070_Fig1_HTML.jpg",
+   "42003_2023_5070_MOESM2_ESM.pdf",
+   "42003_2023_5070_Fig4_HTML.jpg",
+   "42003_2023_5070_Fig3_HTML.jpg",
+   "42003_2023_5070_MOESM3_ESM.pdf",
+   "42003_2023_5070_MOESM4_ESM.xlsx",
+   "42003_2023_5070_MOESM1_ESM.pdf",
+   "42003_2023_5070_Fig3_HTML.gif",
+   "42003_2023_5070_Fig5_HTML.gif",
+   "42003_2023_5070_Fig2_HTML.jpg",
+   "42003_2023_5070_Fig1_HTML.gif",
+   "42003_2023_5070_MOESM5_ESM.pdf"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:26:56.328604+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1038/s44161-025-00700-7": {
+  "record_id": "doi:10.1038/s44161-025-00700-7",
+  "slug": "10.1038_s44161-025-00700-7",
+  "files": [
+   {
+    "name": "PMC12436178_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12436178/supplementaryFiles",
+    "bytes": 4222974,
+    "md5": "61006e62d4e4248f96888d19e22894e5",
+    "sha256": "b3cf39093efde8dcedbc326b386cb178269670e0c2e2a795ac09b063c2263fde",
+    "retrieved_at": "2026-10-31T17:28:57.745082+00:00"
+   }
+  ],
+  "extracted": [
+   "44161_2025_700_Fig13_ESM.gif",
+   "44161_2025_700_Fig12_ESM.gif",
+   "44161_2025_700_Fig1_HTML.gif",
+   "44161_2025_700_Fig6_HTML.gif",
+   "44161_2025_700_Fig10_ESM.jpg",
+   "44161_2025_700_Fig5_HTML.jpg",
+   "44161_2025_700_Fig1_HTML.jpg",
+   "44161_2025_700_Fig9_ESM.jpg",
+   "44161_2025_700_Fig11_ESM.gif",
+   "44161_2025_700_Fig8_ESM.gif",
+   "44161_2025_700_Fig7_HTML.jpg",
+   "44161_2025_700_Fig9_ESM.gif",
+   "44161_2025_700_Fig7_HTML.gif",
+   "44161_2025_700_MOESM1_ESM.pdf",
+   "44161_2025_700_MOESM3_ESM.xlsx",
+   "44161_2025_700_Fig4_HTML.gif",
+   "44161_2025_700_Fig6_HTML.jpg",
+   "44161_2025_700_Fig2_HTML.gif",
+   "44161_2025_700_Fig3_HTML.jpg",
+   "44161_2025_700_Fig13_ESM.jpg",
+   "44161_2025_700_Fig8_ESM.jpg",
+   "44161_2025_700_Fig2_HTML.jpg",
+   "44161_2025_700_Fig4_HTML.jpg",
+   "44161_2025_700_Fig3_HTML.gif",
+   "44161_2025_700_Fig5_HTML.gif",
+   "44161_2025_700_Fig11_ESM.jpg",
+   "44161_2025_700_Fig10_ESM.gif",
+   "44161_2025_700_MOESM2_ESM.xlsx",
+   "44161_2025_700_Fig12_ESM.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:28:06.101391+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1097/js9.0000000000005020": {
+  "record_id": "doi:10.1097/js9.0000000000005020",
+  "slug": "10.1097_js9.0000000000005020",
+  "files": [
+   {
+    "name": "PMC13249244_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13249244/supplementaryFiles",
+    "bytes": 1265166,
+    "md5": "6dcc78aa96c8fe55c46ed74b3f437949",
+    "sha256": "dc1ac26c082b16bf467d27fa158a7c5e728ad2a32eba9eca2cd7b0bcb14eafdc",
+    "retrieved_at": "2026-10-31T17:29:08.845199+00:00"
+   }
+  ],
+  "extracted": [
+   "js9-112-12666-g002.gif",
+   "js9-112-12666-g004.jpg",
+   "js9-112-12666-g003.gif",
+   "js9-112-12666-g006.gif",
+   "js9-112-12666-g004.gif",
+   "js9-112-12666-g005.gif",
+   "js9-112-12666-g001.jpg",
+   "js9-112-12666-g005.jpg",
+   "js9-112-12666-g001.gif",
+   "js9-112-12666-g006.jpg",
+   "js9-112-12666-g003.jpg",
+   "js9-112-12666-g002.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:28:58.285822+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1155/2024/9234876": {
+  "record_id": "doi:10.1155/2024/9234876",
+  "slug": "10.1155_2024_9234876",
+  "files": [
+   {
+    "name": "PMC11918975_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11918975/supplementaryFiles",
+    "bytes": 2797048,
+    "md5": "d6eba32348fac25bb2771ad069d98002",
+    "sha256": "a802b207fabe3faa9dd9bc62b62b7bee0bfc95db2ffae88d7c9f57d59f4720f5",
+    "retrieved_at": "2026-10-31T17:29:26.508815+00:00"
+   }
+  ],
+  "extracted": [
+   "9234876.f5.docx",
+   "DA2024-9234876.001.gif",
+   "9234876.f4.docx",
+   "9234876.f6.docx",
+   "9234876.f2.docx",
+   "9234876.f7.tif",
+   "9234876.f17.tif",
+   "9234876.f8.tif",
+   "DA2024-9234876.002.jpg",
+   "9234876.f1.docx",
+   "9234876.f3.docx",
+   "9234876.f9.tif",
+   "9234876.f11.tif",
+   "9234876.f15.tif",
+   "DA2024-9234876.004.gif",
+   "9234876.f12.tif",
+   "DA2024-9234876.003.jpg",
+   "9234876.f14.tif",
+   "DA2024-9234876.004.jpg",
+   "DA2024-9234876.003.gif",
+   "9234876.f13.tif",
+   "9234876.f16.tif",
+   "9234876.f18.tif",
+   "DA2024-9234876.002.gif",
+   "9234876.f10.tif",
+   "DA2024-9234876.001.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:29:09.361574+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1186/s12958-025-01406-y": {
+  "record_id": "doi:10.1186/s12958-025-01406-y",
+  "slug": "10.1186_s12958-025-01406-y",
+  "files": [
+   {
+    "name": "PMC12076840_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12076840/supplementaryFiles",
+    "bytes": 1135128,
+    "md5": "a71a00f118bc1f056f1e983273848d49",
+    "sha256": "88c1aa8dc25fb2a8c128080987524cf59a277ad8a445a004c0d01fbb1f156179",
+    "retrieved_at": "2026-10-31T17:29:42.718520+00:00"
+   }
+  ],
+  "extracted": [
+   "12958_2025_1406_Fig1_HTML.gif",
+   "12958_2025_1406_MOESM1_ESM.xlsx",
+   "12958_2025_1406_Fig3_HTML.gif",
+   "12958_2025_1406_Fig2_HTML.gif",
+   "12958_2025_1406_Fig2_HTML.jpg",
+   "12958_2025_1406_Fig1_HTML.jpg",
+   "12958_2025_1406_Fig3_HTML.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:29:27.666059+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1186/s13148-019-0648-7": {
+  "record_id": "doi:10.1186/s13148-019-0648-7",
+  "slug": "10.1186_s13148-019-0648-7",
+  "files": [
+   {
+    "name": "PMC6416889_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6416889/supplementaryFiles",
+    "bytes": 9460677,
+    "md5": "544c1ffbfd5fcbb24e60aa60d11bdce2",
+    "sha256": "ffc8fbb97c73e94e8d8bc715d70fc1789d6253bab742ca4fc61e4b06ea6dcfad",
+    "retrieved_at": "2026-10-31T17:29:57.300732+00:00"
+   }
+  ],
+  "extracted": [
+   "13148_2019_648_Fig6_HTML.gif",
+   "13148_2019_648_MOESM3_ESM.xlsx",
+   "13148_2019_648_Fig1_HTML.jpg",
+   "13148_2019_648_Fig6_HTML.jpg",
+   "13148_2019_648_Fig3_HTML.jpg",
+   "13148_2019_648_Fig4_HTML.jpg",
+   "13148_2019_648_Fig2_HTML.jpg",
+   "13148_2019_648_Fig4_HTML.gif",
+   "13148_2019_648_MOESM2_ESM.pdf",
+   "13148_2019_648_Fig1_HTML.gif",
+   "13148_2019_648_Fig5_HTML.gif",
+   "13148_2019_648_Fig2_HTML.gif",
+   "13148_2019_648_MOESM1_ESM.pdf",
+   "13148_2019_648_Fig5_HTML.jpg",
+   "13148_2019_648_Fig3_HTML.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:29:43.231623+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.1515/biol-2025-1372": {
+  "record_id": "doi:10.1515/biol-2025-1372",
+  "slug": "10.1515_biol-2025-1372",
+  "files": [
+   {
+    "name": "PMC13552619_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13552619/supplementaryFiles",
+    "bytes": 2738478,
+    "md5": "ab58723ab5192930bf1992bd8c8e799b",
+    "sha256": "0afa21c736946c6175c9882325a190635cfe4298e6c14f81b87912e9bbb63fca",
+    "retrieved_at": "2026-10-31T17:30:27.160912+00:00"
+   }
+  ],
+  "extracted": [
+   "j_biol-2025-1372_fig_006.gif",
+   "j_biol-2025-1372_fig_011.gif",
+   "j_biol-2025-1372_fig_001.gif",
+   "j_biol-2025-1372_fig_013.gif",
+   "j_biol-2025-1372_fig_007.gif",
+   "j_biol-2025-1372_fig_008.gif",
+   "j_biol-2025-1372_fig_009.gif",
+   "j_biol-2025-1372_fig_012.gif",
+   "j_biol-2025-1372_fig_005.gif",
+   "j_biol-2025-1372_fig_004.gif",
+   "j_biol-2025-1372_fig_014.gif",
+   "j_biol-2025-1372_fig_010.gif",
+   "j_biol-2025-1372_fig_003.gif",
+   "j_biol-2025-1372_fig_002.gif"
+  ],
+  "skipped": [
+   {
+    "member": "j_biol-2025-1372_fig_002.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_012.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_004.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_003.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_014.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_011.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_009.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_006.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_007.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_008.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_013.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_005.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_001.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "j_biol-2025-1372_fig_010.webp",
+    "reason": "type .webp not allowlisted"
+   }
+  ],
+  "checked_at": "2026-10-31T17:29:57.852859+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.2147/ijwh.s525908": {
+  "record_id": "doi:10.2147/ijwh.s525908",
+  "slug": "10.2147_ijwh.s525908",
+  "files": [
+   {
+    "name": "PMC12517201_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12517201/supplementaryFiles",
+    "bytes": 1258842,
+    "md5": "760b0ae7b37e966e0d44424944bba081",
+    "sha256": "d0bf4673e78242869b6b59047f4e3dc6f3be007663dfeec4cf9987aa89735346",
+    "retrieved_at": "2026-10-31T17:30:40.419669+00:00"
+   }
+  ],
+  "extracted": [
+   "IJWH-17-3591-g0002.gif",
+   "IJWH-17-3591-g0001.gif",
+   "IJWH-17-3591-g0006.gif",
+   "IJWH-17-3591-g0005.jpg",
+   "IJWH-17-3591-g0004.gif",
+   "IJWH-17-3591-g0004.jpg",
+   "IJWH-17-3591-g0003.gif",
+   "IJWH-17-3591-g0001.jpg",
+   "IJWH-17-3591-g0006.jpg",
+   "IJWH-17-3591-g0003.jpg",
+   "IJWH-17-3591-g0002.jpg",
+   "IJWH-17-3591-g0005.gif"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:30:27.676376+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.2147/ijwh.s638707": {
+  "record_id": "doi:10.2147/ijwh.s638707",
+  "slug": "10.2147_ijwh.s638707",
+  "files": [
+   {
+    "name": "PMC13634253_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13634253/supplementaryFiles",
+    "bytes": 511020,
+    "md5": "ac58f2ccd3c1a795a4faa3558b0e2966",
+    "sha256": "16f0010c7a31a4972c1e44c65e00c4a1ce0dff98f94fa0a01ad31450406bbd21",
+    "retrieved_at": "2026-10-31T17:30:54.521120+00:00"
+   }
+  ],
+  "extracted": [
+   "IJWH-18-638707-g0004.gif",
+   "IJWH-18-638707-g0007.gif",
+   "IJWH-18-638707-g0001.gif",
+   "IJWH-18-638707-g0008.gif",
+   "IJWH-18-638707-g0003.gif",
+   "IJWH-18-638707-g0005.gif",
+   "IJWH-18-638707-g0006.gif",
+   "IJWH-18-638707-g0002.gif"
+  ],
+  "skipped": [
+   {
+    "member": "IJWH-18-638707-g0007.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0001.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0008.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0006.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0005.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0003.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0002.webp",
+    "reason": "type .webp not allowlisted"
+   },
+   {
+    "member": "IJWH-18-638707-g0004.webp",
+    "reason": "type .webp not allowlisted"
+   }
+  ],
+  "checked_at": "2026-10-31T17:30:40.960566+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ },
+ "doi:10.3389/fphar.2024.1443045": {
+  "record_id": "doi:10.3389/fphar.2024.1443045",
+  "slug": "10.3389_fphar.2024.1443045",
+  "files": [
+   {
+    "name": "PMC11333260_supplementary.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11333260/supplementaryFiles",
+    "bytes": 1143166,
+    "md5": "c6aa784fd33e5699bb8927cb2580c35c",
+    "sha256": "be98426d4c8673de7cd010447301a681aabbef702390c4cc88f41688eb45816b",
+    "retrieved_at": "2026-10-31T17:31:04.987464+00:00"
+   }
+  ],
+  "extracted": [
+   "fphar-15-1443045-g001.gif",
+   "fphar-15-1443045-g003.gif",
+   "fphar-15-1443045-g004.gif",
+   "fphar-15-1443045-g001.jpg",
+   "Table1.XLSX",
+   "fphar-15-1443045-g002.gif",
+   "fphar-15-1443045-g002.jpg",
+   "fphar-15-1443045-g003.jpg",
+   "fphar-15-1443045-g004.jpg"
+  ],
+  "skipped": [],
+  "checked_at": "2026-10-31T17:30:55.030954+00:00",
+  "route": "europepmc",
+  "download_errors": [],
+  "status": "downloaded"
+ }
+}

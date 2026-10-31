@@ -1,0 +1,5979 @@
+{
+ "retrieved_at": "2026-10-31T18:08:47.935614+00:00",
+ "source": "Ensembl REST (rest.ensembl.org, grch37.rest.ensembl.org)",
+ "genes": {
+  "ABO": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 133233278,
+    "end": 133276024,
+    "ensembl_id": "ENSG00000175164",
+    "ensembl_name": "ABO",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 136125788,
+    "end": 136150617,
+    "ensembl_id": "ENSG00000175164",
+    "ensembl_name": "ABO",
+    "method": "symbol"
+   }
+  },
+  "ACAA2": {
+   "GRCh38": {
+    "chrom": "18",
+    "start": 49781714,
+    "end": 49813965,
+    "ensembl_id": "ENSG00000167315",
+    "ensembl_name": "ACAA2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "18",
+    "start": 47309869,
+    "end": 47340330,
+    "ensembl_id": "ENSG00000167315",
+    "ensembl_name": "ACAA2",
+    "method": "symbol"
+   }
+  },
+  "ACSS1": {
+   "GRCh38": {
+    "chrom": "20",
+    "start": 25003364,
+    "end": 25058980,
+    "ensembl_id": "ENSG00000154930",
+    "ensembl_name": "ACSS1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "20",
+    "start": 24986868,
+    "end": 25039616,
+    "ensembl_id": "ENSG00000154930",
+    "ensembl_name": "ACSS1",
+    "method": "symbol"
+   }
+  },
+  "ADAMTS13": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 133414358,
+    "end": 133459402,
+    "ensembl_id": "ENSG00000160323",
+    "ensembl_name": "ADAMTS13",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 136279478,
+    "end": 136324508,
+    "ensembl_id": "ENSG00000160323",
+    "ensembl_name": "ADAMTS13",
+    "method": "symbol"
+   }
+  },
+  "ADK": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 74151185,
+    "end": 74709963,
+    "ensembl_id": "ENSG00000156110",
+    "ensembl_name": "ADK",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 75910960,
+    "end": 76469061,
+    "ensembl_id": "ENSG00000156110",
+    "ensembl_name": "ADK",
+    "method": "symbol"
+   }
+  },
+  "AGPAT1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 32167118,
+    "end": 32178112,
+    "ensembl_id": "ENSG00000204310",
+    "ensembl_name": "AGPAT1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 32135989,
+    "end": 32145873,
+    "ensembl_id": "ENSG00000204310",
+    "ensembl_name": "AGPAT1",
+    "method": "symbol"
+   }
+  },
+  "AGPAT4": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 161129967,
+    "end": 161274693,
+    "ensembl_id": "ENSG00000026652",
+    "ensembl_name": "AGPAT4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 161551011,
+    "end": 161695093,
+    "ensembl_id": "ENSG00000026652",
+    "ensembl_name": "AGPAT4",
+    "method": "symbol"
+   }
+  },
+  "ALPI": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 232456125,
+    "end": 232460753,
+    "ensembl_id": "ENSG00000163295",
+    "ensembl_name": "ALPI",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 233320833,
+    "end": 233324742,
+    "ensembl_id": "ENSG00000163295",
+    "ensembl_name": "ALPI",
+    "method": "symbol"
+   }
+  },
+  "ANGPTL3": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 62597464,
+    "end": 62607699,
+    "ensembl_id": "ENSG00000132855",
+    "ensembl_name": "ANGPTL3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 63063158,
+    "end": 63071830,
+    "ensembl_id": "ENSG00000132855",
+    "ensembl_name": "ANGPTL3",
+    "method": "symbol"
+   }
+  },
+  "ANGPTL4": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 8363223,
+    "end": 8374371,
+    "ensembl_id": "ENSG00000167772",
+    "ensembl_name": "ANGPTL4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 8428173,
+    "end": 8439257,
+    "ensembl_id": "ENSG00000167772",
+    "ensembl_name": "ANGPTL4",
+    "method": "symbol"
+   }
+  },
+  "AP3M1": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 74120118,
+    "end": 74151055,
+    "ensembl_id": "ENSG00000185009",
+    "ensembl_name": "AP3M1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 75881524,
+    "end": 75910821,
+    "ensembl_id": "ENSG00000185009",
+    "ensembl_name": "AP3M1",
+    "method": "symbol"
+   }
+  },
+  "APEX1": {
+   "GRCh38": {
+    "chrom": "14",
+    "start": 20454525,
+    "end": 20458036,
+    "ensembl_id": "ENSG00000100823",
+    "ensembl_name": "APEX1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "14",
+    "start": 20923350,
+    "end": 20925927,
+    "ensembl_id": "ENSG00000100823",
+    "ensembl_name": "APEX1",
+    "method": "symbol"
+   }
+  },
+  "APOA1": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 116834677,
+    "end": 116842065,
+    "ensembl_id": "ENSG00000118137",
+    "ensembl_name": "APOA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 116706467,
+    "end": 116708666,
+    "ensembl_id": "ENSG00000118137",
+    "ensembl_name": "APOA1",
+    "method": "symbol"
+   }
+  },
+  "APOB": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 21001305,
+    "end": 21044075,
+    "ensembl_id": "ENSG00000084674",
+    "ensembl_name": "APOB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 21224301,
+    "end": 21266945,
+    "ensembl_id": "ENSG00000084674",
+    "ensembl_name": "APOB",
+    "method": "symbol"
+   }
+  },
+  "ARG1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 131470832,
+    "end": 131584332,
+    "ensembl_id": "ENSG00000118520",
+    "ensembl_name": "ARG1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 131894284,
+    "end": 131905472,
+    "ensembl_id": "ENSG00000118520",
+    "ensembl_name": "ARG1",
+    "method": "symbol"
+   }
+  },
+  "ARHGAP26": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 142770343,
+    "end": 143229011,
+    "ensembl_id": "ENSG00000145819",
+    "ensembl_name": "ARHGAP26",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 142149949,
+    "end": 142608576,
+    "ensembl_id": "ENSG00000145819",
+    "ensembl_name": "ARHGAP26",
+    "method": "symbol"
+   }
+  },
+  "ARL14EP": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 30323049,
+    "end": 30338967,
+    "ensembl_id": "ENSG00000152219",
+    "ensembl_name": "ARL14EP",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 30344598,
+    "end": 30359774,
+    "ensembl_id": "ENSG00000152219",
+    "ensembl_name": "ARL14EP",
+    "method": "symbol"
+   }
+  },
+  "ARMT1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 151452258,
+    "end": 151489098,
+    "ensembl_id": "ENSG00000146476",
+    "ensembl_name": "DCPH1",
+    "method": "alias"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 151773422,
+    "end": 151791236,
+    "ensembl_id": "ENSG00000146476",
+    "ensembl_name": "C6orf211",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "ASF1A": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 118894020,
+    "end": 118909264,
+    "ensembl_id": "ENSG00000111875",
+    "ensembl_name": "ASF1A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 119215384,
+    "end": 119230332,
+    "ensembl_id": "ENSG00000111875",
+    "ensembl_name": "ASF1A",
+    "method": "symbol"
+   }
+  },
+  "ATF7IP": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 14365439,
+    "end": 14502931,
+    "ensembl_id": "ENSG00000171681",
+    "ensembl_name": "ATF7IP",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 14518610,
+    "end": 14651697,
+    "ensembl_id": "ENSG00000171681",
+    "ensembl_name": "ATF7IP",
+    "method": "symbol"
+   }
+  },
+  "ATG7": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 11272309,
+    "end": 11557665,
+    "ensembl_id": "ENSG00000197548",
+    "ensembl_name": "ATG7",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 11313995,
+    "end": 11599139,
+    "ensembl_id": "ENSG00000197548",
+    "ensembl_name": "ATG7",
+    "method": "symbol"
+   }
+  },
+  "BACE1": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 117285232,
+    "end": 117316291,
+    "ensembl_id": "ENSG00000186318",
+    "ensembl_name": "BACE1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 117156402,
+    "end": 117186975,
+    "ensembl_id": "ENSG00000186318",
+    "ensembl_name": "BACE1",
+    "method": "symbol"
+   }
+  },
+  "BANK1": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 101411286,
+    "end": 102074904,
+    "ensembl_id": "ENSG00000153064",
+    "ensembl_name": "BANK1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 102332443,
+    "end": 102995969,
+    "ensembl_id": "ENSG00000153064",
+    "ensembl_name": "BANK1",
+    "method": "symbol"
+   }
+  },
+  "BCL2": {
+   "GRCh38": {
+    "chrom": "18",
+    "start": 63123346,
+    "end": 63320215,
+    "ensembl_id": "ENSG00000171791",
+    "ensembl_name": "BCL2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "18",
+    "start": 60790579,
+    "end": 60987361,
+    "ensembl_id": "ENSG00000171791",
+    "ensembl_name": "BCL2",
+    "method": "symbol"
+   }
+  },
+  "BID": {
+   "GRCh38": {
+    "chrom": "22",
+    "start": 17734138,
+    "end": 17774770,
+    "ensembl_id": "ENSG00000015475",
+    "ensembl_name": "BID",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "22",
+    "start": 18216906,
+    "end": 18257536,
+    "ensembl_id": "ENSG00000015475",
+    "ensembl_name": "BID",
+    "method": "symbol"
+   }
+  },
+  "BLMH": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 30248193,
+    "end": 30292152,
+    "ensembl_id": "ENSG00000108578",
+    "ensembl_name": "BLMH",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 28575218,
+    "end": 28619074,
+    "ensembl_id": "ENSG00000108578",
+    "ensembl_name": "BLMH",
+    "method": "symbol"
+   }
+  },
+  "BLOC1S1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 55715911,
+    "end": 55720087,
+    "ensembl_id": "ENSG00000135441",
+    "ensembl_name": "BLOC1S1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 56109820,
+    "end": 56113871,
+    "ensembl_id": "ENSG00000135441",
+    "ensembl_name": "BLOC1S1",
+    "method": "symbol"
+   }
+  },
+  "BMF": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 40087889,
+    "end": 40108928,
+    "ensembl_id": "ENSG00000104081",
+    "ensembl_name": "BMF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 40380091,
+    "end": 40401093,
+    "ensembl_id": "ENSG00000104081",
+    "ensembl_name": "BMF",
+    "method": "symbol"
+   }
+  },
+  "BMP6": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 7726049,
+    "end": 7881730,
+    "ensembl_id": "ENSG00000153162",
+    "ensembl_name": "BMP6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 7727030,
+    "end": 7881655,
+    "ensembl_id": "ENSG00000153162",
+    "ensembl_name": "BMP6",
+    "method": "symbol"
+   }
+  },
+  "BRAF": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 140719327,
+    "end": 140925199,
+    "ensembl_id": "ENSG00000157764",
+    "ensembl_name": "BRAF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 140419127,
+    "end": 140624564,
+    "ensembl_id": "ENSG00000157764",
+    "ensembl_name": "BRAF",
+    "method": "symbol"
+   }
+  },
+  "BUB1B": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 40160984,
+    "end": 40221137,
+    "ensembl_id": "ENSG00000156970",
+    "ensembl_name": "BUB1B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 40453224,
+    "end": 40513337,
+    "ensembl_id": "ENSG00000156970",
+    "ensembl_name": "BUB1B",
+    "method": "symbol"
+   }
+  },
+  "CA1": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 85327608,
+    "end": 85379014,
+    "ensembl_id": "ENSG00000133742",
+    "ensembl_name": "CA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 86239837,
+    "end": 86291243,
+    "ensembl_id": "ENSG00000133742",
+    "ensembl_name": "CA1",
+    "method": "symbol"
+   }
+  },
+  "CALCRL": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 187341946,
+    "end": 187448506,
+    "ensembl_id": "ENSG00000064989",
+    "ensembl_name": "CALCRL",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 188207856,
+    "end": 188313187,
+    "ensembl_id": "ENSG00000064989",
+    "ensembl_name": "CALCRL",
+    "method": "symbol"
+   }
+  },
+  "CARS2": {
+   "GRCh38": {
+    "chrom": "13",
+    "start": 110641409,
+    "end": 110713603,
+    "ensembl_id": "ENSG00000134905",
+    "ensembl_name": "CARS2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "13",
+    "start": 111293759,
+    "end": 111365950,
+    "ensembl_id": "ENSG00000134905",
+    "ensembl_name": "CARS2",
+    "method": "symbol"
+   }
+  },
+  "CASP8": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 201233443,
+    "end": 201361836,
+    "ensembl_id": "ENSG00000064012",
+    "ensembl_name": "CASP8",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 202098166,
+    "end": 202152434,
+    "ensembl_id": "ENSG00000064012",
+    "ensembl_name": "CASP8",
+    "method": "symbol"
+   }
+  },
+  "CASP9": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 15489724,
+    "end": 15526534,
+    "ensembl_id": "ENSG00000132906",
+    "ensembl_name": "CASP9",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 15817327,
+    "end": 15853029,
+    "ensembl_id": "ENSG00000132906",
+    "ensembl_name": "CASP9",
+    "method": "symbol"
+   }
+  },
+  "CBR4": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 168861686,
+    "end": 169010347,
+    "ensembl_id": "ENSG00000145439",
+    "ensembl_name": "CBR4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 169784921,
+    "end": 169931426,
+    "ensembl_id": "ENSG00000145439",
+    "ensembl_name": "CBR4",
+    "method": "symbol"
+   }
+  },
+  "CCDC127": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 196868,
+    "end": 218162,
+    "ensembl_id": "ENSG00000164366",
+    "ensembl_name": "CCDC127",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 196986,
+    "end": 218330,
+    "ensembl_id": "ENSG00000164366",
+    "ensembl_name": "CCDC127",
+    "method": "symbol"
+   }
+  },
+  "CCDC170": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 151493754,
+    "end": 151621193,
+    "ensembl_id": "ENSG00000120262",
+    "ensembl_name": "CCDC170",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 151815165,
+    "end": 151942328,
+    "ensembl_id": "ENSG00000120262",
+    "ensembl_name": "CCDC170",
+    "method": "symbol"
+   }
+  },
+  "CCDC28A": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 138773493,
+    "end": 138809746,
+    "ensembl_id": "ENSG00000024862",
+    "ensembl_name": "CCDC28A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 139094657,
+    "end": 139114456,
+    "ensembl_id": "ENSG00000024862",
+    "ensembl_name": "CCDC28A",
+    "method": "symbol"
+   }
+  },
+  "CCL2": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 34255274,
+    "end": 34257208,
+    "ensembl_id": "ENSG00000108691",
+    "ensembl_name": "CCL2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 32582304,
+    "end": 32584222,
+    "ensembl_id": "ENSG00000108691",
+    "ensembl_name": "CCL2",
+    "method": "symbol"
+   }
+  },
+  "CCL3": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 36088256,
+    "end": 36090169,
+    "ensembl_id": "ENSG00000277632",
+    "ensembl_name": "CCL3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 34415602,
+    "end": 34417515,
+    "ensembl_id": "ENSG00000006075",
+    "ensembl_name": "CCL3",
+    "method": "symbol"
+   }
+  },
+  "CCL4": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 36103588,
+    "end": 36105627,
+    "ensembl_id": "ENSG00000275302",
+    "ensembl_name": "CCL4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 34430983,
+    "end": 34433014,
+    "ensembl_id": "ENSG00000129277",
+    "ensembl_name": "CCL4",
+    "method": "symbol"
+   }
+  },
+  "CD109": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 73695779,
+    "end": 73828316,
+    "ensembl_id": "ENSG00000156535",
+    "ensembl_name": "CD109",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 74405508,
+    "end": 74538040,
+    "ensembl_id": "ENSG00000156535",
+    "ensembl_name": "CD109",
+    "method": "symbol"
+   }
+  },
+  "CD200": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 112332235,
+    "end": 112363181,
+    "ensembl_id": "ENSG00000091972",
+    "ensembl_name": "CD200",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 112051194,
+    "end": 112081659,
+    "ensembl_id": "ENSG00000091972",
+    "ensembl_name": "CD200",
+    "method": "symbol"
+   }
+  },
+  "CD274": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 5450503,
+    "end": 5470566,
+    "ensembl_id": "ENSG00000120217",
+    "ensembl_name": "CD274",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 5450503,
+    "end": 5470566,
+    "ensembl_id": "ENSG00000120217",
+    "ensembl_name": "CD274",
+    "method": "symbol"
+   }
+  },
+  "CD28": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 203706517,
+    "end": 203739756,
+    "ensembl_id": "ENSG00000178562",
+    "ensembl_name": "CD28",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 204571198,
+    "end": 204603635,
+    "ensembl_id": "ENSG00000178562",
+    "ensembl_name": "CD28",
+    "method": "symbol"
+   }
+  },
+  "CDC42": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 22052627,
+    "end": 22101360,
+    "ensembl_id": "ENSG00000070831",
+    "ensembl_name": "CDC42",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 22379120,
+    "end": 22419437,
+    "ensembl_id": "ENSG00000070831",
+    "ensembl_name": "CDC42",
+    "method": "symbol"
+   }
+  },
+  "CDCA2": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 25459199,
+    "end": 25508491,
+    "ensembl_id": "ENSG00000184661",
+    "ensembl_name": "CDCA2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 25316513,
+    "end": 25365436,
+    "ensembl_id": "ENSG00000184661",
+    "ensembl_name": "CDCA2",
+    "method": "symbol"
+   }
+  },
+  "CDCP1": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 45082277,
+    "end": 45146483,
+    "ensembl_id": "ENSG00000163814",
+    "ensembl_name": "CDCP1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 45123770,
+    "end": 45187914,
+    "ensembl_id": "ENSG00000163814",
+    "ensembl_name": "CDCP1",
+    "method": "symbol"
+   }
+  },
+  "CDH1": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 68737242,
+    "end": 68835543,
+    "ensembl_id": "ENSG00000039068",
+    "ensembl_name": "CDH1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 68771128,
+    "end": 68869451,
+    "ensembl_id": "ENSG00000039068",
+    "ensembl_name": "CDH1",
+    "method": "symbol"
+   }
+  },
+  "CDKN2A": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 21966924,
+    "end": 21995301,
+    "ensembl_id": "ENSG00000147889",
+    "ensembl_name": "CDKN2A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 21967751,
+    "end": 21995300,
+    "ensembl_id": "ENSG00000147889",
+    "ensembl_name": "CDKN2A",
+    "method": "symbol"
+   }
+  },
+  "CDKN2B": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 22002900,
+    "end": 22009325,
+    "ensembl_id": "ENSG00000147883",
+    "ensembl_name": "CDKN2B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 22002902,
+    "end": 22009362,
+    "ensembl_id": "ENSG00000147883",
+    "ensembl_name": "CDKN2B",
+    "method": "symbol"
+   }
+  },
+  "CEBPB": {
+   "GRCh38": {
+    "chrom": "20",
+    "start": 50190734,
+    "end": 50192690,
+    "ensembl_id": "ENSG00000172216",
+    "ensembl_name": "CEBPB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "20",
+    "start": 48807376,
+    "end": 48809212,
+    "ensembl_id": "ENSG00000172216",
+    "ensembl_name": "CEBPB",
+    "method": "symbol"
+   }
+  },
+  "CENPE": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 103105349,
+    "end": 103198463,
+    "ensembl_id": "ENSG00000138778",
+    "ensembl_name": "CENPE",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 104026963,
+    "end": 104119566,
+    "ensembl_id": "ENSG00000138778",
+    "ensembl_name": "CENPE",
+    "method": "symbol"
+   }
+  },
+  "CFD": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 859426,
+    "end": 869492,
+    "ensembl_id": "ENSG00000197766",
+    "ensembl_name": "CFD",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 859453,
+    "end": 863453,
+    "ensembl_id": "ENSG00000197766",
+    "ensembl_name": "CFD",
+    "method": "symbol"
+   }
+  },
+  "CHMP6": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 80991598,
+    "end": 81031356,
+    "ensembl_id": "ENSG00000176108",
+    "ensembl_name": "CHMP6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 78965398,
+    "end": 78983317,
+    "ensembl_id": "ENSG00000176108",
+    "ensembl_name": "CHMP6",
+    "method": "symbol"
+   }
+  },
+  "CISD1": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 58269113,
+    "end": 58291167,
+    "ensembl_id": "ENSG00000122873",
+    "ensembl_name": "CISD1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 60028818,
+    "end": 60049346,
+    "ensembl_id": "ENSG00000122873",
+    "ensembl_name": "CISD1",
+    "method": "symbol"
+   }
+  },
+  "CISD2": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 102868738,
+    "end": 102903259,
+    "ensembl_id": "ENSG00000145354",
+    "ensembl_name": "CISD2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 103790135,
+    "end": 103810399,
+    "ensembl_id": "ENSG00000145354",
+    "ensembl_name": "CISD2",
+    "method": "symbol"
+   }
+  },
+  "CNOT7": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 17224966,
+    "end": 17247726,
+    "ensembl_id": "ENSG00000198791",
+    "ensembl_name": "CNOT7",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 17086737,
+    "end": 17104387,
+    "ensembl_id": "ENSG00000198791",
+    "ensembl_name": "CNOT7",
+    "method": "symbol"
+   }
+  },
+  "COMT": {
+   "GRCh38": {
+    "chrom": "22",
+    "start": 19941371,
+    "end": 19969975,
+    "ensembl_id": "ENSG00000093010",
+    "ensembl_name": "COMT",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "22",
+    "start": 19929130,
+    "end": 19957498,
+    "ensembl_id": "ENSG00000093010",
+    "ensembl_name": "COMT",
+    "method": "symbol"
+   }
+  },
+  "COPZ2": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 48026142,
+    "end": 48038030,
+    "ensembl_id": "ENSG00000005243",
+    "ensembl_name": "COPZ2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 46103533,
+    "end": 46115392,
+    "ensembl_id": "ENSG00000005243",
+    "ensembl_name": "COPZ2",
+    "method": "symbol"
+   }
+  },
+  "COQ5": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 120502670,
+    "end": 120534434,
+    "ensembl_id": "ENSG00000110871",
+    "ensembl_name": "COQ5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 120941077,
+    "end": 120972237,
+    "ensembl_id": "ENSG00000110871",
+    "ensembl_name": "COQ5",
+    "method": "symbol"
+   }
+  },
+  "COX11": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 54919450,
+    "end": 54968708,
+    "ensembl_id": "ENSG00000166260",
+    "ensembl_name": "COX11",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 53029263,
+    "end": 53046146,
+    "ensembl_id": "ENSG00000166260",
+    "ensembl_name": "COX11",
+    "method": "symbol"
+   }
+  },
+  "COX6B1": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 35648230,
+    "end": 35662890,
+    "ensembl_id": "ENSG00000126267",
+    "ensembl_name": "COX6B1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 36139125,
+    "end": 36149763,
+    "ensembl_id": "ENSG00000126267",
+    "ensembl_name": "COX6B1",
+    "method": "symbol"
+   }
+  },
+  "CREB3L4": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 153963719,
+    "end": 153974366,
+    "ensembl_id": "ENSG00000143578",
+    "ensembl_name": "CREB3L4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 153940010,
+    "end": 153946839,
+    "ensembl_id": "ENSG00000143578",
+    "ensembl_name": "CREB3L4",
+    "method": "symbol"
+   }
+  },
+  "CRISPLD2": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 84819975,
+    "end": 84920768,
+    "ensembl_id": "ENSG00000103196",
+    "ensembl_name": "CRISPLD2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 84853590,
+    "end": 84954374,
+    "ensembl_id": "ENSG00000103196",
+    "ensembl_name": "CRISPLD2",
+    "method": "symbol"
+   }
+  },
+  "CRYZ": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 74700529,
+    "end": 74733128,
+    "ensembl_id": "ENSG00000116791",
+    "ensembl_name": "CRYZ",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 75171170,
+    "end": 75199092,
+    "ensembl_id": "ENSG00000116791",
+    "ensembl_name": "CRYZ",
+    "method": "symbol"
+   }
+  },
+  "CSF1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 109910242,
+    "end": 109930993,
+    "ensembl_id": "ENSG00000184371",
+    "ensembl_name": "CSF1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 110452864,
+    "end": 110473614,
+    "ensembl_id": "ENSG00000184371",
+    "ensembl_name": "CSF1",
+    "method": "symbol"
+   }
+  },
+  "CSF3": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 40015361,
+    "end": 40017816,
+    "ensembl_id": "ENSG00000108342",
+    "ensembl_name": "CSF3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 38171614,
+    "end": 38174066,
+    "ensembl_id": "ENSG00000108342",
+    "ensembl_name": "CSF3",
+    "method": "symbol"
+   }
+  },
+  "CST5": {
+   "GRCh38": {
+    "chrom": "20",
+    "start": 23875934,
+    "end": 23880086,
+    "ensembl_id": "ENSG00000170367",
+    "ensembl_name": "CST5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "20",
+    "start": 23856572,
+    "end": 23860387,
+    "ensembl_id": "ENSG00000170367",
+    "ensembl_name": "CST5",
+    "method": "symbol"
+   }
+  },
+  "CTSH": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 78921058,
+    "end": 78949574,
+    "ensembl_id": "ENSG00000103811",
+    "ensembl_name": "CTSH",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 79213400,
+    "end": 79241916,
+    "ensembl_id": "ENSG00000103811",
+    "ensembl_name": "CTSH",
+    "method": "symbol"
+   }
+  },
+  "CUL2": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 35008465,
+    "end": 35127006,
+    "ensembl_id": "ENSG00000108094",
+    "ensembl_name": "CUL2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 35297479,
+    "end": 35379570,
+    "ensembl_id": "ENSG00000108094",
+    "ensembl_name": "CUL2",
+    "method": "symbol"
+   }
+  },
+  "CXCL11": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 76033682,
+    "end": 76050206,
+    "ensembl_id": "ENSG00000169248",
+    "ensembl_name": "CXCL11",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 76954835,
+    "end": 76962568,
+    "ensembl_id": "ENSG00000169248",
+    "ensembl_name": "CXCL11",
+    "method": "symbol"
+   }
+  },
+  "CXCL5": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 73995642,
+    "end": 73998687,
+    "ensembl_id": "ENSG00000163735",
+    "ensembl_name": "CXCL5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 74861359,
+    "end": 74864496,
+    "ensembl_id": "ENSG00000163735",
+    "ensembl_name": "CXCL5",
+    "method": "symbol"
+   }
+  },
+  "CXCL6": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 73836622,
+    "end": 73849064,
+    "ensembl_id": "ENSG00000124875",
+    "ensembl_name": "CXCL6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 74702214,
+    "end": 74714781,
+    "ensembl_id": "ENSG00000124875",
+    "ensembl_name": "CXCL6",
+    "method": "symbol"
+   }
+  },
+  "CXCL8": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 73740519,
+    "end": 73747379,
+    "ensembl_id": "ENSG00000169429",
+    "ensembl_name": "CXCL8",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 74606223,
+    "end": 74609433,
+    "ensembl_id": "ENSG00000169429",
+    "ensembl_name": "IL8",
+    "method": "alias"
+   }
+  },
+  "CYP27A1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 218781688,
+    "end": 218825335,
+    "ensembl_id": "ENSG00000135929",
+    "ensembl_name": "CYP27A1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 219646472,
+    "end": 219680016,
+    "ensembl_id": "ENSG00000135929",
+    "ensembl_name": "CYP27A1",
+    "method": "symbol"
+   }
+  },
+  "DCTD": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 182837402,
+    "end": 182917936,
+    "ensembl_id": "ENSG00000129187",
+    "ensembl_name": "DCTD",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 183811213,
+    "end": 183839089,
+    "ensembl_id": "ENSG00000129187",
+    "ensembl_name": "DCTD",
+    "method": "symbol"
+   }
+  },
+  "DDX1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 15591178,
+    "end": 15634346,
+    "ensembl_id": "ENSG00000079785",
+    "ensembl_name": "DDX1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 15731302,
+    "end": 15771235,
+    "ensembl_id": "ENSG00000079785",
+    "ensembl_name": "DDX1",
+    "method": "symbol"
+   }
+  },
+  "DIP2B": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 50504962,
+    "end": 50748657,
+    "ensembl_id": "ENSG00000066084",
+    "ensembl_name": "DIP2B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 50898768,
+    "end": 51142450,
+    "ensembl_id": "ENSG00000066084",
+    "ensembl_name": "DIP2B",
+    "method": "symbol"
+   }
+  },
+  "DMPK": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 45769709,
+    "end": 45782794,
+    "ensembl_id": "ENSG00000104936",
+    "ensembl_name": "DMPK",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 46272975,
+    "end": 46285810,
+    "ensembl_id": "ENSG00000104936",
+    "ensembl_name": "DMPK",
+    "method": "symbol"
+   }
+  },
+  "DNA2": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 68414061,
+    "end": 68472121,
+    "ensembl_id": "ENSG00000138346",
+    "ensembl_name": "DNA2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 70173821,
+    "end": 70231879,
+    "ensembl_id": "ENSG00000138346",
+    "ensembl_name": "DNA2",
+    "method": "symbol"
+   }
+  },
+  "DNMT3A": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 25227855,
+    "end": 25342590,
+    "ensembl_id": "ENSG00000119772",
+    "ensembl_name": "DNMT3A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 25455845,
+    "end": 25565459,
+    "ensembl_id": "ENSG00000119772",
+    "ensembl_name": "DNMT3A",
+    "method": "symbol"
+   }
+  },
+  "ECT2": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 172750682,
+    "end": 172821474,
+    "ensembl_id": "ENSG00000114346",
+    "ensembl_name": "ECT2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 172468472,
+    "end": 172539264,
+    "ensembl_id": "ENSG00000114346",
+    "ensembl_name": "ECT2",
+    "method": "symbol"
+   }
+  },
+  "EEFSEC": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 128153174,
+    "end": 128427044,
+    "ensembl_id": "ENSG00000132394",
+    "ensembl_name": "EEFSEC",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 127872297,
+    "end": 128127485,
+    "ensembl_id": "ENSG00000132394",
+    "ensembl_name": "EEFSEC",
+    "method": "symbol"
+   }
+  },
+  "EFR3B": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 25042048,
+    "end": 25159135,
+    "ensembl_id": "ENSG00000084710",
+    "ensembl_name": "EFR3B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 25264999,
+    "end": 25378243,
+    "ensembl_id": "ENSG00000084710",
+    "ensembl_name": "EFR3B",
+    "method": "symbol"
+   }
+  },
+  "EGLN1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 231359560,
+    "end": 231422749,
+    "ensembl_id": "ENSG00000135766",
+    "ensembl_name": "EGLN1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 231499497,
+    "end": 231560790,
+    "ensembl_id": "ENSG00000135766",
+    "ensembl_name": "EGLN1",
+    "method": "symbol"
+   }
+  },
+  "EHHADH": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 185190624,
+    "end": 185281990,
+    "ensembl_id": "ENSG00000113790",
+    "ensembl_name": "EHHADH",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 184908412,
+    "end": 184999778,
+    "ensembl_id": "ENSG00000113790",
+    "ensembl_name": "EHHADH",
+    "method": "symbol"
+   }
+  },
+  "ENG": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 127811130,
+    "end": 127855232,
+    "ensembl_id": "ENSG00000106991",
+    "ensembl_name": "ENG",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 130577291,
+    "end": 130617035,
+    "ensembl_id": "ENSG00000106991",
+    "ensembl_name": "ENG",
+    "method": "symbol"
+   }
+  },
+  "ENSG00000289405": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 134715820,
+    "end": 134832014,
+    "ensembl_id": "ENSG00000289405",
+    "ensembl_name": null,
+    "method": "alias"
+   }
+  },
+  "EPHB4": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 100802563,
+    "end": 100827584,
+    "ensembl_id": "ENSG00000196411",
+    "ensembl_name": "EPHB4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 100400187,
+    "end": 100425121,
+    "ensembl_id": "ENSG00000196411",
+    "ensembl_name": "EPHB4",
+    "method": "symbol"
+   }
+  },
+  "ERAL1": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 28854983,
+    "end": 28861067,
+    "ensembl_id": "ENSG00000132591",
+    "ensembl_name": "ERAL1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 27181956,
+    "end": 27188085,
+    "ensembl_id": "ENSG00000132591",
+    "ensembl_name": "ERAL1",
+    "method": "symbol"
+   }
+  },
+  "ESR1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 151651284,
+    "end": 152129619,
+    "ensembl_id": "ENSG00000091831",
+    "ensembl_name": "ESR1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 151977826,
+    "end": 152450754,
+    "ensembl_id": "ENSG00000091831",
+    "ensembl_name": "ESR1",
+    "method": "symbol"
+   }
+  },
+  "ETAA1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 67397315,
+    "end": 67412120,
+    "ensembl_id": "ENSG00000143971",
+    "ensembl_name": "ETAA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 67624451,
+    "end": 67637677,
+    "ensembl_id": "ENSG00000143971",
+    "ensembl_name": "ETAA1",
+    "method": "symbol"
+   }
+  },
+  "ETFA": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 76188201,
+    "end": 76311730,
+    "ensembl_id": "ENSG00000140374",
+    "ensembl_name": "ETFA",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 76507696,
+    "end": 76603813,
+    "ensembl_id": "ENSG00000140374",
+    "ensembl_name": "ETFA",
+    "method": "symbol"
+   }
+  },
+  "ETV6": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 11649614,
+    "end": 11895386,
+    "ensembl_id": "ENSG00000139083",
+    "ensembl_name": "ETV6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 11802788,
+    "end": 12048336,
+    "ensembl_id": "ENSG00000139083",
+    "ensembl_name": "ETV6",
+    "method": "symbol"
+   }
+  },
+  "FADS1": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 61799624,
+    "end": 61829318,
+    "ensembl_id": "ENSG00000149485",
+    "ensembl_name": "FADS1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 61567099,
+    "end": 61596790,
+    "ensembl_id": "ENSG00000149485",
+    "ensembl_name": "FADS1",
+    "method": "symbol"
+   }
+  },
+  "FAM171A2": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 44353215,
+    "end": 44363875,
+    "ensembl_id": "ENSG00000161682",
+    "ensembl_name": "FAM171A2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 42430583,
+    "end": 42441243,
+    "ensembl_id": "ENSG00000161682",
+    "ensembl_name": "FAM171A2",
+    "method": "symbol"
+   }
+  },
+  "FBXO5": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 152970519,
+    "end": 152983599,
+    "ensembl_id": "ENSG00000112029",
+    "ensembl_name": "FBXO5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 153291664,
+    "end": 153304714,
+    "ensembl_id": "ENSG00000112029",
+    "ensembl_name": "FBXO5",
+    "method": "symbol"
+   }
+  },
+  "FGD6": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 95076749,
+    "end": 95217509,
+    "ensembl_id": "ENSG00000180263",
+    "ensembl_name": "FGD6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 95470525,
+    "end": 95611258,
+    "ensembl_id": "ENSG00000180263",
+    "ensembl_name": "FGD6",
+    "method": "symbol"
+   }
+  },
+  "FGF21": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 48755524,
+    "end": 48758333,
+    "ensembl_id": "ENSG00000105550",
+    "ensembl_name": "FGF21",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 49258816,
+    "end": 49261587,
+    "ensembl_id": "ENSG00000105550",
+    "ensembl_name": "FGF21",
+    "method": "symbol"
+   }
+  },
+  "FGFR1": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 38400215,
+    "end": 38468834,
+    "ensembl_id": "ENSG00000077782",
+    "ensembl_name": "FGFR1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 38268656,
+    "end": 38326352,
+    "ensembl_id": "ENSG00000077782",
+    "ensembl_name": "FGFR1",
+    "method": "symbol"
+   }
+  },
+  "FIS1": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 101239458,
+    "end": 101252321,
+    "ensembl_id": "ENSG00000214253",
+    "ensembl_name": "FIS1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 100882739,
+    "end": 100895597,
+    "ensembl_id": "ENSG00000214253",
+    "ensembl_name": "FIS1",
+    "method": "symbol"
+   }
+  },
+  "FLT1": {
+   "GRCh38": {
+    "chrom": "13",
+    "start": 28299540,
+    "end": 28495288,
+    "ensembl_id": "ENSG00000102755",
+    "ensembl_name": "FLT1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "13",
+    "start": 28874489,
+    "end": 29069265,
+    "ensembl_id": "ENSG00000102755",
+    "ensembl_name": "FLT1",
+    "method": "symbol"
+   }
+  },
+  "FN1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 215359468,
+    "end": 215436120,
+    "ensembl_id": "ENSG00000115414",
+    "ensembl_name": "FN1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 216225163,
+    "end": 216300895,
+    "ensembl_id": "ENSG00000115414",
+    "ensembl_name": "FN1",
+    "method": "symbol"
+   }
+  },
+  "FPGS": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 127794597,
+    "end": 127815065,
+    "ensembl_id": "ENSG00000136877",
+    "ensembl_name": "FPGS",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 130556876,
+    "end": 130576606,
+    "ensembl_id": "ENSG00000136877",
+    "ensembl_name": "FPGS",
+    "method": "symbol"
+   }
+  },
+  "FRMD4B": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 69168782,
+    "end": 69542583,
+    "ensembl_id": "ENSG00000114541",
+    "ensembl_name": "FRMD4B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 69219141,
+    "end": 69591734,
+    "ensembl_id": "ENSG00000114541",
+    "ensembl_name": "FRMD4B",
+    "method": "symbol"
+   }
+  },
+  "FSHB": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 30231014,
+    "end": 30235261,
+    "ensembl_id": "ENSG00000131808",
+    "ensembl_name": "FSHB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 30252563,
+    "end": 30256808,
+    "ensembl_id": "ENSG00000131808",
+    "ensembl_name": "FSHB",
+    "method": "symbol"
+   }
+  },
+  "FUT9": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 96015436,
+    "end": 96215612,
+    "ensembl_id": "ENSG00000172461",
+    "ensembl_name": "FUT9",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 96463860,
+    "end": 96663488,
+    "ensembl_id": "ENSG00000172461",
+    "ensembl_name": "FUT9",
+    "method": "symbol"
+   }
+  },
+  "FZD6": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 103298433,
+    "end": 103332866,
+    "ensembl_id": "ENSG00000164930",
+    "ensembl_name": "FZD6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 104310661,
+    "end": 104345094,
+    "ensembl_id": "ENSG00000164930",
+    "ensembl_name": "FZD6",
+    "method": "symbol"
+   }
+  },
+  "FZD7": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 202033855,
+    "end": 202038441,
+    "ensembl_id": "ENSG00000155760",
+    "ensembl_name": "FZD7",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 202899310,
+    "end": 202903160,
+    "ensembl_id": "ENSG00000155760",
+    "ensembl_name": "FZD7",
+    "method": "symbol"
+   }
+  },
+  "GALNT12": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 98807613,
+    "end": 98851267,
+    "ensembl_id": "ENSG00000119514",
+    "ensembl_name": "GALNT12",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 101569981,
+    "end": 101612363,
+    "ensembl_id": "ENSG00000119514",
+    "ensembl_name": "GALNT12",
+    "method": "symbol"
+   }
+  },
+  "GDAP1": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 74320613,
+    "end": 74518007,
+    "ensembl_id": "ENSG00000104381",
+    "ensembl_name": "GDAP1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 75233365,
+    "end": 75401107,
+    "ensembl_id": "ENSG00000104381",
+    "ensembl_name": "GDAP1",
+    "method": "symbol"
+   }
+  },
+  "GET3": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 12737139,
+    "end": 12748325,
+    "ensembl_id": "ENSG00000198356",
+    "ensembl_name": "GET3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 12847953,
+    "end": 12859137,
+    "ensembl_id": "ENSG00000198356",
+    "ensembl_name": "ASNA1",
+    "method": "alias"
+   }
+  },
+  "GIGYF1": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 100679505,
+    "end": 100694481,
+    "ensembl_id": "ENSG00000146830",
+    "ensembl_name": "GIGYF1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 100277130,
+    "end": 100287071,
+    "ensembl_id": "ENSG00000146830",
+    "ensembl_name": "GIGYF1",
+    "method": "symbol"
+   }
+  },
+  "GLS": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 190880322,
+    "end": 190965552,
+    "ensembl_id": "ENSG00000115419",
+    "ensembl_name": "GLS",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 191745553,
+    "end": 191830278,
+    "ensembl_id": "ENSG00000115419",
+    "ensembl_name": "GLS",
+    "method": "symbol"
+   }
+  },
+  "GLUD1": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 87050202,
+    "end": 87095405,
+    "ensembl_id": "ENSG00000148672",
+    "ensembl_name": "GLUD1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 88810243,
+    "end": 88854623,
+    "ensembl_id": "ENSG00000148672",
+    "ensembl_name": "GLUD1",
+    "method": "symbol"
+   }
+  },
+  "GNLY": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 85685175,
+    "end": 85698854,
+    "ensembl_id": "ENSG00000115523",
+    "ensembl_name": "GNLY",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 85912298,
+    "end": 85925977,
+    "ensembl_id": "ENSG00000115523",
+    "ensembl_name": "GNLY",
+    "method": "symbol"
+   }
+  },
+  "GPD2": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 156435290,
+    "end": 156614702,
+    "ensembl_id": "ENSG00000115159",
+    "ensembl_name": "GPD2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 157291802,
+    "end": 157470247,
+    "ensembl_id": "ENSG00000115159",
+    "ensembl_name": "GPD2",
+    "method": "symbol"
+   }
+  },
+  "GREB1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 11482341,
+    "end": 11642789,
+    "ensembl_id": "ENSG00000196208",
+    "ensembl_name": "GREB1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 11674242,
+    "end": 11782914,
+    "ensembl_id": "ENSG00000196208",
+    "ensembl_name": "GREB1",
+    "method": "symbol"
+   }
+  },
+  "GSTA4": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 52977948,
+    "end": 52995359,
+    "ensembl_id": "ENSG00000170899",
+    "ensembl_name": "GSTA4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 52842751,
+    "end": 52860176,
+    "ensembl_id": "ENSG00000170899",
+    "ensembl_name": "GSTA4",
+    "method": "symbol"
+   }
+  },
+  "GYS1": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 48968125,
+    "end": 48993349,
+    "ensembl_id": "ENSG00000104812",
+    "ensembl_name": "GYS1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 49471382,
+    "end": 49496567,
+    "ensembl_id": "ENSG00000104812",
+    "ensembl_name": "GYS1",
+    "method": "symbol"
+   }
+  },
+  "HCAR2": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 122701293,
+    "end": 122703357,
+    "ensembl_id": "ENSG00000182782",
+    "ensembl_name": "HCAR2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 123185840,
+    "end": 123187890,
+    "ensembl_id": "ENSG00000182782",
+    "ensembl_name": "HCAR2",
+    "method": "symbol"
+   }
+  },
+  "HCG22": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 31053311,
+    "end": 31065229,
+    "ensembl_id": "ENSG00000228789",
+    "ensembl_name": "HCG22",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 31021227,
+    "end": 31027667,
+    "ensembl_id": "ENSG00000228789",
+    "ensembl_name": "HCG22",
+    "method": "symbol"
+   }
+  },
+  "HCG4P6": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 29925983,
+    "end": 29926973,
+    "ensembl_id": "ENSG00000227262",
+    "ensembl_name": "HCG4B",
+    "method": "alias"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 29893760,
+    "end": 29894750,
+    "ensembl_id": "ENSG00000227262",
+    "ensembl_name": "HCG4B",
+    "method": "alias"
+   }
+  },
+  "HLA-DRA": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 32439870,
+    "end": 32445181,
+    "ensembl_id": "ENSG00000204287",
+    "ensembl_name": "HLA-DRA",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 32407619,
+    "end": 32412823,
+    "ensembl_id": "ENSG00000204287",
+    "ensembl_name": "HLA-DRA",
+    "method": "symbol"
+   }
+  },
+  "HLA-H": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 29887752,
+    "end": 29890482,
+    "ensembl_id": "ENSG00000206341",
+    "ensembl_name": "HLA-H",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 29855350,
+    "end": 29858259,
+    "ensembl_id": "ENSG00000206341",
+    "ensembl_name": "HLA-H",
+    "method": "symbol"
+   }
+  },
+  "HLA-J": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 30006606,
+    "end": 30009539,
+    "ensembl_id": "ENSG00000204622",
+    "ensembl_name": "HLA-J",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 29974360,
+    "end": 29977733,
+    "ensembl_id": "ENSG00000204622",
+    "ensembl_name": "HLA-J",
+    "method": "symbol"
+   }
+  },
+  "HLCS": {
+   "GRCh38": {
+    "chrom": "21",
+    "start": 36748626,
+    "end": 36990236,
+    "ensembl_id": "ENSG00000159267",
+    "ensembl_name": "HLCS",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "21",
+    "start": 38123189,
+    "end": 38362536,
+    "ensembl_id": "ENSG00000159267",
+    "ensembl_name": "HLCS",
+    "method": "symbol"
+   }
+  },
+  "HMGA1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 34235618,
+    "end": 34246236,
+    "ensembl_id": "ENSG00000137309",
+    "ensembl_name": "HMGA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 34204650,
+    "end": 34214008,
+    "ensembl_id": "ENSG00000137309",
+    "ensembl_name": "HMGA1",
+    "method": "symbol"
+   }
+  },
+  "HMGCL": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 23801877,
+    "end": 23838620,
+    "ensembl_id": "ENSG00000117305",
+    "ensembl_name": "HMGCL",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 24128375,
+    "end": 24165110,
+    "ensembl_id": "ENSG00000117305",
+    "ensembl_name": "HMGCL",
+    "method": "symbol"
+   }
+  },
+  "HMMR": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 163460203,
+    "end": 163491945,
+    "ensembl_id": "ENSG00000072571",
+    "ensembl_name": "HMMR",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 162887209,
+    "end": 162918947,
+    "ensembl_id": "ENSG00000072571",
+    "ensembl_name": "HMMR",
+    "method": "symbol"
+   }
+  },
+  "HMOX1": {
+   "GRCh38": {
+    "chrom": "22",
+    "start": 35380361,
+    "end": 35394214,
+    "ensembl_id": "ENSG00000100292",
+    "ensembl_name": "HMOX1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "22",
+    "start": 35776354,
+    "end": 35790207,
+    "ensembl_id": "ENSG00000100292",
+    "ensembl_name": "HMOX1",
+    "method": "symbol"
+   }
+  },
+  "HNMT": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 137963988,
+    "end": 138016818,
+    "ensembl_id": "ENSG00000150540",
+    "ensembl_name": "HNMT",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 138721590,
+    "end": 138773930,
+    "ensembl_id": "ENSG00000150540",
+    "ensembl_name": "HNMT",
+    "method": "symbol"
+   }
+  },
+  "HNRNPA1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 54280193,
+    "end": 54287088,
+    "ensembl_id": "ENSG00000135486",
+    "ensembl_name": "HNRNPA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 54673977,
+    "end": 54680872,
+    "ensembl_id": "ENSG00000135486",
+    "ensembl_name": "HNRNPA1",
+    "method": "symbol"
+   }
+  },
+  "HOXB8": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 48611377,
+    "end": 48618003,
+    "ensembl_id": "ENSG00000120068",
+    "ensembl_name": "HOXB8",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 46688739,
+    "end": 46692478,
+    "ensembl_id": "ENSG00000120068",
+    "ensembl_name": "HOXB8",
+    "method": "symbol"
+   }
+  },
+  "HOXB9": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 48621156,
+    "end": 48626576,
+    "ensembl_id": "ENSG00000170689",
+    "ensembl_name": "HOXB9",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 46698518,
+    "end": 46703839,
+    "ensembl_id": "ENSG00000170689",
+    "ensembl_name": "HOXB9",
+    "method": "symbol"
+   }
+  },
+  "HOXC-AS1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 53999016,
+    "end": 54000011,
+    "ensembl_id": "ENSG00000250451",
+    "ensembl_name": "HOXC-AS1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 54392806,
+    "end": 54393794,
+    "ensembl_id": "ENSG00000250451",
+    "ensembl_name": "HOXC-AS1",
+    "method": "symbol"
+   }
+  },
+  "HOXC-AS2": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 53993810,
+    "end": 53996785,
+    "ensembl_id": "ENSG00000250133",
+    "ensembl_name": "HOXC-AS2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 54387594,
+    "end": 54390569,
+    "ensembl_id": "ENSG00000250133",
+    "ensembl_name": "HOXC-AS2",
+    "method": "symbol"
+   }
+  },
+  "HOXC9": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 53994895,
+    "end": 54003337,
+    "ensembl_id": "ENSG00000180806",
+    "ensembl_name": "HOXC9",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 54388679,
+    "end": 54397121,
+    "ensembl_id": "ENSG00000180806",
+    "ensembl_name": "HOXC9",
+    "method": "symbol"
+   }
+  },
+  "HSPA5": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 125234740,
+    "end": 125261715,
+    "ensembl_id": "ENSG00000044574",
+    "ensembl_name": "HSPA5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 127997132,
+    "end": 128003609,
+    "ensembl_id": "ENSG00000044574",
+    "ensembl_name": "HSPA5",
+    "method": "symbol"
+   }
+  },
+  "HSPG2": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 21820593,
+    "end": 21937318,
+    "ensembl_id": "ENSG00000142798",
+    "ensembl_name": "HSPG2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 22148738,
+    "end": 22263790,
+    "ensembl_id": "ENSG00000142798",
+    "ensembl_name": "HSPG2",
+    "method": "symbol"
+   }
+  },
+  "ICAM2": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 64002594,
+    "end": 64020640,
+    "ensembl_id": "ENSG00000108622",
+    "ensembl_name": "ICAM2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 62079954,
+    "end": 62097994,
+    "ensembl_id": "ENSG00000108622",
+    "ensembl_name": "ICAM2",
+    "method": "symbol"
+   }
+  },
+  "ICAM4": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 10286946,
+    "end": 10288522,
+    "ensembl_id": "ENSG00000105371",
+    "ensembl_name": "ICAM4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 10397643,
+    "end": 10399198,
+    "ensembl_id": "ENSG00000105371",
+    "ensembl_name": "ICAM4",
+    "method": "symbol"
+   }
+  },
+  "IER3": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 30743199,
+    "end": 30744555,
+    "ensembl_id": "ENSG00000137331",
+    "ensembl_name": "IER3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 30710976,
+    "end": 30712331,
+    "ensembl_id": "ENSG00000137331",
+    "ensembl_name": "IER3",
+    "method": "symbol"
+   }
+  },
+  "IGF1R": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 98648539,
+    "end": 98964530,
+    "ensembl_id": "ENSG00000140443",
+    "ensembl_name": "IGF1R",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 99192200,
+    "end": 99507759,
+    "ensembl_id": "ENSG00000140443",
+    "ensembl_name": "IGF1R",
+    "method": "symbol"
+   }
+  },
+  "IL12B": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 159314780,
+    "end": 159330863,
+    "ensembl_id": "ENSG00000113302",
+    "ensembl_name": "IL12B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 158741791,
+    "end": 158757895,
+    "ensembl_id": "ENSG00000113302",
+    "ensembl_name": "IL12B",
+    "method": "symbol"
+   }
+  },
+  "IL15RA": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 5943505,
+    "end": 5978187,
+    "ensembl_id": "ENSG00000134470",
+    "ensembl_name": "IL15RA",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 5990855,
+    "end": 6020150,
+    "ensembl_id": "ENSG00000134470",
+    "ensembl_name": "IL15RA",
+    "method": "symbol"
+   }
+  },
+  "IL16": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 81159575,
+    "end": 81314058,
+    "ensembl_id": "ENSG00000172349",
+    "ensembl_name": "IL16",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 81451916,
+    "end": 81605104,
+    "ensembl_id": "ENSG00000172349",
+    "ensembl_name": "IL16",
+    "method": "symbol"
+   }
+  },
+  "IL17A": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 52186375,
+    "end": 52190638,
+    "ensembl_id": "ENSG00000112115",
+    "ensembl_name": "IL17A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 52051185,
+    "end": 52055436,
+    "ensembl_id": "ENSG00000112115",
+    "ensembl_name": "IL17A",
+    "method": "symbol"
+   }
+  },
+  "IL1B": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 112829750,
+    "end": 112864235,
+    "ensembl_id": "ENSG00000125538",
+    "ensembl_name": "IL1B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 113587328,
+    "end": 113594480,
+    "ensembl_id": "ENSG00000125538",
+    "ensembl_name": "IL1B",
+    "method": "symbol"
+   }
+  },
+  "IL1RL1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 102311502,
+    "end": 102355365,
+    "ensembl_id": "ENSG00000115602",
+    "ensembl_name": "IL1RL1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 102927962,
+    "end": 102968497,
+    "ensembl_id": "ENSG00000115602",
+    "ensembl_name": "IL1RL1",
+    "method": "symbol"
+   }
+  },
+  "IL3RA": {
+   "GRCh38": {
+    "chrom": "Y",
+    "start": 1335025,
+    "end": 1382689,
+    "ensembl_id": "ENSG00000292332",
+    "ensembl_name": "IL3RA",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "X",
+    "start": 1455509,
+    "end": 1501578,
+    "ensembl_id": "ENSG00000185291",
+    "ensembl_name": "IL3RA",
+    "method": "symbol"
+   }
+  },
+  "IL4": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 132673986,
+    "end": 132682678,
+    "ensembl_id": "ENSG00000113520",
+    "ensembl_name": "IL4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 132009678,
+    "end": 132018368,
+    "ensembl_id": "ENSG00000113520",
+    "ensembl_name": "IL4",
+    "method": "symbol"
+   }
+  },
+  "IL5": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 132541444,
+    "end": 132556838,
+    "ensembl_id": "ENSG00000113525",
+    "ensembl_name": "IL5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 131877136,
+    "end": 131892530,
+    "ensembl_id": "ENSG00000113525",
+    "ensembl_name": "IL5",
+    "method": "symbol"
+   }
+  },
+  "IL6": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 22725884,
+    "end": 22732002,
+    "ensembl_id": "ENSG00000136244",
+    "ensembl_name": "IL6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 22765503,
+    "end": 22771621,
+    "ensembl_id": "ENSG00000136244",
+    "ensembl_name": "IL6",
+    "method": "symbol"
+   }
+  },
+  "IL6ST": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 55935095,
+    "end": 55995022,
+    "ensembl_id": "ENSG00000134352",
+    "ensembl_name": "IL6ST",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 55230923,
+    "end": 55290821,
+    "ensembl_id": "ENSG00000134352",
+    "ensembl_name": "IL6ST",
+    "method": "symbol"
+   }
+  },
+  "IL9": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 135892246,
+    "end": 135895841,
+    "ensembl_id": "ENSG00000145839",
+    "ensembl_name": "IL9",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 135227935,
+    "end": 135231516,
+    "ensembl_id": "ENSG00000145839",
+    "ensembl_name": "IL9",
+    "method": "symbol"
+   }
+  },
+  "IMMT": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 86142798,
+    "end": 86195631,
+    "ensembl_id": "ENSG00000132305",
+    "ensembl_name": "IMMT",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 86371055,
+    "end": 86422893,
+    "ensembl_id": "ENSG00000132305",
+    "ensembl_name": "IMMT",
+    "method": "symbol"
+   }
+  },
+  "INO80E": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 29994983,
+    "end": 30005794,
+    "ensembl_id": "ENSG00000169592",
+    "ensembl_name": "INO80E",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 30006615,
+    "end": 30017114,
+    "ensembl_id": "ENSG00000169592",
+    "ensembl_name": "INO80E",
+    "method": "symbol"
+   }
+  },
+  "IRF7": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 612551,
+    "end": 615983,
+    "ensembl_id": "ENSG00000185507",
+    "ensembl_name": "IRF7",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 612553,
+    "end": 615999,
+    "ensembl_id": "ENSG00000185507",
+    "ensembl_name": "IRF7",
+    "method": "symbol"
+   }
+  },
+  "ISCA2": {
+   "GRCh38": {
+    "chrom": "14",
+    "start": 74493721,
+    "end": 74499758,
+    "ensembl_id": "ENSG00000165898",
+    "ensembl_name": "ISCA2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "14",
+    "start": 74960423,
+    "end": 74963809,
+    "ensembl_id": "ENSG00000165898",
+    "ensembl_name": "ISCA2",
+    "method": "symbol"
+   }
+  },
+  "ITGAV": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 186589665,
+    "end": 186680901,
+    "ensembl_id": "ENSG00000138448",
+    "ensembl_name": "ITGAV",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 187454792,
+    "end": 187545628,
+    "ensembl_id": "ENSG00000138448",
+    "ensembl_name": "ITGAV",
+    "method": "symbol"
+   }
+  },
+  "IVD": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 40405485,
+    "end": 40435956,
+    "ensembl_id": "ENSG00000128928",
+    "ensembl_name": "IVD",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 40697686,
+    "end": 40728146,
+    "ensembl_id": "ENSG00000128928",
+    "ensembl_name": "IVD",
+    "method": "symbol"
+   }
+  },
+  "KDM6B": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 7834193,
+    "end": 7854808,
+    "ensembl_id": "ENSG00000132510",
+    "ensembl_name": "KDM6B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 7743222,
+    "end": 7758114,
+    "ensembl_id": "ENSG00000132510",
+    "ensembl_name": "KDM6B",
+    "method": "symbol"
+   }
+  },
+  "KDR": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 55078144,
+    "end": 55125623,
+    "ensembl_id": "ENSG00000128052",
+    "ensembl_name": "KDR",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 55944644,
+    "end": 55991756,
+    "ensembl_id": "ENSG00000128052",
+    "ensembl_name": "KDR",
+    "method": "symbol"
+   }
+  },
+  "KHK": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 27086723,
+    "end": 27100777,
+    "ensembl_id": "ENSG00000138030",
+    "ensembl_name": "KHK",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 27309615,
+    "end": 27323640,
+    "ensembl_id": "ENSG00000138030",
+    "ensembl_name": "KHK",
+    "method": "symbol"
+   }
+  },
+  "KL": {
+   "GRCh38": {
+    "chrom": "13",
+    "start": 33016416,
+    "end": 33066143,
+    "ensembl_id": "ENSG00000133116",
+    "ensembl_name": "KL",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "13",
+    "start": 33590207,
+    "end": 33640282,
+    "ensembl_id": "ENSG00000133116",
+    "ensembl_name": "KL",
+    "method": "symbol"
+   }
+  },
+  "KLF12": {
+   "GRCh38": {
+    "chrom": "13",
+    "start": 73686022,
+    "end": 74168331,
+    "ensembl_id": "ENSG00000118922",
+    "ensembl_name": "KLF12",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "13",
+    "start": 74260226,
+    "end": 74708394,
+    "ensembl_id": "ENSG00000118922",
+    "ensembl_name": "KLF12",
+    "method": "symbol"
+   }
+  },
+  "KMT5A": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 123384087,
+    "end": 123409353,
+    "ensembl_id": "ENSG00000183955",
+    "ensembl_name": "KMT5A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 123868320,
+    "end": 123893905,
+    "ensembl_id": "ENSG00000183955",
+    "ensembl_name": "SETD8",
+    "method": "alias"
+   }
+  },
+  "KRT23": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 40922696,
+    "end": 40937646,
+    "ensembl_id": "ENSG00000108244",
+    "ensembl_name": "KRT23",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 39078948,
+    "end": 39093886,
+    "ensembl_id": "ENSG00000108244",
+    "ensembl_name": "KRT23",
+    "method": "symbol"
+   }
+  },
+  "LACTB2": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 70619104,
+    "end": 70669306,
+    "ensembl_id": "ENSG00000147592",
+    "ensembl_name": "LACTB2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 71547553,
+    "end": 71581409,
+    "ensembl_id": "ENSG00000147592",
+    "ensembl_name": "LACTB2",
+    "method": "symbol"
+   }
+  },
+  "LDAH": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 20683762,
+    "end": 20823130,
+    "ensembl_id": "ENSG00000118961",
+    "ensembl_name": "LDAH",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 20883788,
+    "end": 21022882,
+    "ensembl_id": "ENSG00000118961",
+    "ensembl_name": "C2orf43",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "LGALS9B": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 20449395,
+    "end": 20467548,
+    "ensembl_id": "ENSG00000170298",
+    "ensembl_name": "LGALS9B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 20352708,
+    "end": 20370852,
+    "ensembl_id": "ENSG00000170298",
+    "ensembl_name": "LGALS9B",
+    "method": "symbol"
+   }
+  },
+  "LIFR": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 38474668,
+    "end": 38608354,
+    "ensembl_id": "ENSG00000113594",
+    "ensembl_name": "LIFR",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 38475065,
+    "end": 38608456,
+    "ensembl_id": "ENSG00000113594",
+    "ensembl_name": "LIFR",
+    "method": "symbol"
+   }
+  },
+  "LINC00339": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 22024558,
+    "end": 22031223,
+    "ensembl_id": "ENSG00000218510",
+    "ensembl_name": "LINC00339",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 22351681,
+    "end": 22357716,
+    "ensembl_id": "ENSG00000218510",
+    "ensembl_name": "LINC00339",
+    "method": "symbol"
+   }
+  },
+  "LINC00574": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 169790036,
+    "end": 169890808,
+    "ensembl_id": "ENSG00000231690",
+    "ensembl_name": "LINC00574",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 170190417,
+    "end": 170202969,
+    "ensembl_id": "ENSG00000231690",
+    "ensembl_name": "LINC00574",
+    "method": "symbol"
+   }
+  },
+  "LINC01635": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 22023851,
+    "end": 22026215,
+    "ensembl_id": "ENSG00000228397",
+    "ensembl_name": "LINC01635",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 22350487,
+    "end": 22351461,
+    "ensembl_id": "ENSG00000228397",
+    "ensembl_name": "RP1-224A6.3",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "LIPT1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 99154955,
+    "end": 99163199,
+    "ensembl_id": "ENSG00000144182",
+    "ensembl_name": "LIPT1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 99771418,
+    "end": 99779620,
+    "ensembl_id": "ENSG00000144182",
+    "ensembl_name": "LIPT1",
+    "method": "symbol"
+   }
+  },
+  "LNC-LBCS": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 19306534,
+    "end": 19839080,
+    "ensembl_id": "ENSG00000228412",
+    "ensembl_name": "LNC-LBCS",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 19802395,
+    "end": 19804983,
+    "ensembl_id": "ENSG00000228412",
+    "ensembl_name": "RP4-625H18.2",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "LRP1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 57128476,
+    "end": 57213394,
+    "ensembl_id": "ENSG00000123384",
+    "ensembl_name": "LRP1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 57522276,
+    "end": 57607134,
+    "ensembl_id": "ENSG00000123384",
+    "ensembl_name": "LRP1",
+    "method": "symbol"
+   }
+  },
+  "LYN": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 55879797,
+    "end": 56014169,
+    "ensembl_id": "ENSG00000254087",
+    "ensembl_name": "LYN",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 56792372,
+    "end": 56923940,
+    "ensembl_id": "ENSG00000254087",
+    "ensembl_name": "LYN",
+    "method": "symbol"
+   }
+  },
+  "LYRM7": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 131170845,
+    "end": 131205428,
+    "ensembl_id": "ENSG00000186687",
+    "ensembl_name": "LYRM7",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 130506503,
+    "end": 130541119,
+    "ensembl_id": "ENSG00000186687",
+    "ensembl_name": "LYRM7",
+    "method": "symbol"
+   }
+  },
+  "MAP2K1": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 66386816,
+    "end": 66491656,
+    "ensembl_id": "ENSG00000169032",
+    "ensembl_name": "MAP2K1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 66679155,
+    "end": 66784650,
+    "ensembl_id": "ENSG00000169032",
+    "ensembl_name": "MAP2K1",
+    "method": "symbol"
+   }
+  },
+  "MAP3K5": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 136557030,
+    "end": 136793103,
+    "ensembl_id": "ENSG00000197442",
+    "ensembl_name": "MAP3K5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 136878185,
+    "end": 137113656,
+    "ensembl_id": "ENSG00000197442",
+    "ensembl_name": "MAP3K5",
+    "method": "symbol"
+   }
+  },
+  "MAPK3": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 30114104,
+    "end": 30123506,
+    "ensembl_id": "ENSG00000102882",
+    "ensembl_name": "MAPK3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 30125426,
+    "end": 30134827,
+    "ensembl_id": "ENSG00000102882",
+    "ensembl_name": "MAPK3",
+    "method": "symbol"
+   }
+  },
+  "ME2": {
+   "GRCh38": {
+    "chrom": "18",
+    "start": 50878664,
+    "end": 50954257,
+    "ensembl_id": "ENSG00000082212",
+    "ensembl_name": "ME2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "18",
+    "start": 48405419,
+    "end": 48474691,
+    "ensembl_id": "ENSG00000082212",
+    "ensembl_name": "ME2",
+    "method": "symbol"
+   }
+  },
+  "MELTF": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 196980590,
+    "end": 197029874,
+    "ensembl_id": "ENSG00000163975",
+    "ensembl_name": "MELTF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 196715492,
+    "end": 196756687,
+    "ensembl_id": "ENSG00000163975",
+    "ensembl_name": "MFI2",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "MET": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 116672051,
+    "end": 116798391,
+    "ensembl_id": "ENSG00000105976",
+    "ensembl_name": "MET",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 116312444,
+    "end": 116438440,
+    "ensembl_id": "ENSG00000105976",
+    "ensembl_name": "MET",
+    "method": "symbol"
+   }
+  },
+  "MGRN1": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 4616493,
+    "end": 4690977,
+    "ensembl_id": "ENSG00000102858",
+    "ensembl_name": "MGRN1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 4666494,
+    "end": 4740975,
+    "ensembl_id": "ENSG00000102858",
+    "ensembl_name": "MGRN1",
+    "method": "symbol"
+   }
+  },
+  "MIF": {
+   "GRCh38": {
+    "chrom": "22",
+    "start": 23894372,
+    "end": 23895227,
+    "ensembl_id": "ENSG00000240972",
+    "ensembl_name": "MIF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "22",
+    "start": 24236191,
+    "end": 24237414,
+    "ensembl_id": "ENSG00000240972",
+    "ensembl_name": "MIF",
+    "method": "symbol"
+   }
+  },
+  "MKI67": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 128096659,
+    "end": 128126458,
+    "ensembl_id": "ENSG00000148773",
+    "ensembl_name": "MKI67",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 129894923,
+    "end": 129924649,
+    "ensembl_id": "ENSG00000148773",
+    "ensembl_name": "MKI67",
+    "method": "symbol"
+   }
+  },
+  "MKNK1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 46557407,
+    "end": 46616850,
+    "ensembl_id": "ENSG00000079277",
+    "ensembl_name": "MKNK1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 47023090,
+    "end": 47082515,
+    "ensembl_id": "ENSG00000079277",
+    "ensembl_name": "MKNK1",
+    "method": "symbol"
+   }
+  },
+  "MLLT10": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 21524584,
+    "end": 21743630,
+    "ensembl_id": "ENSG00000078403",
+    "ensembl_name": "MLLT10",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 21823094,
+    "end": 22032559,
+    "ensembl_id": "ENSG00000078403",
+    "ensembl_name": "MLLT10",
+    "method": "symbol"
+   }
+  },
+  "MMAB": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 109553715,
+    "end": 109573580,
+    "ensembl_id": "ENSG00000139428",
+    "ensembl_name": "MMAB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 109991542,
+    "end": 110011679,
+    "ensembl_id": "ENSG00000139428",
+    "ensembl_name": "MMAB",
+    "method": "symbol"
+   }
+  },
+  "MMADHC": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 149564526,
+    "end": 149587812,
+    "ensembl_id": "ENSG00000168288",
+    "ensembl_name": "MMADHC",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 150426148,
+    "end": 150444330,
+    "ensembl_id": "ENSG00000168288",
+    "ensembl_name": "MMADHC",
+    "method": "symbol"
+   }
+  },
+  "MRPL1": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 77862139,
+    "end": 77952791,
+    "ensembl_id": "ENSG00000169288",
+    "ensembl_name": "MRPL1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 78783674,
+    "end": 78873944,
+    "ensembl_id": "ENSG00000169288",
+    "ensembl_name": "MRPL1",
+    "method": "symbol"
+   }
+  },
+  "MRPL10": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 47823272,
+    "end": 47831545,
+    "ensembl_id": "ENSG00000159111",
+    "ensembl_name": "MRPL10",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 45900638,
+    "end": 45908900,
+    "ensembl_id": "ENSG00000159111",
+    "ensembl_name": "MRPL10",
+    "method": "symbol"
+   }
+  },
+  "MRPL12": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 81703357,
+    "end": 81711112,
+    "ensembl_id": "ENSG00000262814",
+    "ensembl_name": "MRPL12",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 79670387,
+    "end": 79674556,
+    "ensembl_id": "ENSG00000262814",
+    "ensembl_name": "MRPL12",
+    "method": "symbol"
+   }
+  },
+  "MRPL21": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 68862382,
+    "end": 68903841,
+    "ensembl_id": "ENSG00000197345",
+    "ensembl_name": "MRPL21",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 68658744,
+    "end": 68671303,
+    "ensembl_id": "ENSG00000197345",
+    "ensembl_name": "MRPL21",
+    "method": "symbol"
+   }
+  },
+  "MRPL33": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 27771683,
+    "end": 27781484,
+    "ensembl_id": "ENSG00000243147",
+    "ensembl_name": "MRPL33",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 27994584,
+    "end": 28210954,
+    "ensembl_id": "ENSG00000243147",
+    "ensembl_name": "MRPL33",
+    "method": "symbol"
+   }
+  },
+  "MRPL55": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 228105949,
+    "end": 228109358,
+    "ensembl_id": "ENSG00000162910",
+    "ensembl_name": "MRPL55",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 228294380,
+    "end": 228297013,
+    "ensembl_id": "ENSG00000162910",
+    "ensembl_name": "MRPL55",
+    "method": "symbol"
+   }
+  },
+  "MRPS14": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 175010789,
+    "end": 175023471,
+    "ensembl_id": "ENSG00000120333",
+    "ensembl_name": "MRPS14",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 174979925,
+    "end": 174992561,
+    "ensembl_id": "ENSG00000120333",
+    "ensembl_name": "MRPS14",
+    "method": "symbol"
+   }
+  },
+  "MRPS35": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 27710796,
+    "end": 27756301,
+    "ensembl_id": "ENSG00000061794",
+    "ensembl_name": "MRPS35",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 27863706,
+    "end": 27909228,
+    "ensembl_id": "ENSG00000061794",
+    "ensembl_name": "MRPS35",
+    "method": "symbol"
+   }
+  },
+  "MRPS6": {
+   "GRCh38": {
+    "chrom": "21",
+    "start": 34072889,
+    "end": 34362252,
+    "ensembl_id": "ENSG00000243927",
+    "ensembl_name": "MRPS6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "21",
+    "start": 35445524,
+    "end": 35515334,
+    "ensembl_id": "ENSG00000243927",
+    "ensembl_name": "MRPS6",
+    "method": "symbol"
+   }
+  },
+  "MTIF2": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 55236218,
+    "end": 55270263,
+    "ensembl_id": "ENSG00000085760",
+    "ensembl_name": "MTIF2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 55463731,
+    "end": 55496483,
+    "ensembl_id": "ENSG00000085760",
+    "ensembl_name": "MTIF2",
+    "method": "symbol"
+   }
+  },
+  "MTRFR": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 123232142,
+    "end": 123258079,
+    "ensembl_id": "ENSG00000130921",
+    "ensembl_name": "MTRFR",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 123717463,
+    "end": 123742506,
+    "ensembl_id": "ENSG00000130921",
+    "ensembl_name": "C12orf65",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "MTX1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 155208695,
+    "end": 155213824,
+    "ensembl_id": "ENSG00000173171",
+    "ensembl_name": "MTX1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 155178490,
+    "end": 155183615,
+    "ensembl_id": "ENSG00000173171",
+    "ensembl_name": "MTX1",
+    "method": "symbol"
+   }
+  },
+  "NARS2": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 78435539,
+    "end": 78575194,
+    "ensembl_id": "ENSG00000137513",
+    "ensembl_name": "NARS2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 78147007,
+    "end": 78285919,
+    "ensembl_id": "ENSG00000137513",
+    "ensembl_name": "NARS2",
+    "method": "symbol"
+   }
+  },
+  "NDC80": {
+   "GRCh38": {
+    "chrom": "18",
+    "start": 2571520,
+    "end": 2616635,
+    "ensembl_id": "ENSG00000080986",
+    "ensembl_name": "NDC80",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "18",
+    "start": 2571510,
+    "end": 2616634,
+    "ensembl_id": "ENSG00000080986",
+    "ensembl_name": "NDC80",
+    "method": "symbol"
+   }
+  },
+  "NECAP2": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 16440664,
+    "end": 16460092,
+    "ensembl_id": "ENSG00000157191",
+    "ensembl_name": "NECAP2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 16767167,
+    "end": 16786573,
+    "ensembl_id": "ENSG00000157191",
+    "ensembl_name": "NECAP2",
+    "method": "symbol"
+   }
+  },
+  "NEDD4": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 55826917,
+    "end": 55993660,
+    "ensembl_id": "ENSG00000069869",
+    "ensembl_name": "NEDD4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 56119120,
+    "end": 56285944,
+    "ensembl_id": "ENSG00000069869",
+    "ensembl_name": "NEDD4",
+    "method": "symbol"
+   }
+  },
+  "NFKB1": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 102500911,
+    "end": 102617302,
+    "ensembl_id": "ENSG00000109320",
+    "ensembl_name": "NFKB1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 103422486,
+    "end": 103538459,
+    "ensembl_id": "ENSG00000109320",
+    "ensembl_name": "NFKB1",
+    "method": "symbol"
+   }
+  },
+  "NFU1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 69396072,
+    "end": 69437665,
+    "ensembl_id": "ENSG00000169599",
+    "ensembl_name": "NFU1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 69622882,
+    "end": 69664760,
+    "ensembl_id": "ENSG00000169599",
+    "ensembl_name": "NFU1",
+    "method": "symbol"
+   }
+  },
+  "NGF": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 115285904,
+    "end": 115338770,
+    "ensembl_id": "ENSG00000134259",
+    "ensembl_name": "NGF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 115828539,
+    "end": 115880857,
+    "ensembl_id": "ENSG00000134259",
+    "ensembl_name": "NGF",
+    "method": "symbol"
+   }
+  },
+  "NLRX1": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 119166481,
+    "end": 119184017,
+    "ensembl_id": "ENSG00000160703",
+    "ensembl_name": "NLRX1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 119037277,
+    "end": 119054725,
+    "ensembl_id": "ENSG00000160703",
+    "ensembl_name": "NLRX1",
+    "method": "symbol"
+   }
+  },
+  "NME4": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 396725,
+    "end": 410367,
+    "ensembl_id": "ENSG00000103202",
+    "ensembl_name": "NME4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 446725,
+    "end": 460367,
+    "ensembl_id": "ENSG00000103202",
+    "ensembl_name": "NME4",
+    "method": "symbol"
+   }
+  },
+  "NPDC1": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 137037577,
+    "end": 137046700,
+    "ensembl_id": "ENSG00000107281",
+    "ensembl_name": "NPDC1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 139933922,
+    "end": 139940655,
+    "ensembl_id": "ENSG00000107281",
+    "ensembl_name": "NPDC1",
+    "method": "symbol"
+   }
+  },
+  "NT5DC2": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 52524369,
+    "end": 52535093,
+    "ensembl_id": "ENSG00000168268",
+    "ensembl_name": "NT5DC2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 52558386,
+    "end": 52569070,
+    "ensembl_id": "ENSG00000168268",
+    "ensembl_name": "NT5DC2",
+    "method": "symbol"
+   }
+  },
+  "NTF4": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 49061066,
+    "end": 49065076,
+    "ensembl_id": "ENSG00000225950",
+    "ensembl_name": "NTF4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 49559050,
+    "end": 49568333,
+    "ensembl_id": "ENSG00000225950",
+    "ensembl_name": "NTF4",
+    "method": "symbol"
+   }
+  },
+  "OMA1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 58415384,
+    "end": 58546838,
+    "ensembl_id": "ENSG00000162600",
+    "ensembl_name": "OMA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 58881056,
+    "end": 59012474,
+    "ensembl_id": "ENSG00000162600",
+    "ensembl_name": "OMA1",
+    "method": "symbol"
+   }
+  },
+  "OXNAD1": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 16265160,
+    "end": 16352093,
+    "ensembl_id": "ENSG00000154814",
+    "ensembl_name": "OXNAD1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 16306706,
+    "end": 16391806,
+    "ensembl_id": "ENSG00000154814",
+    "ensembl_name": "OXNAD1",
+    "method": "symbol"
+   }
+  },
+  "PAQR8": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 52361421,
+    "end": 52407777,
+    "ensembl_id": "ENSG00000170915",
+    "ensembl_name": "PAQR8",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 52226219,
+    "end": 52272575,
+    "ensembl_id": "ENSG00000170915",
+    "ensembl_name": "PAQR8",
+    "method": "symbol"
+   }
+  },
+  "PARK7": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 7952654,
+    "end": 7985991,
+    "ensembl_id": "ENSG00000116288",
+    "ensembl_name": "PARK7",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 8014351,
+    "end": 8045565,
+    "ensembl_id": "ENSG00000116288",
+    "ensembl_name": "PARK7",
+    "method": "symbol"
+   }
+  },
+  "PARP3": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 51942252,
+    "end": 51949371,
+    "ensembl_id": "ENSG00000041880",
+    "ensembl_name": "PARP3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 51976361,
+    "end": 51982883,
+    "ensembl_id": "ENSG00000041880",
+    "ensembl_name": "PARP3",
+    "method": "symbol"
+   }
+  },
+  "PARPBP": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 102120122,
+    "end": 102197531,
+    "ensembl_id": "ENSG00000185480",
+    "ensembl_name": "PARPBP",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 102513956,
+    "end": 102591298,
+    "ensembl_id": "ENSG00000185480",
+    "ensembl_name": "PARPBP",
+    "method": "symbol"
+   }
+  },
+  "PCSK9": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 55039445,
+    "end": 55064852,
+    "ensembl_id": "ENSG00000169174",
+    "ensembl_name": "PCSK9",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 55505221,
+    "end": 55530525,
+    "ensembl_id": "ENSG00000169174",
+    "ensembl_name": "PCSK9",
+    "method": "symbol"
+   }
+  },
+  "PDE5A": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 119494397,
+    "end": 119629259,
+    "ensembl_id": "ENSG00000138735",
+    "ensembl_name": "PDE5A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 120415550,
+    "end": 120550146,
+    "ensembl_id": "ENSG00000138735",
+    "ensembl_name": "PDE5A",
+    "method": "symbol"
+   }
+  },
+  "PDGFB": {
+   "GRCh38": {
+    "chrom": "22",
+    "start": 39221746,
+    "end": 39244982,
+    "ensembl_id": "ENSG00000100311",
+    "ensembl_name": "PDGFB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "22",
+    "start": 39619364,
+    "end": 39640756,
+    "ensembl_id": "ENSG00000100311",
+    "ensembl_name": "PDGFB",
+    "method": "symbol"
+   }
+  },
+  "PDK2": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 50094737,
+    "end": 50120276,
+    "ensembl_id": "ENSG00000005882",
+    "ensembl_name": "PDK2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 48172101,
+    "end": 48189516,
+    "ensembl_id": "ENSG00000005882",
+    "ensembl_name": "PDK2",
+    "method": "symbol"
+   }
+  },
+  "PDZD2": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 31638965,
+    "end": 32110933,
+    "ensembl_id": "ENSG00000133401",
+    "ensembl_name": "PDZD2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 31639517,
+    "end": 32111037,
+    "ensembl_id": "ENSG00000133401",
+    "ensembl_name": "PDZD2",
+    "method": "symbol"
+   }
+  },
+  "PHLDB1": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 118606396,
+    "end": 118658038,
+    "ensembl_id": "ENSG00000019144",
+    "ensembl_name": "PHLDB1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 118477155,
+    "end": 118528741,
+    "ensembl_id": "ENSG00000019144",
+    "ensembl_name": "PHLDB1",
+    "method": "symbol"
+   }
+  },
+  "PHYH": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 13276854,
+    "end": 13302412,
+    "ensembl_id": "ENSG00000107537",
+    "ensembl_name": "PHYH",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 13319796,
+    "end": 13344412,
+    "ensembl_id": "ENSG00000107537",
+    "ensembl_name": "PHYH",
+    "method": "symbol"
+   }
+  },
+  "PLK2": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 58453091,
+    "end": 58460139,
+    "ensembl_id": "ENSG00000145632",
+    "ensembl_name": "PLK2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 57749809,
+    "end": 57756087,
+    "ensembl_id": "ENSG00000145632",
+    "ensembl_name": "PLK2",
+    "method": "symbol"
+   }
+  },
+  "PMVK": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 154924732,
+    "end": 154937008,
+    "ensembl_id": "ENSG00000163344",
+    "ensembl_name": "PMVK",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 154897210,
+    "end": 154909467,
+    "ensembl_id": "ENSG00000163344",
+    "ensembl_name": "PMVK",
+    "method": "symbol"
+   }
+  },
+  "POLDIP2": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 28343133,
+    "end": 28357623,
+    "ensembl_id": "ENSG00000004142",
+    "ensembl_name": "POLDIP2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 26673659,
+    "end": 26684545,
+    "ensembl_id": "ENSG00000004142",
+    "ensembl_name": "POLDIP2",
+    "method": "symbol"
+   }
+  },
+  "POLR2F": {
+   "GRCh38": {
+    "chrom": "22",
+    "start": 37952607,
+    "end": 38041932,
+    "ensembl_id": "ENSG00000100142",
+    "ensembl_name": "POLR2F",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "22",
+    "start": 38348614,
+    "end": 38437922,
+    "ensembl_id": "ENSG00000100142",
+    "ensembl_name": "POLR2F",
+    "method": "symbol"
+   }
+  },
+  "PPA1": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 70202831,
+    "end": 70233911,
+    "ensembl_id": "ENSG00000180817",
+    "ensembl_name": "PPA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 71962586,
+    "end": 71993667,
+    "ensembl_id": "ENSG00000180817",
+    "ensembl_name": "PPA1",
+    "method": "symbol"
+   }
+  },
+  "PRDX5": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 64317977,
+    "end": 64321827,
+    "ensembl_id": "ENSG00000126432",
+    "ensembl_name": "PRDX5",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 64085560,
+    "end": 64089283,
+    "ensembl_id": "ENSG00000126432",
+    "ensembl_name": "PRDX5",
+    "method": "symbol"
+   }
+  },
+  "PRELID1": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 177303787,
+    "end": 177306958,
+    "ensembl_id": "ENSG00000169230",
+    "ensembl_name": "PRELID1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 176730775,
+    "end": 176733960,
+    "ensembl_id": "ENSG00000169230",
+    "ensembl_name": "PRELID1",
+    "method": "symbol"
+   }
+  },
+  "PRIM1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 56730438,
+    "end": 56752384,
+    "ensembl_id": "ENSG00000198056",
+    "ensembl_name": "PRIM1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 57125380,
+    "end": 57146157,
+    "ensembl_id": "ENSG00000198056",
+    "ensembl_name": "PRIM1",
+    "method": "symbol"
+   }
+  },
+  "PRLR": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 35048756,
+    "end": 35230678,
+    "ensembl_id": "ENSG00000113494",
+    "ensembl_name": "PRLR",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 35048861,
+    "end": 35230794,
+    "ensembl_id": "ENSG00000113494",
+    "ensembl_name": "PRLR",
+    "method": "symbol"
+   }
+  },
+  "PRR15L": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 47950851,
+    "end": 47960483,
+    "ensembl_id": "ENSG00000167183",
+    "ensembl_name": "PRR15L",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 46029333,
+    "end": 46035244,
+    "ensembl_id": "ENSG00000167183",
+    "ensembl_name": "PRR15L",
+    "method": "symbol"
+   }
+  },
+  "PSMB1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 170428569,
+    "end": 170553327,
+    "ensembl_id": "ENSG00000008018",
+    "ensembl_name": "PSMB1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 170844205,
+    "end": 170862429,
+    "ensembl_id": "ENSG00000008018",
+    "ensembl_name": "PSMB1",
+    "method": "symbol"
+   }
+  },
+  "PTGER4": {
+   "GRCh38": {
+    "chrom": "5",
+    "start": 40679441,
+    "end": 40693753,
+    "ensembl_id": "ENSG00000171522",
+    "ensembl_name": "PTGER4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "5",
+    "start": 40679600,
+    "end": 40693837,
+    "ensembl_id": "ENSG00000171522",
+    "ensembl_name": "PTGER4",
+    "method": "symbol"
+   }
+  },
+  "PTRHD1": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 24788911,
+    "end": 24793395,
+    "ensembl_id": "ENSG00000184924",
+    "ensembl_name": "PTRHD1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 25012603,
+    "end": 25016251,
+    "ensembl_id": "ENSG00000184924",
+    "ensembl_name": "PTRHD1",
+    "method": "symbol"
+   }
+  },
+  "RAI1": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 17681323,
+    "end": 17811453,
+    "ensembl_id": "ENSG00000108557",
+    "ensembl_name": "RAI1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 17584787,
+    "end": 17714767,
+    "ensembl_id": "ENSG00000108557",
+    "ensembl_name": "RAI1",
+    "method": "symbol"
+   }
+  },
+  "RAP1GAP": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 21596215,
+    "end": 21669846,
+    "ensembl_id": "ENSG00000076864",
+    "ensembl_name": "RAP1GAP",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 21922708,
+    "end": 21995801,
+    "ensembl_id": "ENSG00000076864",
+    "ensembl_name": "RAP1GAP",
+    "method": "symbol"
+   }
+  },
+  "RERG": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 15107783,
+    "end": 15390485,
+    "ensembl_id": "ENSG00000134533",
+    "ensembl_name": "RERG",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 15260717,
+    "end": 15501609,
+    "ensembl_id": "ENSG00000134533",
+    "ensembl_name": "RERG",
+    "method": "symbol"
+   }
+  },
+  "RLN2": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 5298698,
+    "end": 5304716,
+    "ensembl_id": "ENSG00000107014",
+    "ensembl_name": "RLN2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 5299868,
+    "end": 5304969,
+    "ensembl_id": "ENSG00000107014",
+    "ensembl_name": "RLN2",
+    "method": "symbol"
+   }
+  },
+  "RMI1": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 83980355,
+    "end": 84004078,
+    "ensembl_id": "ENSG00000178966",
+    "ensembl_name": "RMI1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 86595626,
+    "end": 86618985,
+    "ensembl_id": "ENSG00000178966",
+    "ensembl_name": "RMI1",
+    "method": "symbol"
+   }
+  },
+  "RMND1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 151398824,
+    "end": 151452181,
+    "ensembl_id": "ENSG00000155906",
+    "ensembl_name": "RMND1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 151725989,
+    "end": 151773259,
+    "ensembl_id": "ENSG00000155906",
+    "ensembl_name": "RMND1",
+    "method": "symbol"
+   }
+  },
+  "ROCK2": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 11179759,
+    "end": 11348330,
+    "ensembl_id": "ENSG00000134318",
+    "ensembl_name": "ROCK2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 11319887,
+    "end": 11488456,
+    "ensembl_id": "ENSG00000134318",
+    "ensembl_name": "ROCK2",
+    "method": "symbol"
+   }
+  },
+  "RPL21": {
+   "GRCh38": {
+    "chrom": "13",
+    "start": 27251283,
+    "end": 27266550,
+    "ensembl_id": "ENSG00000122026",
+    "ensembl_name": "RPL21",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "13",
+    "start": 27825446,
+    "end": 27830828,
+    "ensembl_id": "ENSG00000122026",
+    "ensembl_name": "RPL21",
+    "method": "symbol"
+   }
+  },
+  "RPS6KB1": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 59893035,
+    "end": 59963336,
+    "ensembl_id": "ENSG00000108443",
+    "ensembl_name": "RPS6KB1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 57970447,
+    "end": 58027925,
+    "ensembl_id": "ENSG00000108443",
+    "ensembl_name": "RPS6KB1",
+    "method": "symbol"
+   }
+  },
+  "RRM2": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 10120698,
+    "end": 10213114,
+    "ensembl_id": "ENSG00000171848",
+    "ensembl_name": "RRM2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 10262455,
+    "end": 10271545,
+    "ensembl_id": "ENSG00000171848",
+    "ensembl_name": "RRM2",
+    "method": "symbol"
+   }
+  },
+  "RSPO3": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 127118658,
+    "end": 127199481,
+    "ensembl_id": "ENSG00000146374",
+    "ensembl_name": "RSPO3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 127439749,
+    "end": 127518910,
+    "ensembl_id": "ENSG00000146374",
+    "ensembl_name": "RSPO3",
+    "method": "symbol"
+   }
+  },
+  "RSPRY1": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 57186137,
+    "end": 57242505,
+    "ensembl_id": "ENSG00000159579",
+    "ensembl_name": "RSPRY1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 57220049,
+    "end": 57274387,
+    "ensembl_id": "ENSG00000159579",
+    "ensembl_name": "RSPRY1",
+    "method": "symbol"
+   }
+  },
+  "RTP4": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 187368368,
+    "end": 187372076,
+    "ensembl_id": "ENSG00000136514",
+    "ensembl_name": "RTP4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 187086120,
+    "end": 187089864,
+    "ensembl_id": "ENSG00000136514",
+    "ensembl_name": "RTP4",
+    "method": "symbol"
+   }
+  },
+  "RUVBL1": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 128063024,
+    "end": 128153914,
+    "ensembl_id": "ENSG00000175792",
+    "ensembl_name": "RUVBL1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 127783621,
+    "end": 127872757,
+    "ensembl_id": "ENSG00000175792",
+    "ensembl_name": "RUVBL1",
+    "method": "symbol"
+   }
+  },
+  "S100A6": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 153532726,
+    "end": 153536549,
+    "ensembl_id": "ENSG00000197956",
+    "ensembl_name": "S100A6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 153507075,
+    "end": 153508720,
+    "ensembl_id": "ENSG00000197956",
+    "ensembl_name": "S100A6",
+    "method": "symbol"
+   }
+  },
+  "SAA1": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 18266118,
+    "end": 18271130,
+    "ensembl_id": "ENSG00000173432",
+    "ensembl_name": "SAA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 18287721,
+    "end": 18291524,
+    "ensembl_id": "ENSG00000173432",
+    "ensembl_name": "SAA1",
+    "method": "symbol"
+   }
+  },
+  "SAA2": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 18238236,
+    "end": 18248668,
+    "ensembl_id": "ENSG00000134339",
+    "ensembl_name": "SAA2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 18260770,
+    "end": 18270190,
+    "ensembl_id": "ENSG00000134339",
+    "ensembl_name": "SAA2",
+    "method": "symbol"
+   }
+  },
+  "SCN3A": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 165087516,
+    "end": 165204093,
+    "ensembl_id": "ENSG00000153253",
+    "ensembl_name": "SCN3A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 165944032,
+    "end": 166060577,
+    "ensembl_id": "ENSG00000153253",
+    "ensembl_name": "SCN3A",
+    "method": "symbol"
+   }
+  },
+  "SCRN1": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 29920103,
+    "end": 29990289,
+    "ensembl_id": "ENSG00000136193",
+    "ensembl_name": "SCRN1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 29959719,
+    "end": 30029905,
+    "ensembl_id": "ENSG00000136193",
+    "ensembl_name": "SCRN1",
+    "method": "symbol"
+   }
+  },
+  "SELE": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 169722640,
+    "end": 169764705,
+    "ensembl_id": "ENSG00000007908",
+    "ensembl_name": "SELE",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 169691781,
+    "end": 169733846,
+    "ensembl_id": "ENSG00000007908",
+    "ensembl_name": "SELE",
+    "method": "symbol"
+   }
+  },
+  "SELL": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 169690665,
+    "end": 169712202,
+    "ensembl_id": "ENSG00000188404",
+    "ensembl_name": "SELL",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 169659808,
+    "end": 169680839,
+    "ensembl_id": "ENSG00000188404",
+    "ensembl_name": "SELL",
+    "method": "symbol"
+   }
+  },
+  "SEMA3F": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 50155012,
+    "end": 50189075,
+    "ensembl_id": "ENSG00000001617",
+    "ensembl_name": "SEMA3F",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 50192478,
+    "end": 50226508,
+    "ensembl_id": "ENSG00000001617",
+    "ensembl_name": "SEMA3F",
+    "method": "symbol"
+   }
+  },
+  "SEZ6L2": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 29871159,
+    "end": 29899582,
+    "ensembl_id": "ENSG00000174938",
+    "ensembl_name": "SEZ6L2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 29882480,
+    "end": 29910868,
+    "ensembl_id": "ENSG00000174938",
+    "ensembl_name": "SEZ6L2",
+    "method": "symbol"
+   }
+  },
+  "SKAP1": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 48133433,
+    "end": 48430275,
+    "ensembl_id": "ENSG00000141293",
+    "ensembl_name": "SKAP1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 46210802,
+    "end": 46507637,
+    "ensembl_id": "ENSG00000141293",
+    "ensembl_name": "SKAP1",
+    "method": "symbol"
+   }
+  },
+  "SKIDA1": {
+   "GRCh38": {
+    "chrom": "10",
+    "start": 21513475,
+    "end": 21526368,
+    "ensembl_id": "ENSG00000180592",
+    "ensembl_name": "SKIDA1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "10",
+    "start": 21802407,
+    "end": 21814611,
+    "ensembl_id": "ENSG00000180592",
+    "ensembl_name": "SKIDA1",
+    "method": "symbol"
+   }
+  },
+  "SLAMF1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 160608100,
+    "end": 160647056,
+    "ensembl_id": "ENSG00000117090",
+    "ensembl_name": "SLAMF1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 160577890,
+    "end": 160617085,
+    "ensembl_id": "ENSG00000117090",
+    "ensembl_name": "SLAMF1",
+    "method": "symbol"
+   }
+  },
+  "SLC25A29": {
+   "GRCh38": {
+    "chrom": "14",
+    "start": 100291116,
+    "end": 100306547,
+    "ensembl_id": "ENSG00000197119",
+    "ensembl_name": "SLC25A29",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "14",
+    "start": 100757448,
+    "end": 100772884,
+    "ensembl_id": "ENSG00000197119",
+    "ensembl_name": "SLC25A29",
+    "method": "symbol"
+   }
+  },
+  "SLC48A1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 47753916,
+    "end": 47782751,
+    "ensembl_id": "ENSG00000211584",
+    "ensembl_name": "SLC48A1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 48147699,
+    "end": 48176536,
+    "ensembl_id": "ENSG00000211584",
+    "ensembl_name": "SLC48A1",
+    "method": "symbol"
+   }
+  },
+  "SLC5A2": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 31483002,
+    "end": 31490860,
+    "ensembl_id": "ENSG00000140675",
+    "ensembl_name": "SLC5A2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 31494323,
+    "end": 31502181,
+    "ensembl_id": "ENSG00000140675",
+    "ensembl_name": "SLC5A2",
+    "method": "symbol"
+   }
+  },
+  "SLC66A3": {
+   "GRCh38": {
+    "chrom": "2",
+    "start": 11155198,
+    "end": 11178870,
+    "ensembl_id": "ENSG00000162976",
+    "ensembl_name": "SLC66A3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "2",
+    "start": 11295324,
+    "end": 11319000,
+    "ensembl_id": "ENSG00000162976",
+    "ensembl_name": "PQLC3",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "SLC9A1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 27098809,
+    "end": 27166981,
+    "ensembl_id": "ENSG00000090020",
+    "ensembl_name": "SLC9A1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 27425306,
+    "end": 27493472,
+    "ensembl_id": "ENSG00000090020",
+    "ensembl_name": "SLC9A1",
+    "method": "symbol"
+   }
+  },
+  "SMARCA2": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 1980290,
+    "end": 2193624,
+    "ensembl_id": "ENSG00000080503",
+    "ensembl_name": "SMARCA2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 2015342,
+    "end": 2193624,
+    "ensembl_id": "ENSG00000080503",
+    "ensembl_name": "SMARCA2",
+    "method": "symbol"
+   }
+  },
+  "SMIM29": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 34245865,
+    "end": 34249113,
+    "ensembl_id": "ENSG00000186577",
+    "ensembl_name": "SMIM29",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 34214157,
+    "end": 34217247,
+    "ensembl_id": "ENSG00000186577",
+    "ensembl_name": "C6orf1",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "SNX11": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 48103357,
+    "end": 48128226,
+    "ensembl_id": "ENSG00000002919",
+    "ensembl_name": "SNX11",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 46180719,
+    "end": 46200436,
+    "ensembl_id": "ENSG00000002919",
+    "ensembl_name": "SNX11",
+    "method": "symbol"
+   }
+  },
+  "SPATA20": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 50543058,
+    "end": 50558366,
+    "ensembl_id": "ENSG00000006282",
+    "ensembl_name": "SPATA20",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 48620419,
+    "end": 48633213,
+    "ensembl_id": "ENSG00000006282",
+    "ensembl_name": "SPATA20",
+    "method": "symbol"
+   }
+  },
+  "SRD5A3": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 55346073,
+    "end": 55373100,
+    "ensembl_id": "ENSG00000128039",
+    "ensembl_name": "SRD5A3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 56212276,
+    "end": 56239263,
+    "ensembl_id": "ENSG00000128039",
+    "ensembl_name": "SRD5A3",
+    "method": "symbol"
+   }
+  },
+  "SRP14": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 40032985,
+    "end": 40039186,
+    "ensembl_id": "ENSG00000140319",
+    "ensembl_name": "SRP14",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 40327940,
+    "end": 40331389,
+    "ensembl_id": "ENSG00000140319",
+    "ensembl_name": "SRP14",
+    "method": "symbol"
+   }
+  },
+  "SRP14-AS1": {
+   "GRCh38": {
+    "chrom": "15",
+    "start": 40039242,
+    "end": 40087903,
+    "ensembl_id": "ENSG00000248508",
+    "ensembl_name": "SRP14-DT",
+    "method": "alias"
+   },
+   "GRCh37": {
+    "chrom": "15",
+    "start": 40331512,
+    "end": 40359491,
+    "ensembl_id": "ENSG00000248508",
+    "ensembl_name": "SRP14-AS1",
+    "method": "symbol"
+   }
+  },
+  "SRPX": {
+   "GRCh38": {
+    "chrom": "X",
+    "start": 38149336,
+    "end": 38220941,
+    "ensembl_id": "ENSG00000101955",
+    "ensembl_name": "SRPX",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "X",
+    "start": 38008589,
+    "end": 38080696,
+    "ensembl_id": "ENSG00000101955",
+    "ensembl_name": "SRPX",
+    "method": "symbol"
+   }
+  },
+  "STIL": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 47250139,
+    "end": 47314892,
+    "ensembl_id": "ENSG00000123473",
+    "ensembl_name": "STIL",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 47715811,
+    "end": 47779819,
+    "ensembl_id": "ENSG00000123473",
+    "ensembl_name": "STIL",
+    "method": "symbol"
+   }
+  },
+  "STMN1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 25884181,
+    "end": 25908470,
+    "ensembl_id": "ENSG00000117632",
+    "ensembl_name": "STMN1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 26210672,
+    "end": 26233482,
+    "ensembl_id": "ENSG00000117632",
+    "ensembl_name": "STMN1",
+    "method": "symbol"
+   }
+  },
+  "STXBP1": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 127579370,
+    "end": 127696027,
+    "ensembl_id": "ENSG00000136854",
+    "ensembl_name": "STXBP1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 130374544,
+    "end": 130457460,
+    "ensembl_id": "ENSG00000136854",
+    "ensembl_name": "STXBP1",
+    "method": "symbol"
+   }
+  },
+  "SULT1B1": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 69721167,
+    "end": 69787961,
+    "ensembl_id": "ENSG00000173597",
+    "ensembl_name": "SULT1B1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 70586880,
+    "end": 70653679,
+    "ensembl_id": "ENSG00000173597",
+    "ensembl_name": "SULT1B1",
+    "method": "symbol"
+   }
+  },
+  "SUN1": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 816591,
+    "end": 896435,
+    "ensembl_id": "ENSG00000164828",
+    "ensembl_name": "SUN1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 855528,
+    "end": 936072,
+    "ensembl_id": "ENSG00000164828",
+    "ensembl_name": "SUN1",
+    "method": "symbol"
+   }
+  },
+  "SURF6": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 133328684,
+    "end": 133336289,
+    "ensembl_id": "ENSG00000148296",
+    "ensembl_name": "SURF6",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 136197552,
+    "end": 136203235,
+    "ensembl_id": "ENSG00000148296",
+    "ensembl_name": "SURF6",
+    "method": "symbol"
+   }
+  },
+  "SYNE1": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 152121687,
+    "end": 152637801,
+    "ensembl_id": "ENSG00000131018",
+    "ensembl_name": "SYNE1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 152442819,
+    "end": 152958936,
+    "ensembl_id": "ENSG00000131018",
+    "ensembl_name": "SYNE1",
+    "method": "symbol"
+   }
+  },
+  "TCAIM": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 44338097,
+    "end": 44409451,
+    "ensembl_id": "ENSG00000179152",
+    "ensembl_name": "TCAIM",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 44379611,
+    "end": 44450943,
+    "ensembl_id": "ENSG00000179152",
+    "ensembl_name": "TCAIM",
+    "method": "symbol"
+   }
+  },
+  "TEFM": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 30897336,
+    "end": 30906762,
+    "ensembl_id": "ENSG00000172171",
+    "ensembl_name": "TEFM",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 29224354,
+    "end": 29233838,
+    "ensembl_id": "ENSG00000172171",
+    "ensembl_name": "TEFM",
+    "method": "symbol"
+   }
+  },
+  "THRB": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 24117153,
+    "end": 24495756,
+    "ensembl_id": "ENSG00000151090",
+    "ensembl_name": "THRB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 24158651,
+    "end": 24536773,
+    "ensembl_id": "ENSG00000151090",
+    "ensembl_name": "THRB",
+    "method": "symbol"
+   }
+  },
+  "TMEM39B": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 32072031,
+    "end": 32102866,
+    "ensembl_id": "ENSG00000121775",
+    "ensembl_name": "TMEM39B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 32537632,
+    "end": 32568467,
+    "ensembl_id": "ENSG00000121775",
+    "ensembl_name": "TMEM39B",
+    "method": "symbol"
+   }
+  },
+  "TNF": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 31575558,
+    "end": 31578336,
+    "ensembl_id": "ENSG00000232810",
+    "ensembl_name": "TNF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 31543344,
+    "end": 31546113,
+    "ensembl_id": "ENSG00000232810",
+    "ensembl_name": "TNF",
+    "method": "symbol"
+   }
+  },
+  "TNFSF10": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 172505503,
+    "end": 172523529,
+    "ensembl_id": "ENSG00000121858",
+    "ensembl_name": "TNFSF10",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 172223298,
+    "end": 172241297,
+    "ensembl_id": "ENSG00000121858",
+    "ensembl_name": "TNFSF10",
+    "method": "symbol"
+   }
+  },
+  "TNFSF11": {
+   "GRCh38": {
+    "chrom": "13",
+    "start": 42562736,
+    "end": 42608013,
+    "ensembl_id": "ENSG00000120659",
+    "ensembl_name": "TNFSF11",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "13",
+    "start": 43136872,
+    "end": 43182149,
+    "ensembl_id": "ENSG00000120659",
+    "ensembl_name": "TNFSF11",
+    "method": "symbol"
+   }
+  },
+  "TNFSF12": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 7548508,
+    "end": 7557890,
+    "ensembl_id": "ENSG00000239697",
+    "ensembl_name": "TNFSF12",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 7452208,
+    "end": 7464925,
+    "ensembl_id": "ENSG00000239697",
+    "ensembl_name": "TNFSF12",
+    "method": "symbol"
+   }
+  },
+  "TNN": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 175067509,
+    "end": 175148075,
+    "ensembl_id": "ENSG00000120332",
+    "ensembl_name": "TNN",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 175036994,
+    "end": 175117202,
+    "ensembl_id": "ENSG00000120332",
+    "ensembl_name": "TNN",
+    "method": "symbol"
+   }
+  },
+  "TOP3A": {
+   "GRCh38": {
+    "chrom": "17",
+    "start": 18271428,
+    "end": 18315025,
+    "ensembl_id": "ENSG00000177302",
+    "ensembl_name": "TOP3A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "17",
+    "start": 18174742,
+    "end": 18218321,
+    "ensembl_id": "ENSG00000177302",
+    "ensembl_name": "TOP3A",
+    "method": "symbol"
+   }
+  },
+  "TPSG1": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 1221651,
+    "end": 1225793,
+    "ensembl_id": "ENSG00000116176",
+    "ensembl_name": "TPSG1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 1271651,
+    "end": 1275257,
+    "ensembl_id": "ENSG00000116176",
+    "ensembl_name": "TPSG1",
+    "method": "symbol"
+   }
+  },
+  "TPST1": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 66205289,
+    "end": 66420549,
+    "ensembl_id": "ENSG00000169902",
+    "ensembl_name": "TPST1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 65670186,
+    "end": 65885530,
+    "ensembl_id": "ENSG00000169902",
+    "ensembl_name": "TPST1",
+    "method": "symbol"
+   }
+  },
+  "TRA2A": {
+   "GRCh38": {
+    "chrom": "7",
+    "start": 23504780,
+    "end": 23532041,
+    "ensembl_id": "ENSG00000164548",
+    "ensembl_name": "TRA2A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "7",
+    "start": 23544399,
+    "end": 23571660,
+    "ensembl_id": "ENSG00000164548",
+    "ensembl_name": "TRA2A",
+    "method": "symbol"
+   }
+  },
+  "TRIT1": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 39838110,
+    "end": 39883511,
+    "ensembl_id": "ENSG00000043514",
+    "ensembl_name": "TRIT1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 40306723,
+    "end": 40349183,
+    "ensembl_id": "ENSG00000043514",
+    "ensembl_name": "TRIT1",
+    "method": "symbol"
+   }
+  },
+  "TUB": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 8019193,
+    "end": 8106243,
+    "ensembl_id": "ENSG00000166402",
+    "ensembl_name": "TUB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 8040791,
+    "end": 8127659,
+    "ensembl_id": "ENSG00000166402",
+    "ensembl_name": "TUB",
+    "method": "symbol"
+   }
+  },
+  "TYMS": {
+   "GRCh38": {
+    "chrom": "18",
+    "start": 657127,
+    "end": 676613,
+    "ensembl_id": "ENSG00000176890",
+    "ensembl_name": "TYMS",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "18",
+    "start": 657604,
+    "end": 673578,
+    "ensembl_id": "ENSG00000176890",
+    "ensembl_name": "TYMS",
+    "method": "symbol"
+   }
+  },
+  "UBE2D3": {
+   "GRCh38": {
+    "chrom": "4",
+    "start": 102793516,
+    "end": 102869287,
+    "ensembl_id": "ENSG00000109332",
+    "ensembl_name": "UBE2D3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "4",
+    "start": 103715540,
+    "end": 103790053,
+    "ensembl_id": "ENSG00000109332",
+    "ensembl_name": "UBE2D3",
+    "method": "symbol"
+   }
+  },
+  "UGCG": {
+   "GRCh38": {
+    "chrom": "9",
+    "start": 111896772,
+    "end": 111935384,
+    "ensembl_id": "ENSG00000148154",
+    "ensembl_name": "UGCG",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "9",
+    "start": 114659046,
+    "end": 114697649,
+    "ensembl_id": "ENSG00000148154",
+    "ensembl_name": "UGCG",
+    "method": "symbol"
+   }
+  },
+  "UNG": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 109097569,
+    "end": 109126725,
+    "ensembl_id": "ENSG00000076248",
+    "ensembl_name": "UNG",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 109535379,
+    "end": 109548797,
+    "ensembl_id": "ENSG00000076248",
+    "ensembl_name": "UNG",
+    "method": "symbol"
+   }
+  },
+  "VEGFA": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 43770184,
+    "end": 43786487,
+    "ensembl_id": "ENSG00000112715",
+    "ensembl_name": "VEGFA",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 43737921,
+    "end": 43754224,
+    "ensembl_id": "ENSG00000112715",
+    "ensembl_name": "VEGFA",
+    "method": "symbol"
+   }
+  },
+  "VEGFB": {
+   "GRCh38": {
+    "chrom": "11",
+    "start": 64234406,
+    "end": 64239264,
+    "ensembl_id": "ENSG00000173511",
+    "ensembl_name": "VEGFB",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "11",
+    "start": 64002010,
+    "end": 64006259,
+    "ensembl_id": "ENSG00000173511",
+    "ensembl_name": "VEGFB",
+    "method": "symbol"
+   }
+  },
+  "VEZT": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 95217746,
+    "end": 95305319,
+    "ensembl_id": "ENSG00000028203",
+    "ensembl_name": "VEZT",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 95611522,
+    "end": 95696566,
+    "ensembl_id": "ENSG00000028203",
+    "ensembl_name": "VEZT",
+    "method": "symbol"
+   }
+  },
+  "VPS13B": {
+   "GRCh38": {
+    "chrom": "8",
+    "start": 99013254,
+    "end": 99877580,
+    "ensembl_id": "ENSG00000132549",
+    "ensembl_name": "VPS13B",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 100025494,
+    "end": 100889808,
+    "ensembl_id": "ENSG00000132549",
+    "ensembl_name": "VPS13B",
+    "method": "symbol"
+   }
+  },
+  "VRK1": {
+   "GRCh38": {
+    "chrom": "14",
+    "start": 96797304,
+    "end": 96954846,
+    "ensembl_id": "ENSG00000100749",
+    "ensembl_name": "VRK1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "14",
+    "start": 97263641,
+    "end": 97398059,
+    "ensembl_id": "ENSG00000100749",
+    "ensembl_name": "VRK1",
+    "method": "symbol"
+   }
+  },
+  "VWF": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 5948877,
+    "end": 6124770,
+    "ensembl_id": "ENSG00000110799",
+    "ensembl_name": "VWF",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 6058040,
+    "end": 6233936,
+    "ensembl_id": "ENSG00000110799",
+    "ensembl_name": "VWF",
+    "method": "symbol"
+   }
+  },
+  "WASHC3": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 102011737,
+    "end": 102062149,
+    "ensembl_id": "ENSG00000120860",
+    "ensembl_name": "WASHC3",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 102406705,
+    "end": 102455927,
+    "ensembl_id": "ENSG00000120860",
+    "ensembl_name": "CCDC53",
+    "method": "stable id from GRCh38"
+   }
+  },
+  "WIF1": {
+   "GRCh38": {
+    "chrom": "12",
+    "start": 65050565,
+    "end": 65121582,
+    "ensembl_id": "ENSG00000156076",
+    "ensembl_name": "WIF1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "12",
+    "start": 65444406,
+    "end": 65515346,
+    "ensembl_id": "ENSG00000156076",
+    "ensembl_name": "WIF1",
+    "method": "symbol"
+   }
+  },
+  "WNT4": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 22117313,
+    "end": 22143969,
+    "ensembl_id": "ENSG00000162552",
+    "ensembl_name": "WNT4",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 22443798,
+    "end": 22470462,
+    "ensembl_id": "ENSG00000162552",
+    "ensembl_name": "WNT4",
+    "method": "symbol"
+   }
+  },
+  "WNT7A": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 13816157,
+    "end": 13880104,
+    "ensembl_id": "ENSG00000154764",
+    "ensembl_name": "WNT7A",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 13857755,
+    "end": 13921618,
+    "ensembl_id": "ENSG00000154764",
+    "ensembl_name": "WNT7A",
+    "method": "symbol"
+   }
+  },
+  "YY1": {
+   "GRCh38": {
+    "chrom": "14",
+    "start": 100238298,
+    "end": 100282788,
+    "ensembl_id": "ENSG00000100811",
+    "ensembl_name": "YY1",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "14",
+    "start": 100704635,
+    "end": 100749129,
+    "ensembl_id": "ENSG00000100811",
+    "ensembl_name": "YY1",
+    "method": "symbol"
+   }
+  },
+  "ZBTB2": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 151364105,
+    "end": 151391700,
+    "ensembl_id": "ENSG00000181472",
+    "ensembl_name": "ZBTB2",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 151685252,
+    "end": 151712683,
+    "ensembl_id": "ENSG00000181472",
+    "ensembl_name": "ZBTB2",
+    "method": "symbol"
+   }
+  },
+  "ZBTB40": {
+   "GRCh38": {
+    "chrom": "1",
+    "start": 22428838,
+    "end": 22531157,
+    "ensembl_id": "ENSG00000184677",
+    "ensembl_name": "ZBTB40",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "1",
+    "start": 22778344,
+    "end": 22857650,
+    "ensembl_id": "ENSG00000184677",
+    "ensembl_name": "ZBTB40",
+    "method": "symbol"
+   }
+  },
+  "ZNF148": {
+   "GRCh38": {
+    "chrom": "3",
+    "start": 125225669,
+    "end": 125375842,
+    "ensembl_id": "ENSG00000163848",
+    "ensembl_name": "ZNF148",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "3",
+    "start": 124944405,
+    "end": 125094198,
+    "ensembl_id": "ENSG00000163848",
+    "ensembl_name": "ZNF148",
+    "method": "symbol"
+   }
+  },
+  "ZNF205": {
+   "GRCh38": {
+    "chrom": "16",
+    "start": 3112550,
+    "end": 3120527,
+    "ensembl_id": "ENSG00000122386",
+    "ensembl_name": "ZNF205",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "16",
+    "start": 3162561,
+    "end": 3170518,
+    "ensembl_id": "ENSG00000122386",
+    "ensembl_name": "ZNF205",
+    "method": "symbol"
+   }
+  },
+  "ZNF606": {
+   "GRCh38": {
+    "chrom": "19",
+    "start": 57977053,
+    "end": 58003349,
+    "ensembl_id": "ENSG00000166704",
+    "ensembl_name": "ZNF606",
+    "method": "symbol"
+   },
+   "GRCh37": {
+    "chrom": "19",
+    "start": 58488421,
+    "end": 58514717,
+    "ensembl_id": "ENSG00000166704",
+    "ensembl_name": "ZNF606",
+    "method": "symbol"
+   }
+  },
+  "HCG4P7": {
+   "GRCh37": {
+    "chrom": "6",
+    "start": 29855071,
+    "end": 29856045,
+    "ensembl_id": "ENSG00000230521",
+    "ensembl_name": "HCG4P7",
+    "method": "symbol"
+   },
+   "GRCh38": {
+    "chrom": "6",
+    "start": 29887294,
+    "end": 29888268,
+    "ensembl_id": "ENSG00000230521",
+    "ensembl_name": null,
+    "method": "stable id from GRCh37"
+   }
+  },
+  "LOC100506885": {
+   "GRCh37": {
+    "chrom": "6",
+    "start": 19802395,
+    "end": 19804983,
+    "ensembl_id": "ENSG00000228412",
+    "ensembl_name": "RP4-625H18.2",
+    "method": "alias"
+   },
+   "GRCh38": {
+    "chrom": "6",
+    "start": 19306534,
+    "end": 19839080,
+    "ensembl_id": "ENSG00000228412",
+    "ensembl_name": "LNC-LBCS",
+    "method": "stable id from GRCh37"
+   }
+  },
+  "RP11-624M8.1": {
+   "GRCh37": {
+    "chrom": "6",
+    "start": 125899704,
+    "end": 126070336,
+    "ensembl_id": "ENSG00000237742",
+    "ensembl_name": "RP11-624M8.1",
+    "method": "symbol"
+   },
+   "GRCh38": {
+    "chrom": "6",
+    "start": 125577545,
+    "end": 125749190,
+    "ensembl_id": "ENSG00000237742",
+    "ensembl_name": "HEY2-AS1",
+    "method": "stable id from GRCh37"
+   }
+  },
+  "RP4-625H18.2": {
+   "GRCh37": {
+    "chrom": "6",
+    "start": 19802395,
+    "end": 19804983,
+    "ensembl_id": "ENSG00000228412",
+    "ensembl_name": "RP4-625H18.2",
+    "method": "symbol"
+   },
+   "GRCh38": {
+    "chrom": "6",
+    "start": 19306534,
+    "end": 19839080,
+    "ensembl_id": "ENSG00000228412",
+    "ensembl_name": "LNC-LBCS",
+    "method": "stable id from GRCh37"
+   }
+  }
+ },
+ "unresolved": [
+  "HCG2P7 (GRCh38)",
+  "ENSG00000289405 (GRCh37)",
+  "HCG2P7 (GRCh37)"
+ ]
+}

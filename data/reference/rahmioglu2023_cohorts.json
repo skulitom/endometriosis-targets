@@ -1,0 +1,241 @@
+{
+ "source": "Rahmioglu et al. 2023 Supplementary Table 1 (sheet 'Supp1.Ascertain-subph-perstudy'), file data/manual/NIHMS1873427-supplement-Supplementary_Materials.xlsx",
+ "read_at": "2026-10-31",
+ "read_by": "script (openpyxl), checked by eye against the printed sheet",
+ "cohorts": [
+  {
+   "acronym": "A2A",
+   "name": "The Women's Health Study: From Adolescence to Adulthood",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 469,
+   "controls": 304,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "CRETE",
+   "name": "Crete dataset",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 131,
+   "controls": 388,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "DECODE",
+   "name": "DeCODE Genetics",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 1857,
+   "controls": 132978,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "Oxford-P1",
+   "name": "The ENDOX study and Liverpool datasets",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 149,
+   "controls": 4934,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "Oxford-P2",
+   "name": "The ENDOX study part 2 and Liverpool and Edinburgh datasets",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 216,
+   "controls": 347,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "LEUVEN",
+   "name": "Leuven dataset",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 998,
+   "controls": 783,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "LODZ",
+   "name": "Lodz dataset",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 165,
+   "controls": 2907,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "MELBOURNE",
+   "name": "Melbourne dataset",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 320,
+   "controls": 887,
+   "control_sex": "538 female and 349 male"
+  },
+  {
+   "acronym": "OXEGENE",
+   "name": "Oxford Endometriosis Gene Study",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 924,
+   "controls": 5190,
+   "control_sex": "2,579 female and 2,611 male"
+  },
+  {
+   "acronym": "QIMRHCS",
+   "name": "Queensland Institute of Medical Research and Hunter Community Study",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 2262,
+   "controls": 2923,
+   "control_sex": "1,486 female and 1,437 male"
+  },
+  {
+   "acronym": "UCSF",
+   "name": "University of California, San Francisco",
+   "ancestry": "European",
+   "ascertainment": "Surgically confirmed",
+   "cases": 102,
+   "controls": 93,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "BIOVU",
+   "name": "Vanderbilt Biorepository",
+   "ancestry": "European",
+   "ascertainment": "Medical records",
+   "cases": 94,
+   "controls": 300,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "DBDS",
+   "name": "Danish Blood Donor Study",
+   "ancestry": "European",
+   "ascertainment": "Medical records",
+   "cases": 380,
+   "controls": 20994,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "Gen Scotland",
+   "name": "Generation Scotland: Scottish Family Health Study",
+   "ancestry": "European",
+   "ascertainment": "Medical records",
+   "cases": 323,
+   "controls": 9788,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "EGCUT",
+   "name": "The Estonian Biobank Cohort",
+   "ancestry": "European",
+   "ascertainment": "Mixed: Surgically confirmed + medical records",
+   "cases": 1716,
+   "controls": 35176,
+   "control_sex": "22,889 female and 12,287 male"
+  },
+  {
+   "acronym": "NFBC",
+   "name": "Northern Finland Birth Cohort",
+   "ancestry": "European",
+   "ascertainment": "Mixed: Medical records + self-reported",
+   "cases": 167,
+   "controls": 5235,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "NHS2",
+   "name": "Nurses’ Health Study II",
+   "ancestry": "European",
+   "ascertainment": "Mixed: Surgically confirmed + self-reported",
+   "cases": 2104,
+   "controls": 5854,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "UKBiobank",
+   "name": "UK Biobank dataset",
+   "ancestry": "European",
+   "ascertainment": "Mixed: Medical records + self-reported",
+   "cases": 6611,
+   "controls": 196188,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "23andMe",
+   "name": "23andMe dataset",
+   "ancestry": "European",
+   "ascertainment": "Self-reported",
+   "cases": 37182,
+   "controls": 251255,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "QSKIN",
+   "name": "QSkin Sun and Health Study",
+   "ancestry": "European",
+   "ascertainment": "Self-reported",
+   "cases": 1038,
+   "controls": 7604,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "TwinsUK",
+   "name": "Twins UK",
+   "ancestry": "European",
+   "ascertainment": "Self-reported",
+   "cases": 259,
+   "controls": 1181,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "WGHS",
+   "name": "The Women’s Genome Health Study",
+   "ancestry": "European",
+   "ascertainment": "Self-reported",
+   "cases": 1494,
+   "controls": 15033,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "ADACHI",
+   "name": "Adachi dataset",
+   "ancestry": "Japanese",
+   "ascertainment": "Surgically confirmed + medical records",
+   "cases": 290,
+   "controls": 263,
+   "control_sex": "All female"
+  },
+  {
+   "acronym": "BBJ",
+   "name": "BioBank Japan",
+   "ancestry": "Japanese",
+   "ascertainment": "Surgically confirmed + medical records",
+   "cases": 1423,
+   "controls": 1318,
+   "control_sex": "All female"
+  }
+ ],
+ "check": {
+  "european_cases_sum": 58961,
+  "paper_total_european_cases": 58961,
+  "public_file_european_cases": 21779,
+  "gwas_catalog_GCST90205183_european_cases": 21779,
+  "public_file_japanese_cases": 1713,
+  "gwas_catalog_japanese_cases": 1713
+ },
+ "finngen_note": "*FinnGen (6502 endometriosis cases from medical records and 57,407 controls) not included in the European or combined overall, stage I/II, stage III/IV meta-analyses. The study only contributed deep infiltrating, endometrioma sub-phenotypes and adenomyosis association results.",
+ "finngen_note_source": "Supplementary Table 20 footnote",
+ "overlap_with_project_cohorts": {
+  "UK Biobank": 6611,
+  "Estonian Biobank": 1716,
+  "deCODE": 1857,
+  "BioBank Japan": 1423,
+  "FinnGen (NFBC1966/1986 are FinnGen legacy cohorts)": 167
+ },
+ "nfbc_in_finngen_source": "FinnGen documentation, 'Legacy cohorts and chips' (docs.finngen.fi), lists NFBC1966 and NFBC1986 (Arctic Biobank) with datasets DS27_NFBC66 and DS28_NFBC86; read 2026-10-31"
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "file_key": "finngen_r10_endo",
+  "gene": "EPHB4",
+  "claim_id": "Tao2024-1",
+  "reason": "Gate B reproduction (primary): FinnGen R10 is this claim's discovery outcome, and every claim of EPHB4 includes FinnGen, so FinnGen near EPHB4 is never an independent replication source.",
+  "added": "2026-10-30T00:32:53.399212+00:00"
+ },
+ {
+  "file_key": "finngen_r10_endo",
+  "gene": "LRP1",
+  "claim_id": "Xie2026FI-1",
+  "reason": "Gate B reproduction (secondary: endpoint not named in paper): FinnGen R10 is this claim's discovery outcome, and every claim of LRP1 includes FinnGen, so FinnGen near LRP1 is never an independent replication source.",
+  "added": "2026-10-30T00:32:53.405111+00:00"
+ },
+ {
+  "file_key": "finngen_r10_endo",
+  "gene": "FIS1",
+  "claim_id": "Tao2024-1",
+  "reason": "Gate B reproduction (primary): FinnGen R10 is this claim's discovery outcome, and every claim of FIS1 includes FinnGen, so FinnGen near FIS1 is never an independent replication source.",
+  "added": "2026-10-30T00:35:31.425334+00:00"
+ },
+ {
+  "file_key": "finngen_r10_endo",
+  "gene": "GIGYF1",
+  "claim_id": "Tao2024-1",
+  "reason": "Gate B reproduction (primary): FinnGen R10 is this claim's discovery outcome, and every claim of GIGYF1 includes FinnGen, so FinnGen near GIGYF1 is never an independent replication source.",
+  "added": "2026-10-30T00:35:31.431180+00:00"
+ }
+]

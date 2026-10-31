@@ -1,0 +1,34 @@
+{
+ "record_id": "doi:10.1371/journal.pone.0356100",
+ "tables": {},
+ "claims": {
+  "Li2026tg-1": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for SLC9A1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-2": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for SCN3A (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-3": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for VEGFA (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-4": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for APOA1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-5": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for TNF (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-6": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for ITGAV (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  },
+  "Li2026tg-7": {
+   "status": "not_available",
+   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for BACE1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+  }
+ }
+}

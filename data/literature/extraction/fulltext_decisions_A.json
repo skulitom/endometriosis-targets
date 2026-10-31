@@ -1,0 +1,123 @@
+[
+ {
+  "record_id": "doi:10.1016/j.jri.2025.104798",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "pQTL MR (UKB-PPP, deCODE) on ovarian endometriosis; abstract names HLA-DRA and CREB3L4.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "ScienceDirect CAPTCHA, no open full text. 52 Bonferroni-significant signals not named in abstract; CREB3L4 direction inferred from mediation statement."
+ },
+ {
+  "record_id": "doi:10.1080/09513590.2025.2512837",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "IVW MR of circulating interleukin-receptor proteins (IEU prot-a/prot-b) on endometriosis; three significant proteins.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 3,
+  "duplicate_of": null,
+  "notes": "Taylor & Francis returned bot verification; abstract has no estimates or directions."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049148",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Proteome-wide MR (UKB-PPP) on FinnGen endometriosis with UKB replication; four Bonferroni-significant proteins.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 4,
+  "duplicate_of": null,
+  "notes": "Stated outcome 8,288/68,969, yet WASHC3 MR and RSPO3/FSHB SMR values equal Tao 2024 (FinnGen R10). Overlapping analysis, different authors; not treated as duplicate."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049618",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Two-sample MR of GNLY (granulysin) on FinnGen ovarian endometriosis with IVW estimate.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Exposure labelled SSGAC but ID ENSG00000115523, n=31,684 indicates blood eQTL data; recorded as eQTL."
+ },
+ {
+  "record_id": "doi:10.1155/mi/6617402",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Proteome-wide cis-MR (UKB-PPP) on FinnGen endometriosis; 23 FDR-significant proteins, five replicated.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 23,
+  "duplicate_of": null,
+  "notes": "Discovery estimates for all 23 proteins read from main-text Figure 3 image."
+ },
+ {
+  "record_id": "doi:10.1186/s41065-025-00457-w",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of druggable plasma proteins (deCODE, UKB-PPP) on FinnGen R10 endometriosis; nine protein-dataset claims.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 9,
+  "duplicate_of": null,
+  "notes": "UKB-PPP SMR results identical to Tao 2024 data; adds deCODE. Table 2 and Figure 2 disagree on PP.H4 for CD109/SAA1/SAA2."
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-4265646/v1",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Preprint pQTL MR (Sun 2018) on FinnGen R9 endometriosis; ten Bonferroni-significant proteins.",
+  "full_text_accessed": true,
+  "access_route": "preprint_html",
+  "n_claims": 10,
+  "duplicate_of": null,
+  "notes": "Main-text PDF from Research Square (HTML page is script-only). No published version found in records or Europe PMC; not a duplicate of other RSPO3 papers."
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1371498",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Plasma/CSF cis-pQTL MR on UKB endometriosis; RSPO3 only Bonferroni-significant protein.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "CSF LGALS3, CPE, FUT5 named in abstract at nominal P<0.05 only; not extracted per Bonferroni rule."
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1416978",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "cis-pQTL MR (UKB-PPP) on FinnGen R10 endometriosis; six Bonferroni-significant proteins.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 6,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.3389/fgene.2025.1631446",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "cis-pQTL MR (deCODE) on UKB endometriosis with FinnGen R12 replication; RSPO3 and FLT1 significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.64898/2026.03.06.26347586",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "cis-MR of plasma glycodelin (PAEP, rs9409964) on reproductive outcomes including endometriosis; no significant endometriosis estimate.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Eligible but zero claims: no outcome passed Bonferroni and endometriosis not among nominal P<0.05 traits; estimate only in Supplementary Table 6 (not read)."
+ }
+]

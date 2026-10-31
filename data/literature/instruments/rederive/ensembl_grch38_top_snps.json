@@ -1,0 +1,219 @@
+{
+ "retrieved_at": "2026-10-31",
+ "endpoint": "https://rest.ensembl.org/variation/homo_sapiens",
+ "requested": [
+  "rs13035593",
+  "rs2305433",
+  "rs28825193",
+  "rs67594352",
+  "rs886090",
+  "rs9382100"
+ ],
+ "response": {
+  "rs2305433": {
+   "source": "Variants (including SNPs and indels) imported from dbSNP",
+   "name": "rs2305433",
+   "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "TOPMed",
+    "gnomAD"
+   ],
+   "mappings": [
+    {
+     "ancestral_allele": "G",
+     "location": "17:48188071-48188071",
+     "assembly_name": "GRCh38",
+     "coord_system": "chromosome",
+     "start": 48188071,
+     "strand": 1,
+     "end": 48188071,
+     "allele_string": "G/A/C/T",
+     "seq_region_name": "17"
+    }
+   ],
+   "most_severe_consequence": "intron_variant",
+   "ambiguity": "N",
+   "var_class": "SNP",
+   "minor_allele": "G",
+   "synonyms": [
+    "rs57856198",
+    "rs58812107"
+   ],
+   "MAF": 0.418564
+  },
+  "rs67594352": {
+   "name": "rs67594352",
+   "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "Cited",
+    "TOPMed",
+    "gnomAD"
+   ],
+   "source": "Variants (including SNPs and indels) imported from dbSNP",
+   "ambiguity": "Y",
+   "var_class": "SNP",
+   "mappings": [
+    {
+     "coord_system": "chromosome",
+     "assembly_name": "GRCh38",
+     "ancestral_allele": "T",
+     "location": "10:74169175-74169175",
+     "start": 74169175,
+     "strand": 1,
+     "end": 74169175,
+     "allele_string": "T/C",
+     "seq_region_name": "10"
+    }
+   ],
+   "most_severe_consequence": "intron_variant",
+   "synonyms": [
+    "rs67594354",
+    "rs67594353"
+   ],
+   "MAF": 0.150314,
+   "minor_allele": "C"
+  },
+  "rs886090": {
+   "source": "Variants (including SNPs and indels) imported from dbSNP",
+   "name": "rs886090",
+   "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "Cited",
+    "Phenotype_or_Disease",
+    "TOPMed"
+   ],
+   "mappings": [
+    {
+     "allele_string": "G/A/T",
+     "end": 133332667,
+     "strand": 1,
+     "start": 133332667,
+     "coord_system": "chromosome",
+     "assembly_name": "GRCh38",
+     "ancestral_allele": "G",
+     "location": "9:133332667-133332667",
+     "seq_region_name": "9"
+    },
+    {
+     "seq_region_name": "HG2030_PATCH",
+     "end": 158761,
+     "allele_string": "G/A/T",
+     "ancestral_allele": null,
+     "assembly_name": "GRCh38",
+     "location": "HG2030_PATCH:158761-158761",
+     "coord_system": "scaffold",
+     "start": 158761,
+     "strand": 1
+    }
+   ],
+   "most_severe_consequence": "missense_variant",
+   "ambiguity": "D",
+   "var_class": "SNP",
+   "minor_allele": null,
+   "synonyms": [
+    "rs17293245",
+    "rs58674881",
+    "VAR_014532"
+   ],
+   "MAF": null
+  },
+  "rs9382100": {
+   "synonyms": [
+    "rs13206041",
+    "rs17590487"
+   ],
+   "MAF": 0.295526,
+   "minor_allele": "A",
+   "ambiguity": "H",
+   "var_class": "SNP",
+   "mappings": [
+    {
+     "coord_system": "chromosome",
+     "assembly_name": "GRCh38",
+     "ancestral_allele": "T",
+     "location": "6:52358413-52358413",
+     "start": 52358413,
+     "strand": 1,
+     "end": 52358413,
+     "allele_string": "T/A/C",
+     "seq_region_name": "6"
+    }
+   ],
+   "most_severe_consequence": "intron_variant",
+   "name": "rs9382100",
+   "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "Cited",
+    "Phenotype_or_Disease",
+    "TOPMed",
+    "gnomAD"
+   ],
+   "source": "Variants (including SNPs and indels) imported from dbSNP"
+  },
+  "rs28825193": {
+   "name": "rs28825193",
+   "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "TOPMed",
+    "gnomAD"
+   ],
+   "source": "Variants (including SNPs and indels) imported from dbSNP",
+   "var_class": "SNP",
+   "ambiguity": "H",
+   "mappings": [
+    {
+     "end": 123393715,
+     "allele_string": "T/A/C",
+     "coord_system": "chromosome",
+     "ancestral_allele": "T",
+     "assembly_name": "GRCh38",
+     "location": "12:123393715-123393715",
+     "strand": 1,
+     "start": 123393715,
+     "seq_region_name": "12"
+    }
+   ],
+   "most_severe_consequence": "intron_variant",
+   "synonyms": [
+    "rs56942370"
+   ],
+   "MAF": 0.494309,
+   "minor_allele": "C"
+  },
+  "rs13035593": {
+   "source": "Variants (including SNPs and indels) imported from dbSNP",
+   "name": "rs13035593",
+   "evidence": [
+    "Frequency",
+    "1000Genomes",
+    "Cited",
+    "TOPMed",
+    "gnomAD"
+   ],
+   "most_severe_consequence": "intron_variant",
+   "mappings": [
+    {
+     "seq_region_name": "2",
+     "strand": 1,
+     "start": 86203374,
+     "coord_system": "chromosome",
+     "assembly_name": "GRCh38",
+     "ancestral_allele": "C",
+     "location": "2:86203374-86203374",
+     "allele_string": "C/T",
+     "end": 86203374
+    }
+   ],
+   "var_class": "SNP",
+   "ambiguity": "Y",
+   "minor_allele": "T",
+   "MAF": 0.245487,
+   "synonyms": []
+  }
+ }
+}

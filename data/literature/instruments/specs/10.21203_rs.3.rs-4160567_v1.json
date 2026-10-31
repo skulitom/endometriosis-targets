@@ -1,0 +1,32 @@
+{
+ "record_id": "doi:10.21203/rs.3.rs-4160567/v1",
+ "tables": {
+  "Esel_FinnGen_datF": {
+   "file": "text/E-selectin_endometriosis__E-selectin__X_Y__finn-b-N14_ENDOMETRIOSIS__prot-a-2665_E_selectin_finn-b-N14_ENDOMETRIOSIS_datF.csv",
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   }
+  }
+ },
+ "claims": {
+  "Chen2024sel-1": {
+   "status": "mapped",
+   "table": "Esel_FinnGen_datF",
+   "filters": [{"column": "id.exposure", "op": "equals", "value": "prot-a-2665"}, {"column": "id.outcome", "op": "equals", "value": "finn-b-N14_ENDOMETRIOSIS"}],
+   "expected_n": 14,
+   "notes": "Mapped by labels to the only per-SNP data for E-selectin (prot-a-2665) -> finn-b-N14_ENDOMETRIOSIS: the authors' TwoSampleMR harmonised file (datF; same 14 SNPs as dat), whose IVW result (OR file: 14 SNPs, b -0.08123, OR 0.922) is manuscript Table 2. The claim's Table 1 figures (2 SNPs, OR 0.92, 0.86-0.98, P 0.015) match instead the supplied result file 'P_L_E-selectin多变量_result.csv' (converted as P_L_E-selectin__result.csv): a multivariable P/L/E-selectin MR with outcome ebi-a-GCST90018839, b -0.0813003, se 0.0334, nsnp 2. No per-SNP data for that multivariable analysis are supplied, so the 2-SNP Table 1 instrument set is not available; the count flag (2 vs 14) is expected."
+  }
+ }
+}

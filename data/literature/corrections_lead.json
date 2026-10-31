@@ -1,0 +1,360 @@
+[
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-1",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta -0.000169123 (SE 8.36e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9813 (0.9705-0.9923), p 0.00086. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-2",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta -0.000129299 (SE 5.08e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 1.0146 (1.0016-1.0277), p 0.02728. MVMR OR >1 is opposite to the UVMR direction. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-3",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta 0.001665824 (SE 0.000415086); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9957 (0.9683-1.0239), p 0.76265. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-4",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta -0.000417723 (SE 0.000150319); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9980 (0.9886-1.0076), p 0.6884. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-5",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta -0.000705308 (SE 0.000298719); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9981 (0.9969-0.9994), p 0.00275. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-6",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta -0.000201089 (SE 2.6e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9989 (0.9981-0.9996), p 0.00303. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Meng2026IJWH-7",
+  "expect": {
+   "outcome_cohorts": [
+    "unknown"
+   ]
+  },
+  "set": {
+   "outcome_cohorts": [
+    "BioBank Japan",
+    "FinnGen",
+    "UK Biobank"
+   ],
+   "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839",
+   "notes": "Reported IVW beta 0.000207698 (SE 6.02e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9944 (0.9908-0.9979), p 0.00182. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+  },
+  "why": "Outcome GWAS is named in the paper; its composition was verified for the same GWAS ID in other claims.",
+  "by": "claude-opus-5-5 (lead review), 2026-10-29"
+ },
+ {
+  "target": "claim",
+  "id": "Tao2024-6",
+  "expect": {
+   "estimate": 0.8,
+   "source_issues": null
+  },
+  "set": {
+   "estimate": 0.821,
+   "source_issues": "text OR 0.80 is misrounded; supplementary Wald ratio -0.197 gives OR 0.821; CI 0.75-0.90 kept from text"
+  },
+  "why": "Supplementary Wald ratio is the exact value of the same analysis; text value is rounded wrongly.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Guo2024-3",
+  "expect": {
+   "source_issues": null
+  },
+  "set": {
+   "source_issues": "Table S8 lists 2 SNPs but the authors' Wald ratio uses rs635634 only; rs72660908 is palindromic (G/C, EAF 0.45) and was dropped; both are trans-pQTLs"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "LiuY2024Med-1",
+  "expect": {
+   "source_issues": null
+  },
+  "set": {
+   "source_issues": "published SNP table cannot reproduce the reported OR 1.351 (recomputed OR 1.75 from the listed rows, verified against the original docx)"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Xiang2024bmd-1",
+  "expect": {
+   "source_issues": null
+  },
+  "set": {
+   "source_issues": "instrument table lists 87 SNPs but the analysis used 134; the analysed set cannot be rebuilt"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-1",
+  "expect": {
+   "source_issues": "direction: Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher LDL-C. Main text paywalled, so scaling is unverifiable."
+  },
+  "set": {
+   "source_issues": "direction: Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher LDL-C. Main text paywalled, so scaling is unverifiable.; instrument table lists 33 SNPs but 27 were analysed; dropped SNPs are not named"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-2",
+  "expect": {
+   "source_issues": "direction: Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher LDL-C. Main text paywalled, so scaling is unverifiable."
+  },
+  "set": {
+   "source_issues": "direction: Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher LDL-C. Main text paywalled, so scaling is unverifiable.; instrument table lists 31 SNPs but 26 were analysed; dropped SNPs are not named"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-3",
+  "expect": {
+   "source_issues": "direction: Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher TG. Main text paywalled, so scaling is unverifiable."
+  },
+  "set": {
+   "source_issues": "direction: Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher TG. Main text paywalled, so scaling is unverifiable.; instrument table lists 21 SNPs but 18 were analysed; dropped SNPs are not named"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Aru2025pcsk9-1",
+  "expect": {
+   "source_issues": null
+  },
+  "set": {
+   "source_issues": "other-allele column repeats the effect allele, so the other allele is unknown"
+  },
+  "why": "Instrument verification (data/literature/instruments/verification_extracted.json) found a problem in the source.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "WeiL2024JRI-2",
+  "expect": {
+   "notes": "Macrophage inflammatory protein-1a (MIP-1a) mapped to CCL3. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only fallopian-tube subtype significant.]"
+  },
+  "set": {
+   "notes": "Macrophage inflammatory protein-1a (MIP-1a) mapped to CCL3. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only fallopian-tube subtype significant.] [Instrument verification 2026-10-30: the source marks some instruments as proxy SNPs; that marker was not carried into the extracted variants.]"
+  },
+  "why": "Record an extraction limitation found by the instrument verifier.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "WeiL2024JRI-7",
+  "expect": {
+   "notes": "Interleukin-8 mapped to CXCL8. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only rectovaginal subtype significant.]"
+  },
+  "set": {
+   "notes": "Interleukin-8 mapped to CXCL8. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only rectovaginal subtype significant.] [Instrument verification 2026-10-30: the source marks some instruments as proxy SNPs; that marker was not carried into the extracted variants.]"
+  },
+  "why": "Record an extraction limitation found by the instrument verifier.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "WeiL2024JRI-9",
+  "expect": {
+   "notes": "Interleukin-12p70 is the IL12A/IL12B heterodimer; mapped to IL12B as main subunit. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: Supplement Table S3 values. Significant for uterus (P=0.005) and ovary (OR 1.196, P=0.034); no overall-phenotype hit; uterus kept (smaller P). Main text inaccessible.]"
+  },
+  "set": {
+   "notes": "Interleukin-12p70 is the IL12A/IL12B heterodimer; mapped to IL12B as main subunit. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: Supplement Table S3 values. Significant for uterus (P=0.005) and ovary (OR 1.196, P=0.034); no overall-phenotype hit; uterus kept (smaller P). Main text inaccessible.] [Instrument verification 2026-10-30: the source marks some instruments as proxy SNPs; that marker was not carried into the extracted variants.]"
+  },
+  "why": "Record an extraction limitation found by the instrument verifier.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "WeiL2024JRI-10",
+  "expect": {
+   "notes": "Interleukin-16. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: Table S3 row internally inconsistent (beta negative, OR above 1); direction unresolvable without the inaccessible main text. Overall endometriosis phenotype.]"
+  },
+  "set": {
+   "notes": "Interleukin-16. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines. [Adjudication: Table S3 row internally inconsistent (beta negative, OR above 1); direction unresolvable without the inaccessible main text. Overall endometriosis phenotype.] [Instrument verification 2026-10-30: the source marks some instruments as proxy SNPs; that marker was not carried into the extracted variants.]"
+  },
+  "why": "Record an extraction limitation found by the instrument verifier.",
+  "by": "claude-opus-5-5 (lead review of instrument verification), 2026-10-30"
+ },
+ {
+  "target": "claim",
+  "id": "Aru2025pcsk9-1",
+  "expect": {
+   "effect_scale": null
+  },
+  "set": {
+   "effect_scale": "per_lower"
+  },
+  "why": "Exposure defined as LDL-lowering (PCSK9 inhibition) per the paper; reported OR is per lower genetically proxied LDL-C (claim notes; Figure 2). Recorded 2026-10-31 for the shared direction scale (PROTOCOL.md section 5), before any replication lookup.",
+  "by": "Claude (lead), from the claim notes and adjudication records"
+ },
+ {
+  "target": "claim",
+  "id": "Xue2025ugcg-1",
+  "expect": {
+   "effect_scale": null
+  },
+  "set": {
+   "effect_scale": "per_lower"
+  },
+  "why": "Paper frames the analysis as UGCG inhibition and inverts the expression OR (claim notes; Methods and Table 2). Recorded 2026-10-31 for the shared direction scale (PROTOCOL.md section 5), before any replication lookup.",
+  "by": "Claude (lead), from the claim notes and adjudication records"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-1",
+  "expect": {
+   "effect_scale": null
+  },
+  "set": {
+   "effect_scale": "unclear"
+  },
+  "why": "Abstract only; it does not say whether the PCSK9 proxy is scaled as lipid-lowering or raising. Recorded 2026-10-31 for the shared direction scale (PROTOCOL.md section 5), before any replication lookup.",
+  "by": "Claude (lead), from the claim notes and adjudication records"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-2",
+  "expect": {
+   "effect_scale": null
+  },
+  "set": {
+   "effect_scale": "unclear"
+  },
+  "why": "Abstract only; it does not say whether the APOB proxy is scaled as lipid-lowering or raising. Recorded 2026-10-31 for the shared direction scale (PROTOCOL.md section 5), before any replication lookup.",
+  "by": "Claude (lead), from the claim notes and adjudication records"
+ },
+ {
+  "target": "claim",
+  "id": "Zhou2024lipid-3",
+  "expect": {
+   "effect_scale": null
+  },
+  "set": {
+   "effect_scale": "unclear"
+  },
+  "why": "Abstract only; it does not say whether the ANGPTL3 proxy is scaled as lipid-lowering or raising. Recorded 2026-10-31 for the shared direction scale (PROTOCOL.md section 5), before any replication lookup.",
+  "by": "Claude (lead), from the claim notes and adjudication records"
+ },
+ {
+  "target": "claim",
+  "id": "Xiang2024bmd-1",
+  "expect": {
+   "effect_scale": null
+  },
+  "set": {
+   "effect_scale": "unclear"
+  },
+  "why": "Scaling presumably BMD-raising (ESR1 agonist proxy) but not stated in the accessed text. Recorded 2026-10-31 for the shared direction scale (PROTOCOL.md section 5), before any replication lookup.",
+  "by": "Claude (lead), from the claim notes and adjudication records"
+ }
+]

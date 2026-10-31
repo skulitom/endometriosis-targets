@@ -1,0 +1,134 @@
+[
+ {
+  "record_id": "doi:10.1007/s00439-024-02681-2",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "eQTL MR (IVW and four other methods) of gene expression on endometriosis; 11 risk genes in Fig. 1.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 11,
+  "duplicate_of": null,
+  "notes": "Estimates read from Fig. 1 image via PMC; outcome dataset behind Fig. 1 not specified (two IEU endometriosis GWAS intersected)."
+ },
+ {
+  "record_id": "doi:10.1007/s10142-025-01543-y",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Blood eQTL two-sample MR (IVW) on endometriosis (ebi-a-GCST90018839); 30 MR genes intersected with DEGs.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 6,
+  "duplicate_of": null,
+  "notes": "Only 6 genes named with direction in text extracted; 24 figure-only genes and full supplementary hit list not extracted; no numeric estimates in readable main text."
+ },
+ {
+  "record_id": "doi:10.1007/s10142-026-01979-w",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR exposure is sleep-disorder liability; gene list from unspecified 'eQTL analysis' with no gene-level estimates in abstract.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Springer paywall. Recheck if full text obtained: endometriosis eQTL gene analysis may be eQTL-MR/SMR with estimates."
+ },
+ {
+  "record_id": "doi:10.1016/j.gene.2023.147970",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Genome-wide cis-eQTL MR (GTEx v8, eQTLGen) on endometriosis with colocalisation; 13 genes.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 13,
+  "duplicate_of": null,
+  "notes": "ScienceDirect blocked (403). Claims from abstract only: directions known, tissue, outcome per gene and estimates missing."
+ },
+ {
+  "record_id": "doi:10.1016/j.gene.2025.149754",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of ferroptosis-related genes on endometriosis subtypes; FZD7, HMOX1, RRM2, HSPA5 causal per abstract.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 4,
+  "duplicate_of": null,
+  "notes": "ScienceDirect blocked (403). Instrument type and outcome GWAS not stated in abstract; exposure_type set to other."
+ },
+ {
+  "record_id": "doi:10.1016/j.reprotox.2025.109148",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "eQTL MR plus colocalisation of EDC-responsive genes on endometriosis; eight genes.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 8,
+  "duplicate_of": null,
+  "notes": "ScienceDirect blocked (403). Directions, eQTL source and outcome GWAS not in abstract."
+ },
+ {
+  "record_id": "doi:10.1016/j.xfss.2025.02.003",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Blood cis-eQTL MR (eQTLGen) with ovarian endometriosis among outcomes; eligible design.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "No claims extracted: abstract does not say which genes relate to ovarian endometriosis vs cysts/PCOS. Full text (Elsevier, 403) needed."
+ },
+ {
+  "record_id": "doi:10.1093/humrep/dez279",
+  "final_decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Estimates only from modified SMR treating endometriosis as exposure; standard SMR found no gene passing SMR+HEIDI.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Endometrial eQTL, Sapkota 2017 outcome. Blood standard SMR: CDC42 P_SMR 5.77e-10 but failed HEIDI; SMR-multi CDC42/LINC00339 P only. Modified SMR: FGD6, VEZT, AL022068.1."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000041804",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of GTEx v8 whole-blood/uterus cis-eQTL on FinnGen R12 endometriosis; ADK, EHHADH, CNOT7 prioritised.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 3,
+  "duplicate_of": null,
+  "notes": "186 SMR hits (156 blood, 30 uterus) only in supplements; extracted the 3 core genes named in text; estimates only in Supp S5-S7."
+ },
+ {
+  "record_id": "doi:10.1159/000543707",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of eQTLGen whole-blood cis-eQTL on FinnGen R10 endometriosis stage 3-4; seven genes in Table 2.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 7,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.1186/s13048-026-01970-w",
+  "final_decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Gene-level SMR used MTAG cross-trait (endometriosis-bipolar) statistics; MR exposures are psychiatric disorders.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "ARL14EP supported by SMR/MAGMA/fastBAT on MTAG output; no SMR estimate in main text (Supp Table S3)."
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s590583",
+  "final_decision": "exclude",
+  "reason_code": "E3",
+  "reason": "eQTL MR outcome is endometrial cancer (ebi-a-GCST90018838), not endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "BRI3, CAPG, ITGAX estimates are for endometrial cancer risk."
+ }
+]

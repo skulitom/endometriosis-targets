@@ -1,0 +1,152 @@
+[
+ {
+  "claim_id": "Aru2025pcsk9-1",
+  "verdict": "correct_with_caveat",
+  "details": "13 PCSK9 rows match the rendered PDF exactly (rsID, effect allele, beta, SE, p); main text confirms 13 PCSK9 SNPs from ieu-a-300. Source 'Other alleles' repeats the effect allele for every PCSK9 row, so the other allele is unknown and harmonisation cannot be checked.",
+  "checked_against": "data/upstream/supplements/10.1097_md.0000000000042685/files/medi-104-e42685-s001.pdf, page 1 (Supplementary Table 1, rendered image); main text PMC12129544 section 2.1"
+ },
+ {
+  "claim_id": "Chen2024-1",
+  "verdict": "correct",
+  "details": "Only plasma RSPO3 row: rs2489623 C/A, beta 0.27, SE 0.0245, p 3.6e-28, EAF 0.534679, Sun/INTERVAL n=3301; all values match. Single-SNP Wald ratio as reported (Table S2 deCODE/FENN rows correctly excluded).",
+  "checked_against": "data/upstream/supplements/10.3389_fendo.2024.1371498/files/Table1.xlsx, sheet 'Table S1' row 420"
+ },
+ {
+  "claim_id": "Dou2025FIG-5",
+  "verdict": "correct",
+  "details": "3 CDH1 rows (eqtl-a-ENSG00000039068 vs ebi-a-GCST90018839, only outcome) match the original CSV; all mr_keep TRUE, none ambiguous. Fixed IVW from rows -0.11758 equals ESM4/ESM6 IVW (3 SNPs, OR 0.889). Claim record carries no estimate.",
+  "checked_against": "data/upstream/supplements/10.1007_s10142-025-01543-y/files/10142_2025_1543_MOESM3_ESM.csv lines 12649-12651; MOESM4 line 890, MOESM6 line 44"
+ },
+ {
+  "claim_id": "Dou2025FIG-6",
+  "verdict": "correct",
+  "details": "6 KRT23 rows (eqtl-a-ENSG00000108244) match the original CSV; all mr_keep TRUE (rs3809889 C/G palindromic but EAF 0.055, kept). Fixed IVW from rows -0.08647 equals ESM4/ESM6 IVW (6 SNPs, OR 0.917). Claim record carries no estimate.",
+  "checked_against": "data/upstream/supplements/10.1007_s10142-025-01543-y/files/10142_2025_1543_MOESM3_ESM.csv lines 1577-1582; MOESM4 line 5294, MOESM6 line 229"
+ },
+ {
+  "claim_id": "Li2023coag-1",
+  "verdict": "correct",
+  "details": "Merged cell A20:A24 ('ADAMDTS13', Ma 2017); MR_keep_UKBBa=T leaves 4 SNPs (rs144473590 excluded), matching Table S2 UK Biobank nSNP=4, OR 0.37 (0.22-0.61). Alleles, beta, SE match exactly; p-values not mapped.",
+  "checked_against": "data/upstream/supplements/10.1186_s12916-023-02881-z/files/12916_2023_2881_MOESM1_ESM.xlsx, sheets 'Table S1' rows 20-24 and 'Table S2'"
+ },
+ {
+  "claim_id": "Li2023coag-2",
+  "verdict": "correct",
+  "details": "Merged cell A4:A19 (vWF, Sabater-Lleal 2019); MR_keep_Metaa=T leaves 14 SNPs (rs2238109, rs80082277 excluded), matching Table S6 meta-analysis nSNP=14, OR 1.26 (1.09-1.46). Alleles, beta, SE match exactly.",
+  "checked_against": "data/upstream/supplements/10.1186_s12916-023-02881-z/files/12916_2023_2881_MOESM1_ESM.xlsx, sheets 'Table S1' rows 4-19 and 'Table S6'"
+ },
+ {
+  "claim_id": "LiuY2024Med-1",
+  "verdict": "correct_with_caveat",
+  "details": "Extraction matches the docx IL-6 row exactly (4 SNPs; results nSNP 4). The rows cannot give reported OR 1.351: fixed IVW gives OR 1.75, its SE 0.166 exceeds reported 0.146, Q=12.7 vs reported heterogeneity P=0.38. No subset, sign flip or row realignment fits; source table is inconsistent.",
+  "checked_against": "data/upstream/supplements/10.1097_md.0000000000038972/files/medi-103-e38972-s001.docx, Table S1 row 'IL-6' and MR results table (IVW 4 SNPs, 1.351)"
+ },
+ {
+  "claim_id": "WeiL2024JRI-1",
+  "verdict": "correct",
+  "details": "16 SNPs of MCP1 block match the original xls exactly (rsID, alleles, beta, SE, p); block nSNP 16 equals Table S3 MCP1 -> Endometriosis nsnp 16 (OR 0.871).",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (MCP1 block) + 'Table S3 MR IVW' row 28"
+ },
+ {
+  "claim_id": "WeiL2024JRI-2",
+  "verdict": "correct_with_caveat",
+  "details": "4 SNPs of MIP1a block match exactly; Table S3 'MIP1ɑ' -> fallopian tube nsnp 4 (OR 0.261). rs72731554 is footnoted 'a' (proxy SNP substituted for missing data); the proxy marker is dropped in the extraction.",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (MIP1a block) + 'Table S3 MR IVW' row 73"
+ },
+ {
+  "claim_id": "WeiL2024JRI-3",
+  "verdict": "correct",
+  "details": "9 SNPs of GCSF block match the original xls exactly; Table S3 GCSF -> Endometriosis of intestine nsnp 9 (OR 0.300).",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (GCSF block) + 'Table S3 MR IVW' row 211"
+ },
+ {
+  "claim_id": "WeiL2024JRI-4",
+  "verdict": "correct_with_caveat",
+  "details": "10 SNPs of MIF block match exactly; Table S3 MIF -> intestine nsnp 10. But that S3 row gives beta 0.978 with OR 0.660 (exp(beta)=2.66), so the effect direction of the claim is internally inconsistent in the source.",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (MIF block) + 'Table S3 MR IVW' row 235"
+ },
+ {
+  "claim_id": "WeiL2024JRI-5",
+  "verdict": "correct",
+  "details": "14 SNPs of IL4 block match the original xls exactly; Table S3 IL4 -> Endometriosis of intestine nsnp 14 (OR 2.123).",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL4 block) + 'Table S3 MR IVW' row 219"
+ },
+ {
+  "claim_id": "WeiL2024JRI-6",
+  "verdict": "correct",
+  "details": "8 SNPs of IL5 block match the original xls exactly; Table S3 IL5 -> Endometriosis of fallopian tube nsnp 8 (OR 3.108).",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL5 block) + 'Table S3 MR IVW' row 56"
+ },
+ {
+  "claim_id": "WeiL2024JRI-7",
+  "verdict": "correct_with_caveat",
+  "details": "8 SNPs of IL8 block match exactly; Table S3 IL8 -> rectovaginal septum/vagina nsnp 8 (OR 1.282). rs141926526 is footnoted 'a' (proxy substitute for missing data); marker dropped in extraction.",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL8 block) + 'Table S3 MR IVW' row 182"
+ },
+ {
+  "claim_id": "WeiL2024JRI-8",
+  "verdict": "correct",
+  "details": "6 SNPs of IL9 block match the original xls exactly; Table S3 IL9 -> rectovaginal septum/vagina nsnp 6 (OR 1.468).",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL9 block) + 'Table S3 MR IVW' row 183"
+ },
+ {
+  "claim_id": "WeiL2024JRI-9",
+  "verdict": "correct_with_caveat",
+  "details": "15 SNPs of IL12P70 block match exactly; Table S3 IL12P70 -> uterus nsnp 15 (OR 1.333). rs113048301 is footnoted 'a' (proxy substitute); marker dropped. IL-12p70 is the IL12A/IL12B heterodimer, so the IL12B gene label is a claim-level choice.",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL12P70 block) + 'Table S3 MR IVW' row 267"
+ },
+ {
+  "claim_id": "WeiL2024JRI-10",
+  "verdict": "correct_with_caveat",
+  "details": "10 SNPs of IL16 block match exactly; Table S3 IL16 -> Endometriosis nsnp 10. rs117916513 and rs9706053 are footnoted 'a' (proxy substitutes). The S3 row gives beta -0.104 but OR 1.293, so the source is internally inconsistent on direction.",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL16 block) + 'Table S3 MR IVW' row 23"
+ },
+ {
+  "claim_id": "WeiL2024JRI-11",
+  "verdict": "correct",
+  "details": "8 SNPs of IL17 block match the original xls exactly; Table S3 IL17 -> Endometriosis of uterus nsnp 8 (OR 0.770).",
+  "checked_against": "data/upstream/supplements/10.1016_j.jri.2024.104293/files/mmc1.xls, sheet 'Table S1 IVs' (IL17 block) + 'Table S3 MR IVW' row 270"
+ },
+ {
+  "claim_id": "Xiang2024bmd-1",
+  "verdict": "correct_with_caveat",
+  "details": "All 87 ESR1 rows of sT3 (chr6, ESR1 +/-2.5 kb) match exactly. But sT5 reports nsnp 134 for ukb-d-N80 (other outcomes 3-135 in sT4/sT5), so sT3 is not the analysed set. The 134-SNP instrument cannot be reconstructed from the supplement.",
+  "checked_against": "data/upstream/supplements/10.1016_j.heliyon.2024.e34494/files/mmc1.xlsx, sheets 'sT3. SNP for target gene' and 'sT5. MR result for ESR1' (rows 52-56)"
+ },
+ {
+  "claim_id": "Zhang2024lipid-1",
+  "verdict": "correct",
+  "details": "24 SNPs of the ANGPTL3 block (GLGC EUR TG) match the original xlsx exactly, including EAF. S5 Table TG via ANGPTL3 -> EMS (EUR) IVW uses 24 SNPs, OR 0.798 (0.670-0.951).",
+  "checked_against": "data/upstream/supplements/10.1371_journal.pone.0301752/files/pone.0301752.s002.xlsx Sheet1 (ANGPTL3 block); pone.0301752.s005.xlsx"
+ },
+ {
+  "claim_id": "Zhou2024lipid-1",
+  "verdict": "correct_with_caveat",
+  "details": "33 rows of merged block B24:B56 (LDL-C, PCSK9) match exactly. Table S13 stage 1-2 IVW (OR 1.402) used 27 SNPs after r2<0.3 LD adjustment. The 6 dropped SNPs are not identified, and palindromes do not explain them (only 1 is palindromic).",
+  "checked_against": "data/upstream/supplements/10.1016_j.rbmo.2024.103856/files/mmc2.xlsx, sheet 'Table S8' rows 24-56 (cols A-L); mmc5.xlsx Table S13"
+ },
+ {
+  "claim_id": "Zhou2024lipid-2",
+  "verdict": "correct_with_caveat",
+  "details": "31 rows of merged block B108:B138 (LDL-C, APOB) match exactly. Table S13 stage 1-2 IVW (OR 1.497) used 26 SNPs after r2<0.3 adjustment; the 5 dropped SNPs are not identified.",
+  "checked_against": "data/upstream/supplements/10.1016_j.rbmo.2024.103856/files/mmc2.xlsx, sheet 'Table S8' rows 108-138 (cols A-L); mmc5.xlsx Table S13"
+ },
+ {
+  "claim_id": "Zhou2024lipid-3",
+  "verdict": "correct_with_caveat",
+  "details": "21 rows of merged block AB5:AB25 (TG, ANGPTL3; right block) match exactly. Table S13 stage 1-2 IVW (OR 1.568) used 18 SNPs after r2<0.3 adjustment; the 3 dropped SNPs are not identified.",
+  "checked_against": "data/upstream/supplements/10.1016_j.rbmo.2024.103856/files/mmc2.xlsx, sheet 'Table S8' rows 5-25 (cols AA-AL); mmc5.xlsx Table S13"
+ },
+ {
+  "claim_id": "Guo2024-3",
+  "verdict": "correct_with_caveat",
+  "details": "Both ICAM4 rows match Table S8, but Table S1 is a Wald ratio, nsnp=1: 0.41885 = -0.0881676/-0.2105 (rs635634 alone, OR 1.52). rs72660908 (G/C, EAF 0.45) was dropped as palindromic and should be excluded. Both are trans; rs635634 (ABO) instruments 10+ proteins.",
+  "checked_against": "data/upstream/supplements/10.21203_rs.3.rs-4265646_v1/files/SupplementaryTable814.xlsx 'Table S8' rows 6-7; SupplementaryTable17.xlsx 'Table S1' row 5"
+ },
+ {
+  "claim_id": "Tao2024-6",
+  "verdict": "correct",
+  "details": "rs1870377 A/T (beta -0.294663, SE 0.00846102, outcome 0.0580089/0.0134204) matches S3 and the S1 IV. Wald ratio -0.19687 equals S2 (OR 0.821, 0.751-0.898). The disagreement comes from the claim's text OR 0.80, a misrounding of 0.82. A/T palindromic but MAF 0.23.",
+  "checked_against": "data/upstream/supplements/10.3389_fendo.2024.1416978/files/Table_1.xlsx, sheets 'S3' row 3, 'S1' row 1257, 'S2' row 811"
+ }
+]

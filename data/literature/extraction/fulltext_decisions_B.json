@@ -1,0 +1,134 @@
+[
+ {
+  "record_id": "doi:10.1016/j.jri.2024.104293",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 41 circulating inflammatory factors on endometriosis; 11 factors reported upstream; abstract only.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 11,
+  "duplicate_of": null,
+  "notes": "Full text paywalled (Elsevier 403; Europe PMC: subscription required). Claims have no estimates or outcome source."
+ },
+ {
+  "record_id": "doi:10.1097/js9.0000000000001909",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are 731 immune-cell immunophenotypes (Sardinian cohort), not proteins or gene expression.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Research letter; outcomes FinnGen endometriosis subtypes; no protein or gene-level exposure."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000038972",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 41 circulating cytokines (Ahola-Olli) on endometriosis; IL-6 and PDGF-BB nominally significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "Outcome GCST90044411 = UK Biobank PheCode 615 per GWAS Catalog."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043163",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Includes MR of 91 Olink inflammatory proteins on FinnGen R9 endometriosis; 6 proteins significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 5,
+  "duplicate_of": null,
+  "notes": "Only 4 of 6 significant proteins given with values; PD-L1 inferred from mediation; sixth protein unnamed (Figure 4 not read). TRAIL values in text are a copy error."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045854",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Proteome-wide MR of 91 Olink inflammatory proteins; beta-NGF (cis), CXCL11 and SLAM (trans) FDR-significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 3,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000046982",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Exposures are 91 blood-cell perturbation-response traits (cell morphology/flow measures), not proteins.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Screener queried Olink overlap; full text confirms cell phenotypes (neutrophil, monocyte, platelet responses)."
+ },
+ {
+  "record_id": "doi:10.1111/jcmm.70532",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 41 circulating cytokines on FinnGen R9 endometriosis; TRAIL Bonferroni-significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "DSG2 comes from MAGMA/WGCNA and qRT-PCR, not MR; no DSG2 claim."
+ },
+ {
+  "record_id": "doi:10.1186/s12905-025-04058-7",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Eligible protein-level MR (51 cytokines) with estimates, but forward MR null; zero claims extracted.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "All site-specific findings are reverse MR (endometriosis as exposure). Forward estimates in Supplementary Table 2. Recode if null papers should be excluded."
+ },
+ {
+  "record_id": "doi:10.1210/clinem/dgad376",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "cis-pQTL MR of 47 circulating cytokines; MCSF FDR-significant for endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "publisher_html",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "OUP HTML read via WebFetch; supplements (Figshare) not downloaded. Replication used a second exposure dataset, not a second outcome."
+ },
+ {
+  "record_id": "doi:10.2147/itt.s486139",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of 91 Olink inflammatory proteins on UKB endometriosis with FinnGen R10 replication; CXCL5 replicated.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 6,
+  "duplicate_of": null,
+  "notes": "Values for 5 non-replicated proteins only in Figure 2/Supplementary Table 5."
+ },
+ {
+  "record_id": "doi:10.22541/au.174037893.33966505/v1",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Mediation MR preprint; inflammatory cytokine levels tested as exposures for endometriosis; abstract only.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 4,
+  "duplicate_of": null,
+  "notes": "Authorea returned 403; no published version found in records. Only 4 of 7 significant cytokines named in abstract."
+ },
+ {
+  "record_id": "doi:10.3390/biom14121544",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of serum cytokines (Ahola-Olli) on FinnGen endometriosis; IL-9 significant by IVW.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "IL-2 significant by weighted median only; not extracted."
+ }
+]

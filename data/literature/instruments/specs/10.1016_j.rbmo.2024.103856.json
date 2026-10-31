@@ -1,0 +1,76 @@
+{
+ "record_id": "doi:10.1016/j.rbmo.2024.103856",
+ "tables": {
+  "S8": {
+   "file": "10.1016_j.rbmo.2024.103856__mmc2_Table_S8_long.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Affect allele",
+    "other_allele": "Other allele",
+    "beta_exposure": "Beta",
+    "se_exposure": "SE",
+    "pval_exposure": "Pval",
+    "eaf_exposure": "EAF"
+   },
+   "description": "Long-format copy of mmc2.xlsx sheet 'Table S8' (Characteristics of lipid-lowering genetic variants in target genes), made from text/mmc2__Table_S8.csv. The sheet has three side-by-side blocks with repeated headers (LDL-C cols A-L, HDL-C cols N-Y, TG cols AA-AL) and merged lipid/Drug Target cells, so the converted CSV cannot be read by header name. Cell strings were copied programmatically (not retyped) and only the merged lipid/Drug Target labels were filled down within each block; source_line is the line in text/mmc2__Table_S8.csv. Exposure effects only (no outcome columns)."
+  }
+ },
+ "claims": {
+  "Zhou2024lipid-1": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "lipid",
+     "op": "equals",
+     "value": "LDL-C"
+    },
+    {
+     "column": "Drug Target",
+     "op": "equals",
+     "value": "PCSK9"
+    }
+   ],
+   "expected_n": 33,
+   "notes": "All 33 PCSK9 LDL-C variants listed in Table S8. The stage 1-2 IVW (Table S13, r2<0.3: 27 SNPs, OR 1.402) used 27 of them; the same 27 appear for every endometriosis outcome, so the 6 dropped were removed by LD pruning (r2<0.3) or outcome availability, but they are not identified in the supplement, so the full listed set is extracted. No outcome effects, so no recompute."
+  },
+  "Zhou2024lipid-2": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "lipid",
+     "op": "equals",
+     "value": "LDL-C"
+    },
+    {
+     "column": "Drug Target",
+     "op": "equals",
+     "value": "APOB"
+    }
+   ],
+   "expected_n": 31,
+   "notes": "All 31 APOB LDL-C variants listed in Table S8. The stage 1-2 IVW (Table S13, r2<0.3: 26 SNPs, OR 1.497) used 26 of them (same count for every outcome); the 5 dropped are not identified in the supplement. No outcome effects, so no recompute."
+  },
+  "Zhou2024lipid-3": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "lipid",
+     "op": "equals",
+     "value": "TG"
+    },
+    {
+     "column": "Drug Target",
+     "op": "equals",
+     "value": "ANGPTL3"
+    }
+   ],
+   "expected_n": 21,
+   "notes": "All 21 ANGPTL3 TG variants listed in Table S8 (right block). The stage 1-2 IVW (Table S13, r2<0.3: 18 SNPs, OR 1.568) used 18 (same count for every outcome); the 3 dropped are not identified in the supplement. No outcome effects, so no recompute."
+  }
+ }
+}

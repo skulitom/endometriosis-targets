@@ -1,0 +1,94 @@
+[
+ {
+  "record_id": "doi:10.1038/s41588-023-01323-z",
+  "doi": "10.1038/s41588-023-01323-z",
+  "pmcid": "PMC10042257",
+  "title": "The genetic basis of endometriosis and comorbidity with other pain and inflammatory conditions.",
+  "year": "2023",
+  "fulltext_path": "data/upstream/fulltext/10.1038_s41588-023-01323-z/fulltext.txt",
+  "supplement_index": "data/upstream/supplements/10.1038_s41588-023-01323-z/text/INDEX.txt",
+  "supplement_files": "data/upstream/supplements/10.1038_s41588-023-01323-z/files",
+  "claims_to_extract": [
+   {
+    "claim_id": "Rahmioglu2023-3",
+    "gene_symbol": "SRP14",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "Endometrial eQTL, Illumina microarray (Fung 2018; 229 endometrial samples)",
+    "exposure_tissue": "Endometrium"
+   },
+   {
+    "claim_id": "Rahmioglu2023-9",
+    "gene_symbol": "GDAP1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen Consortium (Vosa 2021), 31,684 blood samples",
+    "exposure_tissue": "Blood"
+   },
+   {
+    "claim_id": "Rahmioglu2023-10",
+    "gene_symbol": "SRP14",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen Consortium (Vosa 2021), 31,684 blood samples",
+    "exposure_tissue": "Blood"
+   },
+   {
+    "claim_id": "Rahmioglu2023-32",
+    "gene_symbol": "GDAP1",
+    "exposure_type": "mQTL",
+    "exposure_source": "Blood mQTL (Rahmioglu ref 13, previously published 'large blood mQTL dataset'; 93,154 probes with PmQTL<5e-8)",
+    "exposure_tissue": "Blood"
+   },
+   {
+    "claim_id": "Rahmioglu2023-33",
+    "gene_symbol": "MLLT10",
+    "exposure_type": "mQTL",
+    "exposure_source": "Blood mQTL (Rahmioglu ref 13, previously published 'large blood mQTL dataset'; 93,154 probes with PmQTL<5e-8)",
+    "exposure_tissue": "Blood"
+   },
+   {
+    "claim_id": "Rahmioglu2023-38",
+    "gene_symbol": "BMF",
+    "exposure_type": "mQTL",
+    "exposure_source": "Blood mQTL (Rahmioglu ref 13, previously published 'large blood mQTL dataset'; 93,154 probes with PmQTL<5e-8)",
+    "exposure_tissue": "Blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1038/s41598-018-29462-y",
+  "doi": "10.1038/s41598-018-29462-y",
+  "pmcid": "PMC6065421",
+  "title": "Genetic regulation of disease risk and endometrial gene expression highlights potential target genes for endometriosis and polycystic ovarian syndrome.",
+  "year": "2018",
+  "fulltext_path": "data/upstream/fulltext/10.1038_s41598-018-29462-y/fulltext.txt",
+  "supplement_index": "data/upstream/supplements/10.1038_s41598-018-29462-y/text/INDEX.txt",
+  "supplement_files": "data/upstream/supplements/10.1038_s41598-018-29462-y/files",
+  "claims_to_extract": [
+   {
+    "claim_id": "Fung2018-1",
+    "gene_symbol": "LINC00339",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "Endometrial eQTL, Illumina microarray (Fung 2018, this study; 229 women)",
+    "exposure_tissue": "Endometrium"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s13148-019-0648-7",
+  "doi": "10.1186/s13148-019-0648-7",
+  "pmcid": "PMC6416889",
+  "title": "Genetic regulation of methylation in human endometrium and blood and gene targets for reproductive diseases.",
+  "year": "2019",
+  "fulltext_path": "data/upstream/fulltext/10.1186_s13148-019-0648-7/fulltext.txt",
+  "supplement_index": "data/upstream/supplements/10.1186_s13148-019-0648-7/text/INDEX.txt",
+  "supplement_files": "data/upstream/supplements/10.1186_s13148-019-0648-7/files",
+  "claims_to_extract": [
+   {
+    "claim_id": "Mortlock2019-1",
+    "gene_symbol": "GREB1",
+    "exposure_type": "mQTL",
+    "exposure_source": "Mortlock 2019 endometrial mQTL (66 European women, Royal Women's Hospital Melbourne; own data)",
+    "exposure_tissue": "Endometrium"
+   }
+  ]
+ }
+]

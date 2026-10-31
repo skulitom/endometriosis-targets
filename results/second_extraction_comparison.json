@@ -1,0 +1,4003 @@
+{
+ "compared": 190,
+ "headline_claims": 190,
+ "headline_not_second_extracted": [],
+ "status": {
+  "agree": 77,
+  "disagree": 101,
+  "not_found": 12
+ },
+ "fields_disagreeing": {
+  "n_instruments": 65,
+  "p_value": 54,
+  "estimate": 46,
+  "ci_high": 45,
+  "ci_low": 44,
+  "instrument_scope": 38,
+  "outcome_controls": 30,
+  "outcome_cohorts": 26,
+  "direction": 26,
+  "outcome_cases": 22,
+  "estimate_scale": 2,
+  "headline": 2
+ },
+ "claims": [
+  {
+   "claim_id": "Zou2024Bio-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Adipose_Subcutaneous); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-2",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Adipose_Visceral_Omentum); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-3",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Artery_Coronary); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction but HEIDI p<0.05 (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-4",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Brain_Caudate_basal_ganglia); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-5",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Brain_Cerebellum); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-6",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Brain_Frontal_Cortex_BA9); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-7",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Brain_Nucleus_accumbens_basal_ganglia); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-8",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Brain_Spinal_cord_cervical_c-1); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-9",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Cells_EBV-transformed_lymphocytes); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-10",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Colon_Sigmoid); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-11",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Colon_Transverse); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-12",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Esophagus_Gastroesophageal_Junction); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction but HEIDI p<0.05 (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-13",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Lung); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-14",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Muscle_Skeletal); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-15",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Nerve_Tibial); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction but HEIDI p<0.05 (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-16",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Pancreas); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-17",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Small_Intestine_Terminal_Ileum); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-18",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Spleen); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-19",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row IMMT Whole_Blood); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11). Abstract's '21 tissues' is SMR count; MR significant in 19."
+  },
+  {
+   "claim_id": "Zou2024Bio-20",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row EFR3B Adrenal_Gland); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Coloc run; EFR3B not significant (Table S19), PPH4 not reported. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-21",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Adipose_Subcutaneous); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-22",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Adipose_Visceral_Omentum); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-23",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Brain_Cerebellum); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-24",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Breast_Mammary_Tissue); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-25",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Colon_Sigmoid); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-26",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Esophagus_Gastroesophageal_Junction); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-27",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Esophagus_Mucosa); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-28",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Esophagus_Muscularis); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-29",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Skin_Not_Sun_Exposed_Suprapubic); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-30",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Small_Intestine_Terminal_Ileum); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-31",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Thyroid); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-32",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row CISD2 Uterus); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-33",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Cells_Cultured_fibroblasts); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-34",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     8.74e-05,
+     0.008741846
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Esophagus_Mucosa); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-35",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Muscle_Skeletal); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). PPH4 from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-36",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Pancreas); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-37",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Skin_Not_Sun_Exposed_Suprapubic); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction but HEIDI p<0.05 (Table S11)."
+  },
+  {
+   "claim_id": "Zou2024Bio-38",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S10 (biology-13-00871-s001__Supplementary_Tables.xlsx, sheet Table S10, row UBE2D3 Thyroid); also Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "Single cis-eQTL IV per tissue (MR rsID not listed). Only PPH4>0.7 coloc results reported; tissue absent from Table S12. SMR same direction (Table S11)."
+  },
+  {
+   "claim_id": "Zeng2024Gene-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.059
+    ],
+    "ci_low": [
+     null,
+     1.03
+    ],
+    "ci_high": [
+     null,
+     1.08
+    ],
+    "p_value": [
+     null,
+     4.88e-06
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs13035593. eQTLGen row also Bonferroni-significant but opposite: OR 0.945 (0.92-0.97), P 6.56e-6; GTEx row chosen to match abstract's positive association. Main text paywalled; PP.H4 unavailable."
+  },
+  {
+   "claim_id": "Zeng2024Gene-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.058
+    ],
+    "ci_low": [
+     null,
+     1.03
+    ],
+    "ci_high": [
+     null,
+     1.08
+    ],
+    "p_value": [
+     null,
+     1.19e-05
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs2305433. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-3",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.059
+    ],
+    "ci_low": [
+     null,
+     1.03
+    ],
+    "ci_high": [
+     null,
+     1.08
+    ],
+    "p_value": [
+     null,
+     2.02e-05
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs28825193. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-4",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.087
+    ],
+    "ci_low": [
+     null,
+     1.05
+    ],
+    "ci_high": [
+     null,
+     1.12
+    ],
+    "p_value": [
+     null,
+     6.33e-06
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen, top SNP rs9600237. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-5",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.071
+    ],
+    "ci_low": [
+     null,
+     1.04
+    ],
+    "ci_high": [
+     null,
+     1.1
+    ],
+    "p_value": [
+     null,
+     6.12e-05
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen (ENSG00000146830) row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen (ENSG00000146830), top SNP rs506597. GTEx whole-blood row opposite: OR 0.935 (0.90-0.97), Bonferroni P 0.021, P_HEIDI 0.021; eQTLGen row chosen to match abstract's positive association. Main text paywalled; PP.H4 unavailable."
+  },
+  {
+   "claim_id": "Zeng2024Gene-6",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.054
+    ],
+    "ci_low": [
+     null,
+     1.03
+    ],
+    "ci_high": [
+     null,
+     1.08
+    ],
+    "p_value": [
+     null,
+     7.16e-05
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen, top SNP rs9310431. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-7",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.95
+    ],
+    "ci_low": [
+     null,
+     0.92
+    ],
+    "ci_high": [
+     null,
+     0.98
+    ],
+    "p_value": [
+     null,
+     0.000103884
+    ],
+    "direction": [
+     "risk_increasing",
+     "protective"
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen, top SNP rs10267796. Abstract lists SUN1 as positively associated, but the only table row is protective (OR 0.950). Main text paywalled; PP.H4 unavailable."
+  },
+  {
+   "claim_id": "Zeng2024Gene-8",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.068
+    ],
+    "ci_low": [
+     null,
+     1.03
+    ],
+    "ci_high": [
+     null,
+     1.1
+    ],
+    "p_value": [
+     null,
+     0.000125814
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen, top SNP rs62260389. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-9",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.93
+    ],
+    "ci_low": [
+     null,
+     0.9
+    ],
+    "ci_high": [
+     null,
+     0.96
+    ],
+    "p_value": [
+     null,
+     6.71e-06
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs9382100. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-10",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.938
+    ],
+    "ci_low": [
+     null,
+     0.91
+    ],
+    "ci_high": [
+     null,
+     0.97
+    ],
+    "p_value": [
+     null,
+     4.47e-05
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Whole_Blood row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: GTEx v8 Whole_Blood, top SNP rs67594352. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-11",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.95
+    ],
+    "ci_low": [
+     null,
+     0.93
+    ],
+    "ci_high": [
+     null,
+     0.97
+    ],
+    "p_value": [
+     null,
+     4.04e-05
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), GTEx v8 Uterus row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: GTEx v8 Uterus, top SNP rs886090. Main text paywalled (not read); PP.H4 unavailable. Abstract cases/controls 8,288/68,969 (R5-like) vs table label R9."
+  },
+  {
+   "claim_id": "Zeng2024Gene-12",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.051
+    ],
+    "ci_low": [
+     null,
+     1.03
+    ],
+    "ci_high": [
+     null,
+     1.08
+    ],
+    "p_value": [
+     null,
+     6.49e-05
+    ],
+    "direction": [
+     "protective",
+     "risk_increasing"
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen, top SNP rs2280729. Abstract lists TUB as inversely associated, but the only table row is risk-increasing (OR 1.051). Main text paywalled; PP.H4 unavailable."
+  },
+  {
+   "claim_id": "Zeng2024Gene-13",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.079
+    ],
+    "ci_low": [
+     null,
+     1.04
+    ],
+    "ci_high": [
+     null,
+     1.12
+    ],
+    "p_value": [
+     null,
+     0.000118631
+    ],
+    "direction": [
+     "protective",
+     "risk_increasing"
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     8288
+    ],
+    "outcome_controls": [
+     null,
+     68969
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "MR (method not stated in abstract)",
+     "SMR (single top cis-eQTL SNP)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S1 (mmc1.xlsx, sheet Supplementary Table S1), eQTLGen row ('P-value' column; P_SMR also listed)",
+   "first_source_location": "Abstract",
+   "notes": "Exposure row: eQTLGen, top SNP rs3093704. Abstract lists POLDIP2 as inversely associated, but the only table row is risk-increasing (OR 1.079). Main text paywalled; PP.H4 unavailable."
+  },
+  {
+   "claim_id": "Wang2026FRH-34",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     1,
+     null
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Figure 2C (mQTL forest plot), probe cg10672416 (C12orf65)",
+   "first_source_location": "Figure 2C",
+   "notes": "Per increase in cg10672416 methylation. Only SMR shown (P_HEIDI 0.299); TSMR table (Supp Table 5) not in supplement. Abstract names C12orf65 a key feature gene; conclusion names only GPD2/MRPS6."
+  },
+  {
+   "claim_id": "Wang2026FRH-41",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     1,
+     null
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Figure 2C (mQTL forest plot), probe cg19411738",
+   "first_source_location": "Figure 2C",
+   "notes": "Per increase in cg19411738 methylation. Only SMR shown (P_HEIDI 0.217); TSMR table not in supplement. Abstract names PHYH a key feature gene; conclusion names only GPD2/MRPS6."
+  },
+  {
+   "claim_id": "Wang2026FRH-56",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     0.88,
+     0.89
+    ],
+    "ci_low": [
+     0.79,
+     null
+    ],
+    "ci_high": [
+     0.99,
+     null
+    ],
+    "p_value": [
+     0.03237647,
+     0.0026
+    ],
+    "n_instruments": [
+     1,
+     3
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "SMR",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Results text, mQTL MR section (TSMR IVW)",
+   "first_source_location": "Figure 2C",
+   "notes": "CpG cg05987564; 3 SNPs and IVW p 0.00259 from Datasheet5 Steiger csv. IVW CI not reported. Figure 2C SMR: OR 0.88 (0.79-0.99), p 0.0324."
+  },
+  {
+   "claim_id": "Wang2026FRH-58",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     1.15,
+     1.2
+    ],
+    "ci_low": [
+     1.02,
+     null
+    ],
+    "ci_high": [
+     1.29,
+     null
+    ],
+    "n_instruments": [
+     1,
+     null
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "SMR",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Results text, mQTL MR section (TSMR IVW)",
+   "first_source_location": "Figure 2C",
+   "notes": "IVW CI not reported. Value matches Steiger csv CpG cg24865779 (2 SNPs, p 0.0189), which is unlabelled. Figure 2C SMR uses cg24282826: OR 1.15 (1.02-1.29), p 0.0178."
+  },
+  {
+   "claim_id": "Wang2026FRH-66",
+   "status": "not_found",
+   "notes": "RPL21 named only as an ML feature gene. No MR estimate or exposure layer in text, Figure 2 or available supplements; Supp Tables 2/4/5/7 not provided."
+  },
+  {
+   "claim_id": "Zhong2025Gene-1",
+   "status": "not_found",
+   "notes": "Main text paywalled (Elsevier 403); supplements hold only DEG/GO/KEGG/primers. Abstract gives direction only (FZD7 OR<1; HMOX1/RRM2/HSPA5 OR>1) for unspecified endometriosis subtypes; no estimates or datasets."
+  },
+  {
+   "claim_id": "Zhong2025Gene-2",
+   "status": "not_found",
+   "notes": "Main text paywalled (Elsevier 403); supplements hold only DEG/GO/KEGG/primers. Abstract gives direction only (FZD7 OR<1; HMOX1/RRM2/HSPA5 OR>1) for unspecified endometriosis subtypes; no estimates or datasets."
+  },
+  {
+   "claim_id": "Zhong2025Gene-3",
+   "status": "not_found",
+   "notes": "Main text paywalled (Elsevier 403); supplements hold only DEG/GO/KEGG/primers. Abstract gives direction only (FZD7 OR<1; HMOX1/RRM2/HSPA5 OR>1) for unspecified endometriosis subtypes; no estimates or datasets."
+  },
+  {
+   "claim_id": "Zhong2025Gene-4",
+   "status": "not_found",
+   "notes": "Main text paywalled (Elsevier 403); supplements hold only DEG/GO/KEGG/primers. Abstract gives direction only (FZD7 OR<1; HMOX1/RRM2/HSPA5 OR>1) for unspecified endometriosis subtypes; no estimates or datasets."
+  },
+  {
+   "claim_id": "Guo2025Med-1",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     null,
+     107564
+    ],
+    "n_instruments": [
+     null,
+     18
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "finngen_R9_N14_ENDOMETRIOSIS",
+     "R9"
+    ]
+   },
+   "second_source_location": "Supplementary Table S8 (medi-104-e43163-s001.xls, sheet Stable8), 'All - Inverse variance weighted' row; Figure 4",
+   "first_source_location": "Results 3.1.2; Figure 4; Table S8",
+   "notes": "91 proteins tested; P<0.05, no multiple-testing correction. Text/Fig 4: 1.134 (1.042-1.234), P=.004. IV threshold P<5e-5 stated for lipid/immune exposures; not stated separately for proteins."
+  },
+  {
+   "claim_id": "Guo2025Med-3",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.94616869
+    ],
+    "ci_low": [
+     null,
+     0.901014006
+    ],
+    "ci_high": [
+     null,
+     0.99358632
+    ],
+    "p_value": [
+     null,
+     0.026561692
+    ],
+    "outcome_controls": [
+     null,
+     107564
+    ],
+    "n_instruments": [
+     null,
+     36
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "finngen_R9_N14_ENDOMETRIOSIS",
+     "R9"
+    ]
+   },
+   "second_source_location": "Supplementary Table S8 (medi-104-e43163-s001.xls, sheet Stable8), 'All - Inverse variance weighted' row; Figure 4",
+   "first_source_location": "Results 3.1.2; Abstract; Figure 4 (values not read)",
+   "notes": "Main text misreports TRAIL as OR 1.061 (1.007-1.119), P=.026 (duplicates CDCP1); Table S8 and Fig 4 give 0.946 (0.901-0.994), P=0.027. No multiple-testing correction."
+  },
+  {
+   "claim_id": "Guo2025Med-4",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     null,
+     107564
+    ],
+    "n_instruments": [
+     null,
+     31
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "finngen_R9_N14_ENDOMETRIOSIS",
+     "R9"
+    ]
+   },
+   "second_source_location": "Supplementary Table S8 (medi-104-e43163-s001.xls, sheet Stable8), 'All - Inverse variance weighted' row; Figure 4",
+   "first_source_location": "Results 3.1.2; Figure 4; Table S8",
+   "notes": "Text/Fig 4: 0.946 (0.904-0.989), P=.015. 91 proteins tested, P<0.05 without multiple-testing correction."
+  },
+  {
+   "claim_id": "Zhou2024lipid-1",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     0.00141650151714028
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ],
+    "outcome_cohorts": [
+     [
+      "unknown"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     5112
+    ],
+    "outcome_controls": [
+     null,
+     185757
+    ],
+    "n_instruments": [
+     null,
+     27
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R8"
+    ],
+    "method": [
+     "not stated (abstract only)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, IVW",
+   "first_source_location": "Abstract",
+   "notes": "Stage 1-2 outcome; overall endometriosis OR 0.968, P 0.66. LDL-C (ieu-b-110) weighted. Abstract 1.40 (1.13-1.72). H4/(H3+H4)=0.889. Main text paywalled; OR scaling (inhibition vs LDL increase) unclear."
+  },
+  {
+   "claim_id": "Zhou2024lipid-2",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     0.000266098982551543
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ],
+    "outcome_cohorts": [
+     [
+      "unknown"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     5112
+    ],
+    "outcome_controls": [
+     null,
+     185757
+    ],
+    "n_instruments": [
+     null,
+     26
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R8"
+    ],
+    "method": [
+     "not stated (abstract only)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, IVW",
+   "first_source_location": "Abstract",
+   "notes": "Stage 1-2 outcome; overall endometriosis OR 0.973, P 0.76. LDL-C weighted. Abstract 1.49 (1.21-1.86). SMR (Table S16) p 0.0104. H4/(H3+H4)=0.957. Main text paywalled; OR scaling unclear."
+  },
+  {
+   "claim_id": "Zhou2024lipid-3",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     0.00606000681390996
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ],
+    "outcome_cohorts": [
+     [
+      "unknown"
+     ],
+     [
+      "FinnGen"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     5112
+    ],
+    "outcome_controls": [
+     null,
+     185757
+    ],
+    "n_instruments": [
+     null,
+     18
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R8"
+    ],
+    "method": [
+     "not stated (abstract only)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, IVW",
+   "first_source_location": "Abstract",
+   "notes": "Stage 1-2 outcome; overall endometriosis OR 1.137, P 0.31. Triglyceride (ieu-b-111) weighted. Abstract 1.57 (1.14-2.16). H4/(H3+H4)=0.987. Main text paywalled; OR scaling unclear."
+  },
+  {
+   "claim_id": "Shi2025RBE-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table 4",
+   "first_source_location": "Table 4",
+   "notes": "Supp Table 23: OR 1.069 (1.031-1.110), p<0.001. Bonferroni p 0.0018 (6 genes). GTEx v8 whole-blood cis-eQTL, P<1e-5, clump r2 0.1/100 kb. PP4 from Table 5."
+  },
+  {
+   "claim_id": "Shi2025RBE-2",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table 4",
+   "first_source_location": "Table 4",
+   "notes": "Supp Table 28: OR 0.739 (0.676-0.808), p<0.001. Bonferroni p 1.687E-10. GTEx v8 whole-blood cis-eQTL, P<1e-5. PP4 from Table 5."
+  },
+  {
+   "claim_id": "Guo2024-2",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (IVW/Wald ratio not specified for forward MR)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table 1 (SupplementaryTable17.xlsx, sheet Table S1)",
+   "first_source_location": "Figure 4 (OR, 95% CI, P); Results text",
+   "notes": "Converted from beta -0.2834, SE 0.0463 (OR=exp(beta), CI=exp(beta±1.96SE)). Text: OR 0.75, CI garbled '1.15~0.83'. PP.H4 0.967 (Table 3); text says 0.974. SNP lies in RSPO3 locus."
+  },
+  {
+   "claim_id": "Xu2025JCMM-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     "finngen_R9_N14_ENDOMETRIOSIS",
+     "R9"
+    ]
+   },
+   "second_source_location": "Table 3",
+   "first_source_location": "Table 3; Results",
+   "notes": "Supplementary 2 (s003, sheet Supplementary_2): beta -0.0610, SE 0.0129, p 2.27e-6. Bonferroni threshold 0.05/41. IVs P<1e-5, clump r2 0.1/500 kb. Per-SNP instruments not provided."
+  },
+  {
+   "claim_id": "Xu2025BMCPT-1",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1",
+   "notes": "Table 1 gives P '<0.05' for all methods although IVW CI includes 1; abstract highlights MR-Egger OR 2.66. EUR exposure, East Asian outcome. IVs P<5e-8, no cis window stated. n from Fig 6B."
+  },
+  {
+   "claim_id": "Aru2025pcsk9-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 3 (medi-104-e42685-s001.pdf); Figure 2",
+   "first_source_location": "Figure 2; Results 3.2 (OR 0.791 [0.688-0.909], P=.001)",
+   "notes": "Exposure = genetically proxied PCSK9 inhibition (LDL-C lowering, ±100 kb); CHD control OR 0.597. Text P=.001; abstract typo OR 0.971. Fig 2: 0.7907 (0.6877-0.9093)."
+  },
+  {
+   "claim_id": "WeiL2024JRI-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.871088007598916
+    ],
+    "ci_low": [
+     null,
+     0.78157166520986
+    ],
+    "ci_high": [
+     null,
+     0.970856993362093
+    ],
+    "p_value": [
+     null,
+     0.0126101876023709
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     16
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "MCP1. Also significant for endometriosis of ovary (OR 0.752, P=0.0012); overall phenotype chosen. Main text inaccessible (ScienceDirect 403); outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "WeiL2024JRI-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.260936390252846
+    ],
+    "ci_low": [
+     null,
+     0.0817475784241833
+    ],
+    "ci_high": [
+     null,
+     0.832902956524068
+    ],
+    "p_value": [
+     null,
+     0.0232827461078712
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     4
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "MIP1a; only significant phenotype. Main text inaccessible; outcome source/N not in supplement (labels resemble FinnGen endpoints). IVs P<5e-6 incl. trans."
+  },
+  {
+   "claim_id": "WeiL2024JRI-3",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.300479863051757
+    ],
+    "ci_low": [
+     null,
+     0.113981328039687
+    ],
+    "ci_high": [
+     null,
+     0.79213104156994
+    ],
+    "p_value": [
+     null,
+     0.0150497675979673
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     9
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "GCSF; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "WeiL2024JRI-4",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.978309234267435
+    ],
+    "p_value": [
+     null,
+     0.00126186750469628
+    ],
+    "estimate_scale": [
+     "OR",
+     "beta"
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     10
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "Table row internally inconsistent: beta 0.978 (SE 0.303; P matches beta/SE) but OR column 0.660 (0.468-0.921). Beta reported; true direction uncertain. Main text inaccessible."
+  },
+  {
+   "claim_id": "WeiL2024JRI-5",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     2.1233156425536
+    ],
+    "ci_low": [
+     null,
+     1.0398841357199
+    ],
+    "ci_high": [
+     null,
+     4.33554966659017
+    ],
+    "p_value": [
+     null,
+     0.0386985045788205
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     14
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "IL4; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "WeiL2024JRI-6",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     3.10762415614106
+    ],
+    "ci_low": [
+     null,
+     1.46779910171021
+    ],
+    "ci_high": [
+     null,
+     6.57946164742789
+    ],
+    "p_value": [
+     null,
+     0.00304877177283195
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     8
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "IL5; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "WeiL2024JRI-7",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.28165629119052
+    ],
+    "ci_low": [
+     null,
+     1.01242458646587
+    ],
+    "ci_high": [
+     null,
+     1.62248415408629
+    ],
+    "p_value": [
+     null,
+     0.0391472056942755
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     8
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "IL8; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "WeiL2024JRI-8",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.46798601692913
+    ],
+    "ci_low": [
+     null,
+     1.09008739608794
+    ],
+    "ci_high": [
+     null,
+     1.97689006737732
+    ],
+    "p_value": [
+     null,
+     0.0114703830385068
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     6
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "IL9; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "WeiL2024JRI-9",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.33305226413662
+    ],
+    "ci_low": [
+     null,
+     1.09047353643863
+    ],
+    "ci_high": [
+     null,
+     1.62959327259179
+    ],
+    "p_value": [
+     null,
+     0.00502904997682402
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     15
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "IL-12p70 (mapped IL12B). Also significant for endometriosis of ovary (OR 1.196, 1.014-1.411, P=0.034); smaller-P phenotype chosen as main text inaccessible."
+  },
+  {
+   "claim_id": "WeiL2024JRI-10",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     -0.103622123319348
+    ],
+    "p_value": [
+     null,
+     0.010253878846708
+    ],
+    "estimate_scale": [
+     "OR",
+     "beta"
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     10
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "Table row internally inconsistent: beta -0.104 (SE 0.040; P matches beta/SE) but OR column 1.293 (1.133-1.476). Beta reported; true direction uncertain. Main text inaccessible."
+  },
+  {
+   "claim_id": "WeiL2024JRI-11",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.769677767666142
+    ],
+    "ci_low": [
+     null,
+     0.612920284022246
+    ],
+    "ci_high": [
+     null,
+     0.966526775964939
+    ],
+    "p_value": [
+     null,
+     0.0242581123850777
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     null,
+     8
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "not stated (abstract only)",
+     "IVW (fixed effect)"
+    ]
+   },
+   "second_source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+   "first_source_location": "Abstract",
+   "notes": "IL17; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+  },
+  {
+   "claim_id": "ZhengJ2026-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10"
+    ]
+   },
+   "second_source_location": "Supplementary Table S2 (MI-2026-6617402-s001.xlsx, sheet TableS2_MR_of_23_proteins)",
+   "first_source_location": "Figure 3 (discovery OR, CI, P); Supporting Information Table S2",
+   "notes": "FDR P=0.040; cis = within 1 Mb of TSS, p<5e-8 tier. Replication GCST90205183 OR 0.93 (0.90-0.96). PP.H4 from Table 2."
+  },
+  {
+   "claim_id": "ZhengJ2026-10",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10"
+    ]
+   },
+   "second_source_location": "Supplementary Table S2 (MI-2026-6617402-s001.xlsx, sheet TableS2_MR_of_23_proteins)",
+   "first_source_location": "Figure 3 (discovery OR, CI, P); Supporting Information Table S2",
+   "notes": "FDR P=0.00052. Coloc PP.H3=1.00 (distinct variants), PP.H4 3.84E-17 (Table 2). Replication OR 0.90 (0.83-0.99)."
+  },
+  {
+   "claim_id": "ZhengJ2026-11",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     8,
+     6
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10"
+    ]
+   },
+   "second_source_location": "Supplementary Table S2 (MI-2026-6617402-s001.xlsx, sheet TableS2_MR_of_23_proteins)",
+   "first_source_location": "Figure 3 (discovery OR, CI, P); Supporting Information Table S2",
+   "notes": "Nsnp=6 in Table S2 and Figure S4, but Table 1/Table S6 list Nsnp=8. Replication OR 1.06 (1.04-1.09)."
+  },
+  {
+   "claim_id": "ZhengJ2026-16",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10"
+    ]
+   },
+   "second_source_location": "Supplementary Table S2 (MI-2026-6617402-s001.xlsx, sheet TableS2_MR_of_23_proteins)",
+   "first_source_location": "Figure 3 (discovery OR, CI, P); Supporting Information Table S2",
+   "notes": "Table S2 method label 'Inverse variance weighted' (2-3 SNP proteins). FDR P=0.027. Replication OR 0.61 (0.44-0.83)."
+  },
+  {
+   "claim_id": "ZhengJ2026-20",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10"
+    ]
+   },
+   "second_source_location": "Supplementary Table S2 (MI-2026-6617402-s001.xlsx, sheet TableS2_MR_of_23_proteins)",
+   "first_source_location": "Figure 3 (discovery OR, CI, P); Supporting Information Table S2",
+   "notes": "FDR P=0.018. Replication OR 0.76 (0.60-0.95) with 6 SNPs."
+  },
+  {
+   "claim_id": "Dou2025FIG-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.864712325
+    ],
+    "ci_low": [
+     null,
+     0.787656868
+    ],
+    "ci_high": [
+     null,
+     0.949306019
+    ],
+    "p_value": [
+     null,
+     0.002269485
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ],
+    "n_instruments": [
+     null,
+     5
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+   "first_source_location": "Results/Discussion text (direction); estimates only in Fig. 2C; Fig. 3 forest plots (unreadable at available resolution) and supplementary CSV",
+   "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+  },
+  {
+   "claim_id": "Dou2025FIG-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.896162272
+    ],
+    "ci_low": [
+     null,
+     0.804829746
+    ],
+    "ci_high": [
+     null,
+     0.997859263
+    ],
+    "p_value": [
+     null,
+     0.045600098
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ],
+    "n_instruments": [
+     null,
+     3
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+   "first_source_location": "Results/Discussion text (direction); estimates only in Fig. 2C; Fig. 3 forest plots (unreadable at available resolution) and supplementary CSV",
+   "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+  },
+  {
+   "claim_id": "Dou2025FIG-3",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.102400264
+    ],
+    "ci_low": [
+     null,
+     1.020561379
+    ],
+    "ci_high": [
+     null,
+     1.190801815
+    ],
+    "p_value": [
+     null,
+     0.013243539
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ],
+    "n_instruments": [
+     null,
+     4
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+   "first_source_location": "Results/Discussion text (direction); estimates only in Fig. 2C-D forest plots (unreadable at available resolution) and supplementary CSV",
+   "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+  },
+  {
+   "claim_id": "Dou2025FIG-4",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.087261874
+    ],
+    "ci_low": [
+     null,
+     1.000154871
+    ],
+    "ci_high": [
+     null,
+     1.181955331
+    ],
+    "p_value": [
+     null,
+     0.049572472
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ],
+    "n_instruments": [
+     null,
+     4
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "ESM 4 (10142_2025_1543_MOESM4_ESM.csv, table.MRresult); forest plot Fig. 2C/3",
+   "first_source_location": "Results/Discussion text (direction); estimates only in Fig. 2C-D forest plots (unreadable at available resolution) and supplementary CSV",
+   "notes": "eqtl-a IEU exposure (text cites Westra 2013). P<5e-8, clump 10,000 kb, trans SNPs included. 231,771 given as controls. Abstract: 'novel biomarker genes'; aim 'new genetic targets'."
+  },
+  {
+   "claim_id": "Lv2025-1",
+   "status": "not_found",
+   "notes": "Univariable IVW estimate for prot-a-1542 not available. Table S2 IVW Q_df=3 (implies 4 SNPs). Abstract: significant causal association, direction not stated."
+  },
+  {
+   "claim_id": "Lv2025-2",
+   "status": "not_found",
+   "notes": "Univariable IVW estimate for prot-a-1530 not available. Table S2 IVW Q_df=2 (implies 3 SNPs). MVMR (S3) betas negative, not primary."
+  },
+  {
+   "claim_id": "Lv2025-3",
+   "status": "not_found",
+   "notes": "Univariable IVW estimate for prot-b-38 not available. Table S2 IVW Q_df=2 (implies 3 SNPs). MVMR (S3) betas positive, not primary."
+  },
+  {
+   "claim_id": "Kai2025BMCWH-5",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1",
+   "notes": "Table 1 gives OR and P only, no CI. IVs P<5e-6, clump r2 0.001, kb=10, no cis restriction. Abstract names it a key gene from a 'causal gene set'. eqtl-a-ENSG00000119514."
+  },
+  {
+   "claim_id": "Kai2025BMCWH-13",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1",
+   "notes": "Table 1 gives OR and P only, no CI. IVs P<5e-6, clump r2 0.001, kb=10, no cis restriction. Abstract names it a key gene from a 'causal gene set'. eqtl-a-ENSG00000178966."
+  },
+  {
+   "claim_id": "Kai2025BMCWH-17",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1",
+   "notes": "Table 1 gives OR and P only, no CI. IVs P<5e-6, clump r2 0.001, kb=10, no cis restriction. Abstract names it a key gene from a 'causal gene set'. eqtl-a-ENSG00000100749."
+  },
+  {
+   "claim_id": "Yao2026-1",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "genome_wide",
+     "cis"
+    ],
+    "outcome_cases": [
+     8288,
+     16588
+    ],
+    "outcome_controls": [
+     68969,
+     111583
+    ],
+    "n_instruments": [
+     null,
+     2
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10 (per Supplementary Tables S1/S6)"
+    ],
+    "method": [
+     "Wald ratio (1 SNP) or IVW (>=2 SNPs); per-protein method not stated",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Table 1 (MR discovery beta, P); Supplementary Table S1",
+   "first_source_location": "Table 1",
+   "notes": "Text says 8,288 cases/68,969 controls; S6 rows give 16,588/111,583 (R10). Only beta reported (no OR/CI); SE 0.0748 in S1. No cis filter stated but all IVs within ~1 Mb."
+  },
+  {
+   "claim_id": "Yao2026-3",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "genome_wide",
+     "cis"
+    ],
+    "outcome_cases": [
+     8288,
+     16588
+    ],
+    "outcome_controls": [
+     68969,
+     111583
+    ],
+    "n_instruments": [
+     null,
+     2
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R10 (per Supplementary Tables S1/S6)"
+    ],
+    "method": [
+     "Wald ratio (1 SNP) or IVW (>=2 SNPs); per-protein method not stated",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Table 1 (MR discovery beta, P); Supplementary Table S1",
+   "first_source_location": "Table 1",
+   "notes": "Text says 8,288 cases/68,969 controls; S6 rows give 16,588/111,583 (R10). Only beta reported (no OR/CI); SE 0.2537 in S1. No cis filter stated but all IVs within ~1 Mb."
+  },
+  {
+   "claim_id": "Du2025CIMB-1",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "outcome_cases": [
+     3809,
+     null
+    ],
+    "outcome_controls": [
+     459124,
+     null
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1",
+   "notes": "Cases/controls not stated. IVs P<5e-8, clump 10,000 kb, no cis restriction (trans SNPs, e.g. rs1354034). Abstract calls gene a 'biomarker' after MR causal screen."
+  },
+  {
+   "claim_id": "Du2025CIMB-2",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "outcome_cases": [
+     3809,
+     null
+    ],
+    "outcome_controls": [
+     459124,
+     null
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1",
+   "notes": "Cases/controls not stated. IVs P<5e-8, clump 10,000 kb, no cis restriction (trans SNPs, e.g. rs1354034). Abstract calls gene a 'biomarker' after MR causal screen."
+  },
+  {
+   "claim_id": "Chen2024-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "ukb-b-10903"
+    ]
+   },
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1; Results text; Abstract",
+   "notes": "IV rs2489623 (Sun 2018). Text P=3.2567e-05; Bonferroni 5.63e-05. Abstract says 'decrease of one SD... protective' yet OR is per SD increase. Replicated in FinnGen, UKB, Sakaue."
+  },
+  {
+   "claim_id": "Lin2023JCEM-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "not stated (FinnGen R7 documentation cited)"
+    ]
+   },
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1; Results (main MR analysis)",
+   "notes": "MCSF; beta 0.2325, FDR 7.93e-4. Coloc: 'no significant evidence'; PP.H4 only in Table S11 (not accessed). Publisher HTML read via WebFetch. Replication OR 1.214, P=0.0155."
+  },
+  {
+   "claim_id": "Xie2026FI-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     1.3464,
+     1.39142735288651
+    ],
+    "ci_low": [
+     1.1276,
+     1.06180304880913
+    ],
+    "ci_high": [
+     1.6077,
+     1.82337965645528
+    ],
+    "p_value": [
+     0.001,
+     0.0166319620372606
+    ],
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ],
+    "n_instruments": [
+     12,
+     3
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 6 (Table6.xlsx, Sheet1)",
+   "first_source_location": "Results 'Mendelian randomization confirmed a causal association'; Figure 6A; Abstract",
+   "notes": "Table disagrees with abstract/Results: OR 1.3464 (1.1276-1.6077), P=0.0010; table used per rule. SNPs on chr8, chr2, chr12 (trans and cis). Cases/controls not stated."
+  },
+  {
+   "claim_id": "Zhang2024lipid-1",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     0.01,
+     0.0117519960815432
+    ],
+    "headline": [
+     true,
+     false
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "IVW (random effects)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary Table S5 (pone.0301752.s005.xlsx); Fig 4; Results text",
+   "first_source_location": "Results (TG-lowering drug targets); Fig 4; S5 Table; Abstract",
+   "notes": "Per 1 mmol/L TG via ANGPTL3 (+/-100 kb, r2<0.30). Text P=0.01, PFDR=0.04. PP.H4 reported as 0.85%. Called 'suggestive'; conclusion does not name it a target."
+  },
+  {
+   "claim_id": "Hong2026RT-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.25
+    ],
+    "ci_low": [
+     null,
+     1.143
+    ],
+    "ci_high": [
+     null,
+     1.368
+    ],
+    "p_value": [
+     null,
+     1.1e-06
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.002233384. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.389
+    ],
+    "ci_low": [
+     null,
+     1.202
+    ],
+    "ci_high": [
+     null,
+     1.604
+    ],
+    "p_value": [
+     null,
+     7.81e-06
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.007908512. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-3",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.163
+    ],
+    "ci_low": [
+     null,
+     1.087
+    ],
+    "ci_high": [
+     null,
+     1.245
+    ],
+    "p_value": [
+     null,
+     1.29e-05
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "n_instruments": [
+     null,
+     5
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4); Supplementary Table S5 (sheet S5)",
+   "first_source_location": "Abstract",
+   "notes": "S5: WM 1.174, Egger 1.414 (p=0.60). Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-4",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.436
+    ],
+    "ci_low": [
+     null,
+     1.209
+    ],
+    "ci_high": [
+     null,
+     1.707
+    ],
+    "p_value": [
+     null,
+     3.96e-05
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.01780125. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-5",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.51
+    ],
+    "ci_low": [
+     null,
+     1.229
+    ],
+    "ci_high": [
+     null,
+     1.855
+    ],
+    "p_value": [
+     null,
+     8.59e-05
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.03305705. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-6",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.245
+    ],
+    "ci_low": [
+     null,
+     1.116
+    ],
+    "ci_high": [
+     null,
+     1.39
+    ],
+    "p_value": [
+     null,
+     8.98e-05
+    ],
+    "direction": [
+     "null_or_unclear",
+     "risk_increasing"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.03305705. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-7",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.761
+    ],
+    "ci_low": [
+     null,
+     0.678
+    ],
+    "ci_high": [
+     null,
+     0.855
+    ],
+    "p_value": [
+     null,
+     4.41e-06
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.005952496. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Hong2026RT-8",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.546
+    ],
+    "ci_low": [
+     null,
+     0.415
+    ],
+    "ci_high": [
+     null,
+     0.718
+    ],
+    "p_value": [
+     null,
+     1.48e-05
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (method not stated in abstract)",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+   "first_source_location": "Abstract",
+   "notes": "FDR 0.009998429. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+  },
+  {
+   "claim_id": "Li2026tg-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Li2026tg-2",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     1.177e-16
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Li2026tg-3",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Li2026tg-4",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     1.33e-08
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "Fig 5 nsnp 235; S1 Table shows 250 SNPs, values identical to APOA5. TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Li2026tg-5",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "PP.H3 0.838. TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Li2026tg-6",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     3.764e-12
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "S1 Table values identical to TFPI row. TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Li2026tg-7",
+   "status": "disagree",
+   "differences": {
+    "p_value": [
+     null,
+     1.372e-07
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "R9"
+    ],
+    "method": [
+     "IVW (paper's stated primary method)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+   "first_source_location": "Figure 5",
+   "notes": "TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+  },
+  {
+   "claim_id": "Pan2025Authorea-1",
+   "status": "not_found",
+   "notes": "Authorea full text and PDF returned HTTP 403; no supplement downloaded. Abstract reports only mediation share (CST5 3.8%) without the cytokine-to-EM MR estimate."
+  },
+  {
+   "claim_id": "Pan2025Authorea-2",
+   "status": "not_found",
+   "notes": "Authorea full text and PDF returned HTTP 403; no supplement downloaded. Abstract reports only mediation share (CSF-1 7.6%) without the cytokine-to-EM MR estimate."
+  },
+  {
+   "claim_id": "Pan2025Authorea-3",
+   "status": "not_found",
+   "notes": "Authorea full text and PDF returned HTTP 403; no supplement downloaded. Abstract reports only mediation share (CCL4 8.3%) without the cytokine-to-EM MR estimate."
+  },
+  {
+   "claim_id": "Pan2025Authorea-4",
+   "status": "not_found",
+   "notes": "Authorea full text and PDF returned HTTP 403; no supplement downloaded. Abstract reports only mediation share (IL-6 17.6%) without the cytokine-to-EM MR estimate."
+  },
+  {
+   "claim_id": "Meng2026IJWH-1",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1 (univariable MR)",
+   "first_source_location": "Table 1",
+   "notes": "OR/CI converted from Table 1 beta -0.000169123 (SE 8.36e-05). MVMR (Table 5) OR 0.981, p=0.00086. IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+  },
+  {
+   "claim_id": "Meng2026IJWH-2",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1 (univariable MR)",
+   "first_source_location": "Table 1",
+   "notes": "OR/CI converted from Table 1 beta -0.000129299 (SE 5.08e-05). MVMR (Table 5) OR 1.015, p=0.027 (opposite sign). IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+  },
+  {
+   "claim_id": "Meng2026IJWH-4",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1 (univariable MR)",
+   "first_source_location": "Table 1",
+   "notes": "OR/CI converted from Table 1 beta -0.000417723 (SE 0.000150319). MVMR (Table 5) OR 0.998, p=0.69. IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+  },
+  {
+   "claim_id": "Meng2026IJWH-6",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 1 (univariable MR)",
+   "first_source_location": "Table 1",
+   "notes": "OR/CI converted from Table 1 beta -0.000201089 (SE 2.6e-05). MVMR (Table 5) OR 0.9989, p=0.003. IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+  },
+  {
+   "claim_id": "Xie2024FE-1",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "R5 (finn-b-N14_ENDOMETRIOSIS)",
+     "finn-b-N14_ENDOMETRIOSIS"
+    ]
+   },
+   "second_source_location": "Supplementary Table 6 (Table_1.xlsx; beta/SE/p) and Figure 3A (OR, 95% CI)",
+   "first_source_location": "Figure 3A",
+   "notes": "Exposure IEU eqtl-a-ENSG00000005882 (eQTLGen not named). Fig 3A OR/CI equal exp(beta+-1.96SE) from Supp Table 6. IVs p<5e-8, r2<0.001, 10,000 kb. 269 genes tested, nominal p<0.05."
+  },
+  {
+   "claim_id": "Xie2024FE-15",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "R5 (finn-b-N14_ENDOMETRIOSIS)",
+     "finn-b-N14_ENDOMETRIOSIS"
+    ]
+   },
+   "second_source_location": "Supplementary Table 6 (Table_1.xlsx; beta/SE/p) and Figure 3A (OR, 95% CI)",
+   "first_source_location": "Figure 3A",
+   "notes": "Exposure IEU eqtl-a-ENSG00000185009 (eQTLGen not named). Fig 3A OR/CI equal exp(beta+-1.96SE) from Supp Table 6. IVs p<5e-8, r2<0.001, 10,000 kb. 269 genes tested, nominal p<0.05."
+  },
+  {
+   "claim_id": "Xie2024FE-17",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "R5 (finn-b-N14_ENDOMETRIOSIS)",
+     "finn-b-N14_ENDOMETRIOSIS"
+    ]
+   },
+   "second_source_location": "Supplementary Table 6 (Table_1.xlsx; beta/SE/p) and Figure 3A (OR, 95% CI)",
+   "first_source_location": "Figure 3A",
+   "notes": "Exposure IEU eqtl-a-ENSG00000239697 (eQTLGen not named). Fig 3A OR/CI equal exp(beta+-1.96SE) from Supp Table 6. IVs p<5e-8, r2<0.001, 10,000 kb. 269 genes tested, nominal p<0.05."
+  },
+  {
+   "claim_id": "LiuY2024Med-1",
+   "status": "disagree",
+   "differences": {
+    "outcome_cohorts": [
+     [
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ],
+    "n_instruments": [
+     null,
+     4
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S3 (medi-103-e38972-s001.docx); Results text",
+   "first_source_location": "Results 3.2; Abstract; Figure 1",
+   "notes": "IVs p<5e-6, r2<0.01; 41 cytokines tested, nominal p<0.05 without correction. MR-Egger 1.118 (p=0.50) and WM 1.267 (p=0.13) non-significant. Outcome cohorts not named."
+  },
+  {
+   "claim_id": "LiuY2024Med-2",
+   "status": "disagree",
+   "differences": {
+    "outcome_cohorts": [
+     [
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ],
+    "n_instruments": [
+     null,
+     18
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S3 (medi-103-e38972-s001.docx); Results text",
+   "first_source_location": "Results 3.2; Abstract; Figure 1",
+   "notes": "PDGF-BB mapped to PDGFB. IVs p<5e-6, r2<0.01; 41 cytokines tested, no multiple-testing correction. WM 0.760 (p=0.0048), Egger 0.711 (p=0.025). Outcome cohorts not named."
+  },
+  {
+   "claim_id": "Li2023coag-1",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     4
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "Pan-UKB"
+    ]
+   },
+   "second_source_location": "Additional file 1 Table S2 (12916_2023_2881_MOESM1_ESM.xlsx, sheet Table S2)",
+   "first_source_location": "Figure 2A; Results; Additional file 1 Table S2",
+   "notes": "UKB is discovery. FinnGen replication 0.46 (0.30-0.71), p=5.31e-4; meta 0.42 (0.30-0.58), p=2.85e-7. IVs p<5e-7, r2<0.1, 10 Mb (Ma 2017, n=2304). Table spells 'ADAMDTS13'."
+  },
+  {
+   "claim_id": "Li2023coag-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     1.26,
+     1.24
+    ],
+    "ci_low": [
+     1.09,
+     0.97
+    ],
+    "ci_high": [
+     1.46,
+     1.58
+    ],
+    "p_value": [
+     0.002,
+     0.0820296110354133
+    ],
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "UK Biobank"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     4354
+    ],
+    "outcome_controls": [
+     null,
+     217500
+    ],
+    "n_instruments": [
+     null,
+     12
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "Pan-UKB"
+    ]
+   },
+   "second_source_location": "Additional file 1 Table S2 (12916_2023_2881_MOESM1_ESM.xlsx, sheet Table S2)",
+   "first_source_location": "Figure 3; Results; Additional file 1 Table S6",
+   "notes": "UKB discovery estimate not significant. Significant in FinnGen (Table S4: 1.28 (1.06-1.53), p=0.0091, 14 SNPs) and meta (Table S6: 1.26 (1.09-1.46), p=0.0017). UKB heterogeneity Q p=0.041."
+  },
+  {
+   "claim_id": "ZhengL2025-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S3 (Table3.xlsx); Results text; Table 4 (PPH4)",
+   "first_source_location": "Results 3.2 text; Table 3; Table 4",
+   "notes": "deCODE cis-pQTLs p<5e-8, r2<0.001; 1,394 proteins, Bonferroni p<3.59e-5. Validation FinnGen R12: text 1.31 (1.21-1.42), S4 Table 1.330 (1.219-1.452); FinnGen PPH4 1.000."
+  },
+  {
+   "claim_id": "WeiY2024ITT-1",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     7
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Results text and Figure 2 (Supplementary Table 5 not available)",
+   "first_source_location": "Results; Figure 2; Supplementary Table 5",
+   "notes": "IVs p<5e-7, r2 0.001, 10,000 kb; 86 proteins tested, nominal p<0.05. Fig 2 shows p=0.031. FinnGen R10 replication 0.914 (0.862-0.968), p=2.18e-3; meta 0.91 (0.86-0.96)."
+  },
+  {
+   "claim_id": "Xiang2024bmd-1",
+   "status": "disagree",
+   "differences": {
+    "ci_high": [
+     0.99,
+     0.999947956498415
+    ],
+    "outcome_cohorts": [
+     [
+      "unknown"
+     ],
+     [
+      "UK Biobank"
+     ]
+    ],
+    "outcome_cases": [
+     null,
+     1496
+    ],
+    "outcome_controls": [
+     null,
+     359698
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     null,
+     "ukb-d-N80"
+    ]
+   },
+   "second_source_location": "Supplementary Table S5 (mmc1.xlsx, sheet sT5); Figure 3",
+   "first_source_location": "Figure 3 (also Table S5)",
+   "notes": "BMD-associated variants (FDR<0.05) within ESR1 +-2.5 kb, clumped r2<0.01. sT3 lists 87 ESR1 SNPs vs nsnp 134 in MR. Fig 3 rounds to 0.99 (0.99-0.99). Exposure GWAS description inconsistent (sT1 vs text)."
+  },
+  {
+   "claim_id": "Chen2024sel-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "method": [
+     "not stated for Table 1 (Table 2 primary rows: IVW)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Table 1 (Research Square v1 PDF); Abstract",
+   "first_source_location": "Table 1; Abstract (p = 0.01)",
+   "notes": "Supplement result file assigns this 2-SNP estimate to ebi-a-GCST90018839, not FinnGen. Table 2 FinnGen IVW (14 SNPs): 0.92 (0.89-0.95), p=2.6e-6. Exposure IEU prot-a-2665."
+  },
+  {
+   "claim_id": "Ling2025-2",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2 (OR, P-FDR); Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, deCODE probe 15530_33) for raw p",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "P_SMR 3.32e-5; P_FDR 0.0117; P_HEIDI 0.43. PPH4 given per gene (0.99 Table 2, 0.993 text), dataset not specified. SMR top cis-pQTL; window not stated. 1,002 deCODE druggable proteins tested."
+  },
+  {
+   "claim_id": "Ling2025-3",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2; Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, probe 3290_50)",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "P_SMR 1.39218e-4; P_FDR 0.0245. Tier 3 (low coloc). UKB-PPP CD109 not significant (OR 0.97, P_FDR 0.529)."
+  },
+  {
+   "claim_id": "Ling2025-4",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2; Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, probe 18832_65)",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "P_SMR 1.32744e-4; P_FDR 0.0245; P_HEIDI 0.71. Tier 3; PPH4 0.01 per Table 2."
+  },
+  {
+   "claim_id": "Ling2025-5",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2; Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, probe 15515_2)",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "P_SMR 1.29862e-4; P_FDR 0.0245. Table 2 PPH4 reported as '< 0.01' (no exact value), so coloc_pph4 null."
+  },
+  {
+   "claim_id": "Ling2025-6",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2 (OR); Supplementary Table S2 (MOESM1_ESM.xlsx, sheet Table S2, FSHB OID30233) for beta 1.36233, SE 0.1316, raw p",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "UKB-PPP; P_FDR 4.6e-22. PPH4 reported as '< 0.01' (no exact value). S2 OR column blank; OR from Table 2. 1,146 UKB-PPP druggable proteins tested."
+  },
+  {
+   "claim_id": "Ling2025-8",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2; Supplementary Table S2 (MOESM1_ESM.xlsx, sheet Table S2, SEZ6L2 OID21289)",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "P_FDR 0.00357 (Table 2: 0.004). PPH4 reported as '< 0.01' (no exact value)."
+  },
+  {
+   "claim_id": "Ling2025-9",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "cis"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 2; Supplementary Table S2 (MOESM1_ESM.xlsx, sheet Table S2, EPHB4 OID20242)",
+   "first_source_location": "Figure 2; Table 2; Results text",
+   "notes": "UKB-PPP; beta 0.3349, SE 0.0796; P_FDR 0.0074; P_HEIDI 0.68. PPH4 per gene only (0.99; text 0.993), dataset not specified."
+  },
+  {
+   "claim_id": "Wang2025GOI-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR -0.62809 (SE 0.1199), FDR 0.000459, topSNP rs6414310. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported. Outcome n=221,995 total; cases/controls not given. Stage 1-2 analysis: no hits."
+  },
+  {
+   "claim_id": "Wang2025GOI-2",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR -0.23899, FDR 0.0124, P_HEIDI 0.083, topSNP rs9925915. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported. Outcome cases/controls not given (n=221,995)."
+  },
+  {
+   "claim_id": "Wang2025GOI-3",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR 0.100087, FDR 0.0171, topSNP rs17423390. Coloc run on all 7 genes but PPH4 shown only for 4 passing >0.8; not drug-target, named diagnostic marker/causal gene. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported."
+  },
+  {
+   "claim_id": "Wang2025GOI-4",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR -0.12989, FDR 0.0261, topSNP rs10170771. PPH4 not reported (<0.8 implied). Named diagnostic marker/causal gene, not drug target. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported."
+  },
+  {
+   "claim_id": "Wang2025GOI-5",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR 0.460048 (SE 0.1109), FDR 0.0312, P_HEIDI 0.094, topSNP rs11076181. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported."
+  },
+  {
+   "claim_id": "Wang2025GOI-6",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR 0.141713, FDR 0.0388. topSNP rs126505 in Table 2 vs rs1265054 in Table S3 (typo). lncRNA. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported."
+  },
+  {
+   "claim_id": "Wang2025GOI-7",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P-SMR); Supplementary Table S3 (Suppl.2-s2.xlsx, sheet Table S3)",
+   "first_source_location": "Results text (OR, 95% CI); Table 2 (B-SMR, P)",
+   "notes": "B-SMR -0.07389, FDR 0.0399, topSNP rs67594352. PPH4 not reported (<0.8 implied). Named diagnostic marker/causal gene, not drug target. CI symmetric (OR ± 1.96·SE, not exp-scale); copied as reported."
+  },
+  {
+   "claim_id": "Tao2024-1",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+   "first_source_location": "Results text; Abstract; Figure 2",
+   "notes": "Top cis-pQTL rs314361; beta 0.3349, SE 0.0780. Bonferroni P<3.06e-5 (1,632 proteins). SMR P 2.58e-5, HEIDI 0.682. Replicated in ARIC PWAS. Trans-pQTL MR opposite direction."
+  },
+  {
+   "claim_id": "Tao2024-2",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+   "first_source_location": "Results text; Abstract; Figure 2",
+   "notes": "Top cis-pQTL rs11031006; beta 1.3623, SE 0.1130. SMR P 3.99e-25, HEIDI 0.112. Not replicated in PWAS."
+  },
+  {
+   "claim_id": "Tao2024-3",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+   "first_source_location": "Results text; Abstract; Figure 2",
+   "notes": "Top cis-pQTL rs1936800; beta 0.4705, SE 0.0764. SMR P 2.89e-9, HEIDI 0.170. Replicated in ARIC PWAS (Z 6.36)."
+  },
+  {
+   "claim_id": "Tao2024-4",
+   "status": "disagree",
+   "differences": {
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "Wald ratio (1 top SNP) or IVW (multiple top SNPs); per-protein method not stated",
+     "Wald ratio"
+    ]
+   },
+   "second_source_location": "Results 'Preliminary MR analyses' text (OR, CI, P); Supplementary Table S2 (Table_1.xlsx, sheet S2) beta/SE; Table 1 (PPH4)",
+   "first_source_location": "Results text; Abstract; Figure 2",
+   "notes": "Top cis-pQTL rs113443718; beta 0.3613, SE 0.0798. SMR P 9.28e-6, HEIDI 0.189. Not replicated in PWAS."
+  },
+  {
+   "claim_id": "Chen2025SR-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S5 (41598_2025_96711_MOESM1_ESM.xls, sheet 'Table S5 GCST90269970')",
+   "first_source_location": "Figure 3A",
+   "notes": "Discovery; p_SMR_multi 0.029, p_FDR 0.657 (not FDR-significant; nominal P<0.05 used). UKB replication OR 3.57 (1.41-9.04), P 0.007; FinnGen null (OR 1.07). Abstract: 'confirmed as risk factor'."
+  },
+  {
+   "claim_id": "Chen2025SR-10",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S5 (41598_2025_96711_MOESM1_ESM.xls, sheet 'Table S5 GCST90269970'); Figure 3A",
+   "first_source_location": "Figure 3A",
+   "notes": "eQTLGen blood. p_SMR_multi 0.036, p_FDR 0.42. Not replicated in FinnGen (OR 0.98) or UKB (OR 0.94). PPH4 at p12=5e-5 (threshold 0.5)."
+  },
+  {
+   "claim_id": "Chen2025SR-20",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S8 (41598_2025_96711_MOESM1_ESM.xls, sheet 'Table S8 GCST90269970'); Figure 4A",
+   "first_source_location": "Figure 4A",
+   "notes": "UKB-PPP pQTL (Sun 2023). p_SMR_multi 0.032, p_FDR 0.558. Replicated FinnGen R10 OR 1.38 (1.07-1.79) P 0.015; UKB OR 1.98 (1.21-3.25) P 0.007."
+  },
+  {
+   "claim_id": "Chen2025SR-29",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S2 (41598_2025_96711_MOESM1_ESM.xls, sheet 'Table S2 GCST90269970'), CpG cg21506299; Results text",
+   "first_source_location": "Figure 2A",
+   "notes": "Multiple MAP3K5 CpGs; chose cg21506299 (text-highlighted, Fig 2B coloc). cg24999105: OR 1.1 (1.02-1.18) P 0.0131; cg16581840 OR 0.82. Direction per higher methylation."
+  },
+  {
+   "claim_id": "Xie2025Med-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.9509
+    ],
+    "ci_low": [
+     null,
+     0.9272
+    ],
+    "ci_high": [
+     null,
+     0.9752
+    ],
+    "p_value": [
+     null,
+     9.34e-05
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S5 (medi-104-e41804-s004.xlsx, sheet Table_S5, GTEx v8 whole blood SMR)",
+   "first_source_location": "Results 3.3-3.5 and abstract (direction); estimates only in Supplementary Tables S5-S7",
+   "notes": "Converted: b_SMR -0.0503675, SE 0.012891; OR=exp(b), CI=exp(b±1.96SE). Whole blood (no uterus hit). Two-sample MR check (s005): IVW b -0.0418, P 2.5e-4, 'protective biomarker'."
+  },
+  {
+   "claim_id": "Xie2025Med-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.8743
+    ],
+    "ci_low": [
+     null,
+     0.7988
+    ],
+    "ci_high": [
+     null,
+     0.957
+    ],
+    "p_value": [
+     null,
+     0.00359
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S5 (medi-104-e41804-s004.xlsx, sheet Table_S5, GTEx v8 whole blood SMR)",
+   "first_source_location": "Results 3.3-3.5 and abstract (direction); estimates only in Supplementary Tables S5-S7",
+   "notes": "Converted: b_SMR -0.134286, SE 0.0461114; OR=exp(b), CI=exp(b±1.96SE). Whole blood. Threshold P<0.01, HEIDI>0.05, no FDR. MR check Wald ratio P 0.0013."
+  },
+  {
+   "claim_id": "Xie2025Med-3",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.761
+    ],
+    "ci_low": [
+     null,
+     0.6363
+    ],
+    "ci_high": [
+     null,
+     0.9101
+    ],
+    "p_value": [
+     null,
+     0.00278
+    ],
+    "n_instruments": [
+     null,
+     1
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table S5 (medi-104-e41804-s004.xlsx, sheet Table_S5, GTEx v8 whole blood SMR)",
+   "first_source_location": "Results 3.3-3.5 and abstract (direction); estimates only in Supplementary Tables S5-S7",
+   "notes": "Converted: b_SMR -0.273151, SE 0.0913153; OR=exp(b), CI=exp(b±1.96SE). Whole blood; nsnp_HEIDI 7. MR check Wald ratio P 0.00084."
+  },
+  {
+   "claim_id": "Song2025-1",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     1.099741849
+    ],
+    "ci_low": [
+     null,
+     1.06537437
+    ],
+    "ci_high": [
+     null,
+     1.135217975
+    ],
+    "p_value": [
+     null,
+     4.37e-09
+    ],
+    "n_instruments": [
+     null,
+     165
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (primary method not stated in abstract)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary mmc1.xlsx, sheet UKB",
+   "first_source_location": "Abstract",
+   "notes": "Full text paywalled (403); abstract + supplement only. Dataset = UKB-PPP. 165 SNPs suggests genome-wide (cis+trans) selection, not stated. Abstract: HLA-DRA raises ovarian EM risk via CREB3L4."
+  },
+  {
+   "claim_id": "Song2025-2",
+   "status": "disagree",
+   "differences": {
+    "estimate": [
+     null,
+     0.873682007
+    ],
+    "ci_low": [
+     null,
+     0.834884529
+    ],
+    "ci_high": [
+     null,
+     0.914282422
+    ],
+    "p_value": [
+     null,
+     5.65e-09
+    ],
+    "direction": [
+     "null_or_unclear",
+     "protective"
+    ],
+    "n_instruments": [
+     null,
+     110
+    ]
+   },
+   "soft_differences": {
+    "method": [
+     "MR (primary method not stated in abstract)",
+     "IVW"
+    ]
+   },
+   "second_source_location": "Supplementary mmc1.xlsx, sheet deCODE",
+   "first_source_location": "Abstract",
+   "notes": "Full text paywalled; dataset = deCODE. 110 SNPs; selection unclear. HLA-DRA->CREB3L4 MR OR 0.906 (mmc3). Mediation 13.99% (abstract). Coloc unknown."
+  },
+  {
+   "claim_id": "Chen2024HG-1",
+   "status": "disagree",
+   "differences": {
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "ebi-a-GCST90018839; ukb-d-IBD_ENDOMETRIOSIS",
+     "ebi-a-GCST90018839"
+    ]
+   },
+   "second_source_location": "Figure 1 (forest plot; read from figure)",
+   "first_source_location": "Figure 1",
+   "notes": "Two outcomes used (ebi-a-GCST90018839, ukb-d-IBD_ENDOMETRIOSIS), intersected; Fig 1 outcome unlabelled (log-odds scale suggests GCST90018839). Exposure dataset unnamed. Weighted median OR 1.242."
+  },
+  {
+   "claim_id": "Chen2024HG-4",
+   "status": "disagree",
+   "differences": {
+    "outcome_cohorts": [
+     [
+      "FinnGen",
+      "UK Biobank"
+     ],
+     [
+      "unknown"
+     ]
+    ]
+   },
+   "soft_differences": {
+    "outcome_release": [
+     "ebi-a-GCST90018839; ukb-d-IBD_ENDOMETRIOSIS",
+     "ebi-a-GCST90018839"
+    ]
+   },
+   "second_source_location": "Figure 1 (forest plot; read from figure)",
+   "first_source_location": "Figure 1",
+   "notes": "Same outcome ambiguity as AGPAT4. Abstract names COMT a pivotal biomarker/risk gene, not therapeutic target; COMT not significant in clinical samples."
+  },
+  {
+   "claim_id": "Lai2026-1",
+   "status": "disagree",
+   "differences": {
+    "instrument_scope": [
+     "unclear",
+     "genome_wide"
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Results text and Abstract; Table 1 (rounded: 0.89 (0.82-0.96), P .004)",
+   "first_source_location": "Results section 4 text and Abstract; Table 1 (rounded 0.89, 0.82-0.96)",
+   "notes": "Per 1-SD increase in GNLY expression. Instruments P<5e-8, r2<0.001, no cis restriction stated. FinnGen release/ID not stated. Outcome is ovarian endometriosis only."
+  },
+  {
+   "claim_id": "Gao2025Med-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table 1",
+   "first_source_location": "Table 1; Table 2; Table 3",
+   "notes": "FDR 0.0002; 91 proteins. Coloc reported only as PPH3+PPH4=0.9722 (no PPH4 alone). Replicated in Neale UKB: Wald beta 0.0041 (SE 0.0020), P 0.0416."
+  },
+  {
+   "claim_id": "Alesi2024Biomol-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table 2",
+   "first_source_location": "Table 2",
+   "notes": "Per SD IL-9. Instruments P<5e-6, r2<0.01, 10,000 kb; no cis restriction. No multiple-testing correction for main IVW. Table 2 labels outcome 'finn-b-E4_ENDOMETRIOSIS' (typo vs Table 1 N14)."
+  },
+  {
+   "claim_id": "Aru2025cath-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 1 (medi-104-e42579-s001.pdf); Figure 2; Results text",
+   "first_source_location": "Figure 2 (Abstract/Results: OR 1.037 [1.007-1.067], P=.013)",
+   "notes": "Text: OR 1.037 (1.007-1.067), P .013. Instruments P<5e-6, r2<0.001, no cis restriction. 9 cathepsins tested, no multiple-testing correction. Reverse MR also suggestive (OR 1.017)."
+  },
+  {
+   "claim_id": "Xue2025ugcg-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table 2; Results text; Abstract",
+   "first_source_location": "Table 2; Abstract",
+   "notes": "Exposure defined as 'UGCG inhibition' = inverse of UGCG-expression OR (Methods); per UGCG expression OR≈1/0.915, risk-increasing (Fig 2 slope positive). Cis ±300 kb, P<1e-5, r2<0.3. Total N 128,171; controls not stated."
+  },
+  {
+   "claim_id": "Rahmioglu2023-3",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 15 (sheet Supp15.SMR-endometrium-exp), row SRP14; also Table 1 (SRP14 (eQTL endometrium, rs4770))",
+   "first_source_location": "Supplementary Table 15, row SRP14 (rs4770); Table 1",
+   "notes": "SMR with cis-eQTLs from the endometrial Illumina microarray dataset (Fung et al. 2018, 229 endometrial samples). Top SNP rs4770; GWAS p 2.61x10-8; eQTL p 2.44x10-30; SMR p 5.57x10-7; HEIDI p 0.021 (printed 2.1000000000000001E-2), not marked with * so no significant heterogeneity: passes HEIDI. SMR threshold for array eQTLs 9.42x10-5 (0.05/531 probes); HEIDI threshold 0.05/m_SMR_sig. Novel finding: Yes. Paper reports SMR p-values only (no SMR beta/OR), so estimate null and direction null_or_unclear. Outcome: SMR used the European-cohort meta-analysis of this study; for endometrial QTL analyses Oxford and Melbourne cohorts were removed to keep GWAS and eQTL samples independent; case/control numbers for this reduced meta-analysis are not reported. European meta includes 23andMe (Supp Table 1, 37,182 cases), hence cohorts Rahmioglu2023_meta + 23andMe (Japanese BBJ not in the European analysis). estimate_scale set to OR by convention only; no estimate given. Headline: abstract names SRP14/BMF among genes whose expression/methylation is regulated by the risk signals, and the Discussion/closing paragraph describes these as genes with evidence for causal association with endometriosis and potential treatment targets."
+  },
+  {
+   "claim_id": "Rahmioglu2023-9",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     700352,
+     700345
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 16 (sheet Supp16.SMR-blood-exp), row GDAP1; also Table 1 (GDAP1 (eQTL blood, rs10283076)) and Extended Data figure on GDAP1/8q21.11",
+   "first_source_location": "Supplementary Table 16, row GDAP1 (rs10283076); Table 1",
+   "notes": "SMR with eQTLGen blood cis-eQTLs (15,513 genes with PeQTL<5x10-8 tested; SMR threshold 3.22x10-6). Top SNP rs10283076; GWAS p 3.82x10-12 (printed 3.8200000000000003E-12); eQTL p 5.27x10-24; SMR p 1.05x10-8; HEIDI p 8.86x10-2, not marked * so passes HEIDI. Novel finding: Yes. Only SMR p-values reported (no beta/OR): estimate null, direction null_or_unclear. Outcome: SMR used 'the endometriosis meta-analysis of European cohorts in this study'; cases/controls 58,961/700,345 are the European-ancestry totals given in Methods (Study-level analyses), not restated in the SMR section. European meta includes 23andMe; BBJ excluded. estimate_scale OR by convention only. Headline: GDAP1 named in abstract among genes regulated by risk signals (pain perception) and in Discussion as potentially causal."
+  },
+  {
+   "claim_id": "Rahmioglu2023-10",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     700352,
+     700345
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 16 (sheet Supp16.SMR-blood-exp), row SRP14",
+   "first_source_location": "Supplementary Table 16, row SRP14 (rs72731415)",
+   "notes": "SMR with eQTLGen blood cis-eQTLs (SMR threshold 3.22x10-6). Top SNP rs72731415; GWAS p 9.65x10-9 (printed 9.6500000000000004E-9); eQTL p printed 0; SMR p 1.10x10-8; HEIDI p 1.09x10-3*, marked * = significant heterogeneity detected: FAILS HEIDI. Novel finding: N/A. Not listed in main Table 1 (Table 1 lists SRP14 only as eQTL endometrium, rs4770); the SRP14-AS1/15q15.1 Extended Data figure caption mentions SRP14 expression in endometrium and blood and says SMR SNPs not passing HEIDI are in black. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline set true because SRP14 (SRP14/BMF) is named in the abstract; note this particular blood result fails HEIDI."
+  },
+  {
+   "claim_id": "Rahmioglu2023-32",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     700352,
+     700345
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 18 (sheet Supp18.SMR-blood-meth), row cg23779890 (GDAP1); also Table 1 (GDAP1 (mQTL blood, rs4567029))",
+   "first_source_location": "Supplementary Table 18, row cg23779890 (GDAP1); Table 1",
+   "notes": "Methylation QTL claim: exposure = DNA methylation at cg23779890 mapped to GDAP1. Blood mQTL dataset (paper ref 13; 93,154 probes with PmQTL<5x10-8; SMR threshold 5.37x10-7). cg23779890 chr8:75262522; top SNP rs4567029; GWAS p 3.46x10-12; mQTL p 2.17x10-23; SMR p 1.16x10-8; HEIDI p 0.185 (not marked *): passes HEIDI. Novel finding: Yes. Only CpG for GDAP1 in Supp Table 18. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline: GDAP1 named in abstract."
+  },
+  {
+   "claim_id": "Rahmioglu2023-33",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     700352,
+     700345
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 18 (sheet Supp18.SMR-blood-meth), row cg04231319 (MLLT10); also Table 1 (MLLT10 (mQTL blood, rs12251016))",
+   "first_source_location": "Supplementary Table 18, row cg04231319 (MLLT10); Table 1",
+   "notes": "Methylation QTL claim: exposure = DNA methylation at cg04231319 mapped to MLLT10. Blood mQTL dataset (paper ref 13; 93,154 probes; SMR threshold 5.37x10-7). cg04231319 chr10:21824447; top SNP rs12251016 (^ credible SNP); GWAS p 5.45x10-12; mQTL p 2.17x10-15; SMR p 1.96x10-7; HEIDI p 0.964 (not marked *): passes HEIDI. Novel finding: Yes. Only CpG for MLLT10 in Supp Table 18. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline: MLLT10 named in abstract."
+  },
+  {
+   "claim_id": "Rahmioglu2023-38",
+   "status": "disagree",
+   "differences": {
+    "outcome_controls": [
+     700352,
+     700345
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Supplementary Table 18 (sheet Supp18.SMR-blood-meth), row cg16650630 (BMF); also Table 1 (BMF (mQTL blood, rs7162269))",
+   "first_source_location": "Supplementary Table 18, row cg16650630 (BMF); Table 1",
+   "notes": "Methylation QTL claim: exposure = DNA methylation at cg16650630 mapped to BMF. Blood mQTL dataset (paper ref 13; 93,154 probes; SMR threshold 5.37x10-7). cg16650630 chr15:40364862; top SNP rs7162269 (^ credible SNP); GWAS p 7.69x10-13; mQTL p printed 0; SMR p 1.75x10-12; HEIDI p 0.163 (not marked *): passes HEIDI. Other BMF CpG: cg00868766 (chr15:40364524), same SNP rs7162269, GWAS p 7.69x10-13, mQTL p 0, SMR p 1.90x10-12, HEIDI p 0.108 (passes). cg27155939 at the same locus is annotated SRP14-AS1, not BMF, so not included. Novel finding: Yes. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline: BMF named in abstract (SRP14/BMF)."
+  },
+  {
+   "claim_id": "Fung2018-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results, section 'Summary data-based Mendelian randomisation (SMR) analysis with GWAS meta-analysis' (text); Supplementary Figure S11 (locus plot)",
+   "first_source_location": "Results, 'Summary data-based Mendelian randomisation (SMR) analysis with GWAS meta-analysis'; Fig. S11",
+   "notes": "SMR with endometrial cis-eQTLs from this study (Illumina microarray, 229 women); 453 Bonferroni-significant eQTL probes tested, SMR threshold 1.1x10-4 (0.05/453). LINC00339 was the single gene passing both SMR and HEIDI: rs61768001, pSMR = 4.82x10-7; HEIDI p-value not given (stated as passing; HEIDI threshold 0.05/m_SMR_sig). VEZT (rs7966079, pSMR 1.64x10-4) just missed the SMR threshold. Probe ID for LINC00339 not stated in the text. No SMR beta or direction reported for LINC00339: estimate null, direction null_or_unclear. Outcome: Sapkota et al. (ref 23) meta-analysis, described as '>12,000 European endometriosis cases'; number of controls not given. The local full text does not list Sapkota's datasets: outcome_cohorts deCODE + 23andMe + other is from the extractor's knowledge of Sapkota 2017 (deCODE and 23andMe co-authors; 'other' = QIMRHCS, OX, NHS2, WGHS, LEUVEN and other European case-control sets) and needs checking against Sapkota 2017; whether the summary data used included 23andMe is not stated. estimate_scale OR by convention only. Headline: title 'potential target genes for endometriosis'; abstract names LINC00339 eQTL in endometriosis risk region; Discussion calls LINC00339 'a potential causal gene' and Conclusion says there is good evidence the causal SNP influences endometriosis risk and LINC00339 expression."
+  },
+  {
+   "claim_id": "Mortlock2019-1",
+   "status": "disagree",
+   "differences": {
+    "headline": [
+     true,
+     false
+    ]
+   },
+   "soft_differences": {},
+   "second_source_location": "Table 5 (SMR with endometrial mQTLs and endometriosis meta-analysis), row cg16908938 (GREB1); Fig. 4",
+   "first_source_location": "Table 5 (row cg16908938)",
+   "notes": "Methylation QTL claim: exposure = DNA methylation at cg16908938 mapped to GREB1. Endometrial mQTLs from this study (66 European women); 4546 Bonferroni-significant DNAm probe sites tested; SMR threshold given as PSMR < 1.2x10-5 in Results and 1.10x10-5 in Methods. cg16908938 (chr2, probe bp 11,728,029); top SNP rs59129126; p_SMR 1.58E-07; p_HET (HEIDI) 1.25E-01: passes HEIDI (PHEIDI > 0.01). Only GREB1-annotated CpG in Table 5; the nearby cg07314298 (rs28689909, p_SMR 7.93E-06, p_HET 1.26E-02, also passes HEIDI) is annotated to Metazoa_SRP by the paper, so not treated as GREB1. Table 5 gives no b_SMR: estimate null, direction null_or_unclear. Blood replication (LBC-BSGS mQTLs, Table 6) is a separate dataset: GREB1 cg02584498 b_SMR 0.149038 p 1.01E-11; cg10849854 b_SMR 0.250387 p 4.40E-10; cg16908938 b_SMR 0.0779192 p 1.34E-08. Outcome: Sapkota et al. (ref 26), '~15,000 European endometriosis cases' (Methods); controls not given. outcome_cohorts deCODE + 23andMe + other is from extractor's knowledge of Sapkota 2017, not the local text; needs checking. estimate_scale OR by convention only. Headline false: abstract only says one mQTL lies in a known endometriosis risk region 'near GREB1', and neither Conclusion names GREB1 as a candidate target or causal gene (title refers generically to 'gene targets for reproductive diseases'); borderline."
+  },
+  {
+   "claim_id": "Huang2023-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     "Gene ATLAS traits=503",
+     null
+    ]
+   },
+   "second_source_location": "Results section 3.3, main text (TOP3A named among 9 of 14 genes with PSMR<0.05 and PHEIDI>0.05 in the GTEx blood dataset; no values given); per-gene values are in Supplementary Table S9, which is not in the local supplement files",
+   "first_source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with GTEx blood); values in Supplementary Table S9 (not obtained)",
+   "notes": "SMR with GTEx blood eQTL (main text says 'GTEx' blood dataset; version not restated for SMR; the paper's GTEx Dataset #5 is v7, n=369, and S-PrediXcan used GTEx v7 whole blood). SMR was run only on the 14 Sherlock-prioritised genes. Paper threshold: 'notable causality' = PSMR<0.05 and PHEIDI>0.05 (nominal, no multiple-testing correction); TOP3A meets it in GTEx blood (9 of 14 genes; 3 more suggestive with 0.05<PSMR<0.1). No SMR beta, OR, p-value, HEIDI p-value or top SNP is reported in the main text, and Table S9 could not be read, so estimate, p_value and direction are left empty; n_instruments=1 assumes the standard SMR top-cis-eQTL result. SMR results correlated between eQTLGen and GTEx (rho = 0.7, P = 0.0057; Fig. S5, not available). Outcome: overall EM in UK Biobank (Gene ATLAS; data-availability URL gives traits=503); controls not stated separately (total N 245,494). Title refers to ovarian EM, but that refers to the clinical samples; the GWAS outcome is endometriosis overall. Other evidence for TOP3A, not MR: Sherlock permuted P 0.0022/0.024/0.0028 (Datasets #3/#4/#5), MAGMA P 0.011, S-PrediXcan P 0.0032 (GTEx v7 whole blood; does not pass the paper's own Bonferroni threshold 4.46e-6), PBMC RNA-seq log2FC 0.56 (P 1.15E-08, 30 ovarian EM vs 30 controls), IHC higher in ectopic/eutopic endometrium, siRNA knockdown in EESCs. Headline: abstract and conclusion name MKNK1 and TOP3A as 'novel EM risk-related genes' / 'EM risk-associated genes, whose genetically modulated abnormal expression may contribute to EM' (read as a causal-gene claim; title also names them)."
+  },
+  {
+   "claim_id": "Huang2023-2",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     "Gene ATLAS traits=503",
+     null
+    ]
+   },
+   "second_source_location": "Results section 3.3, main text (TOP3A named among 9 genes with PSMR<0.05 and PHEIDI>0.05 in the eQTLGen blood dataset; no values given); per-gene values are in Supplementary Table S9, which is not in the local supplement files",
+   "first_source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with eQTLGen blood); values in Supplementary Table S9 (not obtained)",
+   "notes": "SMR with eQTLGen blood eQTL (release not stated). SMR was run only on the 14 Sherlock-prioritised genes. Paper threshold: 'notable causality' = PSMR<0.05 and PHEIDI>0.05 (nominal, no multiple-testing correction); TOP3A meets it in eQTLGen (9 genes; 1 more suggestive with 0.05<PSMR<0.1). No SMR beta, OR, p-value, HEIDI p-value or top SNP is reported in the main text, and Table S9 could not be read, so estimate, p_value and direction are left empty; n_instruments=1 assumes the standard SMR top-cis-eQTL result. SMR results correlated between eQTLGen and GTEx (rho = 0.7, P = 0.0057). Outcome: overall EM in UK Biobank (Gene ATLAS; data-availability URL gives traits=503); controls not stated separately (total N 245,494). Title's 'ovarian EM' refers to the clinical samples, not the GWAS outcome. Non-MR support for TOP3A as in Huang2023-1 (Sherlock, MAGMA, S-PrediXcan, PBMC RNA-seq up-regulation, IHC, siRNA). Headline: abstract and conclusion name MKNK1 and TOP3A as EM risk-related / risk-associated genes whose genetically modulated expression may contribute to EM."
+  },
+  {
+   "claim_id": "Huang2023-3",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     "Gene ATLAS traits=503",
+     null
+    ]
+   },
+   "second_source_location": "Results section 3.3, main text (MKNK1 named among 9 of 14 genes with PSMR<0.05 and PHEIDI>0.05 in the GTEx blood dataset; no values given); per-gene values are in Supplementary Table S9, which is not in the local supplement files",
+   "first_source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with GTEx blood); values in Supplementary Table S9 (not obtained)",
+   "notes": "SMR with GTEx blood eQTL (version not restated for SMR; the paper's GTEx Dataset #5 is v7, n=369). SMR was run only on the 14 Sherlock-prioritised genes. Paper threshold: PSMR<0.05 and PHEIDI>0.05 (nominal, no multiple-testing correction); MKNK1 meets it in GTEx blood. No SMR beta, OR, p-value, HEIDI p-value or top SNP in the main text and Table S9 is unavailable, so estimate, p_value and direction are empty; n_instruments=1 assumes the standard SMR top-cis-eQTL result. Outcome: overall EM in UK Biobank (Gene ATLAS, traits=503 in the data-availability URL); controls not stated separately (total N 245,494). Other evidence for MKNK1, not MR: Sherlock permuted P 0.0098/0.032/0.0039 (Datasets #3/#4/#5), MAGMA P 3.88E-05, S-PrediXcan P 0.027 (GTEx v7 whole blood), PBMC RNA-seq log2FC 0.94 (P 1.91E-09), IHC higher in eutopic and ectopic endometrium, siRNA knockdown reduced EESC migration and invasion. Headline: abstract and conclusion name MKNK1 and TOP3A as EM risk-related / risk-associated genes whose genetically modulated expression may contribute to EM."
+  },
+  {
+   "claim_id": "Huang2023-4",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {
+    "outcome_release": [
+     "Gene ATLAS traits=503",
+     null
+    ]
+   },
+   "second_source_location": "Results section 3.3, main text (MKNK1 named among 9 genes with PSMR<0.05 and PHEIDI>0.05 in the eQTLGen blood dataset; no values given); per-gene values are in Supplementary Table S9, which is not in the local supplement files",
+   "first_source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with eQTLGen blood); values in Supplementary Table S9 (not obtained)",
+   "notes": "SMR with eQTLGen blood eQTL (release not stated). SMR was run only on the 14 Sherlock-prioritised genes. Paper threshold: PSMR<0.05 and PHEIDI>0.05 (nominal, no multiple-testing correction); MKNK1 meets it in eQTLGen. No SMR beta, OR, p-value, HEIDI p-value or top SNP in the main text and Table S9 is unavailable, so estimate, p_value and direction are empty; n_instruments=1 assumes the standard SMR top-cis-eQTL result. SMR results correlated between eQTLGen and GTEx (rho = 0.7, P = 0.0057). Outcome: overall EM in UK Biobank (Gene ATLAS, traits=503); controls not stated separately (total N 245,494). Non-MR support for MKNK1 as in Huang2023-3. Headline: abstract and conclusion name MKNK1 and TOP3A as EM risk-related / risk-associated genes whose genetically modulated expression may contribute to EM."
+  },
+  {
+   "claim_id": "Yang2025-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table S11 (mmc12.xlsx, Sheet1, row 4: probeID 2:11588931:11592776:clu_53175_NA, Gene GREB1)",
+   "first_source_location": "Table S11 (mmc12.xlsx), row 2:11588931:11592776:clu_53175_NA; Results 'Endometriosis risk genes with genetically driven effects on splicing in endometrium' text; Figure 6A",
+   "notes": "OR converted from SMR beta: OR = exp(b_SMR), CI = exp(b_SMR +/- 1.96*se_SMR); reported b_SMR 0.131722, se_SMR 0.0229739 (log-odds per SD of the intron excision ratio). Exposure: endometrial cis-sQTL (LeafCutter intron excision ratios + QTLtools, 206 European-ancestry women, 1 Mb cis window). Representative event = GREB1 intron with the lowest p_SMR: 2:11588931:11592776:clu_53175_NA, top SNP rs12470971; p_SMR_multi 9.833942e-9; p_HEIDI 0.5897582 (pass, nsnp_HEIDI 20); fdr 2.8557767568e-5; bf 5.7115535136e-5; p_GWAS 3.406678e-29, p_eQTL 2.538704e-11. Second significant GREB1 event (same cluster): 2:11588931:11591396:clu_53175_NA, top SNP rs72772088, b_SMR -0.124353, se 0.023334, p_SMR 9.860847e-8, p_HEIDI 0.2558866 (pass), fdr 1.9090599792e-4 (converted OR 0.8831, 0.8436-0.9244). The two GREB1 events have opposite signs, so direction refers only to the representative intron (per higher excision ratio of that intron), not to GREB1 expression; the text calls the two events 'a: exon 15 skipping' and 'b: intron excision' but the table does not say which intron is which. Significance: Results say 6 splicing events in 4 genes at FDR<0.05 (ARL14EP, GREB1, WASHC3, RP11-624M8.1), only GREB1 and WASHC3 passing HEIDI (p_HEIDI>0.05); Methods define significance as Psmr < 0.05/number of tested transcripts and PHEIDI >= 0.05; the table caption lists results at fdr<0.2. THISTLE-based sQTL SMR: no FDR-significant signal. Outcome: Methods/Results cite ref 17 (2023 European GWAS meta-analysis; key resources table GCST90205183), but the Discussion cites ref 41 (Sapkota 2017) for this integration; whether 23andMe data were included is not stated (the 23andMe data-use statement is tied to the Sapkota 2017 dataset in the key resources table); case/control counts not given in the paper. No colocalisation. Headline: abstract states GREB1 and WASHC3 were 'significantly associated with endometriosis risk through genetically regulated splicing events' (read as naming them as causal/risk genes)."
+  },
+  {
+   "claim_id": "Yang2025-2",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Table S11 (mmc12.xlsx, Sheet1, row 7: probeID 12:102046119:102050189:clu_42350_NA, Gene WASHC3)",
+   "first_source_location": "Table S11 (mmc12.xlsx), row 12:102046119:102050189:clu_42350_NA; Results 'Endometriosis risk genes with genetically driven effects on splicing in endometrium' text; Figure S11",
+   "notes": "OR converted from SMR beta: OR = exp(b_SMR), CI = exp(b_SMR +/- 1.96*se_SMR); reported b_SMR -0.0933109, se_SMR 0.01962 (log-odds per SD of the intron excision ratio). Exposure: endometrial cis-sQTL (LeafCutter + QTLtools, 206 European-ancestry women). Only one WASHC3 event in Table S11: intron 12:102046119:102050189:clu_42350_NA, top SNP rs143511013 (in a non-coding exon of LINC02456, high LD r2=0.95 with GWAS index rs10860864 at the IGF1 locus); p_SMR_multi 1.975468e-6; p_HEIDI 0.6570071 (pass, nsnp_HEIDI 20); fdr 2.2947036288e-3; bf 1.1473518144e-2; p_GWAS 2.877677e-13; p_eQTL 3.636023e-10. Direction refers to higher excision of this intron (described as exon skipping in WASHC3), not to WASHC3 expression. The text is inconsistent about the exon (exon 6 skipping in Results/Discussion, 'exon 7 skipping' and 'exon 3 skipping' elsewhere). Significance: 6 events in 4 genes at FDR<0.05; only GREB1 and WASHC3 pass HEIDI; Methods threshold Psmr < 0.05/number tested and PHEIDI >= 0.05. Outcome: Methods/Results cite the 2023 European meta-analysis (ref 17; GCST90205183) but the Discussion cites ref 41 (Sapkota 2017); 23andMe inclusion not stated; case/control counts not given. No colocalisation. Discussion mentions a prior MR linking WASHC3 plasma protein to endometriosis (ref 63). Headline: abstract names GREB1 and WASHC3 as significantly associated with endometriosis risk through genetically regulated splicing."
+  },
+  {
+   "claim_id": "Liu2026-1",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results section 3.7 (main text); Figure 7A, E, I; Table 1 (sensitivity)",
+   "first_source_location": "Results 3.7 text; Figure 7A, E, I; Table 1",
+   "notes": "Two-sample MR, exposure 'pQTL summary data retrieved from the FinnGen database' (dataset, platform, tissue and sample size not specified). Instruments: SNPs at P < 5e-6, LD pruning r2 < 0.001 and 10,000 kb distance; no cis restriction stated, hence genome_wide. Only the 6 machine-learning core genes (PLAT, SELL, AXL, ESR1, MET, PIK3R1) were tested; MET and SELL nominally significant; the paper states no multiple-testing correction was applied. Subtype results: fallopian tube-type OR 0.673 (0.453-0.999), p = 0.0495; intestinal-type OR 0.727 (0.557-0.950), p = 0.0197. Sensitivity (Table 1, overall endometriosis): Cochran's Q 38.709, p-value 0.096 (note: Q = 38.709 on 17 df would give p of about 0.002, so the printed Q p-value looks inconsistent); MR-Egger intercept 0.020 (se 0.011, p 0.076); MR-PRESSO RSSobs 66.203, p 0.350; mean F 115.579 (min 31.336, max 1,034.491). Colocalisation not performed (stated as a limitation). MET mRNA down-regulated in endometriosis tissue (GEO arrays). Headline: abstract and conclusion name MET and SELL as key/core hub genes and core targets with MET showing a potentially protective association; Discussion says they 'may serve as potential therapeutic targets'."
+  },
+  {
+   "claim_id": "Liu2026-2",
+   "status": "agree",
+   "differences": {},
+   "soft_differences": {},
+   "second_source_location": "Results section 3.7 (main text); Figure 7D, H, L; Table 1 (sensitivity)",
+   "first_source_location": "Results 3.7 text; Figure 7D, H, L; Table 1",
+   "notes": "Two-sample MR, exposure 'pQTL summary data retrieved from the FinnGen database' (dataset, platform, tissue and sample size not specified). Instruments: SNPs at P < 5e-6, LD pruning r2 < 0.001 and 10,000 kb distance; no cis restriction stated, hence genome_wide. Only the 6 machine-learning core genes were tested; MET and SELL nominally significant; no multiple-testing correction applied (stated). No SELL subtype results reported. Sensitivity (Table 1): Cochran's Q 16.879, p 0.531; MR-Egger intercept 0.001 (se 0.005, p 0.885); MR-PRESSO RSSobs 20.450, p 0.530; mean F 236.022 (min 29.735, max 3,575.392). Colocalisation not performed. SELL mRNA up-regulated in endometriosis tissue (GEO arrays). Headline: abstract and conclusion name MET and SELL as key/core hub genes and core targets, SELL 'exhibiting a modest positive association with endometriosis risk'; Discussion says they 'may serve as potential therapeutic targets'."
+  }
+ ]
+}

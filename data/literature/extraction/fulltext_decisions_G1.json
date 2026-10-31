@@ -1,0 +1,35 @@
+[
+ {
+  "record_id": "doi:10.1038/s41588-023-01323-z",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of GTEx uterus, endometrial (microarray and RNA-seq) and eQTLGen eQTL and endometrial and blood mQTL on the study's European endometriosis meta-analysis; significant genes in Supplementary Tables 14-18.",
+  "full_text_accessed": true,
+  "access_route": "ncbi_pmc_xml",
+  "n_claims": 38,
+  "duplicate_of": null,
+  "notes": "38 claims = every gene x QTL dataset passing that dataset's Bonferroni SMR threshold, including HEIDI failures: GTEx uterus 1, endometrial eQTL 6 (4 microarray, 2 RNA-seq), eQTLGen 11, endometrial mQTL 2, blood mQTL 18 (one claim per gene, CpG with lowest P_SMR as representative). Main-text Table 1 lists the 23 genes passing SMR and HEIDI. Only Supplementary Table 14 gives SMR betas; other claims have p-values only, direction null_or_unclear. cg07314298 in Supplementary Table 17 (printed 'Metazoa_SRP', not an HGNC gene) counted under GREB1, as the same probe is annotated GREB1 in Supplementary Table 18. Headline true only for SRP14, BMF, GDAP1 and MLLT10 claims (named in the abstract). No replication outcome, colocalisation or wet-lab test of SMR genes."
+ },
+ {
+  "record_id": "doi:10.1038/ncomms15539",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of Westra 2013 blood eQTL on the Sapkota 2017 endometriosis meta-analysis; CDC42 and VEZT pass P_SMR < 8.4e-6 (Supplementary Data 14).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "VEZT fails HEIDI (p 0.004) but passes SMR, so it is a claim with the HEIDI failure in notes. Neither gene is named in the abstract, so no headline claims. Text cites 'Supplementary Data 15' for heterogeneity, but that sheet holds DEPICT results; HEIDI values taken from Supplementary Data 14."
+ },
+ {
+  "record_id": "doi:10.1038/s41598-018-29462-y",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "SMR of endometrial microarray eQTL on the Sapkota 2017 endometriosis GWAS; LINC00339 passes the SMR threshold (1.1e-4) and HEIDI.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Significance decided by the paper's own rule, P_SMR < 1.1e-4 (0.05/453 probes): LINC00339 (4.82e-7) is a claim; VEZT (1.64e-4) does not meet it and is not a claim, although the paper discusses it as near-significant and HEIDI-passing. No SMR beta or HEIDI p-value reported for endometriosis; Table S23 covers other traits only."
+ }
+]

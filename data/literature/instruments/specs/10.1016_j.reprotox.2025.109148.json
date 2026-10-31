@@ -1,0 +1,38 @@
+{
+ "record_id": "doi:10.1016/j.reprotox.2025.109148",
+ "tables": {},
+ "claims": {
+  "Hong2026RT-1": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for PRLR (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-2": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for SULT1B1 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-3": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for DIP2B (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-4": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for FBXO5 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-5": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for CDCA2 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-6": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for AGPAT1 (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-7": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for PDE5A (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  },
+  "Hong2026RT-8": {
+   "status": "not_available",
+   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for VPS13B (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
+  }
+ }
+}

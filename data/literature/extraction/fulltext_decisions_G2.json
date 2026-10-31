@@ -1,0 +1,35 @@
+[
+ {
+  "record_id": "doi:10.1186/s13148-019-0648-7",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own SMR/HEIDI of endometrial mQTL (66 women; Table 5) and LBC-BSGS blood mQTL (Table 6) on the Sapkota 2017 endometriosis GWAS; GREB1 and KDR in both tissues, WNT4 and C11orf46 (ARL14EP) in blood.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 6,
+  "duplicate_of": null,
+  "notes": "Claims include KDR (passes SMR, fails HEIDI in both tissues). Metazoa_SRP site cg07314298 (passes SMR+HEIDI in both tissues) is not a separate claim: Metazoa_SRP is an Rfam element inside GREB1, not an HGNC symbol (and fails the gene-symbol check); its values are in the GREB1 claims' notes. Endometrial table gives P values only. No eQTL-SMR on endometriosis; Table S6 SMR covers other traits only. Supplementary PDFs contain no SMR results."
+ },
+ {
+  "record_id": "doi:10.1038/s42003-023-05070-z",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own SMR/HEIDI of endometrial mQTL (Supplementary Data 14) and of GTEx v8 eQTL (Supplementary Data 16) on a European endometriosis GWAS meta-analysis (31,021 cases; Rahmioglu 2023 cohorts minus the mQTL cohorts, plus FinnGen).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 58,
+  "duplicate_of": null,
+  "notes": "45 mQTL claims (one per gene in Data 14's 'Summary of Genes with functional evidence' column, whose 45 unique genes match the text's '45 genes'; representative CpG = lowest P_SMR; a CpG annotated to several genes appears in each). 5 of them are stage III/IV-only genes. Not claimed: 7 significant CpGs with no gene annotation (cg17720707, cg05330848, cg10977619, cg09005886, cg11147944, cg12960616, cg15860633). 13 SMR_eQTL claims from Data 16 (gene x GTEx tissue; overall endometriosis, or stage III/IV where only that is significant). Data 15 (mQTL-to-eQTL SMR) has no endometriosis outcome. P_HEIDI not given for mQTL rows. The 2026 Nat Genet GWAS re-used this endometrial mQTL dataset with a different outcome GWAS (separate claims)."
+ },
+ {
+  "record_id": "doi:10.1038/s41588-026-02582-2",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own SMR/HEIDI of blood (5-dataset meta-analysis) and endometrial (Mortlock 2023) mQTL on its EUR endometriosis GWAS; main text names KDR, VEZT, ESR1, GDAP1, ENSG00000289405, HCG2P7 (blood) and WNT4, RAI1, HLCS, HCG2P7 (endometrium), plus SEMA3F via Fig. 4.",
+  "full_text_accessed": true,
+  "access_route": "ncbi_pmc_xml",
+  "n_claims": 11,
+  "duplicate_of": null,
+  "notes": "Supplement not obtained: only CpG-to-gene results named in the main text are extracted; the rest of the 305 significant blood CpGs (Supplementary Tables 15-17) and 57 endometrial CpGs (Supplementary Table 19) and the gene summary (Supplementary Table 20) still need extraction. Not claimed (no gene given for the CpG): MHC-region CpGs (top cg14574237), the chr12 25.9-27.3 Mb locus (CBX3, SNX10, HNRNPA2B1, NFE2L3; top cg12942962), ESR1-region top cg23164938, endometrial cg13258528, cg10414477 and cg05678033, and 8 EAS nominal replications. TWAS (S-PrediXcan/MultiXcan) and PWAS (FUSION) are not MR (PROTOCOL exclusion); the paper's two-sample MR is endometriosis vs traits only. Genes named in the Discussion without a stated SMR result (EEFSEC, UBE2D3, DTD1, GREB1, SKAP1, HOXA3, FN1, etc.) not claimed. Abstract names no genes, so no claim is headline."
+ }
+]

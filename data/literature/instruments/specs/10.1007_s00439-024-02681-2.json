@@ -1,0 +1,50 @@
+{
+ "record_id": "doi:10.1007/s00439-024-02681-2",
+ "tables": {},
+ "claims": {
+  "Chen2024HG-1": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs. Per-SNP effects for AGPAT4 appear only as plotted points in Fig. 3 (scatter/funnel/leave-one-out/forest plots with rsIDs) - no numeric SNP-exposure effects or alleles."
+  },
+  "Chen2024HG-2": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-3": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-4": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs. Per-SNP effects for COMT appear only as plotted points in Fig. 3 (scatter/funnel/leave-one-out/forest plots with rsIDs) - no numeric SNP-exposure effects or alleles."
+  },
+  "Chen2024HG-5": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-6": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-7": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-8": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-9": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-10": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  },
+  "Chen2024HG-11": {
+   "status": "not_available",
+   "reason": "The article has no supplementary data files (PMC deposit contains only the six figure images); Fig. 1 gives gene-level IVW results (nsnp, OR, p) only and the text names no instrument SNPs."
+  }
+ }
+}

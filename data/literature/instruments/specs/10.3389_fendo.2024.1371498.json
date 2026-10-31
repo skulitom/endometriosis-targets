@@ -1,0 +1,38 @@
+{
+ "record_id": "doi:10.3389/fendo.2024.1371498",
+ "tables": {
+  "S1": {
+   "file": "text/Table1__Table_S1.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele",
+    "other_allele": "other_allele",
+    "beta_exposure": "beta",
+    "se_exposure": "se",
+    "pval_exposure": "pval",
+    "eaf_exposure": "eaf"
+   }
+  }
+ },
+ "claims": {
+  "Chen2024-1": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Plasma"
+    },
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "RSPO3"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Supplementary Table S1 (genetic instruments of plasma and brain proteins), Plasma RSPO3 row: rs2489623, Author = Sun (INTERVAL), same SNP and effect allele C as main-text Table 1 (OR 1.0029). Supplementary Table S2 holds deCODE/FENN validation instruments, not used here. No per-SNP outcome (UKB endometriosis) effect is reported, so the Wald ratio cannot be recomputed."
+  }
+ }
+}

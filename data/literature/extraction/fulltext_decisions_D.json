@@ -1,0 +1,134 @@
+[
+ {
+  "record_id": "doi:10.1038/s41598-025-96711-2",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Cis-SMR of blood eQTL, UKB-PPP pQTL and mQTL of cell-ageing genes on Rahmioglu 2023 endometriosis; estimates reported.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 39,
+  "duplicate_of": null,
+  "notes": "Estimates read from figure tables (Figs 2A-4A). 78 mQTL genes significant (Table S2); only 14 named in main text extracted."
+ },
+ {
+  "record_id": "doi:10.1186/s12905-025-03697-0",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Two-sample MR of IEU eQTL gene expression on UKB endometriosis (ukb-b-9668); 17 significant genes in Table 1.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 17,
+  "duplicate_of": null,
+  "notes": "eQTL dataset IDs and cis restriction not stated; P<5e-6 instruments."
+ },
+ {
+  "record_id": "doi:10.1186/s12958-025-01508-7",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "GTEx whole-blood cis-eQTL MR of NSAID target genes on FinnGen+Estonian endometriosis; two genes survive correction.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "Four nominal genes (NDST1, HINT1, FDFT1, FABP2) not significant after correction; not extracted."
+ },
+ {
+  "record_id": "doi:10.1186/s40360-025-01030-x",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "IL1B expression (eQTLGen eqtl-a) MR on BioBank Japan endometriosis; IVW estimate reported.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "IVW CI includes 1 although P reported <0.05; trans-ancestry design."
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s601516",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "UVMR/MVMR of eQTLGen eqtl-a expression of SUMOylation genes on ebi-a-GCST90018839 endometriosis; estimates in Tables 1, 5.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 7,
+  "duplicate_of": null,
+  "notes": "Betas tiny; OR converted from beta. Outcome cohorts assumed UKB+FinnGen (Sakaue 2021), verify."
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1372221",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "eQTL MR of programmed-cell-death genes on FinnGen R5 endometriosis; 17 significant genes with estimates.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 17,
+  "duplicate_of": null,
+  "notes": "eQTL source not stated; estimates read from Figure 3A."
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2026.1735221",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "IEU eQTL MR of LRP1 expression on FinnGen R10 endometriosis; IVW OR reported.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Endometriosis is the outcome; instrument count ambiguous (12 vs 3 named SNPs)."
+ },
+ {
+  "record_id": "doi:10.3389/frph.2026.1747031",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "TSMR+SMR of eQTLGen eQTL, deCODE pQTL and mQTL of mitochondrial genes on FinnGen R10 endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 66,
+  "duplicate_of": null,
+  "notes": "Claims use SMR estimates from Fig 2; 113 mQTL sites claimed but 36 shown; RPL21 has no reported estimate."
+ },
+ {
+  "record_id": "doi:10.3390/biology13110871",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "TWAS-prioritised genes tested by Wald-ratio MR with GTEx v8 cis-eQTL on FinnGen R11 endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 38,
+  "duplicate_of": null,
+  "notes": "38 gene-tissue estimates read from Figure 4A; GREB1, SULT1E1, IL1A lacked instruments (no MR)."
+ },
+ {
+  "record_id": "doi:10.3390/cimb47100831",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "eQTLGen eqtl-a MR of iron-metabolism genes on UKB endometriosis (ukb-b-10903); BMP6 and SLC48A1 estimates in Table 1.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.64898/2026.08.25.26361232",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Iron biomarkers (ferritin, TIBC, transferrin saturation, hepcidin) with genome-wide instruments; no proteomic platform, cis instrument or target proposal.",
+  "full_text_accessed": true,
+  "access_route": "preprint_html",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Ferritin IVW OR 0.85 (abstract) vs 0.84 (results) on Rahmioglu 2023; hepcidin (Allara 2024) null. No published version in records."
+ },
+ {
+  "record_id": "doi:10.64898/2026.08.25.26361263",
+  "final_decision": "exclude",
+  "reason_code": "E5",
+  "reason": "TWAS (S-PrediXcan) drug-repurposing pipeline; no original MR estimate reported for endometriosis genes.",
+  "full_text_accessed": true,
+  "access_route": "preprint_html",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Abstract mentions MR validation of gold-standard pairs, but Methods/Results report none; Tables 3 and 5 rendered as images only."
+ }
+]

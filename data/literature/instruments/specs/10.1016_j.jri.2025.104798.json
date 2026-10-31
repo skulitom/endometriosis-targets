@@ -1,0 +1,14 @@
+{
+ "record_id": "doi:10.1016/j.jri.2025.104798",
+ "tables": {},
+ "claims": {
+  "Song2025-1": {
+   "status": "not_available",
+   "reason": "Supplements contain only per-protein IVW summaries (mmc1 UKB-PPP sheet: HLA-DRA 165 SNPs, b=0.0951; mmc1 deCODE sheet: CREB3L4 110 SNPs, b=-0.1350), mediation IVW summaries (mmc3) and expression box-plot images (mmc2); no per-variant rows with exposure effect sizes, and no open full text."
+  },
+  "Song2025-2": {
+   "status": "not_available",
+   "reason": "Supplements contain only per-protein IVW summaries (mmc1 UKB-PPP sheet: HLA-DRA 165 SNPs, b=0.0951; mmc1 deCODE sheet: CREB3L4 110 SNPs, b=-0.1350), mediation IVW summaries (mmc3) and expression box-plot images (mmc2); no per-variant rows with exposure effect sizes, and no open full text."
+  }
+ }
+}

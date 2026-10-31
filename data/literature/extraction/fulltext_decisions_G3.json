@@ -1,0 +1,57 @@
+[
+ {
+  "record_id": "doi:10.1016/j.csbj.2023.02.001",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own SMR/HEIDI of GTEx whole-blood and eQTLGen eQTL on endometriosis (Gene ATLAS UK Biobank GWAS); TOP3A and MKNK1 significant in both (P_SMR<0.05, P_HEIDI>0.05).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 4,
+  "duplicate_of": null,
+  "notes": "Supplementary Table S9 (per-gene SMR values; 9 of 14 genes significant per dataset) not obtained: mmc1.docx has legends only. Only the two genes named in the main text are extracted, without estimates; the other seven per dataset are unnamed. Sherlock, MAGMA and S-PrediXcan are not MR."
+ },
+ {
+  "record_id": "doi:10.1016/j.isci.2025.113207",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own SMR/HEIDI of endometrial sQTLs on the 2023 endometriosis GWAS meta-analysis; GREB1 and WASHC3 pass SMR and HEIDI, ARL14EP and RP11-624M8.1 pass SMR (FDR<0.05) but fail HEIDI (Table S11).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 4,
+  "duplicate_of": null,
+  "notes": "One claim per gene; representative splice event = lowest p_SMR, other events in notes. ORs converted from b_SMR/se_SMR. Outcome cited as Rahmioglu 2023 (GCST90205183) in Methods/Results but Sapkota 2017 in Discussion."
+ },
+ {
+  "record_id": "doi:10.1021/envhealth.5c00576",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own two-sample cis-pQTL MR (deCODE) of ANGPTL4 on endometriosis: OR 1.305, P 0.022 (Figure 6F).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Instrument type from SI Text S5: deCODE cis-pQTL within 1 Mb, Wald ratio. Endometriosis outcome source not stated; no CI printed."
+ },
+ {
+  "record_id": "doi:10.1038/s41591-026-04326-5",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own cis-pQTL MR (UKB-PPP) of menstrual-cycle proteins on reproductive diseases; FSHB and SEZ6L2 significant for endometriosis at FDR<0.05 (Supplementary Table 11).",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "Screening note pointed to Supplementary Table 12 (r2<0.01 sensitivity and coloc); the primary estimates are in Supplementary Table 11 and were used. Outcome: EstBB + FinnGen meta (Pujol Gualdo 2025, GCST90454213). FSHB PP4 differs between text (0.999) and table (0.993); table used."
+ },
+ {
+  "record_id": "doi:10.1515/biol-2025-1372",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Own two-sample pQTL MR of six core genes on endometriosis; MET (protective) and SELL (risk) nominally significant by IVW.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "MET subtype results (fallopian tube, intestine) in notes of the overall claim. Exposure stated as FinnGen pQTL data; outcome GWAS not named; instruments genome-wide (P<5e-6, no cis restriction)."
+ }
+]

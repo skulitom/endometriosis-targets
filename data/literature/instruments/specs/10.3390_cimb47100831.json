@@ -1,0 +1,67 @@
+{
+ "record_id": "doi:10.3390/cimb47100831",
+ "tables": {
+  "S4_BMP6": {
+   "file": "text/cimb-47-00831-s001__Table_S4__snp_F.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome"
+   },
+   "description": "Table S4 (snp_F sheet), first block 'Estimated effect of BMP6 on the risk of endometriosis' (header line 2, SNP rows lines 3-12). Harmonised exposure (eQTLGen eqtl-a-ENSG00000153162) and outcome (ukb-b-10903) effects."
+  },
+  "S4_SLC48A1": {
+   "file": "text/cimb-47-00831-s001__Table_S4__snp_F.csv",
+   "header_row": 16,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome"
+   },
+   "description": "Table S4 (snp_F sheet), second block 'Estimated effect of SLC48A1 on the risk of endometriosis' (its own header on line 16, SNP rows lines 17-21, then a 'Note:' footer row)."
+  }
+ },
+ "claims": {
+  "Du2025CIMB-1": {
+   "status": "mapped",
+   "table": "S4_BMP6",
+   "filters": [
+    {
+     "column": "SNP",
+     "op": "regex",
+     "value": "^(rs10512472|rs10761741|rs10876550|rs11553699|rs13042885|rs1354034|rs156356|rs3778347|rs9399137|rs9406052)$"
+    }
+   ],
+   "expected_n": 10,
+   "notes": "The sheet stacks two blocks with no exposure column; the table is read from the BMP6 block header (line 2) and rows are selected by the rsIDs listed in that block (lines 3-12) so the SLC48A1 block below is excluded (no rsID overlap). Outcome ukb-b-10903 betas are on the linear (BOLT-LMM) risk scale, consistent with the reported OR 1.001002."
+  },
+  "Du2025CIMB-2": {
+   "status": "mapped",
+   "table": "S4_SLC48A1",
+   "filters": [
+    {
+     "column": "SNP",
+     "op": "regex",
+     "value": "^rs[0-9]+$"
+    }
+   ],
+   "expected_n": 5,
+   "notes": "Read from the SLC48A1 block's own header (line 16); the rsID-format filter only drops the trailing 'Note:' footer row. Outcome ukb-b-10903 betas are on the linear (BOLT-LMM) risk scale, consistent with the reported OR 1.000723."
+  }
+ }
+}

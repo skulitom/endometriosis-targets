@@ -1,0 +1,22 @@
+{
+ "record_id": "doi:10.1016/j.gene.2025.149754",
+ "tables": {},
+ "claims": {
+  "Zhong2025Gene-1": {
+   "status": "not_available",
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhong2025Gene-2": {
+   "status": "not_available",
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhong2025Gene-3": {
+   "status": "not_available",
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  },
+  "Zhong2025Gene-4": {
+   "status": "not_available",
+   "reason": "Supplementary materials (mmc1.zip: Tables 1-8) contain only the ferroptosis gene list, qPCR primers, DEG lists and GO/KEGG enrichment; none gives MR instruments (SNP, alleles, exposure beta). Main text (Elsevier, no PMC copy) not accessible, and the claim record has no exposure source, outcome or estimate. No per-variant data available."
+  }
+ }
+}

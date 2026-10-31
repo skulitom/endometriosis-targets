@@ -1,0 +1,289 @@
+[
+ {
+  "record_id": "doi:10.21203/rs.3.rs-4430021/v1",
+  "title": "Telomere length in relation to fecundability and use of assisted reproductive technologies: the Norwegian Mother, Father, and Child Cohort Study.",
+  "reason_code": "E3",
+  "reason": "Telomere length and fecundability/ART in MoBa; endometriosis not an outcome.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s13048-024-01466-5",
+  "title": "Causal association between telomere length and female reproductive endocrine diseases: a univariable and multivariable Mendelian randomization analysis.",
+  "reason_code": "E2",
+  "reason": "MR of leukocyte telomere length on reproductive diseases; telomere length is not a gene product.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/humupd/6.1.37",
+  "title": "Heritability and molecular genetic studies of endometriosis.",
+  "reason_code": "E4",
+  "reason": "Narrative review of heritability and molecular genetics.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1271351",
+  "title": "Association between periodontitis and endometriosis: a bidirectional Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR periodontitis-endometriosis; disease exposure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1111/j.1749-6632.2002.tb02785.x",
+  "title": "Heritability and molecular genetic studies of endometriosis.",
+  "reason_code": "E4",
+  "reason": "Narrative review.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1371/journal.pmed.1002893",
+  "title": "Appraising the role of previously reported risk factors in epithelial ovarian cancer risk: A Mendelian randomization analysis.",
+  "reason_code": "E3",
+  "reason": "MR of risk factors on ovarian cancer; endometriosis liability only as exposure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000047248",
+  "title": "Effects of endocrine disrupting chemicals and plasma metabolome on female reproductive diseases: A multidimensional Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Exposures are endocrine-disrupting chemicals and plasma metabolites.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1038/s44184-026-00231-4",
+  "title": "Mendelian randomization of risk factors for premenstrual disorders.",
+  "reason_code": "E3",
+  "reason": "Outcome is premenstrual disorders; endometriosis only an exposure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fonc.2021.681396",
+  "title": "Review of Mendelian Randomization Studies on Ovarian Cancer.",
+  "reason_code": "E4",
+  "reason": "Review of MR studies on ovarian cancer.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fmed.2024.1440157",
+  "title": "The causal role of gastroesophageal reflux disease in endometriosis: a bidirectional Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR GERD-endometriosis; disease exposure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.64898/2026.06.27.26356730",
+  "title": "Decoding the regulatory genetic architecture of endometriosis using AlphaGenome",
+  "reason_code": "E1",
+  "reason": "AlphaGenome variant regulatory prioritisation; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fmed.2026.1916744",
+  "title": "Thyroid autoimmunity, thyroid function, and endometriosis: reproductive immune-endocrine crosstalk and causal uncertainty.",
+  "reason_code": "E4",
+  "reason": "Narrative review on thyroid and endometriosis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12929-022-00883-2",
+  "title": "Oleuropein suppresses endometriosis progression and improves the fertility of mice with endometriosis.",
+  "reason_code": "E1",
+  "reason": "Mouse model and cell assays of oleuropein; no genetic instrument analysis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.bbagrm.2018.06.008",
+  "title": "Transcription factor 21 regulates expression of ERβ and SF-1 via upstream stimulatory factor-2 in endometriotic tissues.",
+  "reason_code": "E1",
+  "reason": "Cell and xenograft experiments on TCF21; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045729",
+  "title": "Bidirectional Mendelian randomization and cross-sectional study reveal depression as a causal risk factor for endometriosis.",
+  "reason_code": "E2",
+  "reason": "Exposure is depression.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fmicb.2023.1188458",
+  "title": "Association between gut microbiota and endometriosis: a two-sample Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "MR of gut microbiota on endometriosis; not a gene product.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000040690",
+  "title": "Causal effects of genetically determined circulating metabolites on endometriosis: A Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Exposures are circulating metabolites.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1017/thg.2025.1",
+  "title": "Causal Effect Between Natural Hair Color and Endometriosis in a European Population: A Two-Sample Mendelian Randomization.",
+  "reason_code": "E2",
+  "reason": "Exposure is natural hair colour.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.34133/research.1131",
+  "title": "Sex-Stratified Genetic Analyses Mapping the Influences of Sedentary Behaviors and Physical Activity on Female Reproductive Health.",
+  "reason_code": "E2",
+  "reason": "Sex-stratified GWAS and MR of sedentary behaviours on reproductive outcomes.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1438079",
+  "title": "Investigating the metabolomic pathways in female reproductive endocrine disorders: a Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "MR of metabolites on reproductive endocrine disorders; not a gene product.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1093/humupd/dmag023",
+  "title": "Genetic architecture of endometriosis: risk factors, comorbidities and clinical implications.",
+  "reason_code": "E4",
+  "reason": "Narrative review of endometriosis genetic architecture.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-3462357/v1",
+  "title": "Maternal Periodontitis May Cause Lower Birth Weight in Children: Genetic Evidence from a Comprehensive Mendelian Randomization Study on Periodontitis and Pregnancy",
+  "reason_code": "E2",
+  "reason": "MR of periodontitis on pregnancy-related outcomes incl. endometriosis; disease exposure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.xcrm.2023.101250",
+  "title": "Evidence of shared genetic factors in the etiology of gastrointestinal disorders and endometriosis and clinical implications for disease management.",
+  "reason_code": "E3",
+  "reason": "MR of endometriosis on gastrointestinal disorders; drug targets from shared loci, not MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000038823",
+  "title": "The causal relationship of depression, anxiety, and neuroticism with endometriosis: A bidirectional 2-sample Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Exposures are depression, anxiety, neuroticism.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1155/2019/2360367",
+  "title": "<i>Jiawei Foshou San</i> Induces Apoptosis in Ectopic Endometrium Based on Systems Pharmacology, Molecular Docking, and Experimental Evidence.",
+  "reason_code": "E1",
+  "reason": "Systems pharmacology, docking and animal study; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s553824",
+  "title": "Evaluating the Role of Lipid Accumulation Product Index in Endometriosis: Findings from NHANES and Mendelian Randomization.",
+  "reason_code": "E2",
+  "reason": "NHANES plus MR of triglycerides and waist circumference on endometriosis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e38130",
+  "title": "A cause-effect relationship between uterine diseases and breast cancer: A bidirectional Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR between uterine diseases and breast cancer; disease exposures only.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1096/fj.202002541rrr",
+  "title": "Efficacy of niclosamide on the intra-abdominal inflammatory environment in endometriosis.",
+  "reason_code": "E1",
+  "reason": "Mouse/lab study of niclosamide; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1007/s43032-025-02036-w",
+  "title": "miR-130b-5p Regulates Expression of ERβ via IGFBP2/SREBP1 Axis in Human Endometriotic Stromal Cells.",
+  "reason_code": "E1",
+  "reason": "Cell and mouse experiments on miR-130b-5p; no MR.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1101/2022.10.20.22281201",
+  "title": "Evidence of shared genetic factors in the aetiology of gastrointestinal disorders and endometriosis and clinical implications for disease management",
+  "reason_code": "E2",
+  "reason": "MR between gastrointestinal disorders and endometriosis (disease exposures).",
+  "human_agrees": null
+ },
+ {
+  "record_id": "epmc:AGR:IND608683513",
+  "title": "A cause-effect relationship between uterine diseases and breast cancer: A bidirectional Mendelian randomization study",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR between uterine diseases and breast cancer; disease exposures only.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045989",
+  "title": "Exploring the impact of dietary theobromine on endometriosis risk: Evidence from Mendelian randomization and NHANES data.",
+  "reason_code": "E2",
+  "reason": "Exposure is theobromine (dietary metabolite).",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1080/0167482x.2024.2441196",
+  "title": "The relationship between blood lipids and endometriosis: a cross-sectional study from NHANES (1999-2006) and a bidirectional Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Exposures are blood lipid traits with genome-wide instruments.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12986-025-00970-9",
+  "title": "Dietary factors and risk for endometriosis: a Mendelian randomization analysis.",
+  "reason_code": "E2",
+  "reason": "MR of 18 dietary factors on endometriosis; diet is not a gene product.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1186/s12905-024-02945-z",
+  "title": "Assessing the relationship between gut microbiota and endometriosis: a bidirectional two-sample mendelian randomization analysis.",
+  "reason_code": "E2",
+  "reason": "Exposure is gut microbiota taxa.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1080/03630242.2025.2539819",
+  "title": "The impact of endometriosis on cardiovascular and cerebrovascular diseases: A Mendelian randomization study.",
+  "reason_code": "E3",
+  "reason": "MR of endometriosis on cardiovascular and cerebrovascular diseases.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2024.1424648",
+  "title": "Association between endometriosis and arthritis: results from NHANES 1999-2006, genetic correlation analysis, and Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "NHANES, LDSC and MR between endometriosis and rheumatoid arthritis; disease-level exposure only.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-4188266/v1",
+  "title": "Gut microbiota and risk of ovarian diseases: a two-sample Mendelian randomization study",
+  "reason_code": "E2",
+  "reason": "MR of gut microbiota on ovarian diseases incl. ovarian endometriosis.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-3647756/v1",
+  "title": "Endometriosis and the Risk of Cardiovascular Diseases: A Mendelian Randomization Study",
+  "reason_code": "E3",
+  "reason": "MR of endometriosis on cardiovascular diseases; endometriosis only as exposure.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.medj.2024.04.008",
+  "title": "Reverse repurposing: Potential utility of cancer drugs in nonmalignant illnesses.",
+  "reason_code": "E4",
+  "reason": "Review of repurposing cancer drugs for nonmalignant disease.",
+  "human_agrees": null
+ },
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e33854",
+  "title": "Peripheral blood leukocyte Telomere length and endometriosis: A Mendelian randomization study.",
+  "reason_code": "E2",
+  "reason": "Exposure is leukocyte telomere length.",
+  "human_agrees": null
+ }
+]

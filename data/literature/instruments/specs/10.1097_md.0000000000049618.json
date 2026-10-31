@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1097/md.0000000000049618",
+ "tables": {},
+ "claims": {
+  "Lai2026-1": {
+   "status": "not_available",
+   "reason": "No supplementary files; main text gives only Table 1 (MR summary: 11 SNPs, OR per method) and Figures 1-3 (leave-one-out, single-SNP forest and scatter plots) without numeric per-SNP exposure effects."
+  }
+ }
+}

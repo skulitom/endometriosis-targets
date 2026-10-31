@@ -1,0 +1,340 @@
+[
+ {
+  "record_id": "doi:10.1016/j.gene.2023.147970",
+  "doi": "10.1016/j.gene.2023.147970",
+  "pmcid": null,
+  "title": "Therapeutic targets for endometriosis: Genome-wide Mendelian randomization and colocalization analyses.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.gene.2023.147970",
+  "claims_to_extract": [
+   {
+    "claim_id": "Zeng2024Gene-1",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-2",
+    "gene_symbol": "SKAP1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-3",
+    "gene_symbol": "KMT5A",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-4",
+    "gene_symbol": "KLF12",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-5",
+    "gene_symbol": "GIGYF1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-6",
+    "gene_symbol": "WNT7A",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-7",
+    "gene_symbol": "SUN1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-8",
+    "gene_symbol": "PARP3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-9",
+    "gene_symbol": "PAQR8",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-10",
+    "gene_symbol": "AP3M1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-11",
+    "gene_symbol": "SURF6",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-12",
+    "gene_symbol": "TUB",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zeng2024Gene-13",
+    "gene_symbol": "POLDIP2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/frph.2026.1747031",
+  "doi": "10.3389/frph.2026.1747031",
+  "pmcid": "PMC13180925",
+  "title": "Multi-omics Mendelian randomization identifies mitochondrial genes associated with immune microenvironment signatures in endometriosis.",
+  "year": "2026",
+  "supplement_dir": "data/upstream/supplements/10.3389_frph.2026.1747031",
+  "claims_to_extract": [
+   {
+    "claim_id": "Wang2026FRH-34",
+    "gene_symbol": "MTRFR",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2026FRH-41",
+    "gene_symbol": "PHYH",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2026FRH-56",
+    "gene_symbol": "GPD2",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2026FRH-58",
+    "gene_symbol": "MRPS6",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2026FRH-66",
+    "gene_symbol": "RPL21",
+    "exposure_type": "other",
+    "exposure_source": "Not reported in main text (one of eQTLGen eQTL, deCODE pQTL or Brisbane/LBC mQTL)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.gene.2025.149754",
+  "doi": "10.1016/j.gene.2025.149754",
+  "pmcid": null,
+  "title": "Integrative analysis reveals ferroptosis-related genes with RRM2 as a key driver in endometriosis.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.gene.2025.149754",
+  "claims_to_extract": [
+   {
+    "claim_id": "Zhong2025Gene-1",
+    "gene_symbol": "FZD7",
+    "exposure_type": "other",
+    "exposure_source": "Not stated in abstract (genetic instruments for ferroptosis-related genes)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zhong2025Gene-2",
+    "gene_symbol": "HMOX1",
+    "exposure_type": "other",
+    "exposure_source": "Not stated in abstract (genetic instruments for ferroptosis-related genes)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zhong2025Gene-3",
+    "gene_symbol": "RRM2",
+    "exposure_type": "other",
+    "exposure_source": "Not stated in abstract (genetic instruments for ferroptosis-related genes)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zhong2025Gene-4",
+    "gene_symbol": "HSPA5",
+    "exposure_type": "other",
+    "exposure_source": "Not stated in abstract (genetic instruments for ferroptosis-related genes)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043163",
+  "doi": "10.1097/md.0000000000043163",
+  "pmcid": "PMC12263052",
+  "title": "Causal links and mediating effects of lipid metabolism, immune cells, and inflammatory proteins in endometriosis: Evidence from Mendelian randomization.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000043163",
+  "claims_to_extract": [
+   {
+    "claim_id": "Guo2025Med-1",
+    "gene_symbol": "IL17A",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Guo2025Med-3",
+    "gene_symbol": "TNFSF10",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Guo2025Med-4",
+    "gene_symbol": "CCL4",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.rbmo.2024.103856",
+  "doi": "10.1016/j.rbmo.2024.103856",
+  "pmcid": null,
+  "title": "Gene associations of lipid traits, lipid-lowering drug-target genes and endometriosis.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.rbmo.2024.103856",
+  "claims_to_extract": [
+   {
+    "claim_id": "Zhou2024lipid-1",
+    "gene_symbol": "PCSK9",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "Lipid-trait GWAS used to weight target variants (not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zhou2024lipid-2",
+    "gene_symbol": "APOB",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "Lipid-trait GWAS used to weight target variants (not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Zhou2024lipid-3",
+    "gene_symbol": "ANGPTL3",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "Lipid-trait GWAS used to weight target variants (not stated in abstract)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s12958-025-01508-7",
+  "doi": "10.1186/s12958-025-01508-7",
+  "pmcid": "PMC12829210",
+  "title": "The \"double-edged sword\" effect of non-steroidal anti-inflammatory drugs (NSAIDs) in the treatment of endometriosis (EMS).",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1186_s12958-025-01508-7",
+  "claims_to_extract": [
+   {
+    "claim_id": "Shi2025RBE-1",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (EUR subset)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Shi2025RBE-2",
+    "gene_symbol": "PTGER4",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (EUR subset)",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-4265646/v1",
+  "doi": "10.21203/rs.3.rs-4265646/v1",
+  "pmcid": null,
+  "title": "Mendelian randomization Identifies RSPO3 in Serum as a Potential Target for Endometriosis",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.21203_rs.3.rs-4265646_v1",
+  "claims_to_extract": [
+   {
+    "claim_id": "Guo2024-2",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "Sun 2018 INTERVAL SomaScan (n=3,301; via IEU/Zheng 2020)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1111/jcmm.70532",
+  "doi": "10.1111/jcmm.70532",
+  "pmcid": "PMC11984317",
+  "title": "Association Between Circulating Cytokines and Endometriosis: A Mendelian Randomization Study.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1111_jcmm.70532",
+  "claims_to_extract": [
+   {
+    "claim_id": "Xu2025JCMM-1",
+    "gene_symbol": "TNFSF10",
+    "exposure_type": "pQTL",
+    "exposure_source": "Ahola-Olli 2017 41 circulating cytokines (YFS/FINRISK, n=8293; GCST004420-GCST004460)",
+    "exposure_tissue": "plasma/serum"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s40360-025-01030-x",
+  "doi": "10.1186/s40360-025-01030-x",
+  "pmcid": "PMC12619379",
+  "title": "Mechanistic decoding of triclosan-induced endometriosis via network toxicology, Mendelian randomization, and molecular docking.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1186_s40360-025-01030-x",
+  "claims_to_extract": [
+   {
+    "claim_id": "Xu2025BMCPT-1",
+    "gene_symbol": "IL1B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000125538",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042685",
+  "doi": "10.1097/md.0000000000042685",
+  "pmcid": "PMC12129544",
+  "title": "Assessing the impact of PCSK9 and HMGCR inhibitor on reproductive endocrine diseases: A drug-target Mendelian randomization analysis.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000042685",
+  "claims_to_extract": [
+   {
+    "claim_id": "Aru2025pcsk9-1",
+    "gene_symbol": "PCSK9",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC LDL-C (Willer 2013; IEU ieu-a-300, n=173,082)",
+    "exposure_tissue": null
+   }
+  ]
+ }
+]

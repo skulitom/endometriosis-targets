@@ -1,0 +1,591 @@
+[
+ {
+  "record_id": "doi:10.3389/frph.2026.1747031",
+  "doi": "10.3389/frph.2026.1747031",
+  "pmcid": "PMC13180925",
+  "title": "Multi-omics Mendelian randomization identifies mitochondrial genes associated with immune microenvironment signatures in endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.3389_frph.2026.1747031",
+  "claims": [
+   {
+    "claim_id": "Wang2026FRH-1",
+    "gene_symbol": "HMGCL",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs11714; HEIDI p=0.439 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-2",
+    "gene_symbol": "MTX1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs370545; HEIDI p=0.164 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-3",
+    "gene_symbol": "MRPL55",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs849749; HEIDI p=0.134 (nsnp_HEIDI 20). Text TSMR: IVW OR 0.79, P 0.00033. 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-4",
+    "gene_symbol": "MRPL33",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs34181670; HEIDI p=0.351 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-5",
+    "gene_symbol": "NFU1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs4346430; HEIDI p=0.166 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-6",
+    "gene_symbol": "IMMT",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs12475126; HEIDI p=0.232 (nsnp_HEIDI 20). Text TSMR: IVW OR 0.91, P 6.45e-7. 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-7",
+    "gene_symbol": "MMADHC",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs13020214; HEIDI p=0.282 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-8",
+    "gene_symbol": "GLS",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs7562400; HEIDI p=0.828 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-9",
+    "gene_symbol": "CASP8",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs7560328; HEIDI p=0.304 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-10",
+    "gene_symbol": "NT5DC2",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs4687626; HEIDI p=0.395 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-11",
+    "gene_symbol": "EHHADH",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs7429119; HEIDI p=0.0708 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-12",
+    "gene_symbol": "LYRM7",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs6595994; HEIDI p=0.0543 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-13",
+    "gene_symbol": "FIS1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs114756165; HEIDI p=0.508 (nsnp_HEIDI 20). Text TSMR: IVW OR 0.92, P 0.00055. 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-14",
+    "gene_symbol": "DNA2",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs74797509; HEIDI p=0.0656 (nsnp_HEIDI 20). Text TSMR: IVW OR 1.16, P 0.015. 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-15",
+    "gene_symbol": "NARS2",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs7942527; HEIDI p=0.0557 (nsnp_HEIDI 18). Text TSMR: IVW OR 1.10, P 3.77e-5. 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-16",
+    "gene_symbol": "NLRX1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs4148170; HEIDI p=0.121 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-17",
+    "gene_symbol": "MRPS35",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs1127787; HEIDI p=0.354 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-18",
+    "gene_symbol": "BLOC1S1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs4457792; HEIDI p=0.133 (nsnp_HEIDI 17). Text TSMR: IVW OR 1.39, P 0.0056. 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-19",
+    "gene_symbol": "UNG",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs34263; HEIDI p=0.474 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-20",
+    "gene_symbol": "CARS2",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs440500; HEIDI p=0.349 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-21",
+    "gene_symbol": "ERAL1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs4795457; HEIDI p=0.409 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-22",
+    "gene_symbol": "MRPL12",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs62077191; HEIDI p=0.843 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-23",
+    "gene_symbol": "ACAA2",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs75116816; HEIDI p=0.191 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-24",
+    "gene_symbol": "ME2",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs2427777; HEIDI p=0.247 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-25",
+    "gene_symbol": "COX6B1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs4806187; HEIDI p=0.149 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-26",
+    "gene_symbol": "ACSS1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs3646; HEIDI p=0.0746 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   },
+   {
+    "claim_id": "Wang2026FRH-27",
+    "gene_symbol": "BID",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "SMR",
+    "notes": "Top cis-eQTL rs3788279; HEIDI p=0.917 (nsnp_HEIDI 20). 861 genes TSMR / 866 SMR tested at eQTL level. Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s601516",
+  "doi": "10.2147/ijwh.s601516",
+  "pmcid": "PMC13452016",
+  "title": "Identification and Validation of a Four-Gene Signature as a Novel Potential Diagnostic Biomarker Panel for Endometriosis: Causal and Mechanistic Insights from Mendelian Randomization and Bioinformatics.",
+  "supplement_dir": "data/upstream/supplements/10.2147_ijwh.s601516",
+  "claims": [
+   {
+    "claim_id": "Meng2026IJWH-1",
+    "gene_symbol": "FRMD4B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000114541",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 13,
+    "method": "IVW",
+    "notes": "Reported IVW beta -0.000169123 (SE 8.36e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9813 (0.9705-0.9923), p 0.00086. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   },
+   {
+    "claim_id": "Meng2026IJWH-2",
+    "gene_symbol": "CRYZ",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000116791",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 13,
+    "method": "IVW",
+    "notes": "Reported IVW beta -0.000129299 (SE 5.08e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 1.0146 (1.0016-1.0277), p 0.02728. MVMR OR >1 is opposite to the UVMR direction. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   },
+   {
+    "claim_id": "Meng2026IJWH-3",
+    "gene_symbol": "PLK2",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000145632",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "unclear",
+    "n_instruments": 9,
+    "method": "IVW",
+    "notes": "Reported IVW beta 0.001665824 (SE 0.000415086); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9957 (0.9683-1.0239), p 0.76265. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   },
+   {
+    "claim_id": "Meng2026IJWH-4",
+    "gene_symbol": "FZD6",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000164930",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 8,
+    "method": "IVW",
+    "notes": "Reported IVW beta -0.000417723 (SE 0.000150319); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9980 (0.9886-1.0076), p 0.6884. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   },
+   {
+    "claim_id": "Meng2026IJWH-5",
+    "gene_symbol": "ZNF606",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000166704",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "unclear",
+    "n_instruments": 7,
+    "method": "IVW",
+    "notes": "Reported IVW beta -0.000705308 (SE 0.000298719); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9981 (0.9969-0.9994), p 0.00275. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   },
+   {
+    "claim_id": "Meng2026IJWH-6",
+    "gene_symbol": "TPST1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000169902",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 78,
+    "method": "IVW",
+    "notes": "Reported IVW beta -0.000201089 (SE 2.6e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9989 (0.9981-0.9996), p 0.00303. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Adjudication: Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan.] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   },
+   {
+    "claim_id": "Meng2026IJWH-7",
+    "gene_symbol": "PPA1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000180817",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "unclear",
+    "n_instruments": 17,
+    "method": "IVW",
+    "notes": "Reported IVW beta 0.000207698 (SE 6.02e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9944 (0.9908-0.9979), p 0.00182. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed] [Lead correction 2026-10-29: paper names ebi-a-GCST90018839 (found by second extractor); adjudicators of Dou2025FIG and Chen2024HG verified from GWAS Catalog and rs671 that this GWAS includes BioBank Japan with FinnGen and UK Biobank.]"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/itt.s486139",
+  "doi": "10.2147/itt.s486139",
+  "pmcid": "PMC11537175",
+  "title": "The Effect of Circulating Inflammatory Proteins on Endometriosis: A Mendelian Randomization Study.",
+  "supplement_dir": "data/upstream/supplements/10.2147_itt.s486139",
+  "claims": [
+   {
+    "claim_id": "WeiY2024ITT-1",
+    "gene_symbol": "CXCL5",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 7,
+    "method": "IVW",
+    "notes": "WM OR 0.906 (P=0.12), MR-Egger OR 0.903 (P=0.298). FinnGen subtypes: ovary OR 0.879 (P=0.017), pelvic peritoneum OR 0.894 (P=0.045). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+   },
+   {
+    "claim_id": "WeiY2024ITT-2",
+    "gene_symbol": "CXCL11",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "Direction stated in text; estimate only in Figure 2/Supplementary Table 5 (not read). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+   },
+   {
+    "claim_id": "WeiY2024ITT-3",
+    "gene_symbol": "CXCL6",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "Direction stated in text; estimate only in Figure 2/Supplementary Table 5 (not read). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+   },
+   {
+    "claim_id": "WeiY2024ITT-4",
+    "gene_symbol": "FGF21",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "FGF21 measured on the Olink inflammation panel. Direction stated in text; estimate only in Figure 2/Supplementary Table 5 (not read). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+   },
+   {
+    "claim_id": "WeiY2024ITT-5",
+    "gene_symbol": "IL15RA",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "Direction stated in text; estimate only in Figure 2/Supplementary Table 5 (not read). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+   },
+   {
+    "claim_id": "WeiY2024ITT-6",
+    "gene_symbol": "TNFSF11",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "TRANCE (TNF-related activation-induced cytokine, RANKL) mapped to TNFSF11. Direction stated in text; estimate only in Figure 2/Supplementary Table 5 (not read). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1080/09513590.2025.2512837",
+  "doi": "10.1080/09513590.2025.2512837",
+  "pmcid": null,
+  "title": "Dissecting the causal effects of interleukin receptor-related factors and the risk of developing endometriosis: a two-sample Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1080_09513590.2025.2512837",
+  "claims": [
+   {
+    "claim_id": "Lv2025-1",
+    "gene_symbol": "IL6ST",
+    "exposure_type": "pQTL",
+    "exposure_source": "IEU OpenGWAS prot-a-1542 ('IL-6Rbeta'; prot-a series = Sun 2018 INTERVAL SomaScan)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "unclear",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "Abstract only (Taylor & Francis bot verification page). Abstract reports 'significant causal associations' but no estimate or direction; robust after BMI/smoking adjustment (MVMR); IV F>10. IL-6Rbeta mapped to IL6ST (gp130). Abstract says reverse MR was null for prot-a-1530 and prot-b-38 only, so reverse MR for this protein may have been significant."
+   },
+   {
+    "claim_id": "Lv2025-2",
+    "gene_symbol": "IL3RA",
+    "exposure_type": "pQTL",
+    "exposure_source": "IEU OpenGWAS prot-a-1530 (IL-3Ralpha; prot-a series = Sun 2018 INTERVAL SomaScan)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "unclear",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "Abstract only (Taylor & Francis bot verification page). Abstract reports 'significant causal associations' but no estimate or direction; robust after BMI/smoking adjustment (MVMR); IV F>10. Reverse MR null (abstract)."
+   },
+   {
+    "claim_id": "Lv2025-3",
+    "gene_symbol": "IL1RL1",
+    "exposure_type": "pQTL",
+    "exposure_source": "IEU OpenGWAS prot-b-38 (IL1RL1; prot-b series = Folkersen 2017 Olink)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "unclear",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "Abstract only (Taylor & Francis bot verification page). Abstract reports 'significant causal associations' but no estimate or direction; robust after BMI/smoking adjustment (MVMR); IV F>10. Reverse MR null; immune cell trait ebi-a-GCST90001951 mediated ~6.38% of the effect (abstract)."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042579",
+  "doi": "10.1097/md.0000000000042579",
+  "pmcid": "PMC12113994",
+  "title": "Causal association of cathepsins and endometriosis: A Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000042579",
+  "claims": [
+   {
+    "claim_id": "Aru2025cath-1",
+    "gene_symbol": "CTSH",
+    "exposure_type": "pQTL",
+    "exposure_source": "INTERVAL SomaScan (Sun 2018), via IEU OpenGWAS",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 10,
+    "method": "IVW",
+    "notes": "9 cathepsins tested; only cathepsin H significant at P<0.05 (no multiple-testing correction). Exposure SNPs P<5e-6, r2<0.001, PhenoScanner and MR-PRESSO filtering. FinnGen R9 subtypes: ovary OR 1.022 P=.046, pelvic peritoneum 1.046 P=.047, deep 1.050 P=.048. MVMR adjusted OR 1.034 P=.049. Reverse MR: endometriosis -> CTSH OR 1.017 P=.041. Preprint rs-3756621 (2023) is the same study with identical abstract estimates."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049618",
+  "doi": "10.1097/md.0000000000049618",
+  "pmcid": "PMC13384611",
+  "title": "Associations between granulysin and ovarian endometriosis: A 2-sample Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000049618",
+  "claims": [
+   {
+    "claim_id": "Lai2026-1",
+    "gene_symbol": "GNLY",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS GNLY (ENSG00000115523), stated as 'SSGAC', n=31,684 (ID and n match eQTLGen, Vosa 2021)",
+    "exposure_tissue": null,
+    "instrument_scope": "genome_wide",
+    "n_instruments": 11,
+    "method": "IVW",
+    "notes": "Single-exposure study; alpha 0.05, no multiple-testing correction. Exposure described as granulysin/'GNLY expression'; Ensembl gene ID and n suggest blood eQTL data, recorded as eQTL, tissue not stated. IVs P<5e-8, r2<0.001, 10,000 kb. Table 1: weighted median 0.87 (0.80-0.95) P=.003, MR-Egger 0.89 (0.79-0.99) P=.068, Q=9.06; text says WM/Egger P>.05 (disagrees with table). 3,231/68,969 matches FinnGen R5 ovarian endpoint."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s40360-025-01030-x",
+  "doi": "10.1186/s40360-025-01030-x",
+  "pmcid": "PMC12619379",
+  "title": "Mechanistic decoding of triclosan-induced endometriosis via network toxicology, Mendelian randomization, and molecular docking.",
+  "supplement_dir": "data/upstream/supplements/10.1186_s40360-025-01030-x",
+  "claims": [
+   {
+    "claim_id": "Xu2025BMCPT-1",
+    "gene_symbol": "IL1B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000125538",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 6,
+    "method": "IVW",
+    "notes": "Table 1 gives P '<0.05' for every method although the IVW CI (0.84-2.49) includes 1; internally inconsistent. Abstract headlines MR-Egger OR 2.66 (1.32-3.51). Threshold printed as P<5x10^8 (presumably 5e-8). Trans-ancestry: European exposure, East Asian outcome. eqtl-a data may include trans-eQTLs; SNP locations not checked. Single gene tested (hub gene from network toxicology). [Adjudication: Separate known issue: Table 1 reports P<0.05 although the IVW CI 0.84-2.49 includes 1.]"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1111/jcmm.70532",
+  "doi": "10.1111/jcmm.70532",
+  "pmcid": "PMC11984317",
+  "title": "Association Between Circulating Cytokines and Endometriosis: A Mendelian Randomization Study.",
+  "supplement_dir": "data/upstream/supplements/10.1111_jcmm.70532",
+  "claims": [
+   {
+    "claim_id": "Xu2025JCMM-1",
+    "gene_symbol": "TNFSF10",
+    "exposure_type": "pQTL",
+    "exposure_source": "Ahola-Olli 2017 41 circulating cytokines (YFS/FINRISK, n=8293; GCST004420-GCST004460)",
+    "exposure_tissue": "plasma/serum",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 56,
+    "method": "IVW",
+    "notes": "TRAIL. 41 cytokines; Bonferroni P<0.0012. IVs P<1e-5, r2<0.1 within 500 kb. Abstract gives beta=-0.061. WM OR 0.93, MR-Egger OR 0.92; Q P=0.594; Egger intercept P=0.222. qRT-PCR checked DSG2 (MAGMA/WGCNA gene), not TNFSF10, in 5 endometrioma vs 5 control endometria."
+   }
+  ]
+ }
+]

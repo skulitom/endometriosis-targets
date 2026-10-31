@@ -1,0 +1,34 @@
+{
+ "record_id": "doi:10.1097/md.0000000000042685",
+ "tables": {
+  "S1": {
+   "file": "10.1097_md.0000000000042685__Supplementary_Table_1_IVs.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "source": "files/medi-104-e42685-s001.pdf, page 1 (Supplementary Table 1 'The detail of instrumental variable corresponding to PCSK9 and HMGCR')",
+   "description": "Copied from the PDF text layer (PyMuPDF get_text) of page 1, 9 cells per row, all 21 rows (13 PCSK9 + 8 HMGCR); the unlabeled first column is written as 'target'. Checked against the rendered page. In the source the 'Other alleles' column for every PCSK9 row repeats the effect allele (source error), so other_allele is not mapped.",
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Effect alleles",
+    "beta_exposure": "Beta",
+    "se_exposure": "SE",
+    "pval_exposure": "p-value"
+   }
+  }
+ },
+ "claims": {
+  "Aru2025pcsk9-1": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "target",
+     "op": "equals",
+     "value": "PCSK9"
+    }
+   ],
+   "expected_n": 13,
+   "notes": "PCSK9 rows of Supplementary Table 1: the 13 PCSK9-region LDL-C SNPs from ieu-a-300 (GLGC) used in the main analysis (Supp. Table 2 is the ieu-b-5089 replication set, 15 SNPs). Exposure beta is on LDL-C per effect allele. Other allele not mapped because the source repeats the effect allele in 'Other alleles' for all PCSK9 rows. No per-SNP outcome (FinnGen endometriosis) effects are reported, so the IVW (OR 0.791) cannot be recomputed."
+  }
+ }
+}

@@ -1,0 +1,278 @@
+[
+ {
+  "record_id": "doi:10.3390/biology13110871",
+  "doi": "10.3390/biology13110871",
+  "pmcid": "PMC11591882",
+  "title": "Cross-Tissue Regulatory Network Analyses Reveal Novel Susceptibility Genes and Potential Mechanisms for Endometriosis.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.3390_biology13110871",
+  "claims_to_extract": [
+   {
+    "claim_id": "Zou2024Bio-1",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Adipose - Subcutaneous"
+   },
+   {
+    "claim_id": "Zou2024Bio-2",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Adipose - Visceral (Omentum)"
+   },
+   {
+    "claim_id": "Zou2024Bio-3",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Artery - Coronary"
+   },
+   {
+    "claim_id": "Zou2024Bio-4",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Brain - Caudate (basal ganglia)"
+   },
+   {
+    "claim_id": "Zou2024Bio-5",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Brain - Cerebellum"
+   },
+   {
+    "claim_id": "Zou2024Bio-6",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Brain - Frontal Cortex (BA9)"
+   },
+   {
+    "claim_id": "Zou2024Bio-7",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Brain - Nucleus accumbens (basal ganglia)"
+   },
+   {
+    "claim_id": "Zou2024Bio-8",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Brain - Spinal cord (cervical c-1)"
+   },
+   {
+    "claim_id": "Zou2024Bio-9",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Cells - EBV-transformed lymphocytes"
+   },
+   {
+    "claim_id": "Zou2024Bio-10",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Colon - Sigmoid"
+   },
+   {
+    "claim_id": "Zou2024Bio-11",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Colon - Transverse"
+   },
+   {
+    "claim_id": "Zou2024Bio-12",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Esophagus - Gastroesophageal Junction"
+   },
+   {
+    "claim_id": "Zou2024Bio-13",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Lung"
+   },
+   {
+    "claim_id": "Zou2024Bio-14",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Muscle - Skeletal"
+   },
+   {
+    "claim_id": "Zou2024Bio-15",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Nerve - Tibial"
+   },
+   {
+    "claim_id": "Zou2024Bio-16",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Pancreas"
+   },
+   {
+    "claim_id": "Zou2024Bio-17",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Small Intestine - Terminal Ileum"
+   },
+   {
+    "claim_id": "Zou2024Bio-18",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Spleen"
+   },
+   {
+    "claim_id": "Zou2024Bio-19",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Whole Blood"
+   },
+   {
+    "claim_id": "Zou2024Bio-20",
+    "gene_symbol": "EFR3B",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Adrenal Gland"
+   },
+   {
+    "claim_id": "Zou2024Bio-21",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Adipose - Subcutaneous"
+   },
+   {
+    "claim_id": "Zou2024Bio-22",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Adipose - Visceral (Omentum)"
+   },
+   {
+    "claim_id": "Zou2024Bio-23",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Brain - Cerebellum"
+   },
+   {
+    "claim_id": "Zou2024Bio-24",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Breast - Mammary Tissue"
+   },
+   {
+    "claim_id": "Zou2024Bio-25",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Colon - Sigmoid"
+   },
+   {
+    "claim_id": "Zou2024Bio-26",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Esophagus - Gastroesophageal Junction"
+   },
+   {
+    "claim_id": "Zou2024Bio-27",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Esophagus - Mucosa"
+   },
+   {
+    "claim_id": "Zou2024Bio-28",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Esophagus - Muscularis"
+   },
+   {
+    "claim_id": "Zou2024Bio-29",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Skin - Not Sun Exposed (Suprapubic)"
+   },
+   {
+    "claim_id": "Zou2024Bio-30",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Small Intestine - Terminal Ileum"
+   },
+   {
+    "claim_id": "Zou2024Bio-31",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Thyroid"
+   },
+   {
+    "claim_id": "Zou2024Bio-32",
+    "gene_symbol": "CISD2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Uterus"
+   },
+   {
+    "claim_id": "Zou2024Bio-33",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Cells - Cultured fibroblasts"
+   },
+   {
+    "claim_id": "Zou2024Bio-34",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Esophagus - Mucosa"
+   },
+   {
+    "claim_id": "Zou2024Bio-35",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Muscle - Skeletal"
+   },
+   {
+    "claim_id": "Zou2024Bio-36",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Pancreas"
+   },
+   {
+    "claim_id": "Zou2024Bio-37",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Skin - Not Sun Exposed (Suprapubic)"
+   },
+   {
+    "claim_id": "Zou2024Bio-38",
+    "gene_symbol": "UBE2D3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8",
+    "exposure_tissue": "Thyroid"
+   }
+  ]
+ }
+]

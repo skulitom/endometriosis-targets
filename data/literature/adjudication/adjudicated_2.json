@@ -1,0 +1,1186 @@
+[
+ {
+  "claim_id": "WeiL2024JRI-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.871088007598916,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MCP1 / Endometriosis (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.78157166520986,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MCP1 / Endometriosis (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.970856993362093,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MCP1 / Endometriosis (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0126101876023709,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MCP1 / Endometriosis (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MCP1 / Endometriosis (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR <1 per higher circulating MCP1; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 16,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for MCP1 / Endometriosis; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Also significant for ovary (OR 0.752)."
+ },
+ {
+  "claim_id": "WeiL2024JRI-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.260936390252846,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIP1a / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.0817475784241833,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIP1a / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.832902956524068,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIP1a / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0232827461078712,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIP1a / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIP1a / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR <1 per higher circulating MIP1a; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 4,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for MIP1a / Endometriosis of fallopian tube; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only fallopian-tube subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-3",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.300479863051757,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row GCSF / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.113981328039687,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row GCSF / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.79213104156994,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row GCSF / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0150497675979673,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row GCSF / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row GCSF / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR <1 per higher circulating GCSF; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 9,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for GCSF / Endometriosis of intestine; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only intestine subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-4",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.978309234267435,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIF / Endometriosis of intestine: beta 0.978, SE 0.303, P 0.00126; OR column 0.660 (0.468-0.921)",
+    "source_inconsistent": true,
+    "note": "Row contradicts itself: beta sign vs OR column 0.660 (0.468-0.921). P matches beta/SE, so beta kept; OR/CI cells unexplained."
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00126186750469628,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIF / Endometriosis of intestine: beta 0.978, SE 0.303, P 0.00126; OR column 0.660 (0.468-0.921)",
+    "source_inconsistent": true,
+    "note": "P equals the two-sided P of beta/SE; the OR/CI cells would imply a different P."
+   },
+   {
+    "field": "estimate_scale",
+    "decision": "second",
+    "value": "beta",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIF / Endometriosis of intestine: beta 0.978, SE 0.303, P 0.00126; OR column 0.660 (0.468-0.921)",
+    "source_inconsistent": true,
+    "note": "Beta reported because the OR column is not exp(beta); CI fields stay null (no beta CI reported)."
+   },
+   {
+    "field": "direction",
+    "decision": "first",
+    "value": "null_or_unclear",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row MIF / Endometriosis of intestine: beta 0.978, SE 0.303, P 0.00126; OR column 0.660 (0.468-0.921)",
+    "source_inconsistent": true,
+    "note": "Beta and OR columns disagree on sign, so direction unclear per convention."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 10,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for MIF / Endometriosis of intestine; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Table S3 row internally inconsistent (beta positive, OR below 1); direction unresolvable without the inaccessible main text. Only intestine subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-5",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 2.1233156425536,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL4 / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.0398841357199,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL4 / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 4.33554966659017,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL4 / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0386985045788205,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL4 / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL4 / Endometriosis of intestine (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR >1 per higher circulating IL4; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 14,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL4 / Endometriosis of intestine; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only intestine subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-6",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 3.10762415614106,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL5 / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.46779910171021,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL5 / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 6.57946164742789,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL5 / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00304877177283195,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL5 / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL5 / Endometriosis of fallopian tube (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR >1 per higher circulating IL5; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 8,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL5 / Endometriosis of fallopian tube; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only fallopian-tube subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-7",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.28165629119052,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL8 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.01242458646587,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL8 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.62248415408629,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL8 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0391472056942755,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL8 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL8 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR >1 per higher circulating IL8; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 8,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL8 / Endometriosis of rectovaginal septum and vagina; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only rectovaginal subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-8",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.46798601692913,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL9 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.09008739608794,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL9 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.97689006737732,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL9 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0114703830385068,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL9 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL9 / Endometriosis of rectovaginal septum and vagina (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR >1 per higher circulating IL9; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 6,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL9 / Endometriosis of rectovaginal septum and vagina; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only rectovaginal subtype significant."
+ },
+ {
+  "claim_id": "WeiL2024JRI-9",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.33305226413662,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL12P70 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.09047353643863,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL12P70 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.62959327259179,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL12P70 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00502904997682402,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL12P70 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL12P70 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR >1 per higher circulating IL12P70; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 15,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL12P70 / Endometriosis of uterus; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Supplement Table S3 values. Significant for uterus (P=0.005) and ovary (OR 1.196, P=0.034); no overall-phenotype hit; uterus kept (smaller P). Main text inaccessible."
+ },
+ {
+  "claim_id": "WeiL2024JRI-10",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": -0.103622123319348,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL16 / Endometriosis: beta -0.104, SE 0.040, P 0.0103; OR column 1.293 (1.133-1.476)",
+    "source_inconsistent": true,
+    "note": "Row contradicts itself: beta sign vs OR column 1.293 (1.133-1.476). P matches beta/SE, so beta kept; OR/CI cells unexplained."
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.010253878846708,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL16 / Endometriosis: beta -0.104, SE 0.040, P 0.0103; OR column 1.293 (1.133-1.476)",
+    "source_inconsistent": true,
+    "note": "P equals the two-sided P of beta/SE; the OR/CI cells would imply a different P."
+   },
+   {
+    "field": "estimate_scale",
+    "decision": "second",
+    "value": "beta",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL16 / Endometriosis: beta -0.104, SE 0.040, P 0.0103; OR column 1.293 (1.133-1.476)",
+    "source_inconsistent": true,
+    "note": "Beta reported because the OR column is not exp(beta); CI fields stay null (no beta CI reported)."
+   },
+   {
+    "field": "direction",
+    "decision": "first",
+    "value": "null_or_unclear",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL16 / Endometriosis: beta -0.104, SE 0.040, P 0.0103; OR column 1.293 (1.133-1.476)",
+    "source_inconsistent": true,
+    "note": "Beta and OR columns disagree on sign, so direction unclear per convention."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 10,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL16 / Endometriosis; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Table S3 row internally inconsistent (beta negative, OR above 1); direction unresolvable without the inaccessible main text. Overall endometriosis phenotype."
+ },
+ {
+  "claim_id": "WeiL2024JRI-11",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.769677767666142,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL17 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.612920284022246,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL17 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.966526775964939,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL17 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0242581123850777,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL17 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "mmc1.xls 'Table S3 MR IVW', row IL17 / Endometriosis of uterus (fixed-effect IVW)",
+    "source_inconsistent": false,
+    "note": "OR <1 per higher circulating IL17; beta sign agrees with the OR column."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "mmc1.xls 'Table S1 IVs': all IVs P<5e-6, spread over many chromosomes, not restricted to the gene region",
+    "source_inconsistent": false,
+    "note": "Main text inaccessible; threshold inferred from the IV list. Instruments mostly trans (e.g. MCP1 IVs none on chr17)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 8,
+    "evidence": "mmc1.xls 'Table S3 MR IVW', nsnp for IL17 / Endometriosis of uterus; matches Table S1 IV count",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "First extraction was abstract-only; supplement Table S3 (fixed-effect IVW) supplies values. Main text inaccessible, so outcome GWAS and primary phenotype unverifiable. Only uterus subtype significant."
+ },
+ {
+  "claim_id": "Wang2026FRH-34",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "first",
+    "value": 1,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg10672416 (C12orf65): OR 1.16 (1.08-1.24), p_SMR 6.93e-05",
+    "source_inconsistent": false,
+    "note": "SMR uses the single top cis-mQTL per probe, as in the other 65 Wang2026FRH SMR claims; TSMR SNP counts are in unavailable Supp Table 5."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Wang2026FRH-41",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "first",
+    "value": 1,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg19411738 (PHYH): OR 1.04 (1.00-1.08), p_SMR 0.0309",
+    "source_inconsistent": false,
+    "note": "SMR uses the single top cis-mQTL per probe, as in the other 65 Wang2026FRH SMR claims; TSMR SNP counts are in unavailable Supp Table 5."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Wang2026FRH-56",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "first",
+    "value": 0.88,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg05987564 (GPD2): OR 0.88 (0.79-0.99), p_SMR 0.03237647",
+    "source_inconsistent": false,
+    "note": "SMR kept, matching the paper's other Fig 2 claims; text TSMR IVW OR 0.89, P=0.0026 (3 SNPs, Datasheet5 csv) has no CI. Method should read SMR."
+   },
+   {
+    "field": "ci_low",
+    "decision": "first",
+    "value": 0.79,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg05987564 (GPD2): OR 0.88 (0.79-0.99), p_SMR 0.03237647",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "first",
+    "value": 0.99,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg05987564 (GPD2): OR 0.88 (0.79-0.99), p_SMR 0.03237647",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "first",
+    "value": 0.03237647,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg05987564 (GPD2): OR 0.88 (0.79-0.99), p_SMR 0.03237647",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "first",
+    "value": 1,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg05987564 (GPD2): OR 0.88 (0.79-0.99), p_SMR 0.03237647",
+    "source_inconsistent": false,
+    "note": "SMR uses the single top cis-mQTL; the TSMR IVW estimate used 3 SNPs."
+   }
+  ],
+  "overall_note": "Paper requires TSMR IVW P<0.05 and SMR P<0.05 with HEIDI>0.05; only SMR has per-CpG estimates with CIs (Fig 2C), so SMR used for consistency."
+ },
+ {
+  "claim_id": "Wang2026FRH-58",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "first",
+    "value": 1.15,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg24282826 (MRPS6): OR 1.15 (1.02-1.29), p_SMR 0.01783399",
+    "source_inconsistent": false,
+    "note": "Text TSMR IVW OR 1.20, P=0.019 matches Datasheet5 csv CpG cg24865779 (2 SNPs), not Fig 2C probe cg24282826; SMR kept."
+   },
+   {
+    "field": "ci_low",
+    "decision": "first",
+    "value": 1.02,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg24282826 (MRPS6): OR 1.15 (1.02-1.29), p_SMR 0.01783399",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "first",
+    "value": 1.29,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg24282826 (MRPS6): OR 1.15 (1.02-1.29), p_SMR 0.01783399",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "first",
+    "value": 1,
+    "evidence": "Figure 2C (mQTL SMR panel), probe cg24282826 (MRPS6): OR 1.15 (1.02-1.29), p_SMR 0.01783399",
+    "source_inconsistent": false,
+    "note": "SMR uses the single top cis-mQTL per probe."
+   }
+  ],
+  "overall_note": "SMR values from Fig 2C used, as for all Wang2026FRH claims; method should read SMR. The text's IVW figure appears to belong to a different MRPS6 CpG."
+ },
+ {
+  "claim_id": "Li2026tg-2",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.177e-16,
+    "evidence": "S1 Table (pone.0356100.s003.docx), omega-3 PUFA block, SCN3A IVW: 36 SNPs, B 1.351, SE 0.163, P 1.177E-16",
+    "source_inconsistent": false,
+    "note": "Figure 5 prints P<0.001; S1 Table gives the exact value of the same IVW analysis (exp(1.351)=3.861 = Fig 5 OR)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Li2026tg-4",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.33e-08,
+    "evidence": "S1 Table (pone.0356100.s003.docx), fibrates block, APOA1 IVW: 250 SNPs, B 0.164, SE 0.029, P 1.33E-08",
+    "source_inconsistent": true,
+    "note": "S1 Table lists 250 SNPs (row identical to APOA5) but Figure 5 nsnp 235; OR 1.178 and CI agree, so same analysis likely."
+   }
+  ],
+  "overall_note": "Figure 5 and S1 Table disagree on the APOA1 SNP count (235 vs 250); n_instruments deserves a check."
+ },
+ {
+  "claim_id": "Li2026tg-6",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 3.764e-12,
+    "evidence": "S1 Table (pone.0356100.s003.docx), nicotinic acids block, ITGAV IVW: 3 SNPs, B -6.211, SE 0.894, P 3.764E-12",
+    "source_inconsistent": false,
+    "note": "Figure 5 prints P<0.001. Row identical to TFPI, plausibly shared instruments under the stated 100 Mb window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Li2026tg-7",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.372e-07,
+    "evidence": "S1 Table (pone.0356100.s003.docx), omega-3 PUFA block, BACE1 IVW: 233 SNPs, B 0.156, SE 0.030, P 1.372E-07",
+    "source_inconsistent": false,
+    "note": "Figure 5 prints P<0.001; exact value from S1 Table, same IVW analysis (exp(0.156)=1.169 = Fig 5 OR)."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Guo2025Med-1",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 107564,
+    "evidence": "Supplement .xls sheet Stable1: ENDOMETRIOSIS(EMS), FinnGen, n case 15088, n control 107564",
+    "source_inconsistent": false,
+    "note": "Main text gives only the 15,088 cases; controls come from Table S1."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 18,
+    "evidence": "Table S8 (Stable8): 18 SNP rows for Interleukin-17A levels; Figure 4 nsnp 18",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Guo2025Med-3",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.94616869,
+    "evidence": "Table S8 TRAIL 'All - Inverse variance weighted': OR 0.94616869 (0.901014006-0.99358632), P 0.026561692; Figure 4 agrees",
+    "source_inconsistent": true,
+    "note": "Results text prints TRAIL as OR 1.061 (1.007-1.119), P=.026, a copy of the CDCP1 values, while listing it as protective."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.901014006,
+    "evidence": "Table S8 TRAIL 'All - Inverse variance weighted': OR 0.94616869 (0.901014006-0.99358632), P 0.026561692; Figure 4 agrees",
+    "source_inconsistent": true,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.99358632,
+    "evidence": "Table S8 TRAIL 'All - Inverse variance weighted': OR 0.94616869 (0.901014006-0.99358632), P 0.026561692; Figure 4 agrees",
+    "source_inconsistent": true,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.026561692,
+    "evidence": "Table S8 TRAIL 'All - Inverse variance weighted': OR 0.94616869 (0.901014006-0.99358632), P 0.026561692; Figure 4 agrees",
+    "source_inconsistent": true,
+    "note": "Text P=.026 is CDCP1's value (0.0261); table value used."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 107564,
+    "evidence": "Supplement .xls sheet Stable1: ENDOMETRIOSIS(EMS), FinnGen, n case 15088, n control 107564",
+    "source_inconsistent": false,
+    "note": "Main text gives only the 15,088 cases; controls come from Table S1."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 36,
+    "evidence": "Table S8: 36 SNP rows for TNF-related apoptosis-inducing ligand levels; Figure 4 nsnp 36",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Text misprints the TRAIL estimate; Table S8 and Figure 4 agree on OR 0.946 (protective), matching the text's classification."
+ },
+ {
+  "claim_id": "Guo2025Med-4",
+  "fields": [
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 107564,
+    "evidence": "Supplement .xls sheet Stable1: ENDOMETRIOSIS(EMS), FinnGen, n case 15088, n control 107564",
+    "source_inconsistent": false,
+    "note": "Main text gives only the 15,088 cases; controls come from Table S1."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 31,
+    "evidence": "Table S8: 31 SNP rows for C-C motif chemokine 4 levels; Figure 4 nsnp 31",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Xie2024FE-1",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods, MR paragraph: IVs P<5x10^-8, LD clumping r2<0.001, kb=10000 via TwoSampleMR; no gene window stated",
+    "source_inconsistent": false,
+    "note": "Genome-wide threshold without positional restriction on IEU eqtl-a (eQTLGen) data, which can include trans-eQTLs."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Xie2024FE-15",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods, MR paragraph: IVs P<5x10^-8, LD clumping r2<0.001, kb=10000 via TwoSampleMR; no gene window stated",
+    "source_inconsistent": false,
+    "note": "Genome-wide threshold without positional restriction on IEU eqtl-a (eQTLGen) data, which can include trans-eQTLs."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Xie2024FE-17",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods, MR paragraph: IVs P<5x10^-8, LD clumping r2<0.001, kb=10000 via TwoSampleMR; no gene window stated",
+    "source_inconsistent": false,
+    "note": "Genome-wide threshold without positional restriction on IEU eqtl-a (eQTLGen) data, which can include trans-eQTLs."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Du2025CIMB-1",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Section 2.3: IEU eqtl-a data, P<5x10^-8, clump r2=0.001, kb=10,000; Table S4 IVs include trans rs1354034 (chr3) for BMP6",
+    "source_inconsistent": false,
+    "note": "No cis window stated; BMP6 (chr6) instruments include trans variants."
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "first",
+    "value": 3809,
+    "evidence": "Section 2.1: endometriosis GWAS (IEU) 462,933 samples, 3809 cases and 459,124 controls",
+    "source_inconsistent": false,
+    "note": "Second extractor missed this Methods sentence; counts are stated in the paper."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 459124,
+    "evidence": "Section 2.1: endometriosis GWAS (IEU) 462,933 samples, 3809 cases and 459,124 controls",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Du2025CIMB-2",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Section 2.3: IEU eqtl-a data, P<5x10^-8, clump r2=0.001, kb=10,000; no gene window stated",
+    "source_inconsistent": false,
+    "note": "Genome-wide threshold without positional restriction (same pipeline as BMP6)."
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "first",
+    "value": 3809,
+    "evidence": "Section 2.1: endometriosis GWAS (IEU) 462,933 samples, 3809 cases and 459,124 controls",
+    "source_inconsistent": false,
+    "note": "Counts are stated in the paper's Methods."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": 459124,
+    "evidence": "Section 2.1: endometriosis GWAS (IEU) 462,933 samples, 3809 cases and 459,124 controls",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Song2025-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.099741849,
+    "evidence": "Supplement mmc1.xlsx sheet UKB, HLA-DRA IVW row: 165 SNPs, OR 1.0997 (1.0654-1.1352), P 4.37E-09",
+    "source_inconsistent": false,
+    "note": "Full text inaccessible (ScienceDirect); the supplement table is the best available source."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.06537437,
+    "evidence": "Supplement mmc1.xlsx sheet UKB, HLA-DRA IVW row: 165 SNPs, OR 1.0997 (1.0654-1.1352), P 4.37E-09",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.135217975,
+    "evidence": "Supplement mmc1.xlsx sheet UKB, HLA-DRA IVW row: 165 SNPs, OR 1.0997 (1.0654-1.1352), P 4.37E-09",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 4.37e-09,
+    "evidence": "Supplement mmc1.xlsx sheet UKB, HLA-DRA IVW row: 165 SNPs, OR 1.0997 (1.0654-1.1352), P 4.37E-09",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 165,
+    "evidence": "Supplement mmc1.xlsx sheet UKB, HLA-DRA IVW row: 165 SNPs, OR 1.0997 (1.0654-1.1352), P 4.37E-09",
+    "source_inconsistent": false,
+    "note": "165 SNPs implies genome-wide (cis and trans) selection, not stated."
+   }
+  ],
+  "overall_note": "UKB-PPP pQTL exposure; mmc1 lists 33 UKB-PPP signals, matching the abstract. Outcome GWAS not identifiable without the main text."
+ },
+ {
+  "claim_id": "Song2025-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.873682007,
+    "evidence": "Supplement mmc1.xlsx sheet deCODE, CREB3L4 IVW row: 110 SNPs, OR 0.8737 (0.8349-0.9143), P 5.65E-09",
+    "source_inconsistent": false,
+    "note": "Full text inaccessible (ScienceDirect); the supplement table is the best available source."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.834884529,
+    "evidence": "Supplement mmc1.xlsx sheet deCODE, CREB3L4 IVW row: 110 SNPs, OR 0.8737 (0.8349-0.9143), P 5.65E-09",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.914282422,
+    "evidence": "Supplement mmc1.xlsx sheet deCODE, CREB3L4 IVW row: 110 SNPs, OR 0.8737 (0.8349-0.9143), P 5.65E-09",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 5.65e-09,
+    "evidence": "Supplement mmc1.xlsx sheet deCODE, CREB3L4 IVW row: 110 SNPs, OR 0.8737 (0.8349-0.9143), P 5.65E-09",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "Supplement mmc1.xlsx sheet deCODE, CREB3L4 IVW row: 110 SNPs, OR 0.8737 (0.8349-0.9143), P 5.65E-09",
+    "source_inconsistent": false,
+    "note": "Higher CREB3L4 protein, lower ovarian EM risk; consistent with abstract (HLA-DRA raises risk by lowering CREB3L4)."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 110,
+    "evidence": "Supplement mmc1.xlsx sheet deCODE, CREB3L4 IVW row: 110 SNPs, OR 0.8737 (0.8349-0.9143), P 5.65E-09",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "deCODE pQTL exposure; mmc1 lists 19 deCODE signals, matching abstract. The 13.99% mediation reproduces from mmc3 HLA-DRA->CREB3L4 beta times this beta."
+ },
+ {
+  "claim_id": "Xu2025BMCPT-1",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods MR paragraph: IL1B-expression SNPs at 'P < 5 x 10^8' from eqtl-a-ENSG00000125538; no gene window stated",
+    "source_inconsistent": false,
+    "note": "Threshold misprinted as 5x10^8, evidently 5x10^-8; genome-wide selection without positional restriction."
+   }
+  ],
+  "overall_note": "Separate known issue: Table 1 reports P<0.05 although the IVW CI 0.84-2.49 includes 1."
+ },
+ {
+  "claim_id": "Zhang2024lipid-1",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0117519960815432,
+    "evidence": "S5 Table (pone.0301752.s005), TG/ANGPTL3 IVW row: 24 SNPs, P 0.0117519960815432, OR 0.798 (0.670, 0.951)",
+    "source_inconsistent": false,
+    "note": "Text/abstract P=0.01 is the rounded value of the same IVW analysis."
+   },
+   {
+    "field": "headline",
+    "decision": "first",
+    "value": true,
+    "evidence": "Abstract Results: drug-target MR gave 'suggestive evidence for the influence of ANGPTL3 on EMS'; Conclusions call for research on ANGPTL3's role",
+    "source_inconsistent": false,
+    "note": "Abstract names ANGPTL3 as its drug-target MR finding (suggestive, PP.H4 0.85%); Discussion proposes ANGPTL3 agonists. Hedged, but named."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Lai2026-1",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods: SNPs P<5x10^-8 from the GNLY exposure GWAS, r2<0.001, distance >10,000 kb; 11 IVs; no gene window",
+    "source_inconsistent": false,
+    "note": "Genome-wide threshold without positional restriction (eQTLGen-sized dataset via IEU)."
+   }
+  ],
+  "overall_note": null
+ }
+]

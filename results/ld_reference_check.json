@@ -1,0 +1,2016 @@
+{
+ "checked_at": "2026-10-31",
+ "rule": "PROTOCOL.md section 3, fixed details: 1000 Genomes file check",
+ "structure": {
+  "people": 503,
+  "variants": 8550156,
+  "bed_bytes_ok": true
+ },
+ "sample_seed": 20261031,
+ "sampled": 200,
+ "found_in_ensembl": 199,
+ "within_0.01": 199,
+ "allele_mismatch": 0,
+ "share_within_0.01": 1.0,
+ "passed": true,
+ "variants": [
+  {
+   "rsid": "rs75675743",
+   "chrom": "1",
+   "pos_GRCh37": 10111706,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.0229,
+   "a1_freq_ensembl": 0.0228628230616302,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs78086411",
+   "chrom": "1",
+   "pos_GRCh37": 51636554,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.0666,
+   "a1_freq_ensembl": 0.0666003976143141,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs138139414",
+   "chrom": "1",
+   "pos_GRCh37": 56943398,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.0338,
+   "a1_freq_ensembl": 0.0337972166998012,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12093621",
+   "chrom": "1",
+   "pos_GRCh37": 67979029,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.163,
+   "a1_freq_ensembl": 0.163021868787276,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs58282039",
+   "chrom": "1",
+   "pos_GRCh37": 90517662,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0199,
+   "a1_freq_ensembl": 0.0198807157057654,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs80007339",
+   "chrom": "1",
+   "pos_GRCh37": 108345150,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0169,
+   "a1_freq_ensembl": 0.0168986083499006,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs17160264",
+   "chrom": "1",
+   "pos_GRCh37": 146969712,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.1412,
+   "a1_freq_ensembl": 0.141153081510934,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs415442",
+   "chrom": "1",
+   "pos_GRCh37": 166505263,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0646,
+   "a1_freq_ensembl": 0.0646123260437376,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs1779679",
+   "chrom": "1",
+   "pos_GRCh37": 215070043,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.7247,
+   "a1_freq_ensembl": 0.724652087475149,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4654713",
+   "chrom": "1",
+   "pos_GRCh37": 229195149,
+   "a1": "G",
+   "a2": "T",
+   "a1_freq_panel": 0.5646,
+   "a1_freq_ensembl": 0.564612326043738,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4654155",
+   "chrom": "1",
+   "pos_GRCh37": 246047160,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.7535,
+   "a1_freq_ensembl": 0.753479125248509,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12614544",
+   "chrom": "2",
+   "pos_GRCh37": 6303432,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0855,
+   "a1_freq_ensembl": 0.0854870775347912,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs183881048",
+   "chrom": "2",
+   "pos_GRCh37": 10005955,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0189,
+   "a1_freq_ensembl": 0.0188866799204771,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4669745",
+   "chrom": "2",
+   "pos_GRCh37": 11681572,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.6938,
+   "a1_freq_ensembl": 0.693836978131213,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7565888",
+   "chrom": "2",
+   "pos_GRCh37": 19866930,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0805,
+   "a1_freq_ensembl": 0.0805168986083499,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs67439200",
+   "chrom": "2",
+   "pos_GRCh37": 34028847,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0586,
+   "a1_freq_ensembl": 0.058648111332008,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs13025126",
+   "chrom": "2",
+   "pos_GRCh37": 57956088,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.3748,
+   "a1_freq_ensembl": 0.374751491053678,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2717053",
+   "chrom": "2",
+   "pos_GRCh37": 58047101,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.6243,
+   "a1_freq_ensembl": 0.624254473161034,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs56311722",
+   "chrom": "2",
+   "pos_GRCh37": 75171956,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.2535,
+   "a1_freq_ensembl": 0.253479125248509,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7603278",
+   "chrom": "2",
+   "pos_GRCh37": 76776812,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.7545,
+   "a1_freq_ensembl": 0.754473161033797,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2599126",
+   "chrom": "2",
+   "pos_GRCh37": 91761554,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.5596,
+   "a1_freq_ensembl": 0.559642147117296,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62163139",
+   "chrom": "2",
+   "pos_GRCh37": 124573722,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0736,
+   "a1_freq_ensembl": 0.073558648111332,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs78958759",
+   "chrom": "2",
+   "pos_GRCh37": 150414814,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.1183,
+   "a1_freq_ensembl": 0.118290258449304,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs16831845",
+   "chrom": "2",
+   "pos_GRCh37": 153717593,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.172,
+   "a1_freq_ensembl": 0.171968190854871,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs74267589",
+   "chrom": "2",
+   "pos_GRCh37": 159774377,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.2058,
+   "a1_freq_ensembl": 0.205765407554672,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7579292",
+   "chrom": "2",
+   "pos_GRCh37": 188852021,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.168,
+   "a1_freq_ensembl": 0.167992047713718,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4853468",
+   "chrom": "2",
+   "pos_GRCh37": 190904507,
+   "a1": "G",
+   "a2": "T",
+   "a1_freq_panel": 0.0348,
+   "a1_freq_ensembl": 0.0347912524850895,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs79826169",
+   "chrom": "2",
+   "pos_GRCh37": 208152843,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0974,
+   "a1_freq_ensembl": 0.0974155069582505,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs78154751",
+   "chrom": "2",
+   "pos_GRCh37": 229630571,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0924,
+   "a1_freq_ensembl": 0.0924453280318091,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62186914",
+   "chrom": "2",
+   "pos_GRCh37": 236265747,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.6869,
+   "a1_freq_ensembl": 0.686878727634195,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs141716862",
+   "chrom": "2",
+   "pos_GRCh37": 239782886,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.1501,
+   "a1_freq_ensembl": 0.150099403578529,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62180920",
+   "chrom": "2",
+   "pos_GRCh37": 240410703,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.4254,
+   "a1_freq_ensembl": 0.42544731610338,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs28612455",
+   "chrom": "3",
+   "pos_GRCh37": 8432332,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.5577,
+   "a1_freq_ensembl": 0.55765407554672,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs56026803",
+   "chrom": "3",
+   "pos_GRCh37": 25117155,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.1839,
+   "a1_freq_ensembl": 0.18389662027833,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs1589640",
+   "chrom": "3",
+   "pos_GRCh37": 34932645,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.1402,
+   "a1_freq_ensembl": 0.140159045725646,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs301539",
+   "chrom": "3",
+   "pos_GRCh37": 73159908,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.2962,
+   "a1_freq_ensembl": 0.296222664015905,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12629559",
+   "chrom": "3",
+   "pos_GRCh37": 95531442,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0189,
+   "a1_freq_ensembl": 0.0188866799204771,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs79280096",
+   "chrom": "3",
+   "pos_GRCh37": 122553762,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0169,
+   "a1_freq_ensembl": 0.0168986083499006,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs56187820",
+   "chrom": "3",
+   "pos_GRCh37": 133253718,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.8549,
+   "a1_freq_ensembl": 0.854870775347913,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs28470805",
+   "chrom": "3",
+   "pos_GRCh37": 144855153,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.8549,
+   "a1_freq_ensembl": 0.854870775347913,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs58207863",
+   "chrom": "3",
+   "pos_GRCh37": 156600807,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.1928,
+   "a1_freq_ensembl": 0.192842942345924,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs710516",
+   "chrom": "3",
+   "pos_GRCh37": 188759268,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.9553,
+   "a1_freq_ensembl": 0.955268389662028,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs34899478",
+   "chrom": "3",
+   "pos_GRCh37": 194155930,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0795,
+   "a1_freq_ensembl": 0.0795228628230616,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6853188",
+   "chrom": "4",
+   "pos_GRCh37": 7577429,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.2893,
+   "a1_freq_ensembl": 0.289264413518887,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs61791098",
+   "chrom": "4",
+   "pos_GRCh37": 27957428,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0676,
+   "a1_freq_ensembl": 0.0675944333996024,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs560886625",
+   "chrom": "4",
+   "pos_GRCh37": 49639014,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0278,
+   "a1_freq_ensembl": 0.0278330019880716,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs28397126",
+   "chrom": "4",
+   "pos_GRCh37": 71408106,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.162,
+   "a1_freq_ensembl": 0.162027833001988,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs146686946",
+   "chrom": "4",
+   "pos_GRCh37": 100184671,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0119,
+   "a1_freq_ensembl": 0.0119284294234592,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11732146",
+   "chrom": "4",
+   "pos_GRCh37": 130294622,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0547,
+   "a1_freq_ensembl": 0.0546719681908549,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs116627003",
+   "chrom": "4",
+   "pos_GRCh37": 146541690,
+   "a1": "G",
+   "a2": "T",
+   "a1_freq_panel": 0.0159,
+   "a1_freq_ensembl": 0.0159045725646123,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs28405183",
+   "chrom": "4",
+   "pos_GRCh37": 151488717,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0268,
+   "a1_freq_ensembl": 0.0268389662027833,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs13111151",
+   "chrom": "4",
+   "pos_GRCh37": 176044693,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.501,
+   "a1_freq_ensembl": 0.500994035785288,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs151316031",
+   "chrom": "4",
+   "pos_GRCh37": 181280776,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.0547,
+   "a1_freq_ensembl": 0.0546719681908549,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4975599",
+   "chrom": "5",
+   "pos_GRCh37": 1188837,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.9105,
+   "a1_freq_ensembl": 0.910536779324056,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs372614479",
+   "chrom": "5",
+   "pos_GRCh37": 15274698,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.3887,
+   "a1_freq_ensembl": 0.388667992047714,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs3811863",
+   "chrom": "5",
+   "pos_GRCh37": 19521849,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0527,
+   "a1_freq_ensembl": 0.0526838966202783,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs149018184",
+   "chrom": "5",
+   "pos_GRCh37": 22657854,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0109,
+   "a1_freq_ensembl": 0.010934393638171,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs57467828",
+   "chrom": "5",
+   "pos_GRCh37": 41009067,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.4602,
+   "a1_freq_ensembl": 0.460238568588469,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs75540890",
+   "chrom": "5",
+   "pos_GRCh37": 70988913,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0447,
+   "a1_freq_ensembl": 0.0447316103379722,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7735582",
+   "chrom": "5",
+   "pos_GRCh37": 116587680,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.2674,
+   "a1_freq_ensembl": 0.267395626242545,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11743418",
+   "chrom": "5",
+   "pos_GRCh37": 157115528,
+   "a1": "C",
+   "a2": "A",
+   "a1_freq_panel": 0.4125,
+   "a1_freq_ensembl": 0.412524850894632,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6897549",
+   "chrom": "5",
+   "pos_GRCh37": 173632898,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.3598,
+   "a1_freq_ensembl": 0.359840954274354,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs114921278",
+   "chrom": "6",
+   "pos_GRCh37": 2572420,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0447,
+   "a1_freq_ensembl": 0.0447316103379722,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs114425848",
+   "chrom": "6",
+   "pos_GRCh37": 31032977,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0109,
+   "a1_freq_ensembl": 0.010934393638171,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs67345629",
+   "chrom": "6",
+   "pos_GRCh37": 32529268,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.5517,
+   "a1_freq_ensembl": 0.55168986083499,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs73736708",
+   "chrom": "6",
+   "pos_GRCh37": 43099500,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.0487,
+   "a1_freq_ensembl": 0.0487077534791252,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs151295137",
+   "chrom": "6",
+   "pos_GRCh37": 53713829,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0547,
+   "a1_freq_ensembl": 0.0546719681908549,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2754813",
+   "chrom": "6",
+   "pos_GRCh37": 54074482,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.1163,
+   "a1_freq_ensembl": 0.116302186878728,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs116111422",
+   "chrom": "6",
+   "pos_GRCh37": 55199117,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0159,
+   "a1_freq_ensembl": 0.0159045725646123,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4312958",
+   "chrom": "6",
+   "pos_GRCh37": 83989491,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0199,
+   "a1_freq_ensembl": 0.0198807157057654,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs614896",
+   "chrom": "6",
+   "pos_GRCh37": 101415819,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.6531,
+   "a1_freq_ensembl": 0.653081510934394,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12210879",
+   "chrom": "6",
+   "pos_GRCh37": 127782245,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.4036,
+   "a1_freq_ensembl": 0.403578528827038,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6933168",
+   "chrom": "6",
+   "pos_GRCh37": 150929923,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.2584,
+   "a1_freq_ensembl": 0.25844930417495,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs41284218",
+   "chrom": "6",
+   "pos_GRCh37": 155569168,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0855,
+   "a1_freq_ensembl": 0.0854870775347912,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs9364669",
+   "chrom": "6",
+   "pos_GRCh37": 163071272,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0517,
+   "a1_freq_ensembl": 0.0516898608349901,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6905712",
+   "chrom": "6",
+   "pos_GRCh37": 165246071,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.6968,
+   "a1_freq_ensembl": 0.696819085487077,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs9356308",
+   "chrom": "6",
+   "pos_GRCh37": 165355357,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0249,
+   "a1_freq_ensembl": 0.0248508946322068,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs74677383",
+   "chrom": "6",
+   "pos_GRCh37": 168876895,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0229,
+   "a1_freq_ensembl": 0.0228628230616302,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs59927964",
+   "chrom": "7",
+   "pos_GRCh37": 5150034,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.2575,
+   "a1_freq_ensembl": 0.257455268389662,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62450564",
+   "chrom": "7",
+   "pos_GRCh37": 24912931,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.2008,
+   "a1_freq_ensembl": 0.200795228628231,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs117898413",
+   "chrom": "7",
+   "pos_GRCh37": 28429156,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0189,
+   "a1_freq_ensembl": 0.0188866799204771,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs113346358",
+   "chrom": "7",
+   "pos_GRCh37": 29829232,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.1402,
+   "a1_freq_ensembl": 0.140159045725646,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs75485115",
+   "chrom": "7",
+   "pos_GRCh37": 43866240,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.1302,
+   "a1_freq_ensembl": 0.130218687872763,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs73327037",
+   "chrom": "7",
+   "pos_GRCh37": 45290999,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.168,
+   "a1_freq_ensembl": 0.167992047713718,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7787331",
+   "chrom": "7",
+   "pos_GRCh37": 55327599,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.1958,
+   "a1_freq_ensembl": 0.195825049701789,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs146366873",
+   "chrom": "7",
+   "pos_GRCh37": 55854054,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0199,
+   "a1_freq_ensembl": 0.0198807157057654,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs60637351",
+   "chrom": "7",
+   "pos_GRCh37": 77482770,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.0169,
+   "a1_freq_ensembl": 0.0168986083499006,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62458628",
+   "chrom": "7",
+   "pos_GRCh37": 82824960,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.2922,
+   "a1_freq_ensembl": 0.292246520874752,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs372100637",
+   "chrom": "7",
+   "pos_GRCh37": 83695940,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.0179,
+   "a1_freq_ensembl": 0.0178926441351889,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs77098251",
+   "chrom": "7",
+   "pos_GRCh37": 85077871,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.0527,
+   "a1_freq_ensembl": 0.0526838966202783,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs78788403",
+   "chrom": "7",
+   "pos_GRCh37": 86616975,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.2962,
+   "a1_freq_ensembl": 0.296222664015905,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10486895",
+   "chrom": "7",
+   "pos_GRCh37": 88684280,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.7714,
+   "a1_freq_ensembl": 0.771371769383698,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs34057848",
+   "chrom": "7",
+   "pos_GRCh37": 88914473,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.1243,
+   "a1_freq_ensembl": 0.124254473161034,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs497536",
+   "chrom": "7",
+   "pos_GRCh37": 103387998,
+   "a1": "C",
+   "a2": "A",
+   "a1_freq_panel": 0.1511,
+   "a1_freq_ensembl": 0.151093439363817,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4727824",
+   "chrom": "7",
+   "pos_GRCh37": 115676712,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.2455,
+   "a1_freq_ensembl": 0.245526838966203,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs142865641",
+   "chrom": "7",
+   "pos_GRCh37": 125110230,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0298,
+   "a1_freq_ensembl": 0.0298210735586481,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62481909",
+   "chrom": "7",
+   "pos_GRCh37": 128289128,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.2903,
+   "a1_freq_ensembl": 0.290258449304175,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62489510",
+   "chrom": "7",
+   "pos_GRCh37": 135410094,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0487,
+   "a1_freq_ensembl": 0.0487077534791252,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10230692",
+   "chrom": "7",
+   "pos_GRCh37": 139421180,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.164,
+   "a1_freq_ensembl": 0.164015904572565,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6962372",
+   "chrom": "7",
+   "pos_GRCh37": 145058464,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.2008,
+   "a1_freq_ensembl": 0.200795228628231,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4642549",
+   "chrom": "7",
+   "pos_GRCh37": 153297555,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.6332,
+   "a1_freq_ensembl": 0.633200795228628,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs71547566",
+   "chrom": "7",
+   "pos_GRCh37": 158536422,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.17,
+   "a1_freq_ensembl": 0.169980119284294,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs192626222",
+   "chrom": "7",
+   "pos_GRCh37": 159093445,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0298,
+   "a1_freq_ensembl": 0.0298210735586481,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62485470",
+   "chrom": "8",
+   "pos_GRCh37": 314379,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0437,
+   "a1_freq_ensembl": 0.0437375745526839,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs111570979",
+   "chrom": "8",
+   "pos_GRCh37": 18140408,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0308,
+   "a1_freq_ensembl": 0.0308151093439364,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2468980",
+   "chrom": "8",
+   "pos_GRCh37": 18420465,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.9652,
+   "a1_freq_ensembl": 0.965208747514911,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs13261609",
+   "chrom": "8",
+   "pos_GRCh37": 32273527,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.171,
+   "a1_freq_ensembl": 0.170974155069582,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2970724",
+   "chrom": "8",
+   "pos_GRCh37": 36894575,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.5686,
+   "a1_freq_ensembl": 0.568588469184891,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs13276608",
+   "chrom": "8",
+   "pos_GRCh37": 65681851,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.1243,
+   "a1_freq_ensembl": 0.124254473161034,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs180886664",
+   "chrom": "8",
+   "pos_GRCh37": 67867028,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0278,
+   "a1_freq_ensembl": 0.0278330019880716,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs957000",
+   "chrom": "8",
+   "pos_GRCh37": 94077571,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.163,
+   "a1_freq_ensembl": 0.163021868787276,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs117741288",
+   "chrom": "8",
+   "pos_GRCh37": 117522217,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0318,
+   "a1_freq_ensembl": 0.0318091451292246,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs57799549",
+   "chrom": "8",
+   "pos_GRCh37": 144528909,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.2445,
+   "a1_freq_ensembl": 0.244532803180915,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4573333",
+   "chrom": "9",
+   "pos_GRCh37": 4454151,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.3588,
+   "a1_freq_ensembl": 0.358846918489066,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6475091",
+   "chrom": "9",
+   "pos_GRCh37": 16878382,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.8936,
+   "a1_freq_ensembl": 0.893638170974155,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10970753",
+   "chrom": "9",
+   "pos_GRCh37": 32084532,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.1004,
+   "a1_freq_ensembl": 0.100397614314115,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs140969196",
+   "chrom": "9",
+   "pos_GRCh37": 44730481,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0199,
+   "a1_freq_ensembl": 0.0198807157057654,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs75674557",
+   "chrom": "9",
+   "pos_GRCh37": 70843400,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.7147
+  },
+  {
+   "rsid": "rs2253885",
+   "chrom": "9",
+   "pos_GRCh37": 72027018,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.2614,
+   "a1_freq_ensembl": 0.261431411530815,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs112060867",
+   "chrom": "9",
+   "pos_GRCh37": 73561051,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0278,
+   "a1_freq_ensembl": 0.0278330019880716,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs62544890",
+   "chrom": "9",
+   "pos_GRCh37": 74375724,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0785,
+   "a1_freq_ensembl": 0.0785288270377734,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs74735517",
+   "chrom": "9",
+   "pos_GRCh37": 78337474,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.1789,
+   "a1_freq_ensembl": 0.178926441351889,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10867608",
+   "chrom": "9",
+   "pos_GRCh37": 83298336,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.6262,
+   "a1_freq_ensembl": 0.62624254473161,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10121083",
+   "chrom": "9",
+   "pos_GRCh37": 98526008,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.2913,
+   "a1_freq_ensembl": 0.291252485089463,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2417271",
+   "chrom": "9",
+   "pos_GRCh37": 104267982,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.0427,
+   "a1_freq_ensembl": 0.0427435387673956,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs16922637",
+   "chrom": "9",
+   "pos_GRCh37": 105999179,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.1909,
+   "a1_freq_ensembl": 0.190854870775348,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs117305170",
+   "chrom": "9",
+   "pos_GRCh37": 112261362,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0288,
+   "a1_freq_ensembl": 0.0288270377733598,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12550982",
+   "chrom": "9",
+   "pos_GRCh37": 117744829,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.1392,
+   "a1_freq_ensembl": 0.139165009940358,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs13302579",
+   "chrom": "9",
+   "pos_GRCh37": 129171404,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.3062,
+   "a1_freq_ensembl": 0.306163021868787,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6602776",
+   "chrom": "10",
+   "pos_GRCh37": 15009504,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.7187,
+   "a1_freq_ensembl": 0.718687872763419,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7069200",
+   "chrom": "10",
+   "pos_GRCh37": 67274424,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.4056,
+   "a1_freq_ensembl": 0.405566600397614,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11818009",
+   "chrom": "10",
+   "pos_GRCh37": 78891165,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.34,
+   "a1_freq_ensembl": 0.339960238568588,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7067607",
+   "chrom": "10",
+   "pos_GRCh37": 82956352,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.7346,
+   "a1_freq_ensembl": 0.734592445328032,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7898803",
+   "chrom": "10",
+   "pos_GRCh37": 86404146,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.9205,
+   "a1_freq_ensembl": 0.920477137176938,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs3781393",
+   "chrom": "10",
+   "pos_GRCh37": 115311495,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0229,
+   "a1_freq_ensembl": 0.0228628230616302,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12768004",
+   "chrom": "10",
+   "pos_GRCh37": 131386731,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0855,
+   "a1_freq_ensembl": 0.0854870775347912,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7098693",
+   "chrom": "10",
+   "pos_GRCh37": 132442625,
+   "a1": "T",
+   "a2": "G",
+   "a1_freq_panel": 0.0358,
+   "a1_freq_ensembl": 0.0357852882703777,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11603547",
+   "chrom": "11",
+   "pos_GRCh37": 4400801,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.334,
+   "a1_freq_ensembl": 0.333996023856859,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12421465",
+   "chrom": "11",
+   "pos_GRCh37": 12561933,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.2843,
+   "a1_freq_ensembl": 0.284294234592445,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2575838",
+   "chrom": "11",
+   "pos_GRCh37": 14498221,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.6501,
+   "a1_freq_ensembl": 0.650099403578529,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs77114721",
+   "chrom": "11",
+   "pos_GRCh37": 63078994,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0239,
+   "a1_freq_ensembl": 0.0238568588469185,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs117199639",
+   "chrom": "11",
+   "pos_GRCh37": 74059254,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0278,
+   "a1_freq_ensembl": 0.0278330019880716,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10431169",
+   "chrom": "11",
+   "pos_GRCh37": 86108112,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0527,
+   "a1_freq_ensembl": 0.0526838966202783,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7931559",
+   "chrom": "11",
+   "pos_GRCh37": 87065114,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.2982,
+   "a1_freq_ensembl": 0.298210735586481,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs1784270",
+   "chrom": "11",
+   "pos_GRCh37": 107467278,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0785,
+   "a1_freq_ensembl": 0.0785288270377734,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs61703839",
+   "chrom": "11",
+   "pos_GRCh37": 108447128,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.1213,
+   "a1_freq_ensembl": 0.121272365805169,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11600182",
+   "chrom": "11",
+   "pos_GRCh37": 130778510,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.1988,
+   "a1_freq_ensembl": 0.198807157057654,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs116661806",
+   "chrom": "12",
+   "pos_GRCh37": 15614325,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.0189,
+   "a1_freq_ensembl": 0.0188866799204771,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7953032",
+   "chrom": "12",
+   "pos_GRCh37": 31838022,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.6511,
+   "a1_freq_ensembl": 0.651093439363817,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs1392331",
+   "chrom": "12",
+   "pos_GRCh37": 33249832,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0616,
+   "a1_freq_ensembl": 0.0616302186878728,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7308916",
+   "chrom": "12",
+   "pos_GRCh37": 58881657,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.4165,
+   "a1_freq_ensembl": 0.416500994035785,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12298981",
+   "chrom": "12",
+   "pos_GRCh37": 81370224,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.2316,
+   "a1_freq_ensembl": 0.231610337972167,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs73147802",
+   "chrom": "12",
+   "pos_GRCh37": 82663406,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.1083,
+   "a1_freq_ensembl": 0.108349900596421,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10858865",
+   "chrom": "12",
+   "pos_GRCh37": 89846476,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.2227,
+   "a1_freq_ensembl": 0.222664015904573,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs10859346",
+   "chrom": "12",
+   "pos_GRCh37": 93013766,
+   "a1": "C",
+   "a2": "A",
+   "a1_freq_panel": 0.2465,
+   "a1_freq_ensembl": 0.246520874751491,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs118062904",
+   "chrom": "12",
+   "pos_GRCh37": 100877457,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0129,
+   "a1_freq_ensembl": 0.0129224652087475,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2643698",
+   "chrom": "12",
+   "pos_GRCh37": 103060678,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.6262,
+   "a1_freq_ensembl": 0.62624254473161,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs184114472",
+   "chrom": "12",
+   "pos_GRCh37": 115174881,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0278,
+   "a1_freq_ensembl": 0.0278330019880716,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs956397",
+   "chrom": "12",
+   "pos_GRCh37": 127056388,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0865,
+   "a1_freq_ensembl": 0.0864811133200795,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2076920",
+   "chrom": "12",
+   "pos_GRCh37": 133416463,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.494,
+   "a1_freq_ensembl": 0.49403578528827,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs80318444",
+   "chrom": "13",
+   "pos_GRCh37": 21896972,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.5308,
+   "a1_freq_ensembl": 0.530815109343936,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4883900",
+   "chrom": "13",
+   "pos_GRCh37": 72473965,
+   "a1": "T",
+   "a2": "A",
+   "a1_freq_panel": 0.0596,
+   "a1_freq_ensembl": 0.0596421471172962,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11616726",
+   "chrom": "13",
+   "pos_GRCh37": 75244132,
+   "a1": "G",
+   "a2": "T",
+   "a1_freq_panel": 0.0676,
+   "a1_freq_ensembl": 0.0675944333996024,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs586033",
+   "chrom": "13",
+   "pos_GRCh37": 103303444,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.4751,
+   "a1_freq_ensembl": 0.475149105367793,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs2475845",
+   "chrom": "13",
+   "pos_GRCh37": 109509032,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.2117,
+   "a1_freq_ensembl": 0.211729622266402,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs56848528",
+   "chrom": "14",
+   "pos_GRCh37": 37366683,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0298,
+   "a1_freq_ensembl": 0.0298210735586481,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs72668805",
+   "chrom": "14",
+   "pos_GRCh37": 42218338,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0239,
+   "a1_freq_ensembl": 0.0238568588469185,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs35528205",
+   "chrom": "14",
+   "pos_GRCh37": 50316657,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.2326,
+   "a1_freq_ensembl": 0.232604373757455,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs74371991",
+   "chrom": "14",
+   "pos_GRCh37": 76689797,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0318,
+   "a1_freq_ensembl": 0.0318091451292246,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs17572879",
+   "chrom": "14",
+   "pos_GRCh37": 100318504,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.3002,
+   "a1_freq_ensembl": 0.300198807157058,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11072340",
+   "chrom": "15",
+   "pos_GRCh37": 33519672,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.4861,
+   "a1_freq_ensembl": 0.486083499005964,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs56117020",
+   "chrom": "15",
+   "pos_GRCh37": 64034592,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0577,
+   "a1_freq_ensembl": 0.0576540755467197,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs79079830",
+   "chrom": "15",
+   "pos_GRCh37": 64236472,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.0368,
+   "a1_freq_ensembl": 0.036779324055666,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12907569",
+   "chrom": "15",
+   "pos_GRCh37": 66689874,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.1064,
+   "a1_freq_ensembl": 0.106361829025845,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12917612",
+   "chrom": "15",
+   "pos_GRCh37": 67491274,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.2157,
+   "a1_freq_ensembl": 0.215705765407555,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs76136488",
+   "chrom": "15",
+   "pos_GRCh37": 84455009,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0577,
+   "a1_freq_ensembl": 0.0576540755467197,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs112713979",
+   "chrom": "16",
+   "pos_GRCh37": 32351736,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.3539,
+   "a1_freq_ensembl": 0.353876739562624,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7196579",
+   "chrom": "16",
+   "pos_GRCh37": 52361831,
+   "a1": "C",
+   "a2": "A",
+   "a1_freq_panel": 0.167,
+   "a1_freq_ensembl": 0.166998011928429,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs960862",
+   "chrom": "16",
+   "pos_GRCh37": 78909217,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.1759,
+   "a1_freq_ensembl": 0.175944333996024,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs8061757",
+   "chrom": "16",
+   "pos_GRCh37": 83516468,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.496,
+   "a1_freq_ensembl": 0.496023856858847,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs9906105",
+   "chrom": "17",
+   "pos_GRCh37": 33878833,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.0964,
+   "a1_freq_ensembl": 0.0964214711729622,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs34415927",
+   "chrom": "17",
+   "pos_GRCh37": 73027637,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.0288,
+   "a1_freq_ensembl": 0.0288270377733598,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs7238797",
+   "chrom": "18",
+   "pos_GRCh37": 3554524,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0318,
+   "a1_freq_ensembl": 0.0318091451292246,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs73378470",
+   "chrom": "18",
+   "pos_GRCh37": 4934097,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.1123,
+   "a1_freq_ensembl": 0.112326043737575,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4483926",
+   "chrom": "18",
+   "pos_GRCh37": 6759450,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.7435,
+   "a1_freq_ensembl": 0.743538767395626,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs612354",
+   "chrom": "18",
+   "pos_GRCh37": 8457505,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.3091,
+   "a1_freq_ensembl": 0.309145129224652,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs115038534",
+   "chrom": "18",
+   "pos_GRCh37": 20858841,
+   "a1": "C",
+   "a2": "G",
+   "a1_freq_panel": 0.0268,
+   "a1_freq_ensembl": 0.0268389662027833,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4580289",
+   "chrom": "18",
+   "pos_GRCh37": 67185779,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.503,
+   "a1_freq_ensembl": 0.502982107355865,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs142848458",
+   "chrom": "19",
+   "pos_GRCh37": 17109475,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0139,
+   "a1_freq_ensembl": 0.0139165009940358,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs139270339",
+   "chrom": "19",
+   "pos_GRCh37": 20922179,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.2028,
+   "a1_freq_ensembl": 0.202783300198807,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4813929",
+   "chrom": "20",
+   "pos_GRCh37": 1084704,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.83,
+   "a1_freq_ensembl": 0.830019880715706,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs12329531",
+   "chrom": "20",
+   "pos_GRCh37": 9650717,
+   "a1": "A",
+   "a2": "G",
+   "a1_freq_panel": 0.1938,
+   "a1_freq_ensembl": 0.193836978131213,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs112987611",
+   "chrom": "20",
+   "pos_GRCh37": 34791594,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0229,
+   "a1_freq_ensembl": 0.0228628230616302,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs6015238",
+   "chrom": "20",
+   "pos_GRCh37": 56846580,
+   "a1": "A",
+   "a2": "T",
+   "a1_freq_panel": 0.7634,
+   "a1_freq_ensembl": 0.763419483101392,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs11088183",
+   "chrom": "21",
+   "pos_GRCh37": 33059048,
+   "a1": "G",
+   "a2": "A",
+   "a1_freq_panel": 0.4433,
+   "a1_freq_ensembl": 0.443339960238569,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs5747050",
+   "chrom": "22",
+   "pos_GRCh37": 17762536,
+   "a1": "G",
+   "a2": "C",
+   "a1_freq_panel": 0.0179,
+   "a1_freq_ensembl": 0.0178926441351889,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs4822132",
+   "chrom": "22",
+   "pos_GRCh37": 22906901,
+   "a1": "G",
+   "a2": "T",
+   "a1_freq_panel": 0.0596,
+   "a1_freq_ensembl": 0.0596421471172962,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs36592",
+   "chrom": "22",
+   "pos_GRCh37": 30330139,
+   "a1": "T",
+   "a2": "C",
+   "a1_freq_panel": 0.0636,
+   "a1_freq_ensembl": 0.0636182902584493,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs9625894",
+   "chrom": "22",
+   "pos_GRCh37": 30365075,
+   "a1": "A",
+   "a2": "C",
+   "a1_freq_panel": 0.0924,
+   "a1_freq_ensembl": 0.0924453280318091,
+   "diff": 0.0
+  },
+  {
+   "rsid": "rs78572284",
+   "chrom": "22",
+   "pos_GRCh37": 32617129,
+   "a1": "C",
+   "a2": "T",
+   "a1_freq_panel": 0.0547,
+   "a1_freq_ensembl": 0.0546719681908549,
+   "diff": 0.0
+  }
+ ]
+}

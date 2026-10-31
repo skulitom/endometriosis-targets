@@ -1,0 +1,582 @@
+[
+ {
+  "record_id": "doi:10.1186/s12905-025-03697-0",
+  "doi": "10.1186/s12905-025-03697-0",
+  "pmcid": "PMC11972508",
+  "title": "Identifying key palmitoylation-associated genes in endometriosis through genomic data analysis.",
+  "supplement_dir": "data/upstream/supplements/10.1186_s12905-025-03697-0",
+  "claims": [
+   {
+    "claim_id": "Kai2025BMCWH-1",
+    "gene_symbol": "CENPE",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 25,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.994236723; Egger pleiotropy p=0.159937324. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-2",
+    "gene_symbol": "CFD",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 7,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.904994304; Egger pleiotropy p=0.353849828. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-3",
+    "gene_symbol": "ECT2",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 11,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.974875149; Egger pleiotropy p=0.170419632. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-4",
+    "gene_symbol": "FBXO5",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 8,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.856902477; Egger pleiotropy p=0.612553883. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-5",
+    "gene_symbol": "GALNT12",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "genome_wide",
+    "n_instruments": 9,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.999813501; Egger pleiotropy p=0.831829309. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-6",
+    "gene_symbol": "HMMR",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 5,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.987296141; Egger pleiotropy p=0.873546239. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-7",
+    "gene_symbol": "IER3",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 17,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.414274668; Egger pleiotropy p=0.053648145. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-8",
+    "gene_symbol": "MKI67",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 3,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.935968918; Egger pleiotropy p=0.791493743. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-9",
+    "gene_symbol": "NDC80",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 15,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.999792808; Egger pleiotropy p=0.975018594. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-10",
+    "gene_symbol": "PARPBP",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 4,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.988250764; Egger pleiotropy p=0.773482392. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-11",
+    "gene_symbol": "PRIM1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 9,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.946071659; Egger pleiotropy p=0.362264287. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-12",
+    "gene_symbol": "RLN2",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 4,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.925913532; Egger pleiotropy p=0.808950553. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-13",
+    "gene_symbol": "RMI1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "genome_wide",
+    "n_instruments": 11,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.659333301; Egger pleiotropy p=0.070378789. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-14",
+    "gene_symbol": "STIL",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 16,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.999978701; Egger pleiotropy p=0.220005997. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-15",
+    "gene_symbol": "STMN1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 19,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.99963283; Egger pleiotropy p=0.781020923. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-16",
+    "gene_symbol": "TYMS",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 12,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.999579046; Egger pleiotropy p=0.894010125. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   },
+   {
+    "claim_id": "Kai2025BMCWH-17",
+    "gene_symbol": "VRK1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null,
+    "instrument_scope": "genome_wide",
+    "n_instruments": 10,
+    "method": "IVW",
+    "notes": "Cochran Q p=0.99775246; Egger pleiotropy p=0.947229403. Instruments P<5e-6, clump r2 0.001 within 10 kb, nSNP>=3, F>10; cis restriction not stated. 126 of 204 DEG/WGCNA genes testable; IVW P<0.05 nominal, no multiple-testing correction. No CI reported. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. All 17: Q p>0.05, Egger p>0.05, Steiger TRUE."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.gene.2023.147970",
+  "doi": "10.1016/j.gene.2023.147970",
+  "pmcid": null,
+  "title": "Therapeutic targets for endometriosis: Genome-wide Mendelian randomization and colocalization analyses.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.gene.2023.147970",
+  "claims": [
+   {
+    "claim_id": "Zeng2024Gene-1",
+    "gene_symbol": "IMMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible. eQTLGen IMMT row is also Bonferroni-significant with opposite sign (OR 0.945, 0.92-0.97, P 6.56e-6); GTEx whole-blood row matches abstract and was kept.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-2",
+    "gene_symbol": "SKAP1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-3",
+    "gene_symbol": "KMT5A",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-4",
+    "gene_symbol": "KLF12",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), eQTLGen row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-5",
+    "gene_symbol": "GIGYF1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible. GTEx whole-blood GIGYF1 row has opposite sign (OR 0.935, P_HEIDI 0.021, fails HEIDI); eQTLGen row matches abstract, passes HEIDI, kept.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-6",
+    "gene_symbol": "WNT7A",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), eQTLGen row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-7",
+    "gene_symbol": "SUN1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible. Abstract direction contradicts the only Table S1 row for this gene; numeric values from table, direction set null_or_unclear.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-8",
+    "gene_symbol": "PARP3",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), eQTLGen row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-9",
+    "gene_symbol": "PAQR8",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-10",
+    "gene_symbol": "AP3M1",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-11",
+    "gene_symbol": "SURF6",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Uterus_GTEx_V8 row.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-12",
+    "gene_symbol": "TUB",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible. Abstract direction contradicts the only Table S1 row for this gene; numeric values from table, direction set null_or_unclear.]"
+   },
+   {
+    "claim_id": "Zeng2024Gene-13",
+    "gene_symbol": "POLDIP2",
+    "exposure_type": "eQTL",
+    "exposure_source": "GTEx v8 (49 tissues) and/or eQTLGen (Vosa 2021); per-gene source not stated in abstract",
+    "exposure_tissue": null,
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "MR (method not stated in abstract)",
+    "notes": "Abstract only (ScienceDirect blocked). Direction from abstract ('positive associations'/'inverse relationships'). All 13 genes reported with significant colocalisation evidence; PP.H4, tissue, estimates, thresholds and whether each gene was tested in both outcomes unknown. FinnGen counts match finn-b (R5) N14_ENDOMETRIOSIS. [Adjudication: Main text inaccessible. Abstract direction contradicts the only Table S1 row for this gene; numeric values from table, direction set null_or_unclear.]"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1371/journal.pone.0356100",
+  "doi": "10.1371/journal.pone.0356100",
+  "pmcid": "PMC13472424",
+  "title": "Genetically predicted triglyceride levels and endometriosis risk: Mendelian randomization with exploratory multi-omics analyses.",
+  "supplement_dir": "data/upstream/supplements/10.1371_journal.pone.0356100",
+  "claims": [
+   {
+    "claim_id": "Li2026tg-1",
+    "gene_symbol": "SLC9A1",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 14,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (choline fenofibrate, ciprofibrate); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 2.031 (1.463-2.819). 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+   },
+   {
+    "claim_id": "Li2026tg-2",
+    "gene_symbol": "SCN3A",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 36,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (fenofibrate, probucol, omega-3 drugs); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 0.206; VLDL-weighted OR 1.949. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+   },
+   {
+    "claim_id": "Li2026tg-3",
+    "gene_symbol": "VEGFA",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 22,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (fenofibrate); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 0.452. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+   },
+   {
+    "claim_id": "Li2026tg-4",
+    "gene_symbol": "APOA1",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 235,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (fenofibrate); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 0.786. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8. [Adjudication: Figure 5 and S1 Table disagree on the APOA1 SNP count (235 vs 250); n_instruments deserves a check.]"
+   },
+   {
+    "claim_id": "Li2026tg-5",
+    "gene_symbol": "TNF",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 193,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (choline fenofibrate, ciprofibrate, clinofibrate, acipimox, icosapent ethyl); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 0.515; coloc PP.H3=0.838. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+   },
+   {
+    "claim_id": "Li2026tg-6",
+    "gene_symbol": "ITGAV",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 3,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (probucol); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 269.917. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+   },
+   {
+    "claim_id": "Li2026tg-7",
+    "gene_symbol": "BACE1",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "exposure_tissue": null,
+    "instrument_scope": "unclear",
+    "n_instruments": 233,
+    "method": "IVW (paper's stated primary method)",
+    "notes": "TG-lowering drug-target proxy (omega-3-carboxylic acids); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: VLDL-weighted OR 1.221. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043163",
+  "doi": "10.1097/md.0000000000043163",
+  "pmcid": "PMC12263052",
+  "title": "Causal links and mediating effects of lipid metabolism, immune cells, and inflammatory proteins in endometriosis: Evidence from Mendelian randomization.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000043163",
+  "claims": [
+   {
+    "claim_id": "Guo2025Med-1",
+    "gene_symbol": "IL17A",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 18,
+    "method": "IVW",
+    "notes": "91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1."
+   },
+   {
+    "claim_id": "Guo2025Med-2",
+    "gene_symbol": "CDCP1",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "CUB domain-containing protein 1. 91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1."
+   },
+   {
+    "claim_id": "Guo2025Med-3",
+    "gene_symbol": "TNFSF10",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 36,
+    "method": "IVW",
+    "notes": "TRAIL. Text lists TRAIL as protective but prints 'OR = 1.061; CI = 1.007-1.119; P = .026', identical to CDCP1 (apparent copy error); estimate left null, true values in Figure 4/Table S8. 91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1. [Adjudication: Text misprints the TRAIL estimate; Table S8 and Figure 4 agree on OR 0.946 (protective), matching the text's classification.]"
+   },
+   {
+    "claim_id": "Guo2025Med-4",
+    "gene_symbol": "CCL4",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 31,
+    "method": "IVW",
+    "notes": "91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1."
+   },
+   {
+    "claim_id": "Guo2025Med-5",
+    "gene_symbol": "CD274",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": null,
+    "method": "IVW",
+    "notes": "PD-L1 (programmed cell death 1 ligand 1) not named in the protein results but used as a mediator, so it is among the 6 significant proteins; both positive proteins are named (IL-17A, CDCP1), so direction inferred protective. Sixth significant protein unnamed in text. 91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1. [Lead correction 2026-10-29: direction inferred; protein used as mediator, no estimate reported]"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045854",
+  "doi": "10.1097/md.0000000000045854",
+  "pmcid": "PMC12622680",
+  "title": "Proteome-wide Mendelian randomization identifies β-nerve growth factor as a target for endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000045854",
+  "claims": [
+   {
+    "claim_id": "Gao2025Med-1",
+    "gene_symbol": "NGF",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "cis",
+    "n_instruments": 1,
+    "method": "Wald ratio",
+    "notes": "beta-NGF; FDR 0.0002; F=42.68; PPH3+PPH4=0.9722 (PP.H4 alone not given); reverse MR null; DrugBank lists fasinumab and others. 91 proteins; 104 cis SNPs (56 proteins) and 151 trans SNPs (58 proteins); significance FDR<0.05. FinnGen release not stated (counts match R9). Validation outcome: Neale lab UK Biobank, cases not given. Coloc reported only as PPH3+PPH4."
+   },
+   {
+    "claim_id": "Gao2025Med-2",
+    "gene_symbol": "CXCL11",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 3,
+    "method": "IVW",
+    "notes": "Trans-pQTL instruments only (outside +/-1 Mb). FDR 0.0491; PPH3+PPH4=0.2333. Text gives P=4.12e-6 and says 'increased risk'; Table 1 gives P=4.12E-04 and OR<1; table used. 91 proteins; 104 cis SNPs (56 proteins) and 151 trans SNPs (58 proteins); significance FDR<0.05. FinnGen release not stated (counts match R9). Validation outcome: Neale lab UK Biobank, cases not given. Coloc reported only as PPH3+PPH4."
+   },
+   {
+    "claim_id": "Gao2025Med-3",
+    "gene_symbol": "SLAMF1",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma",
+    "instrument_scope": "genome_wide",
+    "n_instruments": 7,
+    "method": "IVW",
+    "notes": "SLAM mapped to SLAMF1. Trans-pQTL instruments only (outside +/-1 Mb). FDR 0.0491; PPH3+PPH4=0.3217. Text says 'increased risk' despite OR<1. 91 proteins; 104 cis SNPs (56 proteins) and 151 trans SNPs (58 proteins); significance FDR<0.05. FinnGen release not stated (counts match R9). Validation outcome: Neale lab UK Biobank, cases not given. Coloc reported only as PPH3+PPH4."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s509603",
+  "doi": "10.2147/ijwh.s509603",
+  "pmcid": "PMC12118494",
+  "title": "UDP-Glucose Ceramide Glucosyltransferase Inhibition, Immune Cell Mediation, and Endometriosis Risk: A Mendelian Randomization Study.",
+  "supplement_dir": "data/upstream/supplements/10.2147_ijwh.s509603",
+  "claims": [
+   {
+    "claim_id": "Xue2025ugcg-1",
+    "gene_symbol": "UGCG",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021) via IEU eqtl-a-ENSG00000148154 (n=31,684)",
+    "exposure_tissue": "Whole blood",
+    "instrument_scope": "cis",
+    "n_instruments": 24,
+    "method": "IVW",
+    "notes": "Framed as drug-target MR of UGCG inhibition (eliglustat; paper also lists migalastat). Exposure defined as lowering: paper inverts the expression OR, so higher UGCG expression -> higher risk. cis-eQTLs within 300 kb, P<1e-5, r2<0.3/100 kb, MAF>0.01, PhenoScanner and MR-PRESSO filtering. Release not stated; counts match FinnGen R10. Immune-cell mediation: 8 of 731 traits."
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1210/clinem/dgad376",
+  "doi": "10.1210/clinem/dgad376",
+  "pmcid": null,
+  "title": "Circulating Inflammatory Cytokines and Female Reproductive Diseases: A Mendelian Randomization Analysis.",
+  "supplement_dir": "data/upstream/supplements/10.1210_clinem_dgad376",
+  "claims": [
+   {
+    "claim_id": "Lin2023JCEM-1",
+    "gene_symbol": "CSF1",
+    "exposure_type": "pQTL",
+    "exposure_source": "Bouras 2022 cytokine GWAS meta-analysis (47 cytokines, up to 31,112 Europeans)",
+    "exposure_tissue": "plasma/serum",
+    "instrument_scope": "cis",
+    "n_instruments": 13,
+    "method": "IVW",
+    "notes": "MCSF. 47 cytokines; FDR<0.05 (FDR 7.93e-4); cis window not stated; IVW per stated rule (>1 SNP). cis-eQTL analysis null. Coloc: no significant colocalisation, PP.H4 in Table S11. Exposure-side replication (Folkersen 2020 cis-pQTL, 2 SNPs, same outcome): text OR 1.214 (1.04-1.42) P=.0155, Table 2 OR 1.01 (0.85-1.21). FinnGen release not stated (R7 cited). Read via WebFetch of publisher HTML."
+   }
+  ]
+ }
+]

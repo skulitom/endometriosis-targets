@@ -1,0 +1,360 @@
+[
+ {
+  "record_id": "doi:10.1186/s41065-025-00457-w",
+  "doi": "10.1186/s41065-025-00457-w",
+  "pmcid": "PMC12126875",
+  "title": "Identification of EPHB4 as a potential causal gene and therapeutic target for endometriosis using Mendelian randomization.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1186_s41065-025-00457-w",
+  "claims_to_extract": [
+   {
+    "claim_id": "Ling2025-2",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Ling2025-3",
+    "gene_symbol": "CD109",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Ling2025-4",
+    "gene_symbol": "SAA2",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Ling2025-5",
+    "gene_symbol": "SAA1",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Ling2025-6",
+    "gene_symbol": "FSHB",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Ling2025-8",
+    "gene_symbol": "SEZ6L2",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Ling2025-9",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1159/000543707",
+  "doi": "10.1159/000543707",
+  "pmcid": "PMC12500265",
+  "title": "Identification of Potential Diagnostic Biomarkers and Drug Targets for Endometriosis from a Genetic Perspective: A Mendelian Randomization Study.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1159_000543707",
+  "claims_to_extract": [
+   {
+    "claim_id": "Wang2025GOI-1",
+    "gene_symbol": "EEFSEC",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2025GOI-2",
+    "gene_symbol": "INO80E",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2025GOI-3",
+    "gene_symbol": "RAP1GAP",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2025GOI-4",
+    "gene_symbol": "LDAH",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2025GOI-5",
+    "gene_symbol": "RSPRY1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2025GOI-6",
+    "gene_symbol": "HCG22",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Wang2025GOI-7",
+    "gene_symbol": "ADK",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1416978",
+  "doi": "10.3389/fendo.2024.1416978",
+  "pmcid": "PMC11257892",
+  "title": "Identifying novel potential drug targets for endometriosis via plasma proteome screening.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.3389_fendo.2024.1416978",
+  "claims_to_extract": [
+   {
+    "claim_id": "Tao2024-1",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Tao2024-2",
+    "gene_symbol": "FSHB",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Tao2024-3",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Tao2024-4",
+    "gene_symbol": "SEZ6L2",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), baseline cohort n=34,557",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1038/s41598-025-96711-2",
+  "doi": "10.1038/s41598-025-96711-2",
+  "pmcid": "PMC12019183",
+  "title": "Multiomic insight into the involvement of cell aging related genes in the pathogenesis of endometriosis.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1038_s41598-025-96711-2",
+  "claims_to_extract": [
+   {
+    "claim_id": "Chen2025SR-1",
+    "gene_symbol": "THRB",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Chen2025SR-10",
+    "gene_symbol": "MAP3K5",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Chen2025SR-20",
+    "gene_symbol": "ENG",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), Olink",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Chen2025SR-29",
+    "gene_symbol": "MAP3K5",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018, via Wu 2018)",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000041804",
+  "doi": "10.1097/md.0000000000041804",
+  "pmcid": "PMC11977726",
+  "title": "Identification of biomarkers for endometriosis based on summary-data-based Mendelian randomization and machine learning.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000041804",
+  "claims_to_extract": [
+   {
+    "claim_id": "Xie2025Med-1",
+    "gene_symbol": "ADK",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx v8 cis-eQTL (SMR-format, Yang lab)",
+    "exposure_tissue": "Whole blood or Uterus (tissue per gene not stated in main text)"
+   },
+   {
+    "claim_id": "Xie2025Med-2",
+    "gene_symbol": "EHHADH",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx v8 cis-eQTL (SMR-format, Yang lab)",
+    "exposure_tissue": "Whole blood or Uterus (tissue per gene not stated in main text)"
+   },
+   {
+    "claim_id": "Xie2025Med-3",
+    "gene_symbol": "CNOT7",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx v8 cis-eQTL (SMR-format, Yang lab)",
+    "exposure_tissue": "Whole blood or Uterus (tissue per gene not stated in main text)"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.jri.2025.104798",
+  "doi": "10.1016/j.jri.2025.104798",
+  "pmcid": null,
+  "title": "Role of HLA-DRA-CREB3L4 regulatory axis in the pathogenesis of ovarian endometriosis: Inhibition of CREB3L4 expression by HLA-DRA increases the risk of disease.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.jri.2025.104798",
+  "claims_to_extract": [
+   {
+    "claim_id": "Song2025-1",
+    "gene_symbol": "HLA-DRA",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023) and/or deCODE (Ferkingstad 2021); dataset for this protein not stated in abstract",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Song2025-2",
+    "gene_symbol": "CREB3L4",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023) and/or deCODE (Ferkingstad 2021); dataset for this protein not stated in abstract",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1007/s00439-024-02681-2",
+  "doi": "10.1007/s00439-024-02681-2",
+  "pmcid": "PMC11485110",
+  "title": "Unraveling the significance of AGPAT4 for the pathogenesis of endometriosis via a multi-omics approach.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.1007_s00439-024-02681-2",
+  "claims_to_extract": [
+   {
+    "claim_id": "Chen2024HG-1",
+    "gene_symbol": "AGPAT4",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data for 19,942 genes 'from the GWAS catalog' (dataset not named in text)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Chen2024HG-4",
+    "gene_symbol": "COMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data for 19,942 genes 'from the GWAS catalog' (dataset not named in text)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049618",
+  "doi": "10.1097/md.0000000000049618",
+  "pmcid": "PMC13384611",
+  "title": "Associations between granulysin and ovarian endometriosis: A 2-sample Mendelian randomization study.",
+  "year": "2026",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000049618",
+  "claims_to_extract": [
+   {
+    "claim_id": "Lai2026-1",
+    "gene_symbol": "GNLY",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS GNLY (ENSG00000115523), stated as 'SSGAC', n=31,684 (ID and n match eQTLGen, Vosa 2021)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045854",
+  "doi": "10.1097/md.0000000000045854",
+  "pmcid": "PMC12622680",
+  "title": "Proteome-wide Mendelian randomization identifies β-nerve growth factor as a target for endometriosis.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000045854",
+  "claims_to_extract": [
+   {
+    "claim_id": "Gao2025Med-1",
+    "gene_symbol": "NGF",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3390/biom14121544",
+  "doi": "10.3390/biom14121544",
+  "pmcid": "PMC11674023",
+  "title": "Exploring Causal Associations Between Serum Inflammatory Markers and Female Reproductive Disorders: A Mendelian Randomisation Study.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.3390_biom14121544",
+  "claims_to_extract": [
+   {
+    "claim_id": "Alesi2024Biomol-1",
+    "gene_symbol": "IL9",
+    "exposure_type": "pQTL",
+    "exposure_source": "Ahola-Olli 2017 cytokines (IEU ebi-a-GCST004450; IL-9 n=3634)",
+    "exposure_tissue": "plasma/serum"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042579",
+  "doi": "10.1097/md.0000000000042579",
+  "pmcid": "PMC12113994",
+  "title": "Causal association of cathepsins and endometriosis: A Mendelian randomization study.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000042579",
+  "claims_to_extract": [
+   {
+    "claim_id": "Aru2025cath-1",
+    "gene_symbol": "CTSH",
+    "exposure_type": "pQTL",
+    "exposure_source": "INTERVAL SomaScan (Sun 2018), via IEU OpenGWAS",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s509603",
+  "doi": "10.2147/ijwh.s509603",
+  "pmcid": "PMC12118494",
+  "title": "UDP-Glucose Ceramide Glucosyltransferase Inhibition, Immune Cell Mediation, and Endometriosis Risk: A Mendelian Randomization Study.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.2147_ijwh.s509603",
+  "claims_to_extract": [
+   {
+    "claim_id": "Xue2025ugcg-1",
+    "gene_symbol": "UGCG",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021) via IEU eqtl-a-ENSG00000148154 (n=31,684)",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ }
+]

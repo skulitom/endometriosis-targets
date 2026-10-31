@@ -1,0 +1,18 @@
+{
+ "record_id": "doi:10.1097/md.0000000000045854",
+ "tables": {},
+ "claims": {
+  "Gao2025Med-1": {
+   "status": "not_available",
+   "reason": "Main-text Table 1 lists the instrument rsIDs (rs6328) with per-SNP F-statistics only (OR column repeats the gene-level estimate) - no SNP-exposure effect, SE or alleles. The supplement (s001.docx) has gene-level MR results (Supp. Tables 1-4), phenotype scanning (Table 5) and drug targets (Table 6) only."
+  },
+  "Gao2025Med-2": {
+   "status": "not_available",
+   "reason": "Main-text Table 1 lists the instrument rsIDs (rs75612655, rs10733789, rs3184504) with per-SNP F-statistics only (OR column repeats the gene-level estimate) - no SNP-exposure effect, SE or alleles. The supplement (s001.docx) has gene-level MR results (Supp. Tables 1-4), phenotype scanning (Table 5) and drug targets (Table 6) only."
+  },
+  "Gao2025Med-3": {
+   "status": "not_available",
+   "reason": "Main-text Table 1 lists the instrument rsIDs (rs10212190, rs570025519, rs114466578, rs2790462, rs3184504, rs56244095, rs2725405) with per-SNP F-statistics only (OR column repeats the gene-level estimate) - no SNP-exposure effect, SE or alleles. The supplement (s001.docx) has gene-level MR results (Supp. Tables 1-4), phenotype scanning (Table 5) and drug targets (Table 6) only."
+  }
+ }
+}

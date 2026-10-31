@@ -1,0 +1,42 @@
+{
+ "record_id": "doi:10.1186/s41065-025-00457-w",
+ "tables": {},
+ "claims": {
+  "Ling2025-1": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-2": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-3": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-4": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-5": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-6": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-7": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-8": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Ling2025-9": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  }
+ }
+}

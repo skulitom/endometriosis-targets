@@ -1,0 +1,114 @@
+{
+ "record_id": "doi:10.1159/000543707",
+ "tables": {
+  "S2": {
+   "file": "text/Supplementary_material-Suppl.2-s2__Table_S2.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   }
+  }
+ },
+ "claims": {
+  "Wang2025GOI-1": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "EEFSEC"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS."
+  },
+  "Wang2025GOI-2": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "INO80E"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS."
+  },
+  "Wang2025GOI-3": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "RAP1GAP"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS."
+  },
+  "Wang2025GOI-4": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "LDAH"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS."
+  },
+  "Wang2025GOI-5": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "RSPRY1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS."
+  },
+  "Wang2025GOI-6": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "HCG22"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS. Table topSNP is rs1265054 (the input hint 'rs126505' is truncated)."
+  },
+  "Wang2025GOI-7": {
+   "status": "mapped",
+   "table": "S2",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "ADK"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS."
+  }
+ }
+}

@@ -1,0 +1,366 @@
+{
+ "record_id": "doi:10.1038/s41598-025-96711-2",
+ "tables": {
+  "S5": {
+   "file": "text/41598_2025_96711_MOESM1_ESM__Table_S5_GCST90269970.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   },
+   "description": "Supplementary Table 5: SMR of cell-aging gene expression (eQTLGen cis-eQTL, whole blood) on endometriosis, discovery GWAS GCST90269970; one top cis-eQTL per probe (b_eQTL/b_GWAS harmonised to A1)."
+  },
+  "S8": {
+   "file": "text/41598_2025_96711_MOESM1_ESM__Table_S8_GCST90269970.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   },
+   "description": "Supplementary Table 8: SMR of cell-aging protein levels (UKB-PPP plasma pQTL; effect columns keep the eQTL header names) on endometriosis, discovery GWAS GCST90269970; one top pQTL per protein."
+  }
+ },
+ "claims": {
+  "Chen2025SR-1": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "THRB"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for THRB in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-2": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "RPS6KB1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for RPS6KB1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-3": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "CD28"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for CD28 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-4": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "HNRNPA1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for HNRNPA1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-5": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "ZNF148"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for ZNF148 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-6": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "PMVK"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for PMVK in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-7": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "MAP2K1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for MAP2K1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-8": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "FGFR1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for FGFR1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-9": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "PSMB1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for PSMB1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-10": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "MAP3K5"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for MAP3K5 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-11": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "PARK7"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for PARK7 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-12": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "CDH1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for CDH1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-13": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "EGLN1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for EGLN1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-14": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "KL"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for KL in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-15": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "SMARCA2"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for SMARCA2 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-16": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "ATF7IP"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for ATF7IP in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-17": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "BRAF"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for BRAF in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-18": {
+   "status": "mapped",
+   "table": "S5",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "PDZD2"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL for PDZD2 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio."
+  },
+  "Chen2025SR-19": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "S100A6"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for S100A6 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  },
+  "Chen2025SR-20": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "ENG"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for ENG in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  },
+  "Chen2025SR-21": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "FGFR1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for FGFR1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  },
+  "Chen2025SR-22": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "WIF1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for WIF1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  },
+  "Chen2025SR-23": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "EGLN1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for EGLN1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  },
+  "Chen2025SR-24": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "PSMB1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for PSMB1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  },
+  "Chen2025SR-25": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {
+     "column": "Gene_symbol",
+     "op": "equals",
+     "value": "APEX1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top pQTL for APEX1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio."
+  }
+ }
+}

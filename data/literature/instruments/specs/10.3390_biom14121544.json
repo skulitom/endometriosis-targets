@@ -1,0 +1,47 @@
+{
+ "record_id": "doi:10.3390/biom14121544",
+ "tables": {
+  "H_IL9_ENDO": {
+   "file": "text/biomolecules-14-01544-s001__Supplementary_data_file_S3_Data_harmonization_with_f-statistics_Inflammation_and_reproductive_conditions__Harmonized_data_IL-9_vs_ENDO.csv",
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   }
+  }
+ },
+ "claims": {
+  "Alesi2024Biomol-1": {
+   "status": "mapped",
+   "table": "H_IL9_ENDO",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "Interleukin-9 levels"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "finn-b-N14_ENDOMETRIOSIS"
+    },
+    {
+     "column": "mr_keep",
+     "op": "equals",
+     "value": "TRUE"
+    }
+   ],
+   "expected_n": 6,
+   "notes": "Supplementary data file S3, sheet 'Harmonized data IL-9 vs ENDO' (TwoSampleMR harmonise_data output, ebi-a-GCST004450 IL-9 -> finn-b-N14_ENDOMETRIOSIS). The sheet has 8 SNPs; filtered on TwoSampleMR's mr_keep flag (TRUE/FALSE label, not a numeric value), which drops the two palindromic/ambiguous SNPs rs117807175 and rs3736858 that TwoSampleMR excludes from the MR - leaving the 6 instruments reported in Table 2."
+  }
+ }
+}

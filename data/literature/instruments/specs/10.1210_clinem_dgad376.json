@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1210/clinem/dgad376",
+ "tables": {},
+ "claims": {
+  "Lin2023JCEM-1": {
+   "status": "not_available",
+   "reason": "No supplementary material was retrieved (no supplement folder exists); the per-SNP instrument list (Supplementary Table S2, hosted on Figshare) is not available locally, and there is no open full text (no PMCID) that carries per-variant exposure effects."
+  }
+ }
+}

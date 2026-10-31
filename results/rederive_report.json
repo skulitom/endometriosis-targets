@@ -1,0 +1,333 @@
+{
+ "built_at": "2026-10-31",
+ "counts": {
+  "known_variants / primary_rederived": 13,
+  "known_variants / sensitivity_only": 1,
+  "stated_rule / primary_rederived": 4,
+  "stated_rule / sensitivity_only": 11
+ },
+ "claims": [
+  {
+   "claim_id": "Aru2025cath-1",
+   "gene": "CTSH",
+   "route": "stated_rule",
+   "n_reported": 10,
+   "n_rebuilt": 11,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "aptamer CTSH.8465.52.3 (GCST90240624)",
+   "reasons": [
+    "rebuilt 11 variants vs 10 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Gao2025Med-1",
+   "gene": "NGF",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Gao2025Med-2",
+   "gene": "CXCL11",
+   "route": "known_variants",
+   "n_reported": 3,
+   "n_rebuilt": 3,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Gao2025Med-3",
+   "gene": "SLAMF1",
+   "route": "known_variants",
+   "n_reported": 7,
+   "n_rebuilt": 7,
+   "analysis_role": "sensitivity_only",
+   "reading_used": null,
+   "reasons": [
+    "published list conflicts with the analysed set: Table 1 lists 7 SLAMF1 variants; Supplementary Tables 2-3 (IVW) report 3"
+   ]
+  },
+  {
+   "claim_id": "Guo2025Med-1",
+   "gene": "IL17A",
+   "route": "known_variants",
+   "n_reported": 18,
+   "n_rebuilt": 18,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Guo2025Med-2",
+   "gene": "CDCP1",
+   "route": "known_variants",
+   "n_reported": 33,
+   "n_rebuilt": 33,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Guo2025Med-3",
+   "gene": "TNFSF10",
+   "route": "known_variants",
+   "n_reported": 36,
+   "n_rebuilt": 36,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Guo2025Med-4",
+   "gene": "CCL4",
+   "route": "known_variants",
+   "n_reported": 31,
+   "n_rebuilt": 31,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Guo2025Med-5",
+   "gene": "CD274",
+   "route": "known_variants",
+   "n_reported": 23,
+   "n_rebuilt": 23,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Li2026tg-1",
+   "gene": "SLC9A1",
+   "route": "stated_rule",
+   "n_reported": 14,
+   "n_rebuilt": 193,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 193 variants vs 14 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Li2026tg-2",
+   "gene": "SCN3A",
+   "route": "stated_rule",
+   "n_reported": 36,
+   "n_rebuilt": 170,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 170 variants vs 36 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Li2026tg-3",
+   "gene": "VEGFA",
+   "route": "stated_rule",
+   "n_reported": 22,
+   "n_rebuilt": 553,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 553 variants vs 22 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Li2026tg-4",
+   "gene": "APOA1",
+   "route": "stated_rule",
+   "n_reported": 235,
+   "n_rebuilt": 612,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 612 variants vs 235 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Li2026tg-5",
+   "gene": "TNF",
+   "route": "stated_rule",
+   "n_reported": 193,
+   "n_rebuilt": 530,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 530 variants vs 193 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Li2026tg-6",
+   "gene": "ITGAV",
+   "route": "stated_rule",
+   "n_reported": 3,
+   "n_rebuilt": 167,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 167 variants vs 3 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "Li2026tg-7",
+   "gene": "BACE1",
+   "route": "stated_rule",
+   "n_reported": 233,
+   "n_rebuilt": 612,
+   "analysis_role": "sensitivity_only",
+   "reading_used": "gene region +/- 100 Mb (as printed)",
+   "reasons": [
+    "rebuilt 612 variants vs 233 reported",
+    "0 readings reproduce the reported count; first reading used"
+   ]
+  },
+  {
+   "claim_id": "WeiY2024ITT-1",
+   "gene": "CXCL5",
+   "route": "stated_rule",
+   "n_reported": 7,
+   "n_rebuilt": 9,
+   "analysis_role": "sensitivity_only",
+   "reading_used": null,
+   "reasons": [
+    "rebuilt 9 variants vs 7 reported"
+   ]
+  },
+  {
+   "claim_id": "WeiY2024ITT-2",
+   "gene": "CXCL11",
+   "route": "stated_rule",
+   "n_reported": 9,
+   "n_rebuilt": 9,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "WeiY2024ITT-3",
+   "gene": "CXCL6",
+   "route": "stated_rule",
+   "n_reported": 3,
+   "n_rebuilt": 4,
+   "analysis_role": "sensitivity_only",
+   "reading_used": null,
+   "reasons": [
+    "rebuilt 4 variants vs 3 reported"
+   ]
+  },
+  {
+   "claim_id": "WeiY2024ITT-4",
+   "gene": "FGF21",
+   "route": "stated_rule",
+   "n_reported": 7,
+   "n_rebuilt": 7,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "WeiY2024ITT-5",
+   "gene": "IL15RA",
+   "route": "stated_rule",
+   "n_reported": 3,
+   "n_rebuilt": 3,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "WeiY2024ITT-6",
+   "gene": "TNFSF11",
+   "route": "stated_rule",
+   "n_reported": 11,
+   "n_rebuilt": 11,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Xu2025JCMM-1",
+   "gene": "TNFSF10",
+   "route": "stated_rule",
+   "n_reported": 56,
+   "n_rebuilt": 63,
+   "analysis_role": "sensitivity_only",
+   "reading_used": null,
+   "reasons": [
+    "rebuilt 63 variants vs 56 reported"
+   ]
+  },
+  {
+   "claim_id": "Zeng2024Gene-1",
+   "gene": "IMMT",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Zeng2024Gene-10",
+   "gene": "AP3M1",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Zeng2024Gene-11",
+   "gene": "SURF6",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Zeng2024Gene-2",
+   "gene": "SKAP1",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Zeng2024Gene-3",
+   "gene": "KMT5A",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  },
+  {
+   "claim_id": "Zeng2024Gene-9",
+   "gene": "PAQR8",
+   "route": "known_variants",
+   "n_reported": 1,
+   "n_rebuilt": 1,
+   "analysis_role": "primary_rederived",
+   "reading_used": null,
+   "reasons": []
+  }
+ ]
+}

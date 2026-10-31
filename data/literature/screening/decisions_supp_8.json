@@ -1,0 +1,875 @@
+[
+ {
+  "record_id": "doi:10.62347/cahx3621",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "The paper's own bidirectional MR uses rheumatoid arthritis and systemic lupus erythematosus (diseases) as exposure and outcome of each other; no gene-level instrument and endometriosis is not studied.",
+  "exposure_summary": "RA and SLE liability (diseases)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.62347/ecoo9552",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "The paper's own MR uses ER-positive and ER-negative breast cancer liability as exposures and clear cell ovarian cancer as the outcome; no gene- or protein-level instrument and endometriosis is not studied.",
+  "exposure_summary": "ER+/ER- breast cancer liability (diseases)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.62347/lzxe3878",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of uterine microbiota in gynecological diseases with no MR analysis of its own.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.62347/olgv6926",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of ferroptosis in ischemia-reperfusion injury with no MR of its own; endometriosis is not studied.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.64898/2026.04.20.26351303",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Cross-sectional TwinsUK study of menopause timing and sex hormones on X-inactivation skew; the abstract (no full text) reports no MR and endometriosis is not studied.",
+  "exposure_summary": "menopause/sex hormones (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.64898/2026.10.24.761554",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Laboratory study of a fallopian-tube organoid microfluidic platform; no MR or genetic instruments and endometriosis is not studied.",
+  "exposure_summary": "none (organoid methods)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.7554/elife.86514",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "The paper's own SMR (GTEx v7 eQTL, e.g. PLEC) and MR (BMI, bone mineral density) have OPLL as the outcome; endometriosis appears only as a trait whose genetic correlation with OPLL could not be computed.",
+  "exposure_summary": "gene expression (GTEx eQTL, SMR); BMI; BMD",
+  "genes_or_proteins_named": [
+   "RSPO2",
+   "PLEC"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.7555/jbr.39.20250566",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of the microbiota-metabolite axis in endometriosis that only cites others' gut-microbiota MR studies; no MR of its own.",
+  "exposure_summary": "none (review citing microbiota MR)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.7759/cureus.106013",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of endometriosis/PCOS biomarkers and AI screening that only cites a published MR/genetic-correlation study; no MR of its own.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.7759/cureus.115115",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of interstitial cystitis/bladder pain syndrome that cites an asthma-to-IC/BPS MR by others; endometriosis appears only as a differential diagnosis.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.7759/cureus.37266",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of gynecological cancer risk in PCOS that cites a published PCOS-to-ovarian-cancer MR; no MR of its own.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.7759/cureus.79803",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Forensic case report with literature review on uterine fibroids, hormones and mental health that only cites MR by others; endometriosis mentioned only as an indication for oral contraceptives.",
+  "exposure_summary": "none (case report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.7759/cureus.94863",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of meta-inflammation and chronic pain that cites a gut-microbiota-to-back-pain MR by others; no MR of its own.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "epmc:AGR:IND608695315",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Questionnaire study of patient-centered endometriosis care in Indonesian hospitals; no MR or genetic instruments.",
+  "exposure_summary": "care setting (clinical survey)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC1002424",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Untitled administrative item (1990) with no abstract or excerpts; no MR analysis of its own.",
+  "exposure_summary": "none (admin record)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC1002703",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Untitled administrative item (1991) with no abstract or excerpts; no MR analysis of its own.",
+  "exposure_summary": "none (admin record)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10187017",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ISEV2023 Abstract Book is a conference abstract collection; the only MR/HEIDI match is an author name (Heidi) and the endometriosis abstract is in vitro EV miRNA work, with no MR.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10198255",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESHG 2023 hybrid posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10323075",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "SGIM 2023 annual meeting abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10576948",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "UEG Week 2023 posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10713352",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Acta Obstet Gynecol Scand congress abstracts is a conference abstract collection; the MR/HEIDI matches are author names (Heidi) and the endometriosis abstracts are clinical/observational, with no MR.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10772074",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESHG 2024 (56th) hybrid posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10772079",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESHG 2024 (56th) oral presentations is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10795779",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Canadian Journal of Pain book of posters is a conference abstract collection; the HEIDI match is an author name and the endometriosis abstract is an fMRI offset-analgesia study, with no MR.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC10903548",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "WAS/SASHA 2022 congress abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11047233",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "2024 Integrative Medicine & Health congress abstracts is a conference abstract collection; the only MR is dietary intake on ulcerative colitis and endometriosis appears only as a prevalence figure.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11231130",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "SGIM 2024 annual meeting abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11292956",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "European Headache Congress 2024 abstracts is a conference abstract collection; the only MR is COVID-19 on migraine and endometriosis appears in a case report.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11391898",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESOC 2023 abstract book is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11408449",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ECR 2024 book of abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11470995",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "UEG Week 2024 posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11627198",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESHG 2024 (57th) oral presentations is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11627200",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESHG 2024 (57th) hybrid posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC11912877",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "AMCP 2025 poster abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC12282809",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "PHHS2025 conference abstracts is a conference abstract collection; the only MR is HSV infection on cervical cancer and endometriosis appears in a clinical case series.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC12496561",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "UEG Week 2025 posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC12496564",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "UEG Week 2025 moderated posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC12502813",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Canadian Journal of Pain book of posters is a conference abstract collection; 'SMR' here is sensorimotor-rhythm neurofeedback, HEIDI is an author name, and the endometriosis abstract is a pain-catastrophizing survey.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13298153",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of machine-learning and multi-omics non-invasive diagnosis of endometriosis; no MR of its own.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13299921",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Rat metagenomic study of Dendrobium extract in type 1 diabetes that only cites a gut-microbiota-to-endometriosis MR by others.",
+  "exposure_summary": "none (animal study citing microbiota MR)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13302068",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Candidate-gene association study of sex-hormone gene variants with simple endometrial hyperplasia that only cites BMI-hormone MR by others; no MR of its own.",
+  "exposure_summary": "sex-hormone gene SNPs (association only)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13323440",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ECR 2026 book of abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13344532",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Pregnancy journal poster session (Feb 2026) is a conference abstract collection; the HEIDI match is an author name and the endometriosis abstract is an observational cesarean-outcome study.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13378711",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Canadian Journal of Pain book of posters is a conference abstract collection; the HEIDI matches are author names and endometriosis appears only in a list of pain conditions.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13378720",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Canadian Journal of Pain book of abstracts is a conference abstract collection; the only MR is a planned chronic-pain/immune-trait analysis and endometriosis appears only in a symposium description.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13390741",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ICE2026/JES2026 abstract book (meeting report) is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13434919",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "19th International Congress on Neuromuscular Diseases abstracts is a conference abstract collection; the MR matches are a 'Mendelian Genomics' affiliation and an author name, and endometriosis appears only as a prevalence figure.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13594399",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Pregnancy journal poster session (Oct 2026) is a conference abstract collection; the HEIDI match is an author name and the endometriosis abstract is an observational maternal-endometriosis offspring cohort.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13638634",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "The paper's own MR uses sleep disorders (FinnGen) as the exposure and FSH level as the outcome; endometriosis is only an exclusion criterion in the cross-sectional cohort.",
+  "exposure_summary": "sleep disorders (disease liability)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13638990",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of glutamine metabolism in health and disease; no MR of its own and endometriosis is mentioned only in passing.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13640149",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of gut microbiota-immune-metabolism crosstalk in endometriosis that only cites a 5-HT MR by others; no MR of its own.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13675992",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Retrospective IVF-cycle mediation analysis of BMI on ovarian response that only cites the authors' earlier MR; endometriosis is an exclusion criterion.",
+  "exposure_summary": "BMI (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC13692351",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Secondary observational analysis of the PLCO trial on menopause timing, hormone therapy, epigenetic aging and breast cancer; no MR excerpts and endometriosis not studied.",
+  "exposure_summary": "menopause timing/HT (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC1858267",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Untitled journal table of contents (1997) with no abstract or excerpts; no MR analysis of its own.",
+  "exposure_summary": "none (table of contents)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC1858321",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Untitled administrative item (1997) with no abstract or excerpts; no MR analysis of its own.",
+  "exposure_summary": "none (admin record)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC2659111",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "JECH 2007 meeting abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC2659112",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "SSM/IEA 2007 joint meeting programme is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC3152263",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "HPB 2008 abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC3152264",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "AHPBA 2008 congress programme and abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC3399396",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Biology of Reproduction 2010 meeting abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC5350766",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ACTS 2015 abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC5350815",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ACTS 2014 abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC5425908",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ICTMC/SCT 2017 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC5913041",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "SGIM 2018 scientific abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC6611732",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "European Cytogenomics Conference 2019 abstracts is a conference abstract collection; the only MR concerns a 16p11.2 locus for age at menarche and the endometriosis abstracts are cytogenetic tissue studies.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC6777521",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "ESHG 2018 (50th) electronic posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7101653",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "SIIA 2009 hypertension congress abstracts is a conference abstract collection; the only MR-style analysis is an NPY2R polymorphism versus left ventricular hypertrophy in ESRD, and the endometriosis abstract is an observational aldosterone study.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104432",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2007 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104435",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2019 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104441",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2012 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104442",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2014 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104455",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2013 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104462",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2009 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104472",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2011 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104549",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2012 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7104552",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Reproductive Sciences (SGI/SRI) 2011 meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7128807",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Cytokine 2017 poster abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7167823",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Journal of Peptide Science 2008 poster abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7419731",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "RPTH 2020 congress abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7619304",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Health-policy landscaping study of gynaecological services in India; the HEIDI match is an author name and there is no MR.",
+  "exposure_summary": "none (policy analysis)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC7741497",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "GSA 2020 annual meeting abstracts is a conference abstract collection; no MR passages or endometriosis sentences were extracted, so no eligible analysis is identifiable.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC8278368",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "IFCPC 2021 congress abstracts is a conference abstract collection; the HEIDI matches are author names and endometriosis appears only in pathology/clinical context.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC9296230",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Journal table of contents (AJOG 2022) with no MR passages; no analysis of its own.",
+  "exposure_summary": "none (table of contents)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC9364699",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "SIAPEC-IAP 2021 congress proceedings (meeting report) is a conference abstract collection; the endometriosis content is histopathology teaching and no MR passages were extracted.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "epmc:PMC:PMC9548091",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "UEG Week 2022 posters is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "epmc:PMC:PMC9931687",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Cancer Science 2023 meeting abstracts is a conference abstract collection; no abstract or excerpts are available, so no own gene- or protein-level MR with endometriosis as outcome can be identified.",
+  "exposure_summary": "none identifiable (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "pmid:29203946",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Veterinary case report of pyometra and adenomyosis in a dog; no MR and endometriosis not studied.",
+  "exposure_summary": "none (case report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ }
+]

@@ -1,0 +1,350 @@
+[
+ {
+  "record_id": "doi:10.1016/j.jri.2024.104293",
+  "doi": "10.1016/j.jri.2024.104293",
+  "pmcid": null,
+  "title": "The interplay between systemic inflammatory factors and endometriosis: A bidirectional mendelian randomization study.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.jri.2024.104293",
+  "claims_to_extract": [
+   {
+    "claim_id": "WeiL2024JRI-1",
+    "gene_symbol": "CCL2",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-2",
+    "gene_symbol": "CCL3",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-3",
+    "gene_symbol": "CSF3",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-4",
+    "gene_symbol": "MIF",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-5",
+    "gene_symbol": "IL4",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-6",
+    "gene_symbol": "IL5",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-7",
+    "gene_symbol": "CXCL8",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-8",
+    "gene_symbol": "IL9",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-9",
+    "gene_symbol": "IL12B",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-10",
+    "gene_symbol": "IL16",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "WeiL2024JRI-11",
+    "gene_symbol": "IL17A",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1155/mi/6617402",
+  "doi": "10.1155/mi/6617402",
+  "pmcid": "PMC13197833",
+  "title": "Identifying Novel Biomarkers and Therapeutic Targets for Endometriosis: Integrative Analysis of the Plasma Proteome and Genome.",
+  "year": "2026",
+  "supplement_dir": "data/upstream/supplements/10.1155_mi_6617402",
+  "claims_to_extract": [
+   {
+    "claim_id": "ZhengJ2026-1",
+    "gene_symbol": "ALPI",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "ZhengJ2026-10",
+    "gene_symbol": "HSPG2",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "ZhengJ2026-11",
+    "gene_symbol": "KHK",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "ZhengJ2026-16",
+    "gene_symbol": "POLR2F",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "ZhengJ2026-20",
+    "gene_symbol": "STXBP1",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1007/s10142-025-01543-y",
+  "doi": "10.1007/s10142-025-01543-y",
+  "pmcid": "PMC11947010",
+  "title": "A new perspective on endometriosis: Integrating eQTL mendelian randomization with transcriptomics and single-cell data analyses.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1007_s10142-025-01543-y",
+  "claims_to_extract": [
+   {
+    "claim_id": "Dou2025FIG-1",
+    "gene_symbol": "HNMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Dou2025FIG-2",
+    "gene_symbol": "CCDC28A",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Dou2025FIG-3",
+    "gene_symbol": "FADS1",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Dou2025FIG-4",
+    "gene_symbol": "MGRN1",
+    "exposure_type": "eQTL",
+    "exposure_source": "Peripheral blood eQTL via IEU OpenGWAS (Westra 2013 cited)",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1080/09513590.2025.2512837",
+  "doi": "10.1080/09513590.2025.2512837",
+  "pmcid": null,
+  "title": "Dissecting the causal effects of interleukin receptor-related factors and the risk of developing endometriosis: a two-sample Mendelian randomization study.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1080_09513590.2025.2512837",
+  "claims_to_extract": [
+   {
+    "claim_id": "Lv2025-1",
+    "gene_symbol": "IL6ST",
+    "exposure_type": "pQTL",
+    "exposure_source": "IEU OpenGWAS prot-a-1542 ('IL-6Rbeta'; prot-a series = Sun 2018 INTERVAL SomaScan)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Lv2025-2",
+    "gene_symbol": "IL3RA",
+    "exposure_type": "pQTL",
+    "exposure_source": "IEU OpenGWAS prot-a-1530 (IL-3Ralpha; prot-a series = Sun 2018 INTERVAL SomaScan)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Lv2025-3",
+    "gene_symbol": "IL1RL1",
+    "exposure_type": "pQTL",
+    "exposure_source": "IEU OpenGWAS prot-b-38 (IL1RL1; prot-b series = Folkersen 2017 Olink)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s12905-025-03697-0",
+  "doi": "10.1186/s12905-025-03697-0",
+  "pmcid": "PMC11972508",
+  "title": "Identifying key palmitoylation-associated genes in endometriosis through genomic data analysis.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.1186_s12905-025-03697-0",
+  "claims_to_extract": [
+   {
+    "claim_id": "Kai2025BMCWH-5",
+    "gene_symbol": "GALNT12",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Kai2025BMCWH-13",
+    "gene_symbol": "RMI1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null
+   },
+   {
+    "claim_id": "Kai2025BMCWH-17",
+    "gene_symbol": "VRK1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL datasets (IDs not stated; presumably eQTLGen eqtl-a)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049148",
+  "doi": "10.1097/md.0000000000049148",
+  "pmcid": "PMC13246116",
+  "title": "The effects of plasma protein levels on the risk of endometriosis: A Mendelian randomization study.",
+  "year": "2026",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000049148",
+  "claims_to_extract": [
+   {
+    "claim_id": "Yao2026-1",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   },
+   {
+    "claim_id": "Yao2026-3",
+    "gene_symbol": "FSHB",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3390/cimb47100831",
+  "doi": "10.3390/cimb47100831",
+  "pmcid": "PMC12564322",
+  "title": "Identification and Validation of Iron Metabolism-Related Biomarkers in Endometriosis: A Mendelian Randomization and Single-Cell Transcriptomics Study.",
+  "year": "2025",
+  "supplement_dir": "data/upstream/supplements/10.3390_cimb47100831",
+  "claims_to_extract": [
+   {
+    "claim_id": "Du2025CIMB-1",
+    "gene_symbol": "BMP6",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000153162",
+    "exposure_tissue": "Whole blood"
+   },
+   {
+    "claim_id": "Du2025CIMB-2",
+    "gene_symbol": "SLC48A1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000211584",
+    "exposure_tissue": "Whole blood"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1371498",
+  "doi": "10.3389/fendo.2024.1371498",
+  "pmcid": "PMC11794050",
+  "title": "Identification of potential druggable targets for endometriosis through Mendelian randomization analysis.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.3389_fendo.2024.1371498",
+  "claims_to_extract": [
+   {
+    "claim_id": "Chen2024-1",
+    "gene_symbol": "RSPO3",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zheng 2020 plasma cis-pQTL compilation (RSPO3 instrument from Sun 2018 INTERVAL)",
+    "exposure_tissue": "plasma"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1210/clinem/dgad376",
+  "doi": "10.1210/clinem/dgad376",
+  "pmcid": null,
+  "title": "Circulating Inflammatory Cytokines and Female Reproductive Diseases: A Mendelian Randomization Analysis.",
+  "year": "2023",
+  "supplement_dir": "data/upstream/supplements/10.1210_clinem_dgad376",
+  "claims_to_extract": [
+   {
+    "claim_id": "Lin2023JCEM-1",
+    "gene_symbol": "CSF1",
+    "exposure_type": "pQTL",
+    "exposure_source": "Bouras 2022 cytokine GWAS meta-analysis (47 cytokines, up to 31,112 Europeans)",
+    "exposure_tissue": "plasma/serum"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fimmu.2026.1735221",
+  "doi": "10.3389/fimmu.2026.1735221",
+  "pmcid": "PMC13124487",
+  "title": "LRP1 as a potential diagnostic and immunomodulatory target in endometriosis: evidence from multi-omics and single-cell analyses.",
+  "year": "2026",
+  "supplement_dir": "data/upstream/supplements/10.3389_fimmu.2026.1735221",
+  "claims_to_extract": [
+   {
+    "claim_id": "Xie2026FI-1",
+    "gene_symbol": "LRP1",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS eQTL dataset (ID not stated)",
+    "exposure_tissue": null
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1371/journal.pone.0301752",
+  "doi": "10.1371/journal.pone.0301752",
+  "pmcid": "PMC11142702",
+  "title": "Genetic association of serum lipids and lipid-modifying targets with endometriosis: Trans-ethnic Mendelian-randomization and mediation analysis.",
+  "year": "2024",
+  "supplement_dir": "data/upstream/supplements/10.1371_journal.pone.0301752",
+  "claims_to_extract": [
+   {
+    "claim_id": "Zhang2024lipid-1",
+    "gene_symbol": "ANGPTL3",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Graham 2021; GCST90239664)",
+    "exposure_tissue": null
+   }
+  ]
+ }
+]

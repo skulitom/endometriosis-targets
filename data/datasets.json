@@ -1,0 +1,272 @@
+[
+ {
+  "id": "finngen_r12_endo",
+  "role": "outcome_gwas",
+  "description": "FinnGen release 12, endpoint N14_ENDOMETRIOSIS",
+  "source_url": "https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_N14_ENDOMETRIOSIS.gz",
+  "endpoint_page": "https://risteys.finngen.fi/endpoints/N14_ENDOMETRIOSIS",
+  "genome_build": "GRCh38",
+  "cases_controls": "20,190 cases / 130,160 controls (finngen_R12_manifest.tsv in the public bucket, read 2026-10-31)",
+  "cohorts": [
+   "FinnGen"
+  ],
+  "access": "public_download",
+  "independence": "Contains all participants of earlier FinnGen releases. Never an independent replication of a FinnGen-based discovery.",
+  "files_verified": true,
+  "verified_at": "2026-10-30 (MD5 and size match source; SHA-256 in data/upstream/*.provenance.json)",
+  "positive_control": "12/12 lead variants concordant with Rahmioglu 2023, binomial p 0.00024, passes=True",
+  "cases": 20190
+ },
+ {
+  "id": "finngen_r10_endo",
+  "role": "discovery_reproduction",
+  "description": "FinnGen release 10, endpoint N14_ENDOMETRIOSIS; outcome used by several published MR claims",
+  "source_url": "https://storage.googleapis.com/finngen-public-data-r10/summary_stats/finngen_R10_N14_ENDOMETRIOSIS.gz",
+  "genome_build": "GRCh38",
+  "cases_controls": "to_verify (citing papers report 16,588 / 111,583 for R9 or R10; sources disagree)",
+  "cohorts": [
+   "FinnGen"
+  ],
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-30 (MD5 and size match source; SHA-256 in data/upstream/*.provenance.json)",
+  "positive_control": "11/11 lead variants concordant with Rahmioglu 2023, binomial p 0.00049, passes=True"
+ },
+ {
+  "id": "finngen_r9_endo",
+  "role": "discovery_reproduction",
+  "description": "FinnGen release 9, endpoint N14_ENDOMETRIOSIS; outcome used by several published MR claims",
+  "source_url": "https://storage.googleapis.com/finngen-public-data-r9/summary_stats/finngen_R9_N14_ENDOMETRIOSIS.gz",
+  "genome_build": "GRCh38",
+  "cases_controls": "to_verify",
+  "cohorts": [
+   "FinnGen"
+  ],
+  "access": "public_download",
+  "files_verified": false
+ },
+ {
+  "id": "rahmioglu2023_meta",
+  "role": "candidate_replication",
+  "description": "Rahmioglu et al. 2023 Nat Genet endometriosis meta-analysis excluding 23andMe (GWAS Catalog GCST90205183)",
+  "source_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90205001-GCST90206000/GCST90205183/",
+  "publication_doi": "10.1038/s41588-023-01323-z",
+  "genome_build": "GRCh37 (harmonised GRCh38 version also deposited)",
+  "cases_controls": "Paper: 24 datasets, 58,961 cases and 700,345 controls in the European meta-analysis including 23andMe. Public file (no 23andMe): 21,779 European cases / 449,087 controls plus 1,713 / 1,581 Japanese (Supplementary Table 1 sums match the GWAS Catalog).",
+  "cohorts": [
+   "UK Biobank",
+   "Estonian Biobank",
+   "deCODE",
+   "BioBank Japan",
+   "NFBC (FinnGen legacy cohort)",
+   "18 smaller cohorts"
+  ],
+  "meta_method": "Fixed-effect inverse-variance; study-level genomic control applied when inflation > 1",
+  "access": "public_download",
+  "independence": "Public file (no 23andMe): 22 European datasets (21,779 cases) plus 2 Japanese (1,713 cases), per Supplementary Table 1 (data/reference/rahmioglu2023_cohorts.json). FinnGen not included, but NFBC (167 cases, 5,235 controls) is a FinnGen legacy cohort, so it shares those participants with FinnGen. Overlaps UK Biobank, Estonian Biobank, deCODE and BioBank Japan.",
+  "files_verified": true,
+  "verified_at": "2026-10-30 (MD5 and size match source; SHA-256 in data/upstream/*.provenance.json)",
+  "positive_control": "source of the 14 lead variants (450 genome-wide significant variants outside masked regions)",
+  "cohorts_verified_at": "2026-10-31 (Supplementary Table 1 and Table 20 footnote)",
+  "cases": 23492,
+  "cases_note": "21,779 European + 1,713 Japanese (public file, no 23andMe)"
+ },
+ {
+  "id": "panukbb_phecode615_females",
+  "role": "candidate_replication",
+  "description": "Pan-UK Biobank phecode 615 Endometriosis, females",
+  "source_url": "https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-615-females.tsv.bgz",
+  "manifest_url": "https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_release/phenotype_manifest.tsv.bgz",
+  "genome_build": "GRCh37",
+  "cases_controls": {
+   "EUR": [
+    4354,
+    217500
+   ],
+   "all_listed_pops": "AFR, CSA, EUR"
+  },
+  "cohorts": [
+   "UK Biobank"
+  ],
+  "access": "public_download",
+  "independence": "No FinnGen participants. Overlaps UK Biobank-derived exposure data (for example UKB-PPP) and any meta-analysis that includes UK Biobank.",
+  "caveats": "Pan-UKBB manifest lists num_pops_pass_qc = 0 for this phenotype. Must pass positive-control checks before use.",
+  "files_verified": true,
+  "verified_at": "2026-10-30 (MD5 and size match source; SHA-256 in data/upstream/*.provenance.json)",
+  "positive_control": "13/14 lead variants concordant with Rahmioglu 2023, binomial p 0.00092, passes=True",
+  "cases": 4354
+ },
+ {
+  "id": "panukbb_icd10_N80",
+  "role": "sensitivity_only",
+  "description": "Pan-UK Biobank ICD-10 N80 Endometriosis, both_sexes file (controls include men)",
+  "source_url": "https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-N80-both_sexes.tsv.bgz",
+  "genome_build": "GRCh37",
+  "cases_controls": {
+   "EUR": [
+    4141,
+    416390
+   ]
+  },
+  "cohorts": [
+   "UK Biobank"
+  ],
+  "access": "public_download",
+  "caveats": "Male controls; use only as a sensitivity check against phecode 615 females.",
+  "files_verified": false
+ },
+ {
+  "id": "pujolgualdo2025_estbb_finngen",
+  "role": "candidate_replication",
+  "description": "Pujol Gualdo et al. 2025 endometriosis (ICD-10 N80) meta-analysis of Estonian Biobank and FinnGen, women only (GWAS Catalog GCST90454213); found in a supplement of doi:10.1186/s12958-025-01508-7",
+  "source_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90454001-GCST90455000/GCST90454213/",
+  "genome_build": "GRCh37",
+  "cases_controls": "Catalog metadata sample size 233,257 European women; case count to verify",
+  "cohorts": [
+   "Estonian Biobank",
+   "FinnGen"
+  ],
+  "md5": {
+   "GCST90454213.tsv.gz": "87b5de5feb098e47535ca012475038f9"
+  },
+  "access": "public_download",
+  "independence": "Contains FinnGen, so not independent of FinnGen-based claims. Independent of claims discovered in UK Biobank only. The FinnGen release used must be identified before any subtraction is considered.",
+  "files_verified": true,
+  "verified_at": "2026-10-30 (MD5 and size match source; SHA-256 in data/upstream/*.provenance.json)",
+  "positive_control": "14/14 lead variants concordant with Rahmioglu 2023, binomial p 6.1e-05, passes=True",
+  "cases": 19588
+ },
+ {
+  "id": "GSE266265",
+  "role": "single_cell",
+  "description": "Eutopic endometrium single-cell atlas, 35 endometriosis and 25 control donors without exogenous hormone treatment (Nat Commun 2026, doi 10.1038/s41467-026-73020-4)",
+  "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266265",
+  "files": {
+   "GSE266265_EndoAtlas.rds": "39 GB",
+   "GSE266265_epithelial_cells_monocle3.rds": "191 MB"
+  },
+  "geo_records": 60,
+  "access": "public_download",
+  "requirements": "R with SeuratObject to read the RDS; large memory. Raw counts and donor/phase metadata inside the object to verify.",
+  "metadata_verified": false,
+  "files_verified": false
+ },
+ {
+  "id": "GSE179640",
+  "role": "single_cell",
+  "description": "Tan et al. 2022 Nat Genet: eutopic endometrium and lesions; hormone status mixed",
+  "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179640",
+  "files": {
+   "GSE179640_RAW.tar": "759 MB"
+  },
+  "geo_records": 59,
+  "access": "public_download",
+  "notes": "Includes organoid cell-hashing samples; GEO records are not donors.",
+  "metadata_verified": false,
+  "files_verified": false
+ },
+ {
+  "id": "GSE213216",
+  "role": "single_cell",
+  "description": "Fonseca et al. 2023 Nat Genet: single-cell analysis across endometriosis lesion types",
+  "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213216",
+  "files": {
+   "GSE213216_RAW.tar": "16 GB"
+  },
+  "geo_records": 51,
+  "access": "public_download",
+  "metadata_verified": false,
+  "files_verified": false
+ },
+ {
+  "id": "GSE141549",
+  "role": "context_bulk",
+  "description": "Gabriel et al. 2020: bulk transcriptomes of endometrium, peritoneum and lesions",
+  "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141549",
+  "geo_records": 408,
+  "access": "public_download",
+  "notes": "Context only; bulk tissue mixes cell types.",
+  "metadata_verified": false,
+  "files_verified": false
+ },
+ {
+  "role": "exposure_for_rederivation",
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-31 (see data/upstream/exposure/*.provenance.json)",
+  "independence": "Exposure data only; contains no endometriosis outcome. Not under the blinding rule (PROTOCOL.md section 3).",
+  "id": "zhao2023_olink_inflammation",
+  "description": "Zhao et al. 2023 Nat Immunol, 91 Olink inflammation proteins (14,824 Europeans); 13 per-protein GWAS Catalog files GCST90274762-GCST90274844 used",
+  "source_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90274001-GCST90275000/",
+  "genome_build": "GRCh37",
+  "integrity": "source MD5 (GWAS Catalog meta.yaml) matched",
+  "used_by": "WeiY2024ITT-1..6 (rule), Guo2025Med-1..5 and Gao2025Med-1..3 (known variants)"
+ },
+ {
+  "role": "exposure_for_rederivation",
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-31 (see data/upstream/exposure/*.provenance.json)",
+  "independence": "Exposure data only; contains no endometriosis outcome. Not under the blinding rule (PROTOCOL.md section 3).",
+  "id": "sun2018_interval_ctsh",
+  "description": "Sun et al. 2018 INTERVAL SomaScan, cathepsin H, both aptamers (CTSH.8465.52.3 GCST90240624; CTSH.3737.6.3 GCST90240625), 3,301 Europeans",
+  "source_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90240001-GCST90241000/",
+  "genome_build": "GRCh37",
+  "integrity": "source MD5 matched",
+  "used_by": "Aru2025cath-1 (rule; aptamer chosen by the pre-specified reading rule)"
+ },
+ {
+  "role": "exposure_for_rederivation",
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-31 (see data/upstream/exposure/*.provenance.json)",
+  "independence": "Exposure data only; contains no endometriosis outcome. Not under the blinding rule (PROTOCOL.md section 3).",
+  "id": "aholaolli2017_trail",
+  "description": "Ahola-Olli et al. 2017, 41 cytokines (YFS + FINRISK, 8,293 Finns); TRAIL file GCST004424",
+  "source_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST004001-GCST005000/GCST004424/TRAIL.data.gz",
+  "genome_build": "GRCh37",
+  "integrity": "no source checksum; size matched, gzip stream fully read during the build, SHA-256 pinned",
+  "used_by": "Xu2025JCMM-1 (rule)"
+ },
+ {
+  "role": "exposure_for_rederivation",
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-31 (see data/upstream/exposure/*.provenance.json)",
+  "independence": "Exposure data only; contains no endometriosis outcome. Not under the blinding rule (PROTOCOL.md section 3).",
+  "id": "glgc2021_tg_eur",
+  "description": "GLGC 2021 (Graham et al.) log triglycerides, European ancestry meta-analysis",
+  "source_url": "https://csg.sph.umich.edu/willer/public/glgc-lipids2021/results/ancestry_specific/logTG_INV_EUR_HRC_1KGP3_others_ALL.meta.singlevar.results.gz",
+  "genome_build": "GRCh37",
+  "integrity": "no source checksum; size matched, gzip stream fully read during the build, SHA-256 pinned",
+  "used_by": "Li2026tg-1..7 (rule)",
+  "independence_note": "GLGC 2021 includes UK Biobank participants; relevant to sample overlap with UKB-based outcomes at Gate C."
+ },
+ {
+  "role": "exposure_for_rederivation",
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-31 (see data/upstream/exposure/*.provenance.json)",
+  "independence": "Exposure data only; contains no endometriosis outcome. Not under the blinding rule (PROTOCOL.md section 3).",
+  "id": "gtex_v8_eqtl",
+  "description": "GTEx v8 single-tissue cis-eQTL significant pairs; Whole_Blood and Uterus used",
+  "source_url": "https://storage.googleapis.com/adult-gtex/bulk-qtl/v8/single-tissue-cis-qtl/GTEx_Analysis_v8_eQTL.tar",
+  "genome_build": "GRCh38",
+  "integrity": "source MD5 (x-goog-hash) matched",
+  "used_by": "Zeng2024Gene-1,2,3,9,10,11 (known variants)"
+ },
+ {
+  "role": "exposure_for_rederivation",
+  "access": "public_download",
+  "files_verified": true,
+  "verified_at": "2026-10-31 (see data/upstream/exposure/*.provenance.json)",
+  "independence": "Exposure data only; contains no endometriosis outcome. Not under the blinding rule (PROTOCOL.md section 3).",
+  "id": "ld_1kg_v3_eur",
+  "description": "1000 Genomes phase 3 European LD reference (503 people, 8,550,156 variants), MRC IEU 1kg.v3 as used by TwoSampleMR",
+  "source_url": "http://fileserve.mrcieu.ac.uk/ld/1kg.v3.tgz",
+  "genome_build": "GRCh37",
+  "integrity": "plain http (approved by Artem 2026-10-31); size and gzip CRC matched; SHA-256 pinned; structure and Ensembl allele-frequency check passed (results/ld_reference_check.json)",
+  "role_note": "LD reference for clumping and proxies",
+  "used_by": "all rule-based re-derivations"
+ }
+]

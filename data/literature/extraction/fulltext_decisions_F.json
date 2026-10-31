@@ -1,0 +1,211 @@
+[
+ {
+  "record_id": "doi:10.1002/ctm2.1496",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Disease-disease MR: endometriosis to IBD (main) and IBD to endometriosis (reverse); no gene or protein exposure.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Main direction has endometriosis as exposure (E3 also applies); reverse IBD-to-endometriosis MR null (Table S2)."
+ },
+ {
+  "record_id": "doi:10.1007/s12020-023-03417-4",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Letter with no abstract; title indicates disease-disease MR between endometriosis and female infertility; no gene or protein exposure.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Decided from title only: Springer subscription, no abstract in records. If endometriosis is the only exposure, E3 also applies."
+ },
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e35160",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "PTH measured on SomaScan (Sun 2018, prot-a-2431) tested on FinnGen endometriosis: eligible protein exposure, but result null.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "PTH IVW p>0.05 (Fig. 4; 14 genome-wide SNPs at p<5e-6), so no claim extracted. Calcium and 25(OH)D are not gene products. Confirm whether null-only eligible papers count as include."
+ },
+ {
+  "record_id": "doi:10.1016/j.jaad.2025.11.072",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "No abstract; title indicates NHANES analysis plus disease-disease genetic causal inference between endometriosis and atopic dermatitis.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Decided from title only: publisher returned 403, no abstract in records. If endometriosis is only the exposure, E3 also applies."
+ },
+ {
+  "record_id": "doi:10.1016/j.jsbmb.2024.106482",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Androgens, SHBG and albumin as circulating-level exposures; abstract reports only androgen findings; no cis instruments or target proposal described.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "ScienceDirect returned 403. SHBG/albumin instrument scope and estimates not verified; low-priority recheck if full text becomes available."
+ },
+ {
+  "record_id": "doi:10.1093/postmj/qgae011",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "ApoA-I and apoB from UK Biobank clinical chemistry with genome-wide instruments; no cis or drug-target analysis; not proposed as targets.",
+  "full_text_accessed": true,
+  "access_route": "publisher_html",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "apoA-I univariable IVW OR 0.898 (0.818-0.986), P=.025; attenuated after HDL-C adjustment. Conclusions emphasise triglycerides and HDL-C."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000045026",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "IGF-1 from UK Biobank biomarker GWAS with 305 genome-wide SNPs; not panel-measured, not cis, not explicitly proposed as target.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Borderline criterion (c): IGF1 IVW OR 1.083 (1.008-1.164), P=.029, FinnGen R10. Discussion only speculates 'may be able to develop targeted drugs' for TRIG, CA and IGF1 together."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000048611",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Lifestyle and psychological exposures; CRP used only as a genome-wide MVMR mediator (Koskeridis GWAS); no gene or protein claim.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049666",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "TSH and FT4 from ThyroidOmics with genome-wide instruments (P<1e-8); no gene-specific analysis; TSH not proposed as target.",
+  "full_text_accessed": true,
+  "access_route": "publisher_html",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Europe PMC XML returned HTTP 500; read NCBI PMC HTML instead. TSH to uterine subtype OR 1.195 (1.031-1.386), P=.018, FinnGen R9."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000050675",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "108 mostly UK Biobank traits with genome-wide instruments; cystatin C and apolipoprotein A only nominal, not panel, cis or target.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Only telomere length, triglycerides and HDL-C passed FDR; outcome FinnGen R9."
+ },
+ {
+  "record_id": "doi:10.1101/2021.06.01.21257781",
+  "final_decision": "exclude",
+  "reason_code": "E6",
+  "reason": "medRxiv preprint of the PLoS Medicine 2022 obesity and reproductive conditions paper, which is in these records.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": "doi:10.1371/journal.pmed.1003679",
+  "notes": "Europe PMC links the preprint to PMID 35104295. Published version is also excluded (E2)."
+ },
+ {
+  "record_id": "doi:10.1161/strokeaha.122.041163",
+  "final_decision": "exclude",
+  "reason_code": "E3",
+  "reason": "No abstract; title states endometriosis is the exposure and stroke the outcome.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Decided from title only: AHA journal returned 403."
+ },
+ {
+  "record_id": "doi:10.1186/s12916-023-03184-z",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "PRS-PheWAS; MR of UK Biobank biomarkers (SHBG, apolipoproteins, albumin) with genome-wide instruments; only testosterone significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.1186/s13098-024-01311-1",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Glycemic traits and diabetes as exposures; fasting insulin with genome-wide instruments; not panel-measured, cis or proposed as target.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Cytokine/adipokine mediators (some from SomaScan or cytokine panels) all null; whether mediator-to-endometriosis estimates exist is only in Table S6, not checked."
+ },
+ {
+  "record_id": "doi:10.1371/journal.pmed.1003679",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Obesity-trait exposures; leptin and fasting insulin from dedicated GWAS with genome-wide instruments; both null for endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "Table 3: leptin beta -0.0745 (SE 0.188), P=0.692; fasting insulin beta 0.150 (SE 0.247), P=0.544. Leptin/insulin named as intervention targets only generically."
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-3273922/v1",
+  "final_decision": "exclude",
+  "reason_code": "E6",
+  "reason": "Research Square preprint of the Heliyon 2024 calcium-homeostasis MR paper (same authors and datasets), which is in these records.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": "doi:10.1016/j.heliyon.2024.e35160",
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2023.1161356",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Testosterone and DHEAS are steroids; SHBG from UK Biobank with 197 genome-wide SNPs and not significant for endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": null
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1425639",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "TSH and fT4 from ThyroidOmics/UK Biobank with genome-wide instruments; outcome endometriosis-related infertility; no gene-specific analysis or target proposal.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "High TSH to endometriosis-related infertility OR 0.82 (0.74-0.91), P=1.49E-04."
+ },
+ {
+  "record_id": "doi:10.3390/life11010024",
+  "final_decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Phenome-wide 2SMR of diseases, anthropometric and reproductive traits; AMH and sex hormones with genome-wide instruments; no panel, cis or target.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 0,
+  "duplicate_of": null,
+  "notes": "AMH (Ruth 2019) IVW p=0.001. Secondary single-SNP Wald ratios for FSHB-upstream SNPs (exposure 'sex hormone levels', hormone unspecified) significant (Table 2), not primary analysis."
+ }
+]

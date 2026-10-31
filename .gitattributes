@@ -1,0 +1,8 @@
+# Keep LF line endings on every platform, so file checksums (for example the freeze record's SHA-256 of
+# PROTOCOL.md and data/literature/claims.json) are the same on every checkout.
+* text=auto eol=lf
+*.xlsx binary
+*.xls binary
+*.gz binary
+*.zip binary
+*.pdf binary

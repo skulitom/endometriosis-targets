@@ -1,0 +1,1258 @@
+[
+ {
+  "record_id": "doi:10.1016/j.reprotox.2025.109148",
+  "doi": "10.1016/j.reprotox.2025.109148",
+  "pmcid": null,
+  "title": "Systematic analyses uncover endocrine-disrupting chemical-responsive genes linked to endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.reprotox.2025.109148",
+  "claims": [
+   {
+    "claim_id": "Hong2026RT-1",
+    "gene_symbol": "PRLR",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.25
+     ],
+     "ci_low": [
+      null,
+      1.143
+     ],
+     "ci_high": [
+      null,
+      1.368
+     ],
+     "p_value": [
+      null,
+      1.1e-06
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.002233384. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-2",
+    "gene_symbol": "SULT1B1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.389
+     ],
+     "ci_low": [
+      null,
+      1.202
+     ],
+     "ci_high": [
+      null,
+      1.604
+     ],
+     "p_value": [
+      null,
+      7.81e-06
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.007908512. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-3",
+    "gene_symbol": "DIP2B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.163
+     ],
+     "ci_low": [
+      null,
+      1.087
+     ],
+     "ci_high": [
+      null,
+      1.245
+     ],
+     "p_value": [
+      null,
+      1.29e-05
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "n_instruments": [
+      null,
+      5
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4); Supplementary Table S5 (sheet S5)",
+     "outcome_source": null,
+     "method": "IVW",
+     "notes": "S5: WM 1.174, Egger 1.414 (p=0.60). Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-4",
+    "gene_symbol": "FBXO5",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.436
+     ],
+     "ci_low": [
+      null,
+      1.209
+     ],
+     "ci_high": [
+      null,
+      1.707
+     ],
+     "p_value": [
+      null,
+      3.96e-05
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.01780125. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-5",
+    "gene_symbol": "CDCA2",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.51
+     ],
+     "ci_low": [
+      null,
+      1.229
+     ],
+     "ci_high": [
+      null,
+      1.855
+     ],
+     "p_value": [
+      null,
+      8.59e-05
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.03305705. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-6",
+    "gene_symbol": "AGPAT1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.245
+     ],
+     "ci_low": [
+      null,
+      1.116
+     ],
+     "ci_high": [
+      null,
+      1.39
+     ],
+     "p_value": [
+      null,
+      8.98e-05
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.03305705. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-7",
+    "gene_symbol": "PDE5A",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.761
+     ],
+     "ci_low": [
+      null,
+      0.678
+     ],
+     "ci_high": [
+      null,
+      0.855
+     ],
+     "p_value": [
+      null,
+      4.41e-06
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.005952496. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   },
+   {
+    "claim_id": "Hong2026RT-8",
+    "gene_symbol": "VPS13B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.546
+     ],
+     "ci_low": [
+      null,
+      0.415
+     ],
+     "ci_high": [
+      null,
+      0.718
+     ],
+     "p_value": [
+      null,
+      1.48e-05
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (method not stated in abstract)",
+      "Wald ratio"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect blocked). Eight EDC-responsive genes with 'strong evidence for causal association and shared genetic regulation' (MR + Bayesian colocalisation); direction, tissue, estimates and PP.H4 not in abstract. Same first author as doi:10.1016/j.xfss.2025.02.003."
+    },
+    "second": {
+     "source_location": "Supplementary Table S4 (mmc1.xlsx, sheet S4)",
+     "outcome_source": null,
+     "method": "Wald ratio",
+     "notes": "FDR 0.009998429. Main text (ScienceDirect) returned HTTP 403; outcome GWAS, eQTL source, cis window and PP.H4 unverifiable. S4 gives beta/SE and OR; FDR-significant. Abstract: colocalization supported shared regulation."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s41065-025-00457-w",
+  "doi": "10.1186/s41065-025-00457-w",
+  "pmcid": "PMC12126875",
+  "title": "Identification of EPHB4 as a potential causal gene and therapeutic target for endometriosis using Mendelian randomization.",
+  "supplement_dir": "data/upstream/supplements/10.1186_s41065-025-00457-w",
+  "claims": [
+   {
+    "claim_id": "Ling2025-2",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR=0.012, P_HEIDI=0.432. Tier 1 (significant in both pQTL sources). PP.H4 0.993 (text; 0.99 in Table 2)."
+    },
+    "second": {
+     "source_location": "Table 2 (OR, P-FDR); Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, deCODE probe 15530_33) for raw p",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "P_SMR 3.32e-5; P_FDR 0.0117; P_HEIDI 0.43. PPH4 given per gene (0.99 Table 2, 0.993 text), dataset not specified. SMR top cis-pQTL; window not stated. 1,002 deCODE druggable proteins tested."
+    }
+   },
+   {
+    "claim_id": "Ling2025-3",
+    "gene_symbol": "CD109",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR=0.025, P_HEIDI=0.300. Tier 3. PP.H4 0.33 per Table 2 but '<0.01' in Figure 2 (table used). UKB-PPP: OR 0.97 (0.941-0.999), P_FDR 0.529 (not significant)."
+    },
+    "second": {
+     "source_location": "Table 2; Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, probe 3290_50)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "P_SMR 1.39218e-4; P_FDR 0.0245. Tier 3 (low coloc). UKB-PPP CD109 not significant (OR 0.97, P_FDR 0.529)."
+    }
+   },
+   {
+    "claim_id": "Ling2025-4",
+    "gene_symbol": "SAA2",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR=0.025, P_HEIDI=0.711. Tier 3. PP.H4 0.01 per Table 2 but 0.33 in Figure 2 (table used). Acute-phase protein measured on SomaScan (biomarker rule a)."
+    },
+    "second": {
+     "source_location": "Table 2; Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, probe 18832_65)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "P_SMR 1.32744e-4; P_FDR 0.0245; P_HEIDI 0.71. Tier 3; PPH4 0.01 per Table 2."
+    }
+   },
+   {
+    "claim_id": "Ling2025-5",
+    "gene_symbol": "SAA1",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR=0.025, P_HEIDI=0.753. Tier 3. PP.H4 '<0.01' per Table 2 but 0.01 in Figure 2. Acute-phase protein measured on SomaScan (biomarker rule a)."
+    },
+    "second": {
+     "source_location": "Table 2; Supplementary Table S1 (MOESM1_ESM.xlsx, sheet Table S1, probe 15515_2)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "P_SMR 1.29862e-4; P_FDR 0.0245. Table 2 PPH4 reported as '< 0.01' (no exact value), so coloc_pph4 null."
+    }
+   },
+   {
+    "claim_id": "Ling2025-6",
+    "gene_symbol": "FSHB",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR<0.001, P_HEIDI=0.285. Tier 3; PP.H4 '<0.01'. Olink-measured (biomarker rule a). SMR P identical to Tao 2024 Table 1 (same UKB-PPP x FinnGen R10 data)."
+    },
+    "second": {
+     "source_location": "Table 2 (OR); Supplementary Table S2 (MOESM1_ESM.xlsx, sheet Table S2, FSHB OID30233) for beta 1.36233, SE 0.1316, raw p",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "UKB-PPP; P_FDR 4.6e-22. PPH4 reported as '< 0.01' (no exact value). S2 OR column blank; OR from Table 2. 1,146 UKB-PPP druggable proteins tested."
+    }
+   },
+   {
+    "claim_id": "Ling2025-8",
+    "gene_symbol": "SEZ6L2",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR=0.004, P_HEIDI=0.213. Tier 3; PP.H4 '<0.01' (Tao 2024 reported 0.974 with same data). SMR P identical to Tao 2024."
+    },
+    "second": {
+     "source_location": "Table 2; Supplementary Table S2 (MOESM1_ESM.xlsx, sheet Table S2, SEZ6L2 OID21289)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "P_FDR 0.00357 (Table 2: 0.004). PPH4 reported as '< 0.01' (no exact value)."
+    }
+   },
+   {
+    "claim_id": "Ling2025-9",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "SMR_pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2; Table 2; Results text",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "SMR of druggable-genome proteins (Finan 2017): 1,002 tested in deCODE, 1,146 in UKB-PPP; kept BH-FDR<0.05 and P_HEIDI>0.05. Top pQTL at P<5e-8 (SMR, n_instruments=1); cis restriction not stated. P_FDR=0.007, P_HEIDI=0.682. Tier 1. SMR P identical to Tao 2024."
+    },
+    "second": {
+     "source_location": "Table 2; Supplementary Table S2 (MOESM1_ESM.xlsx, sheet Table S2, EPHB4 OID20242)",
+     "outcome_source": "FinnGen R10 N14_ENDOMETRIOSIS",
+     "method": "SMR",
+     "notes": "UKB-PPP; beta 0.3349, SE 0.0796; P_FDR 0.0074; P_HEIDI 0.68. PPH4 per gene only (0.99; text 0.993), dataset not specified."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s601516",
+  "doi": "10.2147/ijwh.s601516",
+  "pmcid": "PMC13452016",
+  "title": "Identification and Validation of a Four-Gene Signature as a Novel Potential Diagnostic Biomarker Panel for Endometriosis: Causal and Mechanistic Insights from Mendelian Randomization and Bioinformatics.",
+  "supplement_dir": "data/upstream/supplements/10.2147_ijwh.s601516",
+  "claims": [
+   {
+    "claim_id": "Meng2026IJWH-1",
+    "gene_symbol": "FRMD4B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000114541",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ebi-a-GCST90018839 (European, 4,511 cases)",
+     "method": "IVW",
+     "notes": "Reported IVW beta -0.000169123 (SE 8.36e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9813 (0.9705-0.9923), p 0.00086. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+    },
+    "second": {
+     "source_location": "Table 1 (univariable MR)",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (European)",
+     "method": "IVW",
+     "notes": "OR/CI converted from Table 1 beta -0.000169123 (SE 8.36e-05). MVMR (Table 5) OR 0.981, p=0.00086. IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+    }
+   },
+   {
+    "claim_id": "Meng2026IJWH-2",
+    "gene_symbol": "CRYZ",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000116791",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ebi-a-GCST90018839 (European, 4,511 cases)",
+     "method": "IVW",
+     "notes": "Reported IVW beta -0.000129299 (SE 5.08e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 1.0146 (1.0016-1.0277), p 0.02728. MVMR OR >1 is opposite to the UVMR direction. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+    },
+    "second": {
+     "source_location": "Table 1 (univariable MR)",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (European)",
+     "method": "IVW",
+     "notes": "OR/CI converted from Table 1 beta -0.000129299 (SE 5.08e-05). MVMR (Table 5) OR 1.015, p=0.027 (opposite sign). IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+    }
+   },
+   {
+    "claim_id": "Meng2026IJWH-4",
+    "gene_symbol": "FZD6",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000164930",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ebi-a-GCST90018839 (European, 4,511 cases)",
+     "method": "IVW",
+     "notes": "Reported IVW beta -0.000417723 (SE 0.000150319); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9980 (0.9886-1.0076), p 0.6884. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+    },
+    "second": {
+     "source_location": "Table 1 (univariable MR)",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (European)",
+     "method": "IVW",
+     "notes": "OR/CI converted from Table 1 beta -0.000417723 (SE 0.000150319). MVMR (Table 5) OR 0.998, p=0.69. IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+    }
+   },
+   {
+    "claim_id": "Meng2026IJWH-6",
+    "gene_symbol": "TPST1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000169902",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ebi-a-GCST90018839 (European, 4,511 cases)",
+     "method": "IVW",
+     "notes": "Reported IVW beta -0.000201089 (SE 2.6e-05); OR and CI converted here as exp(beta), exp(beta +/- 1.96 SE). Betas are implausibly small for log-odds per SD expression; scale uncertain. MVMR (Table 5) OR 0.9989 (0.9981-0.9996), p 0.00303. Instruments p<5e-8, clump r2 0.001 within 10 kb, >=3 SNPs; 40 of 49 candidate genes analysed; no multiple-testing correction. Outcome cohort mapping assumes GCST90018839 = Sakaue 2021 European UKB+FinnGen meta (not described in paper; verify). [Lead correction 2026-10-29: outcome GWAS not stated in paper; extractor assumption of Sakaue 2021 removed]"
+    },
+    "second": {
+     "source_location": "Table 1 (univariable MR)",
+     "outcome_source": "IEU OpenGWAS ebi-a-GCST90018839 (European)",
+     "method": "IVW",
+     "notes": "OR/CI converted from Table 1 beta -0.000201089 (SE 2.6e-05). MVMR (Table 5) OR 0.9989, p=0.003. IVs p<5e-8, clump r2 0.001 kb 10; no cis window stated."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.rbmo.2024.103856",
+  "doi": "10.1016/j.rbmo.2024.103856",
+  "pmcid": null,
+  "title": "Gene associations of lipid traits, lipid-lowering drug-target genes and endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.rbmo.2024.103856",
+  "claims": [
+   {
+    "claim_id": "Zhou2024lipid-1",
+    "gene_symbol": "PCSK9",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "Lipid-trait GWAS used to weight target variants (not stated in abstract)",
+    "differences": {
+     "p_value": [
+      null,
+      0.00141650151714028
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ],
+     "outcome_cohorts": [
+      [
+       "unknown"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      5112
+     ],
+     "outcome_controls": [
+      null,
+      185757
+     ],
+     "n_instruments": [
+      null,
+      27
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R8"
+     ],
+     "method": [
+      "not stated (abstract only)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis stages 1-2 GWAS (source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Abstract only (ScienceDirect and RBMO pages returned 403; no PMC copy). 'Genetic mimicry in PCSK9' OR for endometriosis stages 1-2; abstract gives no P, lipid trait used for weighting, outcome GWAS, or whether the exposure is scaled as lipid-lowering or raising. Conclusion favours lipid-lowering drugs, suggesting OR per unit higher lipid via PCSK9 variants (direction must be verified in full text). Abstract says SMR and colocalisation were run for significant targets; results not given. Overall-endometriosis estimate not in abstract. [Lead correction 2026-10-29: abstract does not say whether exposure is target lowering or raising]"
+    },
+    "second": {
+     "source_location": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, IVW",
+     "outcome_source": "FinnGen R8 N14_ENDOMETRIOSIS_ASRM_STAGE1_2",
+     "method": "IVW",
+     "notes": "Stage 1-2 outcome; overall endometriosis OR 0.968, P 0.66. LDL-C (ieu-b-110) weighted. Abstract 1.40 (1.13-1.72). H4/(H3+H4)=0.889. Main text paywalled; OR scaling (inhibition vs LDL increase) unclear."
+    }
+   },
+   {
+    "claim_id": "Zhou2024lipid-2",
+    "gene_symbol": "APOB",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "Lipid-trait GWAS used to weight target variants (not stated in abstract)",
+    "differences": {
+     "p_value": [
+      null,
+      0.000266098982551543
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ],
+     "outcome_cohorts": [
+      [
+       "unknown"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      5112
+     ],
+     "outcome_controls": [
+      null,
+      185757
+     ],
+     "n_instruments": [
+      null,
+      26
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R8"
+     ],
+     "method": [
+      "not stated (abstract only)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis stages 1-2 GWAS (source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Abstract only (ScienceDirect and RBMO pages returned 403; no PMC copy). 'Genetic mimicry in APOB' OR for endometriosis stages 1-2; abstract gives no P, lipid trait used for weighting, outcome GWAS, or whether the exposure is scaled as lipid-lowering or raising. Conclusion favours lipid-lowering drugs, suggesting OR per unit higher lipid via APOB variants (direction must be verified in full text). Abstract says SMR and colocalisation were run for significant targets; results not given. Overall-endometriosis estimate not in abstract. [Lead correction 2026-10-29: abstract does not say whether exposure is target lowering or raising]"
+    },
+    "second": {
+     "source_location": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, IVW",
+     "outcome_source": "FinnGen R8 N14_ENDOMETRIOSIS_ASRM_STAGE1_2",
+     "method": "IVW",
+     "notes": "Stage 1-2 outcome; overall endometriosis OR 0.973, P 0.76. LDL-C weighted. Abstract 1.49 (1.21-1.86). SMR (Table S16) p 0.0104. H4/(H3+H4)=0.957. Main text paywalled; OR scaling unclear."
+    }
+   },
+   {
+    "claim_id": "Zhou2024lipid-3",
+    "gene_symbol": "ANGPTL3",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "Lipid-trait GWAS used to weight target variants (not stated in abstract)",
+    "differences": {
+     "p_value": [
+      null,
+      0.00606000681390996
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "cis"
+     ],
+     "outcome_cohorts": [
+      [
+       "unknown"
+      ],
+      [
+       "FinnGen"
+      ]
+     ],
+     "outcome_cases": [
+      null,
+      5112
+     ],
+     "outcome_controls": [
+      null,
+      185757
+     ],
+     "n_instruments": [
+      null,
+      18
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R8"
+     ],
+     "method": [
+      "not stated (abstract only)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis stages 1-2 GWAS (source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Abstract only (ScienceDirect and RBMO pages returned 403; no PMC copy). 'Genetic mimicry in ANGPTL3' OR for endometriosis stages 1-2; abstract gives no P, lipid trait used for weighting, outcome GWAS, or whether the exposure is scaled as lipid-lowering or raising. Conclusion favours lipid-lowering drugs, suggesting OR per unit higher lipid via ANGPTL3 variants (direction must be verified in full text). Abstract says SMR and colocalisation were run for significant targets; results not given. Overall-endometriosis estimate not in abstract. [Lead correction 2026-10-29: abstract does not say whether exposure is target lowering or raising]"
+    },
+    "second": {
+     "source_location": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, IVW",
+     "outcome_source": "FinnGen R8 N14_ENDOMETRIOSIS_ASRM_STAGE1_2",
+     "method": "IVW",
+     "notes": "Stage 1-2 outcome; overall endometriosis OR 1.137, P 0.31. Triglyceride (ieu-b-111) weighted. Abstract 1.57 (1.14-2.16). H4/(H3+H4)=0.987. Main text paywalled; OR scaling unclear."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000041804",
+  "doi": "10.1097/md.0000000000041804",
+  "pmcid": "PMC11977726",
+  "title": "Identification of biomarkers for endometriosis based on summary-data-based Mendelian randomization and machine learning.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000041804",
+  "claims": [
+   {
+    "claim_id": "Xie2025Med-1",
+    "gene_symbol": "ADK",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx v8 cis-eQTL (SMR-format, Yang lab)",
+    "differences": {
+     "estimate": [
+      null,
+      0.9509
+     ],
+     "ci_low": [
+      null,
+      0.9272
+     ],
+     "ci_high": [
+      null,
+      0.9752
+     ],
+     "p_value": [
+      null,
+      9.34e-05
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results 3.3-3.5 and abstract (direction); estimates only in Supplementary Tables S5-S7",
+     "outcome_source": "FinnGen R12 endometriosis",
+     "method": "SMR",
+     "notes": "HEIDI p not in main text (criterion P_SMR<0.01 and P_HEIDI>0.05; no multiple-testing correction). Screen found 156 whole-blood and 30 uterus SMR hits (Supp S5-S6, not extracted); 10 candidates after intersecting with MAGMA-related DEGs (Fig. 3C), 3 core genes chosen by machine learning. Direction: B<0 with downregulation in cases ('protective'). Follow-up TwoSampleMR (GTEx whole blood cis-eQTL, P<5e-8, Wald ratio/IVW) reported significant for all three (Supp S7, same outcome)."
+    },
+    "second": {
+     "source_location": "Supplementary Table S5 (medi-104-e41804-s004.xlsx, sheet Table_S5, GTEx v8 whole blood SMR)",
+     "outcome_source": "FinnGen R12 endometriosis",
+     "method": "SMR",
+     "notes": "Converted: b_SMR -0.0503675, SE 0.012891; OR=exp(b), CI=exp(b±1.96SE). Whole blood (no uterus hit). Two-sample MR check (s005): IVW b -0.0418, P 2.5e-4, 'protective biomarker'."
+    }
+   },
+   {
+    "claim_id": "Xie2025Med-2",
+    "gene_symbol": "EHHADH",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx v8 cis-eQTL (SMR-format, Yang lab)",
+    "differences": {
+     "estimate": [
+      null,
+      0.8743
+     ],
+     "ci_low": [
+      null,
+      0.7988
+     ],
+     "ci_high": [
+      null,
+      0.957
+     ],
+     "p_value": [
+      null,
+      0.00359
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results 3.3-3.5 and abstract (direction); estimates only in Supplementary Tables S5-S7",
+     "outcome_source": "FinnGen R12 endometriosis",
+     "method": "SMR",
+     "notes": "HEIDI p not in main text (criterion P_SMR<0.01 and P_HEIDI>0.05; no multiple-testing correction). Screen found 156 whole-blood and 30 uterus SMR hits (Supp S5-S6, not extracted); 10 candidates after intersecting with MAGMA-related DEGs (Fig. 3C), 3 core genes chosen by machine learning. Direction: B<0 with downregulation in cases ('protective'). Follow-up TwoSampleMR (GTEx whole blood cis-eQTL, P<5e-8, Wald ratio/IVW) reported significant for all three (Supp S7, same outcome)."
+    },
+    "second": {
+     "source_location": "Supplementary Table S5 (medi-104-e41804-s004.xlsx, sheet Table_S5, GTEx v8 whole blood SMR)",
+     "outcome_source": "FinnGen R12 endometriosis",
+     "method": "SMR",
+     "notes": "Converted: b_SMR -0.134286, SE 0.0461114; OR=exp(b), CI=exp(b±1.96SE). Whole blood. Threshold P<0.01, HEIDI>0.05, no FDR. MR check Wald ratio P 0.0013."
+    }
+   },
+   {
+    "claim_id": "Xie2025Med-3",
+    "gene_symbol": "CNOT7",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx v8 cis-eQTL (SMR-format, Yang lab)",
+    "differences": {
+     "estimate": [
+      null,
+      0.761
+     ],
+     "ci_low": [
+      null,
+      0.6363
+     ],
+     "ci_high": [
+      null,
+      0.9101
+     ],
+     "p_value": [
+      null,
+      0.00278
+     ],
+     "n_instruments": [
+      null,
+      1
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results 3.3-3.5 and abstract (direction); estimates only in Supplementary Tables S5-S7",
+     "outcome_source": "FinnGen R12 endometriosis",
+     "method": "SMR",
+     "notes": "HEIDI p not in main text (criterion P_SMR<0.01 and P_HEIDI>0.05; no multiple-testing correction). Screen found 156 whole-blood and 30 uterus SMR hits (Supp S5-S6, not extracted); 10 candidates after intersecting with MAGMA-related DEGs (Fig. 3C), 3 core genes chosen by machine learning. Direction: B<0 with downregulation in cases ('protective'). Follow-up TwoSampleMR (GTEx whole blood cis-eQTL, P<5e-8, Wald ratio/IVW) reported significant for all three (Supp S7, same outcome)."
+    },
+    "second": {
+     "source_location": "Supplementary Table S5 (medi-104-e41804-s004.xlsx, sheet Table_S5, GTEx v8 whole blood SMR)",
+     "outcome_source": "FinnGen R12 endometriosis",
+     "method": "SMR",
+     "notes": "Converted: b_SMR -0.273151, SE 0.0913153; OR=exp(b), CI=exp(b±1.96SE). Whole blood; nsnp_HEIDI 7. MR check Wald ratio P 0.00084."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000038972",
+  "doi": "10.1097/md.0000000000038972",
+  "pmcid": "PMC11398771",
+  "title": "The association between genetically predicted systemic inflammatory regulators and endometriosis: A bidirectional Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000038972",
+  "claims": [
+   {
+    "claim_id": "LiuY2024Med-1",
+    "gene_symbol": "IL6",
+    "exposure_type": "pQTL",
+    "exposure_source": "Ahola-Olli 2017 41 circulating cytokines (YFS/FINRISK, n=8293)",
+    "differences": {
+     "outcome_cohorts": [
+      [
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ],
+     "n_instruments": [
+      null,
+      4
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results 3.2; Abstract; Figure 1",
+     "outcome_source": "GWAS Catalog GCST90044411 (endometriosis, 1937 cases/245,603 controls)",
+     "method": "IVW",
+     "notes": "MR-Egger OR 1.118 (P=.503) and weighted median OR 1.267 (P=.132) not significant. 41 cytokines tested; nominal P<0.05, no multiple-testing correction. Instruments P<5e-6 genome-wide, SNPs shared by >1 cytokine removed. Paper calls outcome a European GWAS meta-analysis; GWAS Catalog lists GCST90044411 as UK Biobank PheCode 615 (PMID 34737426). Abstract also says none of 41 were associated (internal inconsistency)."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (medi-103-e38972-s001.docx); Results text",
+     "outcome_source": "GWAS Catalog GCST90044411 (European)",
+     "method": "IVW",
+     "notes": "IVs p<5e-6, r2<0.01; 41 cytokines tested, nominal p<0.05 without correction. MR-Egger 1.118 (p=0.50) and WM 1.267 (p=0.13) non-significant. Outcome cohorts not named."
+    }
+   },
+   {
+    "claim_id": "LiuY2024Med-2",
+    "gene_symbol": "PDGFB",
+    "exposure_type": "pQTL",
+    "exposure_source": "Ahola-Olli 2017 41 circulating cytokines (YFS/FINRISK, n=8293)",
+    "differences": {
+     "outcome_cohorts": [
+      [
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ],
+     "n_instruments": [
+      null,
+      18
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results 3.2; Abstract; Figure 1",
+     "outcome_source": "GWAS Catalog GCST90044411 (endometriosis, 1937 cases/245,603 controls)",
+     "method": "IVW",
+     "notes": "PDGF-BB (homodimer of PDGF-B chain) mapped to PDGFB. 41 cytokines tested; nominal P<0.05, no multiple-testing correction. Instruments P<5e-6 genome-wide, SNPs shared by >1 cytokine removed. Paper calls outcome a European GWAS meta-analysis; GWAS Catalog lists GCST90044411 as UK Biobank PheCode 615 (PMID 34737426). Abstract also says none of 41 were associated (internal inconsistency)."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (medi-103-e38972-s001.docx); Results text",
+     "outcome_source": "GWAS Catalog GCST90044411 (European)",
+     "method": "IVW",
+     "notes": "PDGF-BB mapped to PDGFB. IVs p<5e-6, r2<0.01; 41 cytokines tested, no multiple-testing correction. WM 0.760 (p=0.0048), Egger 0.711 (p=0.025). Outcome cohorts not named."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1007/s00439-024-02681-2",
+  "doi": "10.1007/s00439-024-02681-2",
+  "pmcid": "PMC11485110",
+  "title": "Unraveling the significance of AGPAT4 for the pathogenesis of endometriosis via a multi-omics approach.",
+  "supplement_dir": "data/upstream/supplements/10.1007_s00439-024-02681-2",
+  "claims": [
+   {
+    "claim_id": "Chen2024HG-1",
+    "gene_symbol": "AGPAT4",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data for 19,942 genes 'from the GWAS catalog' (dataset not named in text)",
+    "differences": {
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "ebi-a-GCST90018839; ukb-d-IBD_ENDOMETRIOSIS",
+      "ebi-a-GCST90018839"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 1",
+     "outcome_source": "ebi-a-GCST90018839 (N=231,771) and ukb-d-IBD_ENDOMETRIOSIS (N=361,194); Fig. 1 does not state which dataset the shown estimates use",
+     "method": "IVW",
+     "notes": "Estimates read from Fig. 1 forest plot (IVW row). Weighted median OR 1.242 (1.042-1.481), p=0.016. One of 11 genes with OR>1 in both outcome datasets (intersection rule); no multiple-testing correction stated. eQTL dataset and instrument selection not described. GCST90018839 is Sakaue 2021; IEU N=231,771 European (FinnGen+UKB meta); GWAS Catalog entry also lists BBJ/East Asian samples, so verify cohort set. Leave-one-out and funnel plots in Fig. 3."
+    },
+    "second": {
+     "source_location": "Figure 1 (forest plot; read from figure)",
+     "outcome_source": "ebi-a-GCST90018839 endometriosis GWAS (N=231,771); Figure 1 does not label which of the two outcomes it shows",
+     "method": "IVW",
+     "notes": "Two outcomes used (ebi-a-GCST90018839, ukb-d-IBD_ENDOMETRIOSIS), intersected; Fig 1 outcome unlabelled (log-odds scale suggests GCST90018839). Exposure dataset unnamed. Weighted median OR 1.242."
+    }
+   },
+   {
+    "claim_id": "Chen2024HG-4",
+    "gene_symbol": "COMT",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL data for 19,942 genes 'from the GWAS catalog' (dataset not named in text)",
+    "differences": {
+     "outcome_cohorts": [
+      [
+       "FinnGen",
+       "UK Biobank"
+      ],
+      [
+       "unknown"
+      ]
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "ebi-a-GCST90018839; ukb-d-IBD_ENDOMETRIOSIS",
+      "ebi-a-GCST90018839"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 1",
+     "outcome_source": "ebi-a-GCST90018839 (N=231,771) and ukb-d-IBD_ENDOMETRIOSIS (N=361,194); Fig. 1 does not state which dataset the shown estimates use",
+     "method": "IVW",
+     "notes": "Estimates read from Fig. 1 forest plot (IVW row). Weighted median OR 1.164 (1.055-1.285), p=0.003. One of 11 genes with OR>1 in both outcome datasets (intersection rule); no multiple-testing correction stated. eQTL dataset and instrument selection not described. GCST90018839 is Sakaue 2021; IEU N=231,771 European (FinnGen+UKB meta); GWAS Catalog entry also lists BBJ/East Asian samples, so verify cohort set."
+    },
+    "second": {
+     "source_location": "Figure 1 (forest plot; read from figure)",
+     "outcome_source": "ebi-a-GCST90018839 endometriosis GWAS (N=231,771); Figure 1 does not label which of the two outcomes it shows",
+     "method": "IVW",
+     "notes": "Same outcome ambiguity as AGPAT4. Abstract names COMT a pivotal biomarker/risk gene, not therapeutic target; COMT not significant in clinical samples."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1155/mi/6617402",
+  "doi": "10.1155/mi/6617402",
+  "pmcid": "PMC13197833",
+  "title": "Identifying Novel Biomarkers and Therapeutic Targets for Endometriosis: Integrative Analysis of the Plasma Proteome and Genome.",
+  "supplement_dir": "data/upstream/supplements/10.1155_mi_6617402",
+  "claims": [
+   {
+    "claim_id": "ZhengJ2026-11",
+    "gene_symbol": "KHK",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "differences": {
+     "n_instruments": [
+      8,
+      6
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R10"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 3 (discovery OR, CI, P); Supporting Information Table S2",
+     "outcome_source": "FinnGen endometriosis (release not stated)",
+     "method": "IVW (multiplicative random effects)",
+     "notes": "Proteome-wide cis-MR: 2,332 proteins at P<5e-8 plus 904 at relaxed P<5e-6, >=2 independent cis-SNPs (within 1 Mb of TSS) per protein; 23 significant after FDR<0.05. 16,588/111,583 matches FinnGen R10 counts. Figure 3 caption labels discovery as 'UK Biobank' (methods say FinnGen). Instrument threshold P<5e-8. P_FDR=0.001. No strong colocalisation (PP.H4<0.8)."
+    },
+    "second": {
+     "source_location": "Supplementary Table S2 (MI-2026-6617402-s001.xlsx, sheet TableS2_MR_of_23_proteins)",
+     "outcome_source": "FinnGen endometriosis (discovery)",
+     "method": "IVW (multiplicative random effects)",
+     "notes": "Nsnp=6 in Table S2 and Figure S4, but Table 1/Table S6 list Nsnp=8. Replication OR 1.06 (1.04-1.09)."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/itt.s486139",
+  "doi": "10.2147/itt.s486139",
+  "pmcid": "PMC11537175",
+  "title": "The Effect of Circulating Inflammatory Proteins on Endometriosis: A Mendelian Randomization Study.",
+  "supplement_dir": "data/upstream/supplements/10.2147_itt.s486139",
+  "claims": [
+   {
+    "claim_id": "WeiY2024ITT-1",
+    "gene_symbol": "CXCL5",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824)",
+    "differences": {
+     "n_instruments": [
+      null,
+      7
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results; Figure 2; Supplementary Table 5",
+     "outcome_source": "UK Biobank ukb-saige-615 (LeeLab PheWeb, SAIGE)",
+     "method": "IVW",
+     "notes": "WM OR 0.906 (P=0.12), MR-Egger OR 0.903 (P=0.298). FinnGen subtypes: ovary OR 0.879 (P=0.017), pelvic peritoneum OR 0.894 (P=0.045). 86 of 91 proteins had valid IVs (P<5e-7, r2=0.001, 10,000 kb); 6 significant at nominal P_IVW<0.05, no multiple-testing correction."
+    },
+    "second": {
+     "source_location": "Results text and Figure 2 (Supplementary Table 5 not available)",
+     "outcome_source": "UK Biobank ukb-saige-615 (LeeLab PheWeb, SAIGE)",
+     "method": "IVW",
+     "notes": "IVs p<5e-7, r2 0.001, 10,000 kb; 86 proteins tested, nominal p<0.05. Fig 2 shows p=0.031. FinnGen R10 replication 0.914 (0.862-0.968), p=2.18e-3; meta 0.91 (0.86-0.96)."
+    }
+   }
+  ]
+ }
+]

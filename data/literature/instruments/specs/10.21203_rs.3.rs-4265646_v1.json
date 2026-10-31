@@ -1,0 +1,124 @@
+{
+ "record_id": "doi:10.21203/rs.3.rs-4265646/v1",
+ "tables": {
+  "S8": {
+   "file": "text/SupplementaryTable814__Table_S8.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele",
+    "other_allele": "other_allele",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome"
+   },
+   "description": "Supplementary Table 8: Sun 2018 INTERVAL SomaScan pQTL instruments (n=3301) harmonised with FinnGen endometriosis (Outcome='Endometriosis'); TwoSampleMR layout, outcome effects on the exposure effect allele. Matching MR results are in Supplementary Table 1 (SupplementaryTable17__Table_S1.csv)."
+  }
+ },
+ "claims": {
+  "Guo2024-1": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Intercellular adhesion molecule 2"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 2,
+   "notes": "ICAM2 rows of Table S8 (FinnGen endometriosis); Table S1 reports IVW with nsnp=2, beta 0.3299."
+  },
+  "Guo2024-2": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "R-spondin-3"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 1,
+   "notes": "RSPO3 single pQTL (rs2489623); Table S1 reports Wald ratio beta -0.2834."
+  },
+  "Guo2024-3": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Intercellular adhesion molecule 4"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 2,
+   "notes": "Table S8 lists 2 ICAM4 pQTLs (rs635634 T/C, rs72660908 G/C), but Table S1 reports a Wald ratio with nsnp=1 (beta 0.4188 = rs635634 alone). rs72660908 is a palindromic G/C SNP with eaf 0.45, presumably dropped by TwoSampleMR harmonisation; the table has no mr_keep column, so both label-matched rows are kept and the 2-SNP IVW recompute is not expected to match."
+  },
+  "Guo2024-4": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Endoglin"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 1,
+   "notes": "ENG single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.3711."
+  },
+  "Guo2024-5": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "OX-2 membrane glycoprotein"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 1,
+   "notes": "CD200 = 'OX-2 membrane glycoprotein'; single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.4658."
+  },
+  "Guo2024-6": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Leukemia inhibitory factor receptor"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 1,
+   "notes": "LIFR single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.2943."
+  },
+  "Guo2024-7": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Insulin-like growth factor 1 receptor"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 1,
+   "notes": "IGF1R single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.4046."
+  },
+  "Guo2024-8": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Hydroxycarboxylic acid receptor 2"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 2,
+   "notes": "HCAR2 2 pQTLs (rs704, rs9564162; trans); Table S1 IVW nsnp=2 beta -0.2760."
+  },
+  "Guo2024-9": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Tryptase gamma"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 2,
+   "notes": "TPSG1 = 'Tryptase gamma'; 2 pQTLs (rs62143194, rs704); Table S1 IVW nsnp=2 beta -0.2456."
+  },
+  "Guo2024-10": {
+   "status": "mapped",
+   "table": "S8",
+   "filters": [
+    {"column": "Exposure", "op": "equals", "value": "Alpha-(1,3)-fucosyltransferase 9"},
+    {"column": "Outcome", "op": "equals", "value": "Endometriosis"}
+   ],
+   "expected_n": 2,
+   "notes": "FUT9 = 'Alpha-(1,3)-fucosyltransferase 9'; 2 pQTLs (rs62143206, rs704); Table S1 IVW nsnp=2 beta -0.0933."
+  }
+ }
+}

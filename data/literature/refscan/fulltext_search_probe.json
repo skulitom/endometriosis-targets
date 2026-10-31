@@ -1,0 +1,3901 @@
+{
+ "note": "Exploratory count only, not part of the search record and not screened. Europe PMC full-text index (open-access full texts): endometriosis papers that mention MR or SMR in the full text but not in the title or abstract. Run to size a possible gap in the title/abstract search; screening it would need Artem's approval as a supplementary search.",
+ "query": "\"endometriosis\" AND (\"summary-data-based\" OR \"summary data-based\" OR HEIDI OR \"mendelian randomization\" OR \"mendelian randomisation\") AND NOT (TITLE:\"mendelian\" OR ABSTRACT:\"mendelian\" OR ABSTRACT:\"summary-data-based\")",
+ "run_at": "2026-10-31T14:16:44.981751+00:00",
+ "hits": 556,
+ "hits_not_in_search_records": 552,
+ "records": [
+  {
+   "europepmc_id": "MED:42260106",
+   "pmid": "42260106",
+   "doi": "10.1038/s42003-026-10426-2",
+   "year": "2026",
+   "title": "Cross trait analysis reveals shared genetic architecture of eight common female reproductive disorders."
+  },
+  {
+   "europepmc_id": "MED:42551019",
+   "pmid": "42551019",
+   "doi": "10.1097/jom.0000000000003844",
+   "year": "2026",
+   "title": "Genomic Landscape of Phenotypes Causally Associated with Night Shift Work."
+  },
+  {
+   "europepmc_id": "MED:40831746",
+   "pmid": "40831746",
+   "doi": "10.1016/j.isci.2025.113207",
+   "year": "2025",
+   "title": "Regulation of RNA splicing in endometrial tissue and its association with endometriosis."
+  },
+  {
+   "europepmc_id": "PPR:PPR1351670",
+   "pmid": null,
+   "doi": "10.64898/2026.10.24.761554",
+   "year": "2026",
+   "title": "Fallopian Tube Organoid-Integrated Microfluidic Platform for Real-Time Imaging and Outflow Analysis"
+  },
+  {
+   "europepmc_id": "MED:41824406",
+   "pmid": "41824406",
+   "doi": "10.1371/journal.pgen.1012030",
+   "year": "2026",
+   "title": "Unraveling the genetic links between stature and disease in East Asians: A multi-biobank genetic correlation and risk prediction study."
+  },
+  {
+   "europepmc_id": "MED:42210266",
+   "pmid": "42210266",
+   "doi": "10.1186/s12903-026-08685-w",
+   "year": "2026",
+   "title": "The periodontal-female reproductive axis and infertility: a scoping review of epidemiological and mechanistic evidence."
+  },
+  {
+   "europepmc_id": "MED:42056605",
+   "pmid": "42056605",
+   "doi": "10.1038/s41588-026-02582-2",
+   "year": "2026",
+   "title": "Multi-ancestry genome-wide association and integrated multi-omics analyses of endometriosis and its clinical manifestations."
+  },
+  {
+   "europepmc_id": "MED:41942394",
+   "pmid": "41942394",
+   "doi": "10.1097/cm9.0000000000004076",
+   "year": "2026",
+   "title": "Association between circulating inflammatory proteins and recurrent spontaneous abortion."
+  },
+  {
+   "europepmc_id": "MED:42515755",
+   "pmid": "42515755",
+   "doi": "10.3390/ph19071074",
+   "year": "2026",
+   "title": "Targeting the Immune Network in Endometriosis: A Comprehensive Review of Pathogenesis, Immunomodulation, and Emerging Therapies."
+  },
+  {
+   "europepmc_id": "MED:42416738",
+   "pmid": "42416738",
+   "doi": "10.1002/rmb2.70075",
+   "year": "2026",
+   "title": "The Association Between Endometriosis and an Increased Risk of Epithelial Ovarian Cancer and Cardiovascular Disease: Perspective on a Patient-Centered Approach to Endometriosis, a Heterogeneous Disease."
+  },
+  {
+   "europepmc_id": "MED:41317916",
+   "pmid": "41317916",
+   "doi": "10.1016/j.jaad.2025.11.072",
+   "year": "2026",
+   "title": "Association between endometriosis and atopic dermatitis: Evidence from NHANES and genetic causal inference."
+  },
+  {
+   "europepmc_id": "MED:42191188",
+   "pmid": "42191188",
+   "doi": "10.1136/bmjopen-2026-116964",
+   "year": "2026",
+   "title": "Effectiveness of an anti-inflammatory diet intervention and cognitive behavioural therapy in endometriosis: protocol for a randomised controlled clinical trial."
+  },
+  {
+   "europepmc_id": "MED:42073558",
+   "pmid": "42073558",
+   "doi": "10.3390/cancers18081233",
+   "year": "2026",
+   "title": "From Endometriosis to Endometriosis-Associated Ovarian Cancer: Molecular Mechanisms, Risk Stratification and Clinical Implications."
+  },
+  {
+   "europepmc_id": "MED:42326424",
+   "pmid": "42326424",
+   "doi": "10.3389/fmicb.2026.1776574",
+   "year": "2026",
+   "title": "Gut microbiota dysbiosis in endometriosis: mechanistic insights and gut microbiota-targeted therapeutic strategies."
+  },
+  {
+   "europepmc_id": "MED:42460096",
+   "pmid": "42460096",
+   "doi": "10.3389/frph.2026.1845581",
+   "year": "2026",
+   "title": "Orchestrating the gut microbiota-mitochondrial-immune axis in gynecological diseases: mechanisms and dual-targeting therapeutic strategies."
+  },
+  {
+   "europepmc_id": "MED:42523842",
+   "pmid": "42523842",
+   "doi": "10.3389/fimmu.2026.1855106",
+   "year": "2026",
+   "title": "Immune-epigenetic-metabolic crosstalk: attempting to unravel the multidimensional mechanisms of immune evasion in endometriosis."
+  },
+  {
+   "europepmc_id": "PMC:PMC13298153",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Emerging Pathways to Non-Invasive Diagnosis in Endometriosis: Integrating Machine Learning, Deep Learning and Multi-Omics Biomarkers"
+  },
+  {
+   "europepmc_id": "MED:41342194",
+   "pmid": "41342194",
+   "doi": "10.1093/eurheartj/ehaf1001",
+   "year": "2026",
+   "title": "Cardiovascular disease in women: traditional and sex-specific risk factors."
+  },
+  {
+   "europepmc_id": "PPR:PPR1114347",
+   "pmid": null,
+   "doi": "10.21203/rs.3.rs-7907021/v1",
+   "year": "2025",
+   "title": "Improving health-related quality of life in patients with endometriosis-related chronic pain: The COGENS trial"
+  },
+  {
+   "europepmc_id": "MED:42521668",
+   "pmid": "42521668",
+   "doi": "10.1038/s41467-026-75256-6",
+   "year": "2026",
+   "title": "The genetics of fibromyalgia and its relationships to psychiatric and medical traits."
+  },
+  {
+   "europepmc_id": "MED:42410715",
+   "pmid": "42410715",
+   "doi": "10.1093/ejendo/lvag109",
+   "year": "2026",
+   "title": "Steroid hormone profiling reveals altered adrenal androgen production in endometriosis."
+  },
+  {
+   "europepmc_id": "MED:42578681",
+   "pmid": "42578681",
+   "doi": "10.1002/clc.70443",
+   "year": "2026",
+   "title": "Cardiovascular Disease (CVD) Risk in Women With Endometriosis: A Comprehensive Meta-Analysis."
+  },
+  {
+   "europepmc_id": "MED:41821023",
+   "pmid": "41821023",
+   "doi": "10.1186/s12905-026-04340-2",
+   "year": "2026",
+   "title": "Improving health-related quality of life in patients with endometriosis-related chronic pain: the COGENS trial."
+  },
+  {
+   "europepmc_id": "MED:42194560",
+   "pmid": "42194560",
+   "doi": "10.3390/jcm15103598",
+   "year": "2026",
+   "title": "Selected Parameters of the Mental State of Women with Endometriosis-A Systematic Review."
+  },
+  {
+   "europepmc_id": "MED:42519498",
+   "pmid": "42519498",
+   "doi": "10.2147/ijwh.s591799",
+   "year": "2026",
+   "title": "An Integrative Genome-Wide Analysis Reveals Shared and Subtype-Specific Genetic Links Between Endometriosis and Menstrual-Cycle-Related Traits."
+  },
+  {
+   "europepmc_id": "MED:41425619",
+   "pmid": "41425619",
+   "doi": "10.3389/fnut.2025.1749449",
+   "year": "2025",
+   "title": "Editorial: Nutrition, inflammation and oxidative stress in obstetrics and gynecology."
+  },
+  {
+   "europepmc_id": "MED:42789930",
+   "pmid": "42789930",
+   "doi": "10.1002/edm2.70340",
+   "year": "2026",
+   "title": "The Role and Mechanism of Incretins in Gynaecologic Diseases."
+  },
+  {
+   "europepmc_id": "MED:42654983",
+   "pmid": "42654983",
+   "doi": "10.3390/microorganisms14081637",
+   "year": "2026",
+   "title": "&lt;i&gt;Chlamydia trachomatis&lt;/i&gt; Infection as a Risk Factor for Ovarian Carcinoma."
+  },
+  {
+   "europepmc_id": "MED:42363550",
+   "pmid": "42363550",
+   "doi": "10.1097/md.0000000000049486",
+   "year": "2026",
+   "title": "Associations between atherogenic index of plasma and endometriosis: The National Health and Nutrition Examination Survey 1999 to 2006."
+  },
+  {
+   "europepmc_id": "PMC:PMC13640149",
+   "pmid": null,
+   "doi": null,
+   "year": null,
+   "title": "From local lesion to multisystem disease: integrated crosstalk among the gut microbiota, immune system, and host metabolism in endometriosis"
+  },
+  {
+   "europepmc_id": "MED:42066436",
+   "pmid": "42066436",
+   "doi": "10.1016/j.ebiom.2026.106267",
+   "year": "2026",
+   "title": "The polygenic score for age at menopause is independently associated with the response of controlled ovarian hyperstimulation in women undergoing IVF."
+  },
+  {
+   "europepmc_id": "MED:41563503",
+   "pmid": "41563503",
+   "doi": "10.1007/s00404-026-08325-2",
+   "year": "2026",
+   "title": "Endometriosis and eating disorders: epidemiology, shared neurobiology, and clinical implications."
+  },
+  {
+   "europepmc_id": "MED:40858837",
+   "pmid": "40858837",
+   "doi": "10.1038/s44161-025-00700-7",
+   "year": "2025",
+   "title": "IL6 genetic perturbation mimicking IL-6 inhibition is associated with lower cardiometabolic risk."
+  },
+  {
+   "europepmc_id": "MED:42058331",
+   "pmid": "42058331",
+   "doi": "10.7759/cureus.106013",
+   "year": "2026",
+   "title": "Shared Pathophysiology and Early Detection Biomarkers in Endometriosis and Polycystic Ovary Syndrome (PCOS): Opportunities for AI-Enabled Screening."
+  },
+  {
+   "europepmc_id": "PMC:PMC7619304",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Framing gynaecological health: A landscaping of health policy and services in India"
+  },
+  {
+   "europepmc_id": "MED:42136042",
+   "pmid": "42136042",
+   "doi": "10.1111/aogs.70223",
+   "year": "2026",
+   "title": "Risks of gynecological and breast cancers in women with endometriosis or adenomyosis: A nationwide cohort study."
+  },
+  {
+   "europepmc_id": "MED:42510158",
+   "pmid": "42510158",
+   "doi": "10.3390/diagnostics16142295",
+   "year": "2026",
+   "title": "Obesityand Gynaecological Cancers, with a Focus on Morbid Obesity: Risk Stratification, Early Diagnosis and Management."
+  },
+  {
+   "europepmc_id": "MED:42031397",
+   "pmid": "42031397",
+   "doi": "10.1136/bcr-2025-271171",
+   "year": "2026",
+   "title": "Subarachnoid haemorrhage during premenopausal dienogest therapy in a patient with multiple risk factors."
+  },
+  {
+   "europepmc_id": "MED:41373783",
+   "pmid": "41373783",
+   "doi": "10.3390/ijms262311630",
+   "year": "2025",
+   "title": "Gene Polymorphisms Determining Sex Hormone-Binding Globulin Levels and Endometriosis Risk."
+  },
+  {
+   "europepmc_id": "MED:42432458",
+   "pmid": "42432458",
+   "doi": "10.1161/jaha.125.048454",
+   "year": "2026",
+   "title": "Association Between Endometriosis and Cardiovascular Disease: Insights From the UK Biobank."
+  },
+  {
+   "europepmc_id": "MED:42273015",
+   "pmid": "42273015",
+   "doi": "10.1159/000551335",
+   "year": "2026",
+   "title": "Intestinal Endometriosis Mimicking Ulcerative Colitis-Associated Neoplasia: A Case Report."
+  },
+  {
+   "europepmc_id": "MED:41407106",
+   "pmid": "41407106",
+   "doi": "10.1016/j.jogoh.2025.103087",
+   "year": "2026",
+   "title": "Endometriosis phenotypes and staging in relation to lipid biomarkers: Findings from the ENDO Cohort Study."
+  },
+  {
+   "europepmc_id": "MED:42450571",
+   "pmid": "42450571",
+   "doi": "10.3390/biology15131023",
+   "year": "2026",
+   "title": "The Circadian-Light-Hygiene Hypothesis: A Potential Modulator of Fertility and Birthrate Trends."
+  },
+  {
+   "europepmc_id": "MED:39974819",
+   "pmid": "39974819",
+   "doi": "10.3389/fendo.2025.1556565",
+   "year": "2025",
+   "title": "Editorial: Insights in female reproductive longevity."
+  },
+  {
+   "europepmc_id": "MED:42368446",
+   "pmid": "42368446",
+   "doi": "10.3389/fcell.2026.1808099",
+   "year": "2026",
+   "title": "The role of IL-33/ST2 signaling in female reproductive diseases."
+  },
+  {
+   "europepmc_id": "MED:42482090",
+   "pmid": "42482090",
+   "doi": "10.1186/s12958-026-01595-0",
+   "year": "2026",
+   "title": "Assessing the female urogenital-rectal axis microbiome: focus on endometriosis and recurrent implantation failure."
+  },
+  {
+   "europepmc_id": "MED:41754207",
+   "pmid": "41754207",
+   "doi": "10.3390/nu18040690",
+   "year": "2026",
+   "title": "Dietary Fiber in Endometriosis: Mechanisms, Evidence, and Potential Clinical Benefits-Up-to-Date Review."
+  },
+  {
+   "europepmc_id": "MED:42416113",
+   "pmid": "42416113",
+   "doi": "10.2147/ijwh.s610913",
+   "year": "2026",
+   "title": "Long-Term Management and Prevention Strategies for Adolescent Primary Dysmenorrhea: From Precision Diagnosis to Comprehensive Intervention."
+  },
+  {
+   "europepmc_id": "MED:39536051",
+   "pmid": "39536051",
+   "doi": "10.1371/journal.pone.0313601",
+   "year": "2024",
+   "title": "Association between triglyceride glucose index and endometriosis in adults in the United States: A comprehensive study from the National Health and Nutrition Examination Survey (NHANES)."
+  },
+  {
+   "europepmc_id": "MED:42910745",
+   "pmid": "42910745",
+   "doi": "10.1002/cam4.72292",
+   "year": "2026",
+   "title": "Exploring Vitamin D Metabolism in Gynaecological Malignancies: Redox-Dependent and Redox-Independent Anticancer Mechanisms From Preclinical Models to Clinical Evidence."
+  },
+  {
+   "europepmc_id": "MED:40369874",
+   "pmid": "40369874",
+   "doi": "10.1016/j.xhgg.2025.100456",
+   "year": "2025",
+   "title": "Interaction between genetic risk and comorbid conditions in endometriosis."
+  },
+  {
+   "europepmc_id": "MED:42393656",
+   "pmid": "42393656",
+   "doi": "10.1186/s12905-026-04646-1",
+   "year": "2026",
+   "title": "Early-life exposures and risk of multiple gynecological diseases: evidence from a large community-based study of 272,706 women."
+  },
+  {
+   "europepmc_id": "MED:40046876",
+   "pmid": "40046876",
+   "doi": "10.3389/fendo.2025.1570284",
+   "year": "2025",
+   "title": "Editorial: Recent advances in endometriosis: from Bench to clinical application."
+  },
+  {
+   "europepmc_id": "MED:40703855",
+   "pmid": "40703855",
+   "doi": "10.2147/ijwh.s516740",
+   "year": "2025",
+   "title": "Association Between Atherogenic Index of Plasma and Endometriosis: Evidence from NHANES 1999-2006."
+  },
+  {
+   "europepmc_id": "MED:41994096",
+   "pmid": "41994096",
+   "doi": "10.3389/fnut.2026.1802637",
+   "year": "2026",
+   "title": "Nutrition in the prevention and treatment of pelvic inflammatory disease: a review."
+  },
+  {
+   "europepmc_id": "MED:42690864",
+   "pmid": "42690864",
+   "doi": "10.25259/ijmr_338_2026",
+   "year": "2026",
+   "title": "Systematic review of medical audits of hysterectomy practices in India."
+  },
+  {
+   "europepmc_id": "MED:41403918",
+   "pmid": "41403918",
+   "doi": "10.1002/mco2.70554",
+   "year": "2025",
+   "title": "New Insights into the Genetic Association of Lipids and Lipid-Modifying Target Genes with Pancreatitis."
+  },
+  {
+   "europepmc_id": "MED:39696836",
+   "pmid": "39696836",
+   "doi": "10.1111/jhn.13411",
+   "year": "2025",
+   "title": "Nutrition Interventions in the Treatment of Endometriosis: A Scoping Review."
+  },
+  {
+   "europepmc_id": "MED:42756751",
+   "pmid": "42756751",
+   "doi": "10.3389/fphar.2026.1849299",
+   "year": "2026",
+   "title": "Vitamin D in male reproduction: molecular mechanisms and pharmacological perspectives."
+  },
+  {
+   "europepmc_id": "MED:41033777",
+   "pmid": "41033777",
+   "doi": "10.1136/bmjopen-2024-097872",
+   "year": "2025",
+   "title": "Co-designing, evaluating and implementing online supportive care for endometriosis in Australia: study protocol for the hybrid type 1 effectiveness, cost-effectiveness and implementation randomised controlled trial of the CodeEndo program."
+  },
+  {
+   "europepmc_id": "MED:42651642",
+   "pmid": "42651642",
+   "doi": "10.3390/biology15161337",
+   "year": "2026",
+   "title": "The Female Reproductive Microbiome: Mechanistic Insights and Bioengineering Perspectives."
+  },
+  {
+   "europepmc_id": "MED:42161907",
+   "pmid": "42161907",
+   "doi": "10.1038/s41467-026-73020-4",
+   "year": "2026",
+   "title": "Endometriosis-related alterations in the endometrium revealed by integrated single-cell and AI-powered approaches."
+  },
+  {
+   "europepmc_id": "MED:39659675",
+   "pmid": "39659675",
+   "doi": "10.3389/fgene.2024.1508169",
+   "year": "2024",
+   "title": "Editorial: Women in applied genetic epidemiology."
+  },
+  {
+   "europepmc_id": "PMC:PMC13692351",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Menopause timing, hormone therapy, epigenetic aging, and breast cancer outcomes: a secondary analysis of the PLCO Cancer Screening Trial"
+  },
+  {
+   "europepmc_id": "MED:39634178",
+   "pmid": "39634178",
+   "doi": "10.3389/fendo.2024.1517774",
+   "year": "2024",
+   "title": "Editorial: Environmental factors, epigenetics, and reproductive health."
+  },
+  {
+   "europepmc_id": "MED:42222652",
+   "pmid": "42222652",
+   "doi": "10.15649/cuidarte.5426",
+   "year": "2026",
+   "title": "Influence of diet and physical exercise on endometriosis: a systematic review."
+  },
+  {
+   "europepmc_id": "MED:41693921",
+   "pmid": "41693921",
+   "doi": "10.3389/fendo.2025.1771853",
+   "year": "2025",
+   "title": "Editorial: Lifestyle and environmental factors and human fertility."
+  },
+  {
+   "europepmc_id": "MED:42556341",
+   "pmid": "42556341",
+   "doi": "10.1016/j.xcrm.2026.102970",
+   "year": "2026",
+   "title": "Gut commensal Olsenella profusa promotes endometriosis via lysophosphatidylcholine metabolite."
+  },
+  {
+   "europepmc_id": "MED:42276499",
+   "pmid": "42276499",
+   "doi": "10.1016/j.ajog.2026.06.009",
+   "year": "2026",
+   "title": "Translation of chronic pelvic pain experience into patient treatment preference profiles with Q-methodology."
+  },
+  {
+   "europepmc_id": "MED:40869964",
+   "pmid": "40869964",
+   "doi": "10.3390/genes16080918",
+   "year": "2025",
+   "title": "The Gut-Endometriosis Axis: Genetic Mechanisms and Public Health Implications."
+  },
+  {
+   "europepmc_id": "AGR:IND608695315",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Patient-centered endometriosis care implementation at tertiary and secondary care hospitals in Indonesia"
+  },
+  {
+   "europepmc_id": "MED:42255426",
+   "pmid": "42255426",
+   "doi": "10.3389/fendo.2026.1802649",
+   "year": "2026",
+   "title": "Bioinformatics and machine learning-driven discovery of candidate tissue diagnostic markers for endometriosis with experimental verification."
+  },
+  {
+   "europepmc_id": "MED:42074233",
+   "pmid": "42074233",
+   "doi": "10.3390/ijms27083595",
+   "year": "2026",
+   "title": "Identification of Misplaced Endometrial Glands and Stroma in the Myometrium of Foetal Uteri Evocative of Developmental Adenomyosis."
+  },
+  {
+   "europepmc_id": "PPR:PPR1265786",
+   "pmid": null,
+   "doi": "10.64898/2026.04.20.26351303",
+   "year": "2026",
+   "title": "Diminished sex hormone levels influence the risk of skewed X chromosome inactivation"
+  },
+  {
+   "europepmc_id": "MED:39417705",
+   "pmid": "39417705",
+   "doi": "10.1093/eurheartj/ehae674",
+   "year": "2024",
+   "title": "Beyond reproductive health: the cardiovascular risks of endometriosis."
+  },
+  {
+   "europepmc_id": "MED:42380652",
+   "pmid": "42380652",
+   "doi": "10.1007/s00125-026-06784-5",
+   "year": "2026",
+   "title": "History of infertility, risk of type 2 diabetes and HbA&lt;sub&gt;1c&lt;/sub&gt; levels in the Nurses' Health Study II."
+  },
+  {
+   "europepmc_id": "MED:42344584",
+   "pmid": "42344584",
+   "doi": "10.1021/envhealth.5c00576",
+   "year": "2026",
+   "title": "Prenatal Exposure to PFOA Induces Ovarian Function Impairment via the Disruption of the PPARγ/ANGPTL4 Pathway."
+  },
+  {
+   "europepmc_id": "MED:42643182",
+   "pmid": "42643182",
+   "doi": "10.7759/cureus.115115",
+   "year": "2026",
+   "title": "Interstitial Cystitis/Bladder Pain Syndrome: A Narrative Review of Nomenclature, Epidemiology, Pathophysiology, Diagnosis, and Management."
+  },
+  {
+   "europepmc_id": "MED:42801160",
+   "pmid": "42801160",
+   "doi": "10.2147/jir.s612344",
+   "year": "2026",
+   "title": "Nutrition and Endometriosis: Current Evidence on Dietary Risk Factors and Clinical Impact - A Narrative Review."
+  },
+  {
+   "europepmc_id": "MED:41536292",
+   "pmid": "41536292",
+   "doi": "10.1016/j.rpth.2025.103276",
+   "year": "2026",
+   "title": "Von Willebrand disease: more than just a bleeding disorder."
+  },
+  {
+   "europepmc_id": "MED:42739810",
+   "pmid": "42739810",
+   "doi": "10.3390/jcm15176807",
+   "year": "2026",
+   "title": "Risk of Abnormal Uterine Bleeding in Women with Chronic Spontaneous Urticaria: Korean Nationwide Population-Based Cohort."
+  },
+  {
+   "europepmc_id": "MED:41899454",
+   "pmid": "41899454",
+   "doi": "10.3390/cimb48030303",
+   "year": "2026",
+   "title": "Decoding the Endometriosis-Associated Infertility Microenvironment: A Review of FTIR and Raman Spectroscopic Insights into Follicular Fluid."
+  },
+  {
+   "europepmc_id": "MED:41974910",
+   "pmid": "41974910",
+   "doi": "10.1038/s41591-026-04326-5",
+   "year": "2026",
+   "title": "Plasma proteomic signature of the human menstrual cycle."
+  },
+  {
+   "europepmc_id": "MED:37992677",
+   "pmid": "37992677",
+   "doi": "10.1016/j.xcrm.2023.101288",
+   "year": "2023",
+   "title": "Genetic analysis confirms a link between gastrointestinal disorders and endometriosis."
+  },
+  {
+   "europepmc_id": "MED:39506178",
+   "pmid": "39506178",
+   "doi": "10.1038/d41586-024-03628-3",
+   "year": "2024",
+   "title": "How understudied endometriosis causes pain for hundreds of millions of women."
+  },
+  {
+   "europepmc_id": "MED:41285899",
+   "pmid": "41285899",
+   "doi": "10.1038/s41467-025-66723-7",
+   "year": "2025",
+   "title": "Multi-ancestry investigation of the genomics of erectile dysfunction."
+  },
+  {
+   "europepmc_id": "MED:41309924",
+   "pmid": "41309924",
+   "doi": "10.1038/s41598-025-26606-9",
+   "year": "2025",
+   "title": "Integrating inflammatory biomarkers and demographic variables with machine learning to predict endometriosis risk."
+  },
+  {
+   "europepmc_id": "MED:42713565",
+   "pmid": "42713565",
+   "doi": "10.1515/biol-2025-1372",
+   "year": "2026",
+   "title": "Immune regulatory networks and gut microbiota-associated targets in endometriosis: an integrative multi-omics and network analysis."
+  },
+  {
+   "europepmc_id": "MED:39211447",
+   "pmid": "39211447",
+   "doi": "10.3389/fendo.2024.1470608",
+   "year": "2024",
+   "title": "Editorial: Reproductive microbiome and its interplay with the environment."
+  },
+  {
+   "europepmc_id": "MED:39050637",
+   "pmid": "39050637",
+   "doi": "10.3389/fmicb.2024.1449474",
+   "year": "2024",
+   "title": "Editorial: Untangle the broad connections and tight interactions between human microbiota and complex diseases through data-driven approaches, volume II."
+  },
+  {
+   "europepmc_id": "MED:41145947",
+   "pmid": "41145947",
+   "doi": "10.1007/s43032-025-01999-0",
+   "year": "2025",
+   "title": "The Nexus of Iron, Senescence, and Fibrosis in Endometriosis: A Narrative Review."
+  },
+  {
+   "europepmc_id": "MED:38988834",
+   "pmid": "38988834",
+   "doi": "10.3389/fgene.2024.1432026",
+   "year": "2024",
+   "title": "Editorial: Searching for causes of infertility: from pathophysiologic mechanisms to therapeutic strategies."
+  },
+  {
+   "europepmc_id": "MED:41425725",
+   "pmid": "41425725",
+   "doi": "10.32604/or.2025.068432",
+   "year": "2025",
+   "title": "Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+  },
+  {
+   "europepmc_id": "MED:39553555",
+   "pmid": "39553555",
+   "doi": "10.1016/j.heliyon.2024.e39914",
+   "year": "2024",
+   "title": "Patient-centered endometriosis care implementation at tertiary and secondary care hospitals in Indonesia."
+  },
+  {
+   "europepmc_id": "MED:40704733",
+   "pmid": "40704733",
+   "doi": "10.1093/biolre/ioaf164",
+   "year": "2025",
+   "title": "Endometriosis: new insights and opportunities for relief of symptoms."
+  },
+  {
+   "europepmc_id": "MED:42046887",
+   "pmid": "42046887",
+   "doi": "10.7555/jbr.39.20250566",
+   "year": "2026",
+   "title": "Microbiota-metabolite axis in endometriosis: Pathogenic mechanisms and clinical implications."
+  },
+  {
+   "europepmc_id": "MED:42059846",
+   "pmid": "42059846",
+   "doi": "10.1016/j.jacadv.2026.102744",
+   "year": "2026",
+   "title": "Lipoprotein(a) and Women's Cardiovascular Health: A Review."
+  },
+  {
+   "europepmc_id": "MED:41310859",
+   "pmid": "41310859",
+   "doi": "10.1186/s40246-025-00881-z",
+   "year": "2025",
+   "title": "Closing the evidence loop-membrane-lipid homeostasis and vesicular transport link DEHP exposure to endometriosis."
+  },
+  {
+   "europepmc_id": "MED:41876989",
+   "pmid": "41876989",
+   "doi": "10.1186/s10194-026-02339-6",
+   "year": "2026",
+   "title": "Identification of common genetic and molecular signatures in migraine and comorbid conditions."
+  },
+  {
+   "europepmc_id": "MED:42415121",
+   "pmid": "42415121",
+   "doi": "10.1186/s13048-026-02130-w",
+   "year": "2026",
+   "title": "Construction and validation of a machine learning model for predicting early pregnancy in patients with polycystic ovary syndrome: a retrospective cohort study."
+  },
+  {
+   "europepmc_id": "MED:40920291",
+   "pmid": "40920291",
+   "doi": "10.1007/s13679-025-00662-8",
+   "year": "2025",
+   "title": "Effectiveness of Medical Nutrition Therapy in the Management of Patients with Obesity and Endometriosis: from the Mediterranean Diet To the Ketogenic Diet, Through Supplementation. The Role of the Nutritionist in Clinical Management."
+  },
+  {
+   "europepmc_id": "MED:41113721",
+   "pmid": "41113721",
+   "doi": "10.3389/fendo.2025.1613334",
+   "year": "2025",
+   "title": "Endometriosis-associated infertility: Multi-omics insights into pathogenesis and precision therapeutics."
+  },
+  {
+   "europepmc_id": "MED:41188339",
+   "pmid": "41188339",
+   "doi": "10.1038/s41598-025-22400-9",
+   "year": "2025",
+   "title": "Identified endoplasmic reticulum stress-related molecular cluster and immune characterization in endometriosis."
+  },
+  {
+   "europepmc_id": "MED:39358796",
+   "pmid": "39358796",
+   "doi": "10.1186/s12944-024-02314-7",
+   "year": "2024",
+   "title": "Association between cardiometabolic Index (CMI) and endometriosis: a cross-sectional study on NHANES."
+  },
+  {
+   "europepmc_id": "MED:40725782",
+   "pmid": "40725782",
+   "doi": "10.3390/jcm14145091",
+   "year": "2025",
+   "title": "Non-Hormonal Strategies in Endometriosis: Targets with Future Clinical Potential."
+  },
+  {
+   "europepmc_id": "MED:42007101",
+   "pmid": "42007101",
+   "doi": "10.62347/lzxe3878",
+   "year": "2026",
+   "title": "Uterine microbiota dynamics and new therapeutic opportunities in gynecological diseases."
+  },
+  {
+   "europepmc_id": "MED:41741170",
+   "pmid": "41741170",
+   "doi": "10.1136/rmdopen-2025-006380",
+   "year": "2026",
+   "title": "Development of a novel meta-polygenic risk score for risk assessment and clinical manifestation prediction in systemic lupus erythematosus."
+  },
+  {
+   "europepmc_id": "MED:41898386",
+   "pmid": "41898386",
+   "doi": "10.3390/ijms27062521",
+   "year": "2026",
+   "title": "The Women's Microbiome: Molecular Insights, Clinical Gaps, and Future Frontiers in Precision Health with Implications for Gulf Cooperation Council Populations."
+  },
+  {
+   "europepmc_id": "MED:41516376",
+   "pmid": "41516376",
+   "doi": "10.3390/ijms27010504",
+   "year": "2026",
+   "title": "Applications of Exosomes in Female Medicine: A Systematic Review of Molecular Biology, Diagnostic and Therapeutic Perspectives."
+  },
+  {
+   "europepmc_id": "MED:39062718",
+   "pmid": "39062718",
+   "doi": "10.3390/genes15070939",
+   "year": "2024",
+   "title": "Using Genetics to Investigate Relationships between Phenotypes: Application to Endometrial Cancer."
+  },
+  {
+   "europepmc_id": "MED:40749680",
+   "pmid": "40749680",
+   "doi": "10.1016/j.xcrm.2025.102245",
+   "year": "2025",
+   "title": "Comorbidity analysis and clustering of endometriosis patients using electronic health records."
+  },
+  {
+   "europepmc_id": "MED:42195338",
+   "pmid": "42195338",
+   "doi": "10.3390/life16050782",
+   "year": "2026",
+   "title": "Polymorphism of the &lt;i&gt;FSHB&lt;/i&gt; Gene Is Associated with Endometrial Hyperplasia."
+  },
+  {
+   "europepmc_id": "MED:39202622",
+   "pmid": "39202622",
+   "doi": "10.3390/medicina60081341",
+   "year": "2024",
+   "title": "Clinical Management of Endometriosis in Menopause: A Narrative Review."
+  },
+  {
+   "europepmc_id": "MED:41837280",
+   "pmid": "41837280",
+   "doi": "10.1172/jci199832",
+   "year": "2026",
+   "title": "Women's midlife: the front line of Alzheimer prevention."
+  },
+  {
+   "europepmc_id": "MED:40724651",
+   "pmid": "40724651",
+   "doi": "10.3390/life15071150",
+   "year": "2025",
+   "title": "Genetic Variants Linked with the Concentration of Sex Hormone-Binding Globulin Correlate with Uterine Fibroid Risk."
+  },
+  {
+   "europepmc_id": "MED:37587191",
+   "pmid": "37587191",
+   "doi": "10.1038/s42003-023-05070-z",
+   "year": "2023",
+   "title": "Global endometrial DNA methylation analysis reveals insights into mQTL regulation and associated endometriosis disease risk and endometrial function."
+  },
+  {
+   "europepmc_id": "MED:40130159",
+   "pmid": "40130159",
+   "doi": "10.3389/fendo.2025.1558271",
+   "year": "2025",
+   "title": "Update on the pathogenesis of endometriosis-related infertility based on contemporary evidence."
+  },
+  {
+   "europepmc_id": "MED:36914876",
+   "pmid": "36914876",
+   "doi": "10.1038/s41588-023-01323-z",
+   "year": "2023",
+   "title": "The genetic basis of endometriosis and comorbidity with other pain and inflammatory conditions."
+  },
+  {
+   "europepmc_id": "MED:39452945",
+   "pmid": "39452945",
+   "doi": "10.3390/metabo14100564",
+   "year": "2024",
+   "title": "The Underlying Effect of Urate Levels on Female Infertility."
+  },
+  {
+   "europepmc_id": "MED:39739404",
+   "pmid": "39739404",
+   "doi": "10.1002/cbf.70037",
+   "year": "2025",
+   "title": "Vitamin D and Endometriosis: Is There a Mechanistic Link?"
+  },
+  {
+   "europepmc_id": "MED:38405147",
+   "pmid": "38405147",
+   "doi": "10.3389/fendo.2024.1377378",
+   "year": "2024",
+   "title": "Editorial: Endocrine aspects of gynaecological cancers."
+  },
+  {
+   "europepmc_id": "MED:40283573",
+   "pmid": "40283573",
+   "doi": "10.3390/jcm14082744",
+   "year": "2025",
+   "title": "A Correlation Between Migraine and Endometriosis and Its Clinical Implications-A Systematic Literature Review."
+  },
+  {
+   "europepmc_id": "MED:41189715",
+   "pmid": "41189715",
+   "doi": "10.1016/j.waojou.2025.101125",
+   "year": "2025",
+   "title": "C1 esterase inhibitor (C1-INH) response as a supportive diagnostic criterion for patients with suspected hereditary angioedema with normal C1-INH."
+  },
+  {
+   "europepmc_id": "MED:36726022",
+   "pmid": "36726022",
+   "doi": "10.1038/s41467-023-35974-7",
+   "year": "2023",
+   "title": "Evidence of a causal effect of genetic tendency to gain muscle mass on uterine leiomyomata."
+  },
+  {
+   "europepmc_id": "MED:40141102",
+   "pmid": "40141102",
+   "doi": "10.3390/ijms26062458",
+   "year": "2025",
+   "title": "The Molecular and Cellular Mechanisms of Endometriosis: From Basic Pathophysiology to Clinical Implications."
+  },
+  {
+   "europepmc_id": "MED:40121009",
+   "pmid": "40121009",
+   "doi": "10.1136/bmjment-2024-301506",
+   "year": "2025",
+   "title": "Psychiatric morbidity in people with autoimmune arthritides as a model of inflammatory mechanisms in mental disorders."
+  },
+  {
+   "europepmc_id": "MED:40004777",
+   "pmid": "40004777",
+   "doi": "10.3390/jcm14041246",
+   "year": "2025",
+   "title": "Exploring the Association Between Dietary Fruit Intake and Endometriosis: A Systematic Review and Meta-Analysis."
+  },
+  {
+   "europepmc_id": "MED:38929687",
+   "pmid": "38929687",
+   "doi": "10.3390/life14060704",
+   "year": "2024",
+   "title": "Genetic Links between Endometriosis and Endometriosis-Associated Ovarian Cancer-A Narrative Review (Endometriosis-Associated Cancer)."
+  },
+  {
+   "europepmc_id": "MED:39695676",
+   "pmid": "39695676",
+   "doi": "10.1186/s12916-024-03795-0",
+   "year": "2024",
+   "title": "Telomere length in relation to fecundability and use of assisted reproductive technologies: the Norwegian Mother, Father, and Child Cohort Study."
+  },
+  {
+   "europepmc_id": "MED:39826115",
+   "pmid": "39826115",
+   "doi": "10.1016/j.xpro.2024.103579",
+   "year": "2025",
+   "title": "Protocol for genetic analysis of population-scale ultra-low-depth sequencing data."
+  },
+  {
+   "europepmc_id": "MED:38274228",
+   "pmid": "38274228",
+   "doi": "10.3389/fendo.2023.1315099",
+   "year": "2023",
+   "title": "Application and discoveries of metabolomics and proteomics in the study of female infertility."
+  },
+  {
+   "europepmc_id": "PPR:PPR861358",
+   "pmid": null,
+   "doi": "10.21203/rs.3.rs-4430021/v1",
+   "year": "2024",
+   "title": "Telomere length in relation to fecundability and use of assisted reproductive technologies: the Norwegian Mother, Father, and Child Cohort Study"
+  },
+  {
+   "europepmc_id": "PPR:PPR576740",
+   "pmid": null,
+   "doi": "10.1101/2022.11.27.518106",
+   "year": "2022",
+   "title": "Global Endometrial DNA Multi-omics Analysis Reveals Insights into mQTL Regulation and Associated Endometriosis Disease Risk"
+  },
+  {
+   "europepmc_id": "MED:40635051",
+   "pmid": "40635051",
+   "doi": "10.1186/s13104-025-07357-2",
+   "year": "2025",
+   "title": "Association between age at menarche and infertility in Tabari cohort population: a population-based case-control study."
+  },
+  {
+   "europepmc_id": "MED:41480370",
+   "pmid": "41480370",
+   "doi": "10.3389/fendo.2025.1682910",
+   "year": "2025",
+   "title": "Elevated serum chromogranin A levels are independently associated with metabolic and inflammatory disturbances in polycystic ovary syndrome."
+  },
+  {
+   "europepmc_id": "MED:42278997",
+   "pmid": "42278997",
+   "doi": "10.3390/jcm15114130",
+   "year": "2026",
+   "title": "Gut Microbiota, Metabolic Markers, and Systemic Inflammation in Young Women with Self-Reported Rosacea: An Exploratory Cross-Sectional Study."
+  },
+  {
+   "europepmc_id": "MED:42630486",
+   "pmid": "42630486",
+   "doi": "10.1002/imt2.70157",
+   "year": "2026",
+   "title": "Human biomarker navigator."
+  },
+  {
+   "europepmc_id": "MED:39600949",
+   "pmid": "39600949",
+   "doi": "10.3389/fendo.2024.1450965",
+   "year": "2024",
+   "title": "Relationship between Cardiometabolic index and endometriosis in a US nationally representative sample: results from NHANES 1999-2006."
+  },
+  {
+   "europepmc_id": "MED:40343599",
+   "pmid": "40343599",
+   "doi": "10.1007/s10815-025-03490-w",
+   "year": "2025",
+   "title": "Identification of potential therapeutic targeting in ovarian aging from genetic screening with clinical validation."
+  },
+  {
+   "europepmc_id": "MED:41706492",
+   "pmid": "41706492",
+   "doi": "10.1001/jamasurg.2025.6726",
+   "year": "2026",
+   "title": "Long-Term Outcomes After Laparoscopic vs Open Adhesiolysis for Small Bowel Obstruction: The LASSO Randomized Clinical Trial."
+  },
+  {
+   "europepmc_id": "MED:39200122",
+   "pmid": "39200122",
+   "doi": "10.3390/biomedicines12081657",
+   "year": "2024",
+   "title": "The rs2046210 Polymorphism Is Associated with Endometriosis Risk and Elevated Estrogen Receptor 1 Expression in the Eutopic Endometrium of Women with the Disease."
+  },
+  {
+   "europepmc_id": "MED:39877843",
+   "pmid": "39877843",
+   "doi": "10.3389/fendo.2024.1451494",
+   "year": "2024",
+   "title": "Non-high-density to high-density lipoprotein cholesterol ratio and its association with infertility in U.S. women: a cross-sectional study."
+  },
+  {
+   "europepmc_id": "MED:37745706",
+   "pmid": "37745706",
+   "doi": "10.3389/fendo.2023.1266557",
+   "year": "2023",
+   "title": "Editorial: Integrative multi-modal, multi-omics analytics for the better understanding of metabolic diseases."
+  },
+  {
+   "europepmc_id": "MED:36672757",
+   "pmid": "36672757",
+   "doi": "10.3390/genes14010016",
+   "year": "2022",
+   "title": "Cross-Trait Genetic Analyses Indicate Pleiotropy and Complex Causal Relationships between Headache and Thyroid Function Traits."
+  },
+  {
+   "europepmc_id": "MED:41682804",
+   "pmid": "41682804",
+   "doi": "10.3390/jcm15031124",
+   "year": "2026",
+   "title": "Premenstrual Syndrome and Nutritional Factors: A Narrative Review of Current Evidence and Clinical Implications."
+  },
+  {
+   "europepmc_id": "MED:39350572",
+   "pmid": "39350572",
+   "doi": "10.1111/aogs.14982",
+   "year": "2024",
+   "title": "Discovering the true nature of chronic pelvic pain: Are we asking the right questions?"
+  },
+  {
+   "europepmc_id": "MED:41402665",
+   "pmid": "41402665",
+   "doi": "10.1038/s44161-025-00749-4",
+   "year": "2025",
+   "title": "Human genetics implicate thromboembolism in the pathogenesis of long COVID in individuals of European ancestry."
+  },
+  {
+   "europepmc_id": "MED:37316604",
+   "pmid": "37316604",
+   "doi": "10.1038/d41586-023-01956-4",
+   "year": "2023",
+   "title": "Could endometriosis be caused by bacteria? Study offers fresh clues."
+  },
+  {
+   "europepmc_id": "MED:40974211",
+   "pmid": "40974211",
+   "doi": "10.1093/humrep/deaf188",
+   "year": "2025",
+   "title": "Randomized controlled study on the use of virtual reality for pain relief in oocyte retrieval under transvaginal ultrasound guidance using paracervical block and conscious sedation."
+  },
+  {
+   "europepmc_id": "MED:42795462",
+   "pmid": "42795462",
+   "doi": "10.3390/microorganisms14091880",
+   "year": "2026",
+   "title": "Toward AI-Driven Detection of Asymptomatic Chronic Conditions from Stool Metagenomics and Dietary Data: A Multimodal Deep Learning Framework for T1DM, T2DM, MOS/PCOS, Cancer, and Autoimmune Disease."
+  },
+  {
+   "europepmc_id": "MED:39348095",
+   "pmid": "39348095",
+   "doi": "10.1158/1055-9965.epi-24-0717",
+   "year": "2024",
+   "title": "History of Infertility and Risk of Endometrial Cancer in the Women's Health Initiative."
+  },
+  {
+   "europepmc_id": "MED:41257114",
+   "pmid": "41257114",
+   "doi": "10.7759/cureus.94863",
+   "year": "2025",
+   "title": "Addressing Meta-Inflammation in the Comprehensive Management of Chronic Pain."
+  },
+  {
+   "europepmc_id": "MED:34211149",
+   "pmid": "34211149",
+   "doi": "10.1038/s41562-021-01135-3",
+   "year": "2021",
+   "title": "Identification of 371 genetic variants for age at first sex and birth linked to externalising behaviour."
+  },
+  {
+   "europepmc_id": "MED:40428769",
+   "pmid": "40428769",
+   "doi": "10.3390/medicina61050811",
+   "year": "2025",
+   "title": "The Multifactorial Pathogenesis of Endometriosis: A Narrative Review Integrating Hormonal, Immune, and Microbiome Aspects."
+  },
+  {
+   "europepmc_id": "MED:40654522",
+   "pmid": "40654522",
+   "doi": "10.20900/jpbs.20250003",
+   "year": "2025",
+   "title": "Chronic Pain and Substance Use Disorders: A Brief Narrative Review of Genetic, Neurobiological, and Environmental Contributions to Comorbidity."
+  },
+  {
+   "europepmc_id": "MED:41352534",
+   "pmid": "41352534",
+   "doi": "10.1016/j.cct.2025.108176",
+   "year": "2026",
+   "title": "The Investigation of Vitamin D and Menstrual Cycles Trial (the inVitD Trial): A clinical trial of vitamin D supplementation on the hypothalamic-pituitary-ovarian axis."
+  },
+  {
+   "europepmc_id": "MED:36421735",
+   "pmid": "36421735",
+   "doi": "10.3390/biom12111721",
+   "year": "2022",
+   "title": "Endometriosis-Associated Ovarian Cancer: What Are the Implications for Women with Intact Endometrioma Planning for a Future Pregnancy? A Reproductive Clinical Outlook."
+  },
+  {
+   "europepmc_id": "MED:42059253",
+   "pmid": "42059253",
+   "doi": "10.3892/mmr.2026.13888",
+   "year": "2026",
+   "title": "Research progress and future directions in circadian rhythms for uterine‑related diseases (Review)."
+  },
+  {
+   "europepmc_id": "MED:42394579",
+   "pmid": "42394579",
+   "doi": "10.1093/eurpub/ckag118",
+   "year": "2026",
+   "title": "Age at menarche association with metabolic, reproductive, and sociodemographic factors: a population-based cross-sectional analysis using an outcome-wide framework in Geneva, Switzerland."
+  },
+  {
+   "europepmc_id": "MED:40004998",
+   "pmid": "40004998",
+   "doi": "10.3390/nu17040670",
+   "year": "2025",
+   "title": "Association Between Triglyceride-Glucose Related Index and Endometriosis Varies According to Educational Level."
+  },
+  {
+   "europepmc_id": "MED:38505548",
+   "pmid": "38505548",
+   "doi": "10.3389/fmicb.2024.1363455",
+   "year": "2024",
+   "title": "Role of the gut microbiota in the pathogenesis of endometriosis: a review."
+  },
+  {
+   "europepmc_id": "MED:41959699",
+   "pmid": "41959699",
+   "doi": "10.1155/ijbc/8689986",
+   "year": "2026",
+   "title": "Modifiable and Nonmodifiable Risk Factors for Breast Cancer: A Comprehensive Scoping Review."
+  },
+  {
+   "europepmc_id": "MED:42675774",
+   "pmid": "42675774",
+   "doi": "10.1097/md.0000000000050353",
+   "year": "2026",
+   "title": "Association between depression and anxiety and adverse obstetric and neonatal outcomes: A retrospective National Inpatient Sample database study."
+  },
+  {
+   "europepmc_id": "MED:42768312",
+   "pmid": "42768312",
+   "doi": "10.1080/19490976.2026.2726648",
+   "year": "2026",
+   "title": "The cervicovaginal gut microbiota axis as a key determinant of systemic physiology."
+  },
+  {
+   "europepmc_id": "MED:40943494",
+   "pmid": "40943494",
+   "doi": "10.3390/ijms26178574",
+   "year": "2025",
+   "title": "The Impact of Lifestyle on Reproductive Health: Microbial Complexity, Hormonal Dysfunction, and Pregnancy Outcomes."
+  },
+  {
+   "europepmc_id": "PMC:PMC13675992",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Consistent associations of BMI with ovarian response and pregnancy loss risk across PCOS, DOR, and tubal factor infertility: a complete-case mediation analysis of 8,923 IVF cycles"
+  },
+  {
+   "europepmc_id": "PPR:PPR635675",
+   "pmid": null,
+   "doi": "10.1101/2023.03.21.23285637",
+   "year": "2023",
+   "title": "Multi-layered genetic approaches to identify approved drug targets"
+  },
+  {
+   "europepmc_id": "MED:36304015",
+   "pmid": "36304015",
+   "doi": "10.3389/frph.2021.795464",
+   "year": "2021",
+   "title": "Genetic Regulation of Transcription in the Endometrium in Health and Disease."
+  },
+  {
+   "europepmc_id": "MED:40002556",
+   "pmid": "40002556",
+   "doi": "10.3390/diagnostics15040406",
+   "year": "2025",
+   "title": "Early Diagnosis of Ovarian Cancer: A Comprehensive Review of the Advances, Challenges, and Future Directions."
+  },
+  {
+   "europepmc_id": "PPR:PPR1168441",
+   "pmid": null,
+   "doi": "10.21203/rs.3.rs-9148671/v1",
+   "year": "2026",
+   "title": "Longitudinal plasma proteomics along a menstrual cycle highlights the regulatory effect of sex hormones on inflammatory and cardiometabolic circuits."
+  },
+  {
+   "europepmc_id": "MED:39267745",
+   "pmid": "39267745",
+   "doi": "10.3389/fimmu.2024.1445711",
+   "year": "2024",
+   "title": "Human papillomavirus disease in &lt;i&gt;GATA2&lt;/i&gt; deficiency: a genetic predisposition to HPV-associated female anogenital malignancy."
+  },
+  {
+   "europepmc_id": "MED:42216383",
+   "pmid": "42216383",
+   "doi": "10.1097/md.0000000000049083",
+   "year": "2026",
+   "title": "Cross-sectional association between adherence to a planetary health diet and self-reported infertility in U.S. women (NHANES 2013-2018)."
+  },
+  {
+   "europepmc_id": "MED:39567014",
+   "pmid": "39567014",
+   "doi": "10.1136/bmj-2023-078797",
+   "year": "2024",
+   "title": "Endometriosis and uterine fibroids and risk of premature mortality: prospective cohort study."
+  },
+  {
+   "europepmc_id": "PMC:PMC13302068",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "BMI-Dependent Correlations of Sex Hormone Genes with Simple Endometrial Hyperplasia"
+  },
+  {
+   "europepmc_id": "MED:33806348",
+   "pmid": "33806348",
+   "doi": "10.3390/ijms22052556",
+   "year": "2021",
+   "title": "Genetic Regulation of Physiological Reproductive Lifespan and Female Fertility."
+  },
+  {
+   "europepmc_id": "MED:38260971",
+   "pmid": "38260971",
+   "doi": "10.1158/1055-9965.epi-23-1014",
+   "year": "2024",
+   "title": "Association of Fibroids, Endometriosis, and Gynecologic Surgeries with Breast Cancer Incidence and Hormone Receptor Subtypes."
+  },
+  {
+   "europepmc_id": "MED:30871624",
+   "pmid": "30871624",
+   "doi": "10.1186/s13148-019-0648-7",
+   "year": "2019",
+   "title": "Genetic regulation of methylation in human endometrium and blood and gene targets for reproductive diseases."
+  },
+  {
+   "europepmc_id": "MED:41301867",
+   "pmid": "41301867",
+   "doi": "10.3390/biomedicines13112774",
+   "year": "2025",
+   "title": "Endocrine Disruptors and Breast Cancer: A Comprehensive Review."
+  },
+  {
+   "europepmc_id": "MED:39102256",
+   "pmid": "39102256",
+   "doi": "10.1001/jamaneurol.2024.2443",
+   "year": "2024",
+   "title": "Pain Phenotypes and Pain Multimorbidity Among Medicare Beneficiaries With Cerebral Palsy."
+  },
+  {
+   "europepmc_id": "MED:39886120",
+   "pmid": "39886120",
+   "doi": "10.1136/bmjonc-2024-000330",
+   "year": "2024",
+   "title": "Implications of hormonal carcinogenesis for transgender and gender-diverse people undergoing gender-affirming hormone therapy: an up-to-date review."
+  },
+  {
+   "europepmc_id": "MED:36762368",
+   "pmid": "36762368",
+   "doi": "10.2147/jpr.s389166",
+   "year": "2023",
+   "title": "Prenatal Origins of Endometriosis Pathology and Pain: Reviewing the Evidence of a Role for Low Testosterone."
+  },
+  {
+   "europepmc_id": "MED:42910163",
+   "pmid": "42910163",
+   "doi": "10.1002/fsn3.72440",
+   "year": "2026",
+   "title": "Neuropathic Pain Comorbid Cognitive Impairment and Vitamin D: A Narrative Review From Mechanisms to Clinical Management."
+  },
+  {
+   "europepmc_id": "MED:38680942",
+   "pmid": "38680942",
+   "doi": "10.2147/ijwh.s453602",
+   "year": "2024",
+   "title": "Association Between Composite Dietary Antioxidant Index and the Risk of Endometriosis-Related Rheumatoid Arthritis in Women of Childbearing Age: A Cross-Sectional Study Based on the National Health and Nutrition Examination Survey Database."
+  },
+  {
+   "europepmc_id": "MED:39566493",
+   "pmid": "39566493",
+   "doi": "10.1016/j.ajhg.2024.10.018",
+   "year": "2024",
+   "title": "Inherited infertility: Mapping loci associated with impaired female reproduction."
+  },
+  {
+   "europepmc_id": "MED:39148498",
+   "pmid": "39148498",
+   "doi": "10.1159/000539515",
+   "year": "2024",
+   "title": "Oral Contraceptives and the Risk of Psychiatric Side Effects: A Review."
+  },
+  {
+   "europepmc_id": "MED:42152405",
+   "pmid": "42152405",
+   "doi": "10.1097/md.0000000000048848",
+   "year": "2026",
+   "title": "A cross-sectional study of the association between a novel integrated insulin resistance indicator (IR6) and anxiety: Data from NHANES 2007 to 2012."
+  },
+  {
+   "europepmc_id": "MED:40166499",
+   "pmid": "40166499",
+   "doi": "10.7759/cureus.79803",
+   "year": "2025",
+   "title": "Suicide by Firearm and Hormonal Imbalances: A Forensic Case Report With Literature Review."
+  },
+  {
+   "europepmc_id": "MED:34684458",
+   "pmid": "34684458",
+   "doi": "10.3390/nu13103457",
+   "year": "2021",
+   "title": "The Relation between Caffeine Consumption and Endometriosis: An Updated Systematic Review and Meta-Analysis."
+  },
+  {
+   "europepmc_id": "MED:35536666",
+   "pmid": "35536666",
+   "doi": "10.1097/spv.0000000000001195",
+   "year": "2022",
+   "title": "Relationship Between Opioid Prescriptions and Number of Chronic Pain Conditions in Women With Interstitial Cystitis."
+  },
+  {
+   "europepmc_id": "MED:39341838",
+   "pmid": "39341838",
+   "doi": "10.1038/s41598-024-73404-w",
+   "year": "2024",
+   "title": "Sex-specific association between carbohydrate antigen 19-9 and incident type 2 diabetes."
+  },
+  {
+   "europepmc_id": "MED:41250090",
+   "pmid": "41250090",
+   "doi": "10.1186/s12935-025-04047-8",
+   "year": "2025",
+   "title": "A novel serum-based steroid-protein panels for differentiating ovarian cancer from non-malignant adnexal masses."
+  },
+  {
+   "europepmc_id": "MED:42627663",
+   "pmid": "42627663",
+   "doi": "10.1001/jamanetworkopen.2026.29406",
+   "year": "2026",
+   "title": "A Telemedicine-Supported Home-Injection Model for Patients With Breast Cancer."
+  },
+  {
+   "europepmc_id": "MED:41010401",
+   "pmid": "41010401",
+   "doi": "10.3390/life15091459",
+   "year": "2025",
+   "title": "Obesity/Overweight as a Meaningful Modifier of Associations Between Gene Polymorphisms Affecting the Sex Hormone-Binding Globulin Content and Uterine Myoma."
+  },
+  {
+   "europepmc_id": "MED:37137500",
+   "pmid": "37137500",
+   "doi": "10.1101/cshperspect.a038216",
+   "year": "2023",
+   "title": "Prevention of Epithelial Ovarian Cancer."
+  },
+  {
+   "europepmc_id": "MED:40361851",
+   "pmid": "40361851",
+   "doi": "10.3390/healthcare13091073",
+   "year": "2025",
+   "title": "Piloting an In Situ Training Program in Video Consultations in a Gynaecological Outpatient Clinic at a University Hospital: A Qualitative Study of the Healthcare Professionals' Perspectives."
+  },
+  {
+   "europepmc_id": "MED:41299507",
+   "pmid": "41299507",
+   "doi": "10.1186/s12905-025-04134-y",
+   "year": "2025",
+   "title": "Association between high-density lipoprotein-related inflammation index and female infertility in US reproductive-aged women: insights from NHANES 2013-2020."
+  },
+  {
+   "europepmc_id": "MED:40605410",
+   "pmid": "40605410",
+   "doi": "10.1111/bjh.20243",
+   "year": "2025",
+   "title": "Is it time to offer routine screening for iron deficiency in healthy adolescent females?"
+  },
+  {
+   "europepmc_id": "MED:42073613",
+   "pmid": "42073613",
+   "doi": "10.3390/cancers18081290",
+   "year": "2026",
+   "title": "Endometrial Cancer Related to Endometrial Ablation: A Narrative Review."
+  },
+  {
+   "europepmc_id": "MED:40999482",
+   "pmid": "40999482",
+   "doi": "10.1186/s40001-025-03084-3",
+   "year": "2025",
+   "title": "Association between uric acid to high-density lipoprotein cholesterol ratio (UHR) and female infertility: insights from a cross-sectional study."
+  },
+  {
+   "europepmc_id": "MED:36847069",
+   "pmid": "36847069",
+   "doi": "10.1161/jaha.123.029832",
+   "year": "2023",
+   "title": "<i>JAHA</i> Go Red for Women Spotlight 2023."
+  },
+  {
+   "europepmc_id": "MED:39635127",
+   "pmid": "39635127",
+   "doi": "10.1016/j.isci.2024.110896",
+   "year": "2024",
+   "title": "Increased incidence of uterine leiomyoma in young females with depression: An observational study."
+  },
+  {
+   "europepmc_id": "MED:38784035",
+   "pmid": "38784035",
+   "doi": "10.3389/fgene.2024.1393181",
+   "year": "2024",
+   "title": "SIRT1, resveratrol and aging."
+  },
+  {
+   "europepmc_id": "MED:38660311",
+   "pmid": "38660311",
+   "doi": "10.3389/fimmu.2024.1339647",
+   "year": "2024",
+   "title": "Potential shared pathogenic mechanisms between endometriosis and inflammatory bowel disease indicate a strong initial effect of immune factors."
+  },
+  {
+   "europepmc_id": "MED:37012456",
+   "pmid": "37012456",
+   "doi": "10.1038/s41588-023-01343-9",
+   "year": "2023",
+   "title": "Genetic effects on the timing of parturition and links to fetal birth weight."
+  },
+  {
+   "europepmc_id": "MED:41862097",
+   "pmid": "41862097",
+   "doi": "10.1016/j.jtha.2026.03.009",
+   "year": "2026",
+   "title": "Plasma level of human epididymis protein 4 is associated with risk of future venous thromboembolism-the Trøndelag Health study."
+  },
+  {
+   "europepmc_id": "MED:41329869",
+   "pmid": "41329869",
+   "doi": "10.2215/cjn.0000000968",
+   "year": "2026",
+   "title": "Lipoprotein(a) and CKD: Insights into New Therapeutic Opportunities."
+  },
+  {
+   "europepmc_id": "MED:37789421",
+   "pmid": "37789421",
+   "doi": "10.1186/s40246-023-00538-9",
+   "year": "2023",
+   "title": "Whole-exome sequencing reveals candidate high-risk susceptibility genes for endometriosis."
+  },
+  {
+   "europepmc_id": "MED:39602359",
+   "pmid": "39602359",
+   "doi": "10.1097/mol.0000000000000966",
+   "year": "2025",
+   "title": "The breadth and impact of the Global Lipids Genetics Consortium."
+  },
+  {
+   "europepmc_id": "MED:36263431",
+   "pmid": "36263431",
+   "doi": "10.3389/fgene.2022.1038317",
+   "year": "2022",
+   "title": "Editorial: Women in science: Genetics."
+  },
+  {
+   "europepmc_id": "MED:39408364",
+   "pmid": "39408364",
+   "doi": "10.3390/nu16193397",
+   "year": "2024",
+   "title": "Influence of Mediterranean Diet on Sexual Function in People with Metabolic Syndrome: A Narrative Review."
+  },
+  {
+   "europepmc_id": "MED:29855537",
+   "pmid": "29855537",
+   "doi": "10.1038/s41598-018-25065-9",
+   "year": "2018",
+   "title": "Japanese GWAS identifies variants for bust-size, dysmenorrhea, and menstrual fever that are eQTLs for relevant protein-coding or long non-coding RNAs."
+  },
+  {
+   "europepmc_id": "MED:36430184",
+   "pmid": "36430184",
+   "doi": "10.3390/ijms232213691",
+   "year": "2022",
+   "title": "Sex Hormone Candidate Gene Polymorphisms Are Associated with Endometriosis."
+  },
+  {
+   "europepmc_id": "MED:35681688",
+   "pmid": "35681688",
+   "doi": "10.3390/cancers14112708",
+   "year": "2022",
+   "title": "Risk Factors for Ovarian Cancer: An Umbrella Review of the Literature."
+  },
+  {
+   "europepmc_id": "MED:40171114",
+   "pmid": "40171114",
+   "doi": "10.3389/fphys.2025.1552269",
+   "year": "2025",
+   "title": "Correlation between cardiometabolic index and psoriasis: a cross-sectional analysis using NHANES data."
+  },
+  {
+   "europepmc_id": "MED:34880026",
+   "pmid": "34880026",
+   "doi": "10.1136/bmjopen-2021-054896",
+   "year": "2021",
+   "title": "Determining the effectiveness of cognitive behavioural therapy in improving quality of life in patients undergoing endometriosis surgery: a study protocol for a randomised controlled trial."
+  },
+  {
+   "europepmc_id": "MED:41156464",
+   "pmid": "41156464",
+   "doi": "10.3390/nu17203211",
+   "year": "2025",
+   "title": "Effects of Homocysteine Circulating Levels on Human Spontaneous Fertility and In Vitro Fertilization Outcomes: A Literature Review."
+  },
+  {
+   "europepmc_id": "MED:40316964",
+   "pmid": "40316964",
+   "doi": "10.1186/s12889-025-22679-3",
+   "year": "2025",
+   "title": "Association between cardiometabolic index and infertility risk: a cross-sectional analysis of NHANES data (2013-2018)."
+  },
+  {
+   "europepmc_id": "MED:40832467",
+   "pmid": "40832467",
+   "doi": "10.3389/fgene.2025.1614573",
+   "year": "2025",
+   "title": "Analysis and validation of novel biomarkers related to palmitoylation in adenomyosis."
+  },
+  {
+   "europepmc_id": "MED:38079406",
+   "pmid": "38079406",
+   "doi": "10.1371/journal.pone.0294925",
+   "year": "2023",
+   "title": "Adenomyosis in women undergoing hysterectomy for abnormal uterine bleeding associated with uterine leiomyomas."
+  },
+  {
+   "europepmc_id": "MED:39217588",
+   "pmid": "39217588",
+   "doi": "10.1007/s40279-024-02078-1",
+   "year": "2024",
+   "title": "Contraception Choice for Female Endurance Athletes: What's Sport Got to Do With It? A Cross-Sectional Survey."
+  },
+  {
+   "europepmc_id": "PMC:PMC13594399",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Poster Session 2 : Thursday, 8 October 2026   16:00 – 17:15"
+  },
+  {
+   "europepmc_id": "MED:40097347",
+   "pmid": "40097347",
+   "doi": "10.1111/1471-0528.18127",
+   "year": "2025",
+   "title": "The Association Between Medically Assisted Reproduction and Postpartum Depression: A Register-Based Cohort Study."
+  },
+  {
+   "europepmc_id": "MED:39607709",
+   "pmid": "39607709",
+   "doi": "10.1210/clinem/dgae828",
+   "year": "2025",
+   "title": "Autoimmune Disease is Increased in Women With Primary Ovarian Insufficiency."
+  },
+  {
+   "europepmc_id": "PMC:PMC13378720",
+   "pmid": null,
+   "doi": null,
+   "year": null,
+   "title": "Book of Abstracts"
+  },
+  {
+   "europepmc_id": "MED:33303084",
+   "pmid": "33303084",
+   "doi": "10.1016/j.nwh.2020.09.011",
+   "year": "2020",
+   "title": "Interventions and Practice Implications for the Management of Endometriosis."
+  },
+  {
+   "europepmc_id": "MED:30061686",
+   "pmid": "30061686",
+   "doi": "10.1038/s41598-018-29462-y",
+   "year": "2018",
+   "title": "Genetic regulation of disease risk and endometrial gene expression highlights potential target genes for endometriosis and polycystic ovarian syndrome."
+  },
+  {
+   "europepmc_id": "MED:40362884",
+   "pmid": "40362884",
+   "doi": "10.3390/nu17091575",
+   "year": "2025",
+   "title": "Fertility in Celiac Disease: The Impact of Gluten on Male and Female Reproductive Health."
+  },
+  {
+   "europepmc_id": "MED:37162768",
+   "pmid": "37162768",
+   "doi": "10.7759/cureus.37266",
+   "year": "2023",
+   "title": "Risk of Gynecological Cancers in Women With Polycystic Ovary Syndrome and the Pathophysiology of Association."
+  },
+  {
+   "europepmc_id": "MED:36980881",
+   "pmid": "36980881",
+   "doi": "10.3390/genes14030609",
+   "year": "2023",
+   "title": "Harnessing Genomic Analysis to Explore the Role of Telomeres in the Pathogenesis and Progression of Diabetic Kidney Disease."
+  },
+  {
+   "europepmc_id": "MED:40732683",
+   "pmid": "40732683",
+   "doi": "10.3390/pathogens14070635",
+   "year": "2025",
+   "title": "Gut-Vaginal Microbiome Crosstalk in Ovarian Cancer: Implications for Early Diagnosis."
+  },
+  {
+   "europepmc_id": "MED:33394050",
+   "pmid": "33394050",
+   "doi": "10.1093/molehr/gaaa082",
+   "year": "2021",
+   "title": "Genetic risk factors for endometriosis near estrogen receptor 1 and coexpression of genes in this region in endometrium."
+  },
+  {
+   "europepmc_id": "MED:39368478",
+   "pmid": "39368478",
+   "doi": "10.1016/j.xcrm.2024.101759",
+   "year": "2024",
+   "title": "Standardization of gut microbiome analysis in sports."
+  },
+  {
+   "europepmc_id": "MED:41767293",
+   "pmid": "41767293",
+   "doi": "10.4103/jmh.jmh_302_25",
+   "year": "2026",
+   "title": "Clinical Practice Guidelines for Menopause: An Executive Summary and Recommendations: Indian Menopause Society 2026."
+  },
+  {
+   "europepmc_id": "MED:37828525",
+   "pmid": "37828525",
+   "doi": "10.1186/s12905-023-02589-5",
+   "year": "2023",
+   "title": "Development and validation of a predictive model of abnormal uterine bleeding associated with ovulatory dysfunction: a case-control study."
+  },
+  {
+   "europepmc_id": "MED:42620880",
+   "pmid": "42620880",
+   "doi": "10.3389/fendo.2026.1846250",
+   "year": "2026",
+   "title": "Metabolic and endometrial ultrasonographic factors associated with clinical pregnancy in PCOS patients undergoing FET: a nomogram development study with internal validation."
+  },
+  {
+   "europepmc_id": "MED:34830028",
+   "pmid": "34830028",
+   "doi": "10.3390/ijms222212146",
+   "year": "2021",
+   "title": "Recent Trends in Cancer Genomics and Bioinformatics Tools Development."
+  },
+  {
+   "europepmc_id": "MED:42238350",
+   "pmid": "42238350",
+   "doi": "10.1093/pnasnexus/pgag118",
+   "year": "2026",
+   "title": "Advancing women's mental health: Recommendations from a National Academies of Sciences, Engineering, and Medicine workshop."
+  },
+  {
+   "europepmc_id": "MED:36800925",
+   "pmid": "36800925",
+   "doi": "10.1186/s10194-023-01547-8",
+   "year": "2023",
+   "title": "Genetics of migraine: where are we now?"
+  },
+  {
+   "europepmc_id": "MED:36673834",
+   "pmid": "36673834",
+   "doi": "10.3390/ijerph20021080",
+   "year": "2023",
+   "title": "Women's Health and Working Life: A Scoping Review."
+  },
+  {
+   "europepmc_id": "MED:38537008",
+   "pmid": "38537008",
+   "doi": "10.1590/1806-9282.20231101",
+   "year": "2024",
+   "title": "Impact of anthro-metabolic indices and gestational weight gain on maternal and neonatal outcomes: a prospective observational study."
+  },
+  {
+   "europepmc_id": "MED:42790339",
+   "pmid": "42790339",
+   "doi": "10.1016/j.ebiom.2026.106490",
+   "year": "2026",
+   "title": "A multi-ancestry genome-wide association study of dry eye disease and systemic comorbidities."
+  },
+  {
+   "europepmc_id": "MED:40229599",
+   "pmid": "40229599",
+   "doi": "10.1038/s41588-025-02156-8",
+   "year": "2025",
+   "title": "Genome-wide analyses identify 25 infertility loci and relationships with reproductive traits across the allele frequency spectrum."
+  },
+  {
+   "europepmc_id": "MED:38389707",
+   "pmid": "38389707",
+   "doi": "10.3389/fcell.2024.1358755",
+   "year": "2024",
+   "title": "PCOS stratification for precision diagnostics and treatment."
+  },
+  {
+   "europepmc_id": "MED:42514393",
+   "pmid": "42514393",
+   "doi": "10.3390/nu18142324",
+   "year": "2026",
+   "title": "Autoprobiotic Supplements Attenuate Obesity and Improve Gut Microbiota, Carbohydrate, and Lipid Metabolism in Patients with Metabolic Syndrome: A Pilot Trial."
+  },
+  {
+   "europepmc_id": "MED:41817660",
+   "pmid": "41817660",
+   "doi": "10.1080/00224499.2026.2638383",
+   "year": "2026",
+   "title": "Dyspareunia and Functioning Among Somali Women Who Have Experienced Female Genital Cutting."
+  },
+  {
+   "europepmc_id": "MED:40140386",
+   "pmid": "40140386",
+   "doi": "10.1038/s41467-025-58145-2",
+   "year": "2025",
+   "title": "Impact of BRCA mutations, age, surgical indication, and hormone status on the molecular phenotype of the human Fallopian tube."
+  },
+  {
+   "europepmc_id": "MED:38705643",
+   "pmid": "38705643",
+   "doi": "10.1016/j.clp.2024.02.010",
+   "year": "2024",
+   "title": "Recent Advances in Genomic Studies of Gestational Duration and Preterm Birth."
+  },
+  {
+   "europepmc_id": "MED:39039282",
+   "pmid": "39039282",
+   "doi": "10.1038/s41588-024-01839-y",
+   "year": "2024",
+   "title": "Genome-wide association meta-analysis identifies five loci associated with postpartum hemorrhage."
+  },
+  {
+   "europepmc_id": "PMC:PMC13299921",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Metagenomic Insights into Gut Microbiota Alterations Following Dendrobium huoshanense Water Extract Intervention in Streptozotocin-Induced Type 1 Diabetic Rats"
+  },
+  {
+   "europepmc_id": "MED:34298916",
+   "pmid": "34298916",
+   "doi": "10.3390/ijms22147297",
+   "year": "2021",
+   "title": "Genomics of Endometriosis: From Genome Wide Association Studies to Exome Sequencing."
+  },
+  {
+   "europepmc_id": "MED:32578161",
+   "pmid": "32578161",
+   "doi": "10.1007/s43032-020-00214-6",
+   "year": "2020",
+   "title": "Peripheral Blood Leukocyte Telomere Length and Endometriosis."
+  },
+  {
+   "europepmc_id": "MED:42131413",
+   "pmid": "42131413",
+   "doi": "10.4103/tcmj.tcmj_152_25",
+   "year": "2026",
+   "title": "Prognostic factors and survival of patients with endometrial cancer: A 10-year retrospective cohort study in a tertiary referral center in Northern Taiwan."
+  },
+  {
+   "europepmc_id": "MED:37492104",
+   "pmid": "37492104",
+   "doi": "10.1016/j.xgen.2023.100341",
+   "year": "2023",
+   "title": "Multi-layered genetic approaches to identify approved drug targets."
+  },
+  {
+   "europepmc_id": "PPR:PPR826157",
+   "pmid": null,
+   "doi": "10.1101/2024.03.19.24304530",
+   "year": "2024",
+   "title": "Genome-wide analyses identify 21 infertility loci and over 400 reproductive hormone loci across the allele frequency spectrum"
+  },
+  {
+   "europepmc_id": "MED:42265330",
+   "pmid": "42265330",
+   "doi": "10.1038/s41562-026-02476-7",
+   "year": "2026",
+   "title": "Genome-wide meta-analysis of quantitatively measured generalized anxiety symptoms in individuals of European ancestry."
+  },
+  {
+   "europepmc_id": "MED:38987645",
+   "pmid": "38987645",
+   "doi": "10.1038/s43587-024-00655-7",
+   "year": "2024",
+   "title": "Blood protein assessment of leading incident diseases and mortality in the UK Biobank."
+  },
+  {
+   "europepmc_id": "MED:41019334",
+   "pmid": "41019334",
+   "doi": "10.3389/fendo.2025.1647131",
+   "year": "2025",
+   "title": "Uric acid and uric acid/creatinine ratio are associated with GDM in women undergoing IVF/ICSI."
+  },
+  {
+   "europepmc_id": "MED:41815131",
+   "pmid": "41815131",
+   "doi": "10.21037/tcr-2025-1-2580",
+   "year": "2026",
+   "title": "A panel of machine learning approaches for diagnostic model development and validation in ovarian cancer."
+  },
+  {
+   "europepmc_id": "MED:37174070",
+   "pmid": "37174070",
+   "doi": "10.3390/cancers15092605",
+   "year": "2023",
+   "title": "Preoperative CA125 Significantly Improves Risk Stratification in High-Grade Endometrial Cancer."
+  },
+  {
+   "europepmc_id": "MED:39925664",
+   "pmid": "39925664",
+   "doi": "10.12688/wellcomeopenres.23084.2",
+   "year": "2024",
+   "title": "SAHELI:  Study and Action on Hysterectomy: Evidence on women's health through the life course in India.  Protocol for a mixed-methods study."
+  },
+  {
+   "europepmc_id": "MED:40027477",
+   "pmid": "40027477",
+   "doi": "10.1002/imt2.270",
+   "year": "2025",
+   "title": "Gut-X axis."
+  },
+  {
+   "europepmc_id": "MED:31276630",
+   "pmid": "31276630",
+   "doi": "10.1016/j.nwh.2019.05.004",
+   "year": "2019",
+   "title": "Elagolix as a Novel Treatment for Endometriosis-Related Pain."
+  },
+  {
+   "europepmc_id": "MED:38201973",
+   "pmid": "38201973",
+   "doi": "10.3390/nu16010144",
+   "year": "2023",
+   "title": "Study of Serum Copper and Zinc Levels and Serum Cu/Zn Ratio among Polish Women with Endometrial Cancer."
+  },
+  {
+   "europepmc_id": "MED:39741237",
+   "pmid": "39741237",
+   "doi": "10.1186/s12905-024-03530-0",
+   "year": "2024",
+   "title": "Impact of serum lipid on recurrence of uterine fibroids: a single center retrospective study."
+  },
+  {
+   "europepmc_id": "MED:39706987",
+   "pmid": "39706987",
+   "doi": "10.1038/s41416-024-02924-z",
+   "year": "2025",
+   "title": "Reproductive factors and risk of epithelial ovarian cancer: results from the Asia Cohort Consortium."
+  },
+  {
+   "europepmc_id": "MED:37782440",
+   "pmid": "37782440",
+   "doi": "10.1007/s11357-023-00914-2",
+   "year": "2024",
+   "title": "Associations of measured and genetically predicted leukocyte telomere length with vascular phenotypes: a population-based study."
+  },
+  {
+   "europepmc_id": "MED:39064282",
+   "pmid": "39064282",
+   "doi": "10.3390/jcm13144243",
+   "year": "2024",
+   "title": "Metabolic Dysfunction-Associated Steatotic Liver Disease and Polycystic Ovary Syndrome: A Complex Interplay."
+  },
+  {
+   "europepmc_id": "MED:40718836",
+   "pmid": "40718836",
+   "doi": "10.3389/fonc.2025.1593774",
+   "year": "2025",
+   "title": "The NLRP3 inflammasome in urogenital cancers: structure, dual function, and therapeutic potential."
+  },
+  {
+   "europepmc_id": "MED:40018224",
+   "pmid": "40018224",
+   "doi": "10.1136/bmjph-2023-000302",
+   "year": "2024",
+   "title": "Assessing the health and economic burden of obesity-related complications in East-Asian populations: implementation of risk equations in the Core Obesity Model for Japan and model validation."
+  },
+  {
+   "europepmc_id": "MED:36851918",
+   "pmid": "36851918",
+   "doi": "10.1016/j.csbj.2023.02.001",
+   "year": "2023",
+   "title": "Identification of <i>MKNK1</i> and <i>TOP3A</i> as ovarian endometriosis risk-associated genes using integrative genomic analyses and functional experiments."
+  },
+  {
+   "europepmc_id": "MED:28537267",
+   "pmid": "28537267",
+   "doi": "10.1038/ncomms15539",
+   "year": "2017",
+   "title": "Meta-analysis identifies five novel loci associated with endometriosis highlighting key genes involved in hormone metabolism."
+  },
+  {
+   "europepmc_id": "MED:30345074",
+   "pmid": "30345074",
+   "doi": "10.1038/s41525-018-0068-1",
+   "year": "2018",
+   "title": "Complex genetics of female fertility."
+  },
+  {
+   "europepmc_id": "MED:41462288",
+   "pmid": "41462288",
+   "doi": "10.1186/s13048-025-01930-w",
+   "year": "2025",
+   "title": "Upregulation of PLAU in granulosa cells disrupts steroid hormone synthesis and promotes apoptosis by activating NF-κB signaling pathway in PCOS."
+  },
+  {
+   "europepmc_id": "MED:32173578",
+   "pmid": "32173578",
+   "doi": "10.1016/j.jmig.2020.03.002",
+   "year": "2020",
+   "title": "Hormone Replacement Therapy Prescription after Premature Surgical Menopause."
+  },
+  {
+   "europepmc_id": "MED:31649266",
+   "pmid": "31649266",
+   "doi": "10.1038/s41467-019-12536-4",
+   "year": "2019",
+   "title": "Genome-wide association and epidemiological analyses reveal common genetic origins between uterine leiomyomata and endometriosis."
+  },
+  {
+   "europepmc_id": "MED:40431246",
+   "pmid": "40431246",
+   "doi": "10.3390/microorganisms13051073",
+   "year": "2025",
+   "title": "The Relationship Between Gut Microbiota and Recurrent Spontaneous Abortion."
+  },
+  {
+   "europepmc_id": "MED:39701207",
+   "pmid": "39701207",
+   "doi": "10.1016/j.contraception.2024.110784",
+   "year": "2025",
+   "title": "Healthcare provider communication and current contraceptive use among transgender men and gender-diverse people: Results from an online, cross-sectional survey in the United States."
+  },
+  {
+   "europepmc_id": "MED:39683595",
+   "pmid": "39683595",
+   "doi": "10.3390/nu16234201",
+   "year": "2024",
+   "title": "The Key Nutrients in the Mediterranean Diet and Their Effects in Inflammatory Bowel Disease: A Narrative Review."
+  },
+  {
+   "europepmc_id": "MED:31845727",
+   "pmid": "31845727",
+   "doi": "10.1093/aje/kwz267",
+   "year": "2020",
+   "title": "Huang et al. Respond to \"Ovulation and Systemic and Localized Inflammation Markers\" and \"Capturing Women's Reproductive Life Spans\"."
+  },
+  {
+   "europepmc_id": "MED:36998019",
+   "pmid": "36998019",
+   "doi": "10.1186/s13690-023-01059-6",
+   "year": "2023",
+   "title": "Menstrual characteristics and dysmenorrhea among Palestinian adolescent refugee camp dwellers in the West Bank and Jordan: a cross-sectional study."
+  },
+  {
+   "europepmc_id": "MED:39349891",
+   "pmid": "39349891",
+   "doi": "10.1007/s10815-024-03234-2",
+   "year": "2024",
+   "title": "Quality of IVM ovarian tissue oocytes: impact of clinical, demographic, and laboratory factors."
+  },
+  {
+   "europepmc_id": "MED:37381984",
+   "pmid": "37381984",
+   "doi": "10.1161/atvbaha.123.319370",
+   "year": "2023",
+   "title": "Sex, Racial, and Ethnic Disparities in Acute Coronary Syndrome: Novel Risk Factors and Recommendations for Earlier Diagnosis to Improve Outcomes."
+  },
+  {
+   "europepmc_id": "MED:40993745",
+   "pmid": "40993745",
+   "doi": "10.1186/s12958-025-01460-6",
+   "year": "2025",
+   "title": "Alteration of the follicular fluid amino acid profile reveals the important roles of several amino acids in embryo quality in patients with polycystic ovary syndrome."
+  },
+  {
+   "europepmc_id": "MED:36060942",
+   "pmid": "36060942",
+   "doi": "10.3389/fendo.2022.949061",
+   "year": "2022",
+   "title": "eQTLs as causal instruments for the reconstruction of hormone linked gene networks."
+  },
+  {
+   "europepmc_id": "MED:38448826",
+   "pmid": "38448826",
+   "doi": "10.1186/s12889-024-18219-0",
+   "year": "2024",
+   "title": "The hidden burden of dysmenorrhea among adolescent girls in Palestine refugee camps: a focus on well-being and academic performance."
+  },
+  {
+   "europepmc_id": "MED:36753475",
+   "pmid": "36753475",
+   "doi": "10.1371/journal.pone.0281313",
+   "year": "2023",
+   "title": "Association between vitamin D concentration and delirium in hospitalized patients: A meta-analysis."
+  },
+  {
+   "europepmc_id": "MED:37288254",
+   "pmid": "37288254",
+   "doi": "10.3389/fcvm.2023.1190513",
+   "year": "2023",
+   "title": "VEGF-A related SNPs: a cardiovascular context."
+  },
+  {
+   "europepmc_id": "MED:39996063",
+   "pmid": "39996063",
+   "doi": "10.3389/fendo.2025.1525392",
+   "year": "2025",
+   "title": "Proximity extension assay revealed novel inflammatory biomarkers for follicular development and ovarian function: a prospective controlled study combining serum and follicular fluid."
+  },
+  {
+   "europepmc_id": "MED:40094912",
+   "pmid": "40094912",
+   "doi": "10.3390/jcm14051439",
+   "year": "2025",
+   "title": "Three-Year Follow-Up of COVID-19 Cases in District of Constance, Germany. A Prospective, Controlled Cohort Study (FSC19-KN)."
+  },
+  {
+   "europepmc_id": "MED:36235799",
+   "pmid": "36235799",
+   "doi": "10.3390/nu14194147",
+   "year": "2022",
+   "title": "Does the Ketogenic Diet Improve the Quality of Ovarian Function in Obese Women?"
+  },
+  {
+   "europepmc_id": "MED:34281251",
+   "pmid": "34281251",
+   "doi": "10.3390/ijms22137197",
+   "year": "2021",
+   "title": "The Role of ApoE Expression and Variability of Its Glycosylation in Human Reproductive Health in the Light of Current Information."
+  },
+  {
+   "europepmc_id": "MED:39838355",
+   "pmid": "39838355",
+   "doi": "10.1186/s12916-025-03853-1",
+   "year": "2025",
+   "title": "Postpartum depression in relation to chronic diseases and multimorbidity in women's mid-late life: a prospective cohort study of UK Biobank."
+  },
+  {
+   "europepmc_id": "MED:34611362",
+   "pmid": "34611362",
+   "doi": "10.1038/s41588-021-00944-6",
+   "year": "2021",
+   "title": "Polygenic basis and biomedical consequences of telomere length variation."
+  },
+  {
+   "europepmc_id": "PPR:PPR653915",
+   "pmid": null,
+   "doi": "10.1101/2023.05.01.23288879",
+   "year": "2023",
+   "title": "Blood protein levels predict leading incident diseases and mortality in UK Biobank"
+  },
+  {
+   "europepmc_id": "MED:41847445",
+   "pmid": "41847445",
+   "doi": "10.3389/fendo.2026.1783780",
+   "year": "2026",
+   "title": "Follicular fluid from women with polycystic ovary syndrome induces granulosa cells metabolic dysfunction that is exacerbated by obesity."
+  },
+  {
+   "europepmc_id": "MED:32826955",
+   "pmid": "32826955",
+   "doi": "10.1038/s42003-020-01191-x",
+   "year": "2020",
+   "title": "Glycovariant-based lateral flow immunoassay to detect ovarian cancer-associated serum CA125."
+  },
+  {
+   "europepmc_id": "MED:39885868",
+   "pmid": "39885868",
+   "doi": "10.3389/fnut.2024.1497364",
+   "year": "2024",
+   "title": "Exploring the application of dietary antioxidant index for disease risk assessment: a comprehensive review."
+  },
+  {
+   "europepmc_id": "MED:40561125",
+   "pmid": "40561125",
+   "doi": "10.1371/journal.pmed.1004630",
+   "year": "2025",
+   "title": "Natural cycle versus hormone replacement therapy as endometrial preparation in ovulatory women undergoing frozen-thawed embryo transfer: The COMPETE open-label randomized controlled trial."
+  },
+  {
+   "europepmc_id": "MED:32862829",
+   "pmid": "32862829",
+   "doi": "10.1186/s12916-020-01700-z",
+   "year": "2020",
+   "title": "Association of the functional ovarian reserve with serum metabolomic profiling by nuclear magnetic resonance spectroscopy: a cross-sectional study of ~ 400 women."
+  },
+  {
+   "europepmc_id": "MED:36311816",
+   "pmid": "36311816",
+   "doi": "10.1158/2767-9764.crc-22-0314",
+   "year": "2022",
+   "title": "Uterine lavage identifies cancer mutations and increased &lt;i&gt;TP53&lt;/i&gt; somatic mutation burden in individuals with ovarian cancer."
+  },
+  {
+   "europepmc_id": "MED:30343033",
+   "pmid": "30343033",
+   "doi": "10.1016/j.jmig.2018.10.010",
+   "year": "2019",
+   "title": "Feasibility of Oophorectomy at the Time of Vaginal Hysterectomy in Patients with Pelvic Organ Prolapse."
+  },
+  {
+   "europepmc_id": "MED:35759784",
+   "pmid": "35759784",
+   "doi": "10.1097/spv.0000000000001228",
+   "year": "2022",
+   "title": "Centering Group Treatment for Women With Interstitial Cystitis/Bladder Pain Syndrome: A Qualitative Analysis."
+  },
+  {
+   "europepmc_id": "PMC:PMC9296230",
+   "pmid": null,
+   "doi": null,
+   "year": "2022",
+   "title": "Table of Contents"
+  },
+  {
+   "europepmc_id": "MED:33714897",
+   "pmid": "33714897",
+   "doi": "10.1016/j.ijscr.2021.105711",
+   "year": "2021",
+   "title": "A rare case of multiple leiomyomas on rudimentary uterus in a woman with Mayer Rokitansky Kuster Hauser (MRKH) syndrome: A challenging diagnosis and laparoscopic approach."
+  },
+  {
+   "europepmc_id": "MED:40182431",
+   "pmid": "40182431",
+   "doi": "10.3389/fcvm.2025.1502985",
+   "year": "2025",
+   "title": "Exploring associations between estrogen and gene candidates identified by coronary artery disease genome-wide association studies."
+  },
+  {
+   "europepmc_id": "MED:36831182",
+   "pmid": "36831182",
+   "doi": "10.3390/cells12040515",
+   "year": "2023",
+   "title": "Association of the Estrogen Receptor 1 Polymorphisms rs2046210 and rs9383590 with the Risk, Age at Onset and Prognosis of Breast Cancer."
+  },
+  {
+   "europepmc_id": "MED:37697152",
+   "pmid": "37697152",
+   "doi": "10.1038/s41587-023-01872-y",
+   "year": "2024",
+   "title": "BugSigDB captures patterns of differential abundance across a broad range of host-associated microbial signatures."
+  },
+  {
+   "europepmc_id": "MED:38951781",
+   "pmid": "38951781",
+   "doi": "10.1186/s12889-024-19241-y",
+   "year": "2024",
+   "title": "Women's health at work: a qualitative study on women's health issues in relation to work participation. Experiences and perspectives from female teachers and managers in Norwegian high schools."
+  },
+  {
+   "europepmc_id": "MED:34662440",
+   "pmid": "34662440",
+   "doi": "10.1111/apt.16647",
+   "year": "2022",
+   "title": "Use of contraceptives and risk of inflammatory bowel disease: a nested case-control study."
+  },
+  {
+   "europepmc_id": "MED:37873776",
+   "pmid": "37873776",
+   "doi": "10.3390/diseases11040132",
+   "year": "2023",
+   "title": "C-Reactive Protein: Pathophysiology, Diagnosis, False Test Results and a Novel Diagnostic Algorithm for Clinicians."
+  },
+  {
+   "europepmc_id": "MED:35689242",
+   "pmid": "35689242",
+   "doi": "10.1186/s12958-022-00957-8",
+   "year": "2022",
+   "title": "Association of maternal pre-pregnancy body mass index with birth weight and preterm birth among singletons conceived after frozen-thawed embryo transfer."
+  },
+  {
+   "europepmc_id": "MED:41972561",
+   "pmid": "41972561",
+   "doi": "10.3390/biology15070558",
+   "year": "2026",
+   "title": "The Metabolic Calibration of Female Immune Plasticity: From X-Linked Vulnerability to Precision Metabotyping."
+  },
+  {
+   "europepmc_id": "MED:39341444",
+   "pmid": "39341444",
+   "doi": "10.1016/j.contraception.2024.110719",
+   "year": "2025",
+   "title": "Contraceptive use among transgender men and gender diverse individuals in the United States: Reasons for use, non-use, and methods used for pregnancy prevention."
+  },
+  {
+   "europepmc_id": "MED:37884787",
+   "pmid": "37884787",
+   "doi": "10.1038/s41581-023-00778-x",
+   "year": "2024",
+   "title": "Clonal haematopoiesis, ageing and kidney disease."
+  },
+  {
+   "europepmc_id": "MED:37524882",
+   "pmid": "37524882",
+   "doi": "10.1038/s43856-023-00335-4",
+   "year": "2023",
+   "title": "Association of birth and childhood weight with risk of chronic diseases and multimorbidity in adulthood."
+  },
+  {
+   "europepmc_id": "MED:34057418",
+   "pmid": "34057418",
+   "doi": "10.2196/24108",
+   "year": "2021",
+   "title": "Using Social Media for Qualitative Health Research in Danish Women of Reproductive Age: Online Focus Group Study on Facebook."
+  },
+  {
+   "europepmc_id": "MED:36558031",
+   "pmid": "36558031",
+   "doi": "10.3390/molecules27248899",
+   "year": "2022",
+   "title": "Health Effects of Soy Isoflavones and Green Tea Catechins on Cancer and Cardiovascular Diseases Based on Urinary Biomarker Levels."
+  },
+  {
+   "europepmc_id": "MED:32022266",
+   "pmid": "32022266",
+   "doi": "10.1002/ijc.32907",
+   "year": "2020",
+   "title": "Molecular profiling identifies synchronous endometrial and ovarian cancers as metastatic endometrial cancer with favorable clinical outcome."
+  },
+  {
+   "europepmc_id": "MED:38854775",
+   "pmid": "38854775",
+   "doi": "10.1002/rmb2.12587",
+   "year": "2024",
+   "title": "Effect of single versus grouped culture of human cumulus-oocyte complexes in PCOS women treated with biphasic in vitro maturation: A sibling oocyte pilot study."
+  },
+  {
+   "europepmc_id": "MED:34703413",
+   "pmid": "34703413",
+   "doi": "10.5114/pm.2021.109509",
+   "year": "2021",
+   "title": "Safety and efficacy of two repeated cycles of ulipristal acetate in the management of symptomatic uterine fibroid among Indian women."
+  },
+  {
+   "europepmc_id": "MED:39200110",
+   "pmid": "39200110",
+   "doi": "10.3390/biomedicines12081645",
+   "year": "2024",
+   "title": "Sex Differences in Cardiovascular Diseases: Exploring the Role of Microbiota and Immunity."
+  },
+  {
+   "europepmc_id": "MED:40488635",
+   "pmid": "40488635",
+   "doi": "10.1017/s0007114525103620",
+   "year": "2025",
+   "title": "Folate intake, &lt;i&gt;MTHFR&lt;/i&gt; genotype and premenstrual symptoms."
+  },
+  {
+   "europepmc_id": "MED:37312194",
+   "pmid": "37312194",
+   "doi": "10.1186/s42238-023-00186-9",
+   "year": "2023",
+   "title": "The therapeutic potential of purified cannabidiol."
+  },
+  {
+   "europepmc_id": "MED:33153024",
+   "pmid": "33153024",
+   "doi": "10.3390/ijerph17218089",
+   "year": "2020",
+   "title": "Impact of Gene-Environment Interactions on Cancer Development."
+  },
+  {
+   "europepmc_id": "MED:35226188",
+   "pmid": "35226188",
+   "doi": "10.1007/s00439-022-02442-z",
+   "year": "2022",
+   "title": "Uterine fibroid polygenic risk score (PRS) associates and predicts risk for uterine fibroid."
+  },
+  {
+   "europepmc_id": "MED:33293362",
+   "pmid": "33293362",
+   "doi": "10.1136/bmjresp-2020-000667",
+   "year": "2020",
+   "title": "Minimal clinically important difference for chest discomfort in patients undergoing pleural interventions."
+  },
+  {
+   "europepmc_id": "MED:36609516",
+   "pmid": "36609516",
+   "doi": "10.1186/s40695-022-00084-9",
+   "year": "2023",
+   "title": "Hysterectomy and women's health in India: evidence from a nationally representative, cross-sectional survey of older women."
+  },
+  {
+   "europepmc_id": "MED:38697046",
+   "pmid": "38697046",
+   "doi": "10.1159/000538974",
+   "year": "2024",
+   "title": "Association between Waist-Hip Ratio and Female Infertility in the United States: Data from National Health and Nutrition Examination Survey 2017-2020."
+  },
+  {
+   "europepmc_id": "MED:32108150",
+   "pmid": "32108150",
+   "doi": "10.1038/s41598-020-59916-1",
+   "year": "2020",
+   "title": "Co-existence of leiomyomas, adenomyosis and endometriosis in women with endometrial cancer."
+  },
+  {
+   "europepmc_id": "MED:40732941",
+   "pmid": "40732941",
+   "doi": "10.3390/nu17142316",
+   "year": "2025",
+   "title": "Gut Microbiota in Women with Eating Disorders: A New Frontier in Pathophysiology and Treatment."
+  },
+  {
+   "europepmc_id": "MED:30976644",
+   "pmid": "30976644",
+   "doi": "10.1016/j.gore.2019.03.014",
+   "year": "2019",
+   "title": "Heterotopic atypical trophoblasts mimicking ectopic choriocarcinoma coexistent with a viable intrauterine pregnancy: A diagnostic dilemma."
+  },
+  {
+   "europepmc_id": "MED:31662371",
+   "pmid": "31662371",
+   "doi": "10.1136/bmjopen-2019-030318",
+   "year": "2019",
+   "title": "Female reproductive history in relation to chronic obstructive pulmonary disease and lung function in UK biobank: a prospective population-based cohort study."
+  },
+  {
+   "europepmc_id": "MED:33602974",
+   "pmid": "33602974",
+   "doi": "10.1038/s41598-021-83446-z",
+   "year": "2021",
+   "title": "Enrichment analyses of diseases and pathways associated with precocious puberty using PrecocityDB."
+  },
+  {
+   "europepmc_id": "MED:40026503",
+   "pmid": "40026503",
+   "doi": "10.31083/rcm26430",
+   "year": "2025",
+   "title": "Getting to the Heart of the Matter: Exploring the Intersection of Cardiovascular Disease, Sex and Race and How Exercise, and Gut Microbiota Influence these Relationships."
+  },
+  {
+   "europepmc_id": "MED:41594877",
+   "pmid": "41594877",
+   "doi": "10.3390/biology15020142",
+   "year": "2026",
+   "title": "Molecular Insights into Widespread Pseudouridine RNA Modifications: Implications for Women's Health and Disease."
+  },
+  {
+   "europepmc_id": "MED:33852846",
+   "pmid": "33852846",
+   "doi": "10.1016/j.celrep.2021.108978",
+   "year": "2021",
+   "title": "Single-cell transcriptomics identifies gene expression networks driving differentiation and tumorigenesis in the human fallopian tube."
+  },
+  {
+   "europepmc_id": "MED:37108615",
+   "pmid": "37108615",
+   "doi": "10.3390/ijms24087454",
+   "year": "2023",
+   "title": "Dysregulated Liver Metabolism and Polycystic Ovarian Syndrome."
+  },
+  {
+   "europepmc_id": "MED:40458798",
+   "pmid": "40458798",
+   "doi": "10.3389/fphar.2025.1586364",
+   "year": "2025",
+   "title": "The key players of inflammasomes and pyroptosis in sepsis-induced pathogenesis and organ dysfunction."
+  },
+  {
+   "europepmc_id": "MED:37403054",
+   "pmid": "37403054",
+   "doi": "10.1186/s12885-023-11053-4",
+   "year": "2023",
+   "title": "Metabolic syndrome score as an indicator in a predictive nomogram for lymph node metastasis in endometrial cancer."
+  },
+  {
+   "europepmc_id": "MED:36145618",
+   "pmid": "36145618",
+   "doi": "10.3390/pharmaceutics14091870",
+   "year": "2022",
+   "title": "Nose-to-Brain Delivery of Therapeutic Peptides as Nasal Aerosols."
+  },
+  {
+   "europepmc_id": "MED:42400102",
+   "pmid": "42400102",
+   "doi": "10.1186/s40364-026-00957-5",
+   "year": "2026",
+   "title": "Guided immunotherapy for residual solid tumor: integrating platelets and CAR T cells to reduce post-surgical recurrence."
+  },
+  {
+   "europepmc_id": "MED:39786530",
+   "pmid": "39786530",
+   "doi": "10.1007/s10815-024-03326-z",
+   "year": "2025",
+   "title": "Association of serum vitamin D level and live birth rate in women undergoing frozen embryo transfer-a retrospective cohort study."
+  },
+  {
+   "europepmc_id": "MED:39514846",
+   "pmid": "39514846",
+   "doi": "10.1021/acs.jproteome.4c00776",
+   "year": "2024",
+   "title": "The 2024 Report on the Human Proteome from the HUPO Human Proteome Project."
+  },
+  {
+   "europepmc_id": "MED:39110636",
+   "pmid": "39110636",
+   "doi": "10.1213/ane.0000000000007096",
+   "year": "2025",
+   "title": "Links Between Cellular Energy Metabolism and Pain Sensation."
+  },
+  {
+   "europepmc_id": "MED:39866113",
+   "pmid": "39866113",
+   "doi": "10.1161/cir.0000000000001303",
+   "year": "2025",
+   "title": "2025 Heart Disease and Stroke Statistics: A Report of US and Global Data From the American Heart Association."
+  },
+  {
+   "europepmc_id": "MED:39378412",
+   "pmid": "39378412",
+   "doi": "10.1093/humupd/dmae030",
+   "year": "2025",
+   "title": "Functional hypothalamic amenorrhoea and polycystic ovarian morphology: a narrative review about an intriguing association."
+  },
+  {
+   "europepmc_id": "MED:35084716",
+   "pmid": "35084716",
+   "doi": "10.1007/s43032-022-00863-9",
+   "year": "2023",
+   "title": "Multiomics Analysis-Based Biomarkers in Diagnosis of Polycystic Ovary Syndrome."
+  },
+  {
+   "europepmc_id": "MED:41567851",
+   "pmid": "41567851",
+   "doi": "10.62347/olgv6926",
+   "year": "2025",
+   "title": "Ferroptosis in ischemia-reperfusion injury: molecular mechanisms and therapeutic strategies."
+  },
+  {
+   "europepmc_id": "MED:29706346",
+   "pmid": "29706346",
+   "doi": "10.1016/j.ajhg.2018.03.001",
+   "year": "2018",
+   "title": "An Osteoporosis Risk SNP at 1p36.12 Acts as an Allele-Specific Enhancer to Modulate LINC00339 Expression via Long-Range Loop Formation."
+  },
+  {
+   "europepmc_id": "MED:40317096",
+   "pmid": "40317096",
+   "doi": "10.1186/s41043-025-00899-y",
+   "year": "2025",
+   "title": "Nutritional and herbal interventions for polycystic ovary syndrome (PCOS): a comprehensive review of dietary approaches, macronutrient impact, and herbal medicine in management."
+  },
+  {
+   "europepmc_id": "PMC:PMC11627200",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters"
+  },
+  {
+   "europepmc_id": "MED:36428788",
+   "pmid": "36428788",
+   "doi": "10.3390/cancers14225696",
+   "year": "2022",
+   "title": "Acute Pancreatitis Increases the Risk of Gastrointestinal Cancer in Type 2 Diabetic Patients: A Korean Nationwide Cohort Study."
+  },
+  {
+   "europepmc_id": "MED:40210705",
+   "pmid": "40210705",
+   "doi": "10.1038/s41562-025-02143-3",
+   "year": "2025",
+   "title": "Health effects associated with exposure of children to physical violence, psychological violence and neglect: a Burden of Proof study."
+  },
+  {
+   "europepmc_id": "MED:28443200",
+   "pmid": "28443200",
+   "doi": "10.20892/j.issn.2095-3941.2016.0084",
+   "year": "2017",
+   "title": "Epidemiology of ovarian cancer: a review."
+  },
+  {
+   "europepmc_id": "MED:25099244",
+   "pmid": "25099244",
+   "doi": "10.1021/pr500384n",
+   "year": "2014",
+   "title": "Ovarian endometriosis signatures established through discovery and directed mass spectrometry analysis."
+  },
+  {
+   "europepmc_id": "MED:41160629",
+   "pmid": "41160629",
+   "doi": "10.1371/journal.pone.0335467",
+   "year": "2025",
+   "title": "Social isolation and cardiometabolic burden synergistically predict physical dysfunction in aging Chinese adults: Evidence of risk thresholds and the mediating role of frailty."
+  },
+  {
+   "europepmc_id": "PMC:PMC13638990",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Glutamine metabolism in health and disease"
+  },
+  {
+   "europepmc_id": "PMC:PMC11627198",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Oral Presentations"
+  },
+  {
+   "europepmc_id": "MED:36852532",
+   "pmid": "36852532",
+   "doi": "10.1192/bjo.2023.8",
+   "year": "2023",
+   "title": "Patient factors associated with receipt of psychological and pharmacological treatments among individuals with common mental disorders in a Swedish primary care setting."
+  },
+  {
+   "europepmc_id": "MED:38641608",
+   "pmid": "38641608",
+   "doi": "10.1186/s12920-024-01854-2",
+   "year": "2024",
+   "title": "Revealing Prdx4 as a potential diagnostic and therapeutic target for acute pancreatitis based on machine learning analysis."
+  },
+  {
+   "europepmc_id": "MED:38890130",
+   "pmid": "38890130",
+   "doi": "10.1093/humrep/deae118",
+   "year": "2024",
+   "title": "The association between reproductive history and abdominal adipose tissue among postmenopausal women: results from the Women's Health Initiative."
+  },
+  {
+   "europepmc_id": "MED:38415615",
+   "pmid": "38415615",
+   "doi": "10.1289/ehp13202",
+   "year": "2024",
+   "title": "Total Effective Xenoestrogen Burden in Serum Samples and Risk of Endometrial Cancer in the Spanish Screenwide Case-Control Study."
+  },
+  {
+   "europepmc_id": "MED:36154788",
+   "pmid": "36154788",
+   "doi": "10.1016/j.hoc.2022.07.002",
+   "year": "2022",
+   "title": "Pancreatic Adenocarcinoma: Trends in Epidemiology, Risk Factors, and Outcomes."
+  },
+  {
+   "europepmc_id": "PMC:PMC12282809",
+   "pmid": null,
+   "doi": null,
+   "year": "2025",
+   "title": "2nd International Conference on Public Health and Health Sciences (PHHS2025)"
+  },
+  {
+   "europepmc_id": "MED:37234151",
+   "pmid": "37234151",
+   "doi": "10.3389/fimmu.2023.1146500",
+   "year": "2023",
+   "title": "T cell immunity following COVID-19 vaccination in adult patients with primary antibody deficiency - a 22-month follow-up."
+  },
+  {
+   "europepmc_id": "MED:38052102",
+   "pmid": "38052102",
+   "doi": "10.1093/humrep/dead247",
+   "year": "2024",
+   "title": "Genome-wide association study meta-analysis of dizygotic twinning illuminates genetic regulation of female fecundity."
+  },
+  {
+   "europepmc_id": "MED:29167102",
+   "pmid": "29167102",
+   "doi": "10.1136/bmj.j5024",
+   "year": "2017",
+   "title": "Coffee consumption and health: umbrella review of meta-analyses of multiple health outcomes."
+  },
+  {
+   "europepmc_id": "MED:31233286",
+   "pmid": "31233286",
+   "doi": "10.1002/pmrj.12209",
+   "year": "2019",
+   "title": "A Narrative Review of Musculoskeletal Impairments Associated With Nonspecific Chronic Pelvic Pain."
+  },
+  {
+   "europepmc_id": "MED:38011523",
+   "pmid": "38011523",
+   "doi": "10.2337/dci23-0035",
+   "year": "2023",
+   "title": "Diabetes and Multiple Long-term Conditions: A Review of Our Current Global Health Challenge."
+  },
+  {
+   "europepmc_id": "MED:41260099",
+   "pmid": "41260099",
+   "doi": "10.1016/j.redox.2025.103930",
+   "year": "2025",
+   "title": "Ferredoxins: master regulators in mitochondrial redox homeostasis and programmed cell death."
+  },
+  {
+   "europepmc_id": "MED:33272980",
+   "pmid": "33272980",
+   "doi": "10.1158/1078-0432.ccr-20-3609",
+   "year": "2021",
+   "title": "A Randomized Phase IIb Study of Low-dose Tamoxifen in Chest-irradiated Cancer Survivors at Risk for Breast Cancer."
+  },
+  {
+   "europepmc_id": "MED:40507438",
+   "pmid": "40507438",
+   "doi": "10.3390/jcm14113677",
+   "year": "2025",
+   "title": "The Genetic Background of Ankylosing Spondylitis Reveals a Distinct Overlap with Autoimmune Diseases: A Systematic Review."
+  },
+  {
+   "europepmc_id": "PMC:PMC4489380",
+   "pmid": null,
+   "doi": "10.1186/2050-5736-3-s1-o95",
+   "year": "2015",
+   "title": "Efficacy of MR-guided focused ultrasound ablation for localized adenomyosis in comparison to leiomyoma"
+  },
+  {
+   "europepmc_id": "MED:35181845",
+   "pmid": "35181845",
+   "doi": "10.1007/s43032-022-00883-5",
+   "year": "2022",
+   "title": "SRI 2022: Scientific Abstracts."
+  },
+  {
+   "europepmc_id": "MED:38131149",
+   "pmid": "38131149",
+   "doi": "10.2217/epi-2023-0298",
+   "year": "2024",
+   "title": "DNA methylation as a window into female reproductive aging."
+  },
+  {
+   "europepmc_id": "MED:30007778",
+   "pmid": "30007778",
+   "doi": "10.1016/j.bpobgyn.2018.05.003",
+   "year": "2018",
+   "title": "Genetic studies of gestational duration and preterm birth."
+  },
+  {
+   "europepmc_id": "MED:34945853",
+   "pmid": "34945853",
+   "doi": "10.3390/jpm11121382",
+   "year": "2021",
+   "title": "A Network-Based Analysis of Disease Complication Associations for Obstetric Disorders in the UK Biobank."
+  },
+  {
+   "europepmc_id": "MED:34097024",
+   "pmid": "34097024",
+   "doi": "10.1093/humrep/deab133",
+   "year": "2021",
+   "title": "Semen parameter thresholds and time-to-conception in subfertile couples: how high is high enough?"
+  },
+  {
+   "europepmc_id": "MED:34021356",
+   "pmid": "34021356",
+   "doi": "10.1093/humrep/deab086",
+   "year": "2021",
+   "title": "Large trans-ethnic meta-analysis identifies AKR1C4 as a novel gene associated with age at menarche."
+  },
+  {
+   "europepmc_id": "MED:25730438",
+   "pmid": "25730438",
+   "doi": "10.1097/spv.0000000000000162",
+   "year": "2015",
+   "title": "Practice patterns regarding management of rectovaginal fistulae: a multicenter review from the Fellows' Pelvic Research Network."
+  },
+  {
+   "europepmc_id": "MED:23743378",
+   "pmid": "23743378",
+   "doi": "10.4293/108680812x13517013317275",
+   "year": "2013",
+   "title": "Robotic-assisted hysterectomy for the management of severe endometriosis: a retrospective review of short-term surgical outcomes."
+  },
+  {
+   "europepmc_id": "MED:42936151",
+   "pmid": "42936151",
+   "doi": "10.1093/schizbullopen/sgaa026",
+   "year": "2020",
+   "title": "L-Tetrahydropalmatine, a Novel Dopamine Antagonist, Fails to Improve Psychiatric Symptoms as Adjunctive Treatment for Schizophrenia."
+  },
+  {
+   "europepmc_id": "MED:24371670",
+   "pmid": "24371670",
+   "doi": "10.1016/j.gynor.2012.12.007",
+   "year": "2012",
+   "title": "Painful clitoromegaly caused by rare epithelioid hemangioma."
+  },
+  {
+   "europepmc_id": "MED:29203946",
+   "pmid": "29203946",
+   "doi": null,
+   "year": "2017",
+   "title": "Unusual case of pyometra in a bichon frise dog."
+  },
+  {
+   "europepmc_id": "PMC:PMC10713352",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "Abstract"
+  },
+  {
+   "europepmc_id": "MED:41039211",
+   "pmid": "41039211",
+   "doi": "10.1186/s10194-025-02145-6",
+   "year": "2025",
+   "title": "Hallmarks of primary headache: part 3 - cluster headache."
+  },
+  {
+   "europepmc_id": "MED:35565271",
+   "pmid": "35565271",
+   "doi": "10.3390/cancers14092141",
+   "year": "2022",
+   "title": "Differences in the Active Endometrial Microbiota across Body Weight and Cancer in Humans and Mice."
+  },
+  {
+   "europepmc_id": "MED:34855745",
+   "pmid": "34855745",
+   "doi": "10.1371/journal.pcbi.1009586",
+   "year": "2021",
+   "title": "Observable variations in human sex ratio at birth."
+  },
+  {
+   "europepmc_id": "MED:19589710",
+   "pmid": "19589710",
+   "doi": "10.1016/j.jpag.2009.02.010",
+   "year": "2010",
+   "title": "Endometriosis in a patient with Mayer-Rokitansky-Küster-Hauser syndrome and complete uterine agenesis: evidence to support the theory of coelomic metaplasia."
+  },
+  {
+   "europepmc_id": "MED:31011992",
+   "pmid": "31011992",
+   "doi": "10.1007/s10508-019-1422-9",
+   "year": "2021",
+   "title": "Understanding Women's Responses to Sexual Pain After Female Genital Cutting: An Integrative Psychological Pain Response Model."
+  },
+  {
+   "europepmc_id": "MED:24368481",
+   "pmid": "24368481",
+   "doi": "10.1097/spv.0000000000000041",
+   "year": "2014",
+   "title": "Management of vesicovaginal fistulae: a multicenter analysis from the Fellows' Pelvic Research Network."
+  },
+  {
+   "europepmc_id": "MED:38264914",
+   "pmid": "38264914",
+   "doi": "10.1161/cir.0000000000001209",
+   "year": "2024",
+   "title": "2024 Heart Disease and Stroke Statistics: A Report of US and Global Data From the American Heart Association."
+  },
+  {
+   "europepmc_id": "MED:31399916",
+   "pmid": "31399916",
+   "doi": "10.1007/s10815-019-01551-5",
+   "year": "2019",
+   "title": "Biphasic in vitro maturation (CAPA-IVM) specifically improves the developmental capacity of oocytes from small antral follicles."
+  },
+  {
+   "europepmc_id": "MED:33413488",
+   "pmid": "33413488",
+   "doi": "10.1186/s12986-020-00527-y",
+   "year": "2021",
+   "title": "Milk consumption and multiple health outcomes: umbrella review of systematic reviews and meta-analyses in humans."
+  },
+  {
+   "europepmc_id": "MED:25306234",
+   "pmid": "25306234",
+   "doi": "10.1186/1471-2482-14-77",
+   "year": "2014",
+   "title": "Laparoscopic versus open adhesiolysis for small bowel obstruction - a multicenter, prospective, randomized, controlled trial."
+  },
+  {
+   "europepmc_id": "PMC:PMC10772074",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Abstracts from the 56th European Society of Human Genetics (ESHG) Conference: Hybrid Posters"
+  },
+  {
+   "europepmc_id": "MED:31800094",
+   "pmid": "31800094",
+   "doi": "10.1002/ijc.32818",
+   "year": "2020",
+   "title": "High RIG-I expression in ovarian cancer associates with an immune-escape signature and poor clinical outcome."
+  },
+  {
+   "europepmc_id": "PMC:PMC13378711",
+   "pmid": null,
+   "doi": null,
+   "year": null,
+   "title": "Book of Posters"
+  },
+  {
+   "europepmc_id": "MED:29946226",
+   "pmid": "29946226",
+   "doi": "10.1186/s12950-018-0188-5",
+   "year": "2018",
+   "title": "Experimental murine acute lung injury induces increase of pulmonary TIE2-expressing macrophages."
+  },
+  {
+   "europepmc_id": "MED:19661748",
+   "pmid": "19661748",
+   "doi": "10.1097/grf.0b013e3181b089cb",
+   "year": "2009",
+   "title": "Laparoscopic management of the ovarian mass: a practical approach."
+  },
+  {
+   "europepmc_id": "MED:32854222",
+   "pmid": "32854222",
+   "doi": "10.3390/cancers12092407",
+   "year": "2020",
+   "title": "Genetic Susceptibility to Endometrial Cancer: Risk Factors and Clinical Management."
+  },
+  {
+   "europepmc_id": "MED:38745115",
+   "pmid": "38745115",
+   "doi": "10.1186/s11658-024-00591-9",
+   "year": "2024",
+   "title": "The role of proinflammatory cytokines and CXC chemokines (CXCL1-CXCL16) in the progression of prostate cancer: insights on their therapeutic management."
+  },
+  {
+   "europepmc_id": "PMC:PMC10772079",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Abstracts from the 56th European Society of Human Genetics (ESHG) Conference: Oral Presentations"
+  },
+  {
+   "europepmc_id": "MED:23454253",
+   "pmid": "23454253",
+   "doi": "10.1016/j.ajog.2013.02.040",
+   "year": "2013",
+   "title": "Risk factors associated with endometriosis: importance of study population for characterizing disease in the ENDO Study."
+  },
+  {
+   "europepmc_id": "MED:34166564",
+   "pmid": "34166564",
+   "doi": "10.1002/kjm2.12414",
+   "year": "2021",
+   "title": "Genetic polymorphisms of regulatory T cell-related genes modulate systemic inflammation induced by viral hepatitis."
+  },
+  {
+   "europepmc_id": "MED:36226444",
+   "pmid": "36226444",
+   "doi": "10.1177/21501319221129734",
+   "year": "2022",
+   "title": "An Observational Cross-Sectional Survey Exploring the Indications for and Responses to Medical Marijuana Use in Certified Patients in Pennsylvania."
+  },
+  {
+   "europepmc_id": "MED:22177143",
+   "pmid": "22177143",
+   "doi": "10.1016/j.juro.2011.10.036",
+   "year": "2012",
+   "title": "Association of neuropathic pain with bladder, bowel and catastrophizing symptoms in women with bladder pain syndrome."
+  },
+  {
+   "europepmc_id": "MED:26704365",
+   "pmid": "26704365",
+   "doi": "10.1093/hmg/ddv512",
+   "year": "2016",
+   "title": "Chronic gastroesophageal reflux disease shares genetic background with esophageal adenocarcinoma and Barrett's esophagus."
+  },
+  {
+   "europepmc_id": "MED:24206792",
+   "pmid": "24206792",
+   "doi": "10.1016/j.jegh.2013.08.003",
+   "year": "2013",
+   "title": "Factors associated with breast cancer in Puerto Rican women."
+  },
+  {
+   "europepmc_id": "MED:25296917",
+   "pmid": "25296917",
+   "doi": "10.1093/hmg/ddu516",
+   "year": "2015",
+   "title": "Genome-wide enrichment analysis between endometriosis and obesity-related traits reveals novel susceptibility loci."
+  },
+  {
+   "europepmc_id": "MED:41716412",
+   "pmid": "41716412",
+   "doi": "10.3389/fimmu.2026.1732435",
+   "year": "2026",
+   "title": "From inflammatory activation to fibrotic remodeling: the central role of macrophage heterogeneity in frozen shoulder."
+  },
+  {
+   "europepmc_id": "MED:22643499",
+   "pmid": "22643499",
+   "doi": "10.4293/108680811x13176785203716",
+   "year": "2011",
+   "title": "Laparoscopic supracervical hysterectomy versus laparoscopic-assisted vaginal hysterectomy."
+  },
+  {
+   "europepmc_id": "PMC:PMC12502813",
+   "pmid": null,
+   "doi": null,
+   "year": null,
+   "title": "Book of Posters"
+  },
+  {
+   "europepmc_id": "MED:37109585",
+   "pmid": "37109585",
+   "doi": "10.3390/life13041056",
+   "year": "2023",
+   "title": "Pathophysiological Effects of Contemporary Lifestyle on Evolutionary-Conserved Survival Mechanisms in Polycystic Ovary Syndrome."
+  },
+  {
+   "europepmc_id": "MED:35693829",
+   "pmid": "35693829",
+   "doi": "10.3389/fimmu.2022.890996",
+   "year": "2022",
+   "title": "A Roadmap for Investigating Preclinical Autoimmunity Using Patient-Oriented and Epidemiologic Study Designs: Example of Rheumatoid Arthritis."
+  },
+  {
+   "europepmc_id": "MED:37086959",
+   "pmid": "37086959",
+   "doi": "10.1016/j.jbi.2023.104368",
+   "year": "2023",
+   "title": "Causal feature selection using a knowledge graph combining structured knowledge from the biomedical literature and ontologies: A use case studying depression as a risk factor for Alzheimer's disease."
+  },
+  {
+   "europepmc_id": "MED:31462430",
+   "pmid": "31462430",
+   "doi": "10.1158/0008-5472.can-19-1554",
+   "year": "2019",
+   "title": "High Levels of C-Reactive Protein Are Associated with an Increased Risk of Ovarian Cancer: Results from the Ovarian Cancer Cohort Consortium."
+  },
+  {
+   "europepmc_id": "MED:16275244",
+   "pmid": "16275244",
+   "doi": "10.1016/j.fertnstert.2005.04.057",
+   "year": "2005",
+   "title": "Adhesion formation after laparoscopic excision of endometriosis and lysis of adhesions."
+  },
+  {
+   "europepmc_id": "MED:33725341",
+   "pmid": "33725341",
+   "doi": "10.1007/s40279-021-01435-8",
+   "year": "2021",
+   "title": "Methodological Considerations for Studies in Sport and Exercise Science with Women as Participants: A Working Guide for Standards of Practice for Research on Women."
+  },
+  {
+   "europepmc_id": "MED:32030671",
+   "pmid": "32030671",
+   "doi": "10.1007/s43032-019-00138-w",
+   "year": "2020",
+   "title": "Vision 20/20 for the Second Leap of Reproductive Sciences."
+  },
+  {
+   "europepmc_id": "MED:35011060",
+   "pmid": "35011060",
+   "doi": "10.3390/nu14010185",
+   "year": "2021",
+   "title": "Essentiality of Trace Elements in Pregnancy, Fertility, and Gynecologic Cancers-A State-of-the-Art Review."
+  },
+  {
+   "europepmc_id": "MED:33901271",
+   "pmid": "33901271",
+   "doi": "10.1210/endrev/bnab015",
+   "year": "2021",
+   "title": "The Relationship Between Bone and Reproductive Hormones Beyond Estrogens and Androgens."
+  },
+  {
+   "europepmc_id": "MED:17448678",
+   "pmid": "17448678",
+   "doi": "10.1016/j.annepidem.2006.11.005",
+   "year": "2007",
+   "title": "Endometriosis among women exposed to polybrominated biphenyls."
+  },
+  {
+   "europepmc_id": "MED:40943351",
+   "pmid": "40943351",
+   "doi": "10.3390/ijms26178429",
+   "year": "2025",
+   "title": "Molecular and Immunomodulatory Mechanisms of Statins in Inflammation and Cancer Therapeutics with Emphasis on the NF-κB, NLRP3 Inflammasome, and Cytokine Regulatory Axes."
+  },
+  {
+   "europepmc_id": "MED:30135907",
+   "pmid": "30135907",
+   "doi": "10.4102/sajp.v73i1.362",
+   "year": "2017",
+   "title": "University of the Witwatersrand physiotherapy undergraduate curriculum alignment to medical conditions of patients within Gauteng state health facilities."
+  },
+  {
+   "europepmc_id": "MED:29289418",
+   "pmid": "29289418",
+   "doi": "10.1016/j.ygyno.2017.12.025",
+   "year": "2018",
+   "title": "Long-term, adverse genitourinary outcomes among endometrial cancer survivors in a large, population-based cohort study."
+  },
+  {
+   "europepmc_id": "PMC:PMC7104435",
+   "pmid": null,
+   "doi": null,
+   "year": "2019",
+   "title": "Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC9364699",
+   "pmid": null,
+   "doi": null,
+   "year": "2021",
+   "title": "PROCEEDINGS OF THE ANNUAL CONGRESS OF SIAPec IAP : November 23rd-27th, 2021"
+  },
+  {
+   "europepmc_id": "MED:21862451",
+   "pmid": "21862451",
+   "doi": "10.1093/hmg/ddr375",
+   "year": "2011",
+   "title": "GWAS of butyrylcholinesterase activity identifies four novel loci, independent effects within BCHE and secondary associations with metabolic risk factors."
+  },
+  {
+   "europepmc_id": "MED:17662280",
+   "pmid": "17662280",
+   "doi": "10.1016/j.fertnstert.2007.05.042",
+   "year": "2008",
+   "title": "Using location, color, size, and depth to characterize and identify endometriosis lesions in a cohort of 133 women."
+  },
+  {
+   "europepmc_id": "MED:33608049",
+   "pmid": "33608049",
+   "doi": "10.1186/s13073-021-00831-z",
+   "year": "2021",
+   "title": "Development of genome-wide polygenic risk scores for lipid traits and clinical applications for dyslipidemia, subclinical atherosclerosis, and diabetes cardiovascular complications among East Asians."
+  },
+  {
+   "europepmc_id": "MED:23013733",
+   "pmid": "23013733",
+   "doi": "10.1097/igc.0b013e31826bd1f2",
+   "year": "2012",
+   "title": "Ovarian cancer: prevention, detection, and treatment of the disease and its recurrence. Molecular mechanisms and personalized medicine meeting report."
+  },
+  {
+   "europepmc_id": "MED:29634388",
+   "pmid": "29634388",
+   "doi": "10.1089/jwh.2018.29017.abstracts",
+   "year": "2018",
+   "title": "Abstracts from Women's Health 2018: Translating Research into Clinical Practice May 4-6, 2018 Washington, DC."
+  },
+  {
+   "europepmc_id": "MED:35582568",
+   "pmid": "35582568",
+   "doi": "10.20517/cdr.2019.51",
+   "year": "2019",
+   "title": "Circulating non-coding RNAs in recurrent and metastatic ovarian cancer."
+  },
+  {
+   "europepmc_id": "MED:19065661",
+   "pmid": "19065661",
+   "doi": "10.1002/ijc.24091",
+   "year": "2009",
+   "title": "Markers of inflammation and risk of ovarian cancer in Los Angeles County."
+  },
+  {
+   "europepmc_id": "MED:36695182",
+   "pmid": "36695182",
+   "doi": "10.1161/cir.0000000000001123",
+   "year": "2023",
+   "title": "Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association."
+  },
+  {
+   "europepmc_id": "MED:28595290",
+   "pmid": "28595290",
+   "doi": "10.1093/aje/kwx204",
+   "year": "2018",
+   "title": "Dietary Fat Intake and Fecundability in 2 Preconception Cohort Studies."
+  },
+  {
+   "europepmc_id": "MED:18165396",
+   "pmid": "18165396",
+   "doi": "10.1097/01.aog.0000297307.35024.b5",
+   "year": "2008",
+   "title": "Return of chronic pelvic pain from endometriosis after raloxifene treatment: a randomized controlled trial."
+  },
+  {
+   "europepmc_id": "MED:36647089",
+   "pmid": "36647089",
+   "doi": "10.1186/s12902-022-01208-y",
+   "year": "2023",
+   "title": "Lifestyle management in polycystic ovary syndrome - beyond diet and physical activity."
+  },
+  {
+   "europepmc_id": "MED:30322097",
+   "pmid": "30322097",
+   "doi": "10.3390/ijerph15102241",
+   "year": "2018",
+   "title": "The Role of Vitamin D in Fertility and during Pregnancy and Lactation: A Review of Clinical Data."
+  },
+  {
+   "europepmc_id": "MED:33251927",
+   "pmid": "33251927",
+   "doi": "10.1161/jaha.120.017759",
+   "year": "2020",
+   "title": "Single-Cell Immune Profiling in Coronary Artery Disease: The Role of State-of-the-Art Immunophenotyping With Mass Cytometry in the Diagnosis of Atherosclerosis."
+  },
+  {
+   "europepmc_id": "PMC:PMC13323440",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "ECR 2026 Book of Abstracts"
+  },
+  {
+   "europepmc_id": "MED:26885361",
+   "pmid": "26885361",
+   "doi": "10.1186/s13293-016-0067-9",
+   "year": "2016",
+   "title": "Consecutive lynestrenol and cross-sex hormone treatment in biological female adolescents with gender dysphoria: a retrospective analysis."
+  },
+  {
+   "europepmc_id": "MED:21570461",
+   "pmid": "21570461",
+   "doi": "10.1016/j.tiv.2011.04.020",
+   "year": "2011",
+   "title": "Differential regulation of polysome mRNA levels in mouse Hepa-1C1C7 cells exposed to dioxin."
+  },
+  {
+   "europepmc_id": "PMC:PMC2659112",
+   "pmid": null,
+   "doi": null,
+   "year": "2007",
+   "title": "The Joint Meeting of the Society for Social Medicine and the International Epidemiological Association (European Federation) 12–14 September 2007 University College Cork Programme"
+  },
+  {
+   "europepmc_id": "PMC:PMC13344532",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Poster Session 2 : Wednesday, February 11, 2026   3:30 PM – 5:00 PM"
+  },
+  {
+   "europepmc_id": "MED:30093612",
+   "pmid": "30093612",
+   "doi": "10.1038/s41467-018-05427-7",
+   "year": "2018",
+   "title": "Identification of nine new susceptibility loci for endometrial cancer."
+  },
+  {
+   "europepmc_id": "MED:40179933",
+   "pmid": "40179933",
+   "doi": "10.1016/s0140-6736(25)00055-8",
+   "year": "2025",
+   "title": "The Lancet Commission on rethinking coronary artery disease: moving from ischaemia to atheroma."
+  },
+  {
+   "europepmc_id": "MED:27903519",
+   "pmid": "27903519",
+   "doi": "10.3945/ajcn.116.138404",
+   "year": "2017",
+   "title": "Dairy intake and fecundability in 2 preconception cohort studies."
+  },
+  {
+   "europepmc_id": "MED:26039877",
+   "pmid": "26039877",
+   "doi": "10.1371/journal.pone.0126821",
+   "year": "2015",
+   "title": "Human fertility, molecular genetics, and natural selection in modern societies."
+  },
+  {
+   "europepmc_id": "MED:17239850",
+   "pmid": "17239850",
+   "doi": "10.1016/j.envres.2006.11.010",
+   "year": "2007",
+   "title": "Risk of spontaneous abortion among women exposed to polybrominated biphenyls."
+  },
+  {
+   "europepmc_id": "MED:28335003",
+   "pmid": "28335003",
+   "doi": "10.1093/hmg/ddx092",
+   "year": "2017",
+   "title": "Identification of genetic variants affecting vitamin D receptor binding and associations with autoimmune disease."
+  },
+  {
+   "europepmc_id": "PMC:PMC13390741",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "ICE2026/JES2026 Abstract Book"
+  },
+  {
+   "europepmc_id": "MED:22907476",
+   "pmid": "22907476",
+   "doi": "10.1007/s11999-012-2542-x",
+   "year": "2013",
+   "title": "Motion and pain relief remain 23 years after manipulation under anesthesia for frozen shoulder."
+  },
+  {
+   "europepmc_id": "MED:42812882",
+   "pmid": "42812882",
+   "doi": "10.17294/2330-0698.2385",
+   "year": "2026",
+   "title": "Abstracts From the 2026 Health Care Systems Research Network (HCSRN) Annual Conference, Dallas, Texas."
+  },
+  {
+   "europepmc_id": "MED:28209224",
+   "pmid": "28209224",
+   "doi": "10.1016/j.jacc.2016.11.056",
+   "year": "2017",
+   "title": "Systematic Evaluation of Pleiotropy Identifies 6 Further Loci Associated With Coronary Artery Disease."
+  },
+  {
+   "europepmc_id": "MED:19196744",
+   "pmid": "19196744",
+   "doi": "10.1136/bmj.b249",
+   "year": "2009",
+   "title": "Use of fertility drugs and risk of ovarian cancer: Danish Population Based Cohort Study."
+  },
+  {
+   "europepmc_id": "MED:29449314",
+   "pmid": "29449314",
+   "doi": "10.1530/ec-18-0009",
+   "year": "2018",
+   "title": "Vitamin D, PCOS and androgens in men: a systematic review."
+  },
+  {
+   "europepmc_id": "MED:19843503",
+   "pmid": "19843503",
+   "doi": "10.1136/jmg.2008.065961",
+   "year": "2009",
+   "title": "Clinical and cellular characterisation of Hermansky-Pudlak syndrome type 6."
+  },
+  {
+   "europepmc_id": "MED:20957095",
+   "pmid": "20957095",
+   "doi": "10.3390/ijms11093298",
+   "year": "2010",
+   "title": "Materials for pharmaceutical dosage forms: molecular pharmaceutics and controlled release drug delivery aspects."
+  },
+  {
+   "europepmc_id": "MED:23427197",
+   "pmid": "23427197",
+   "doi": "10.1177/1933719113482087",
+   "year": "2013",
+   "title": "Abstracts of the 60th Annual Scientific Meeting of the Society for Gynecologic Investigation. March 21-23, 2013. Orlando, Florida, USA."
+  },
+  {
+   "europepmc_id": "PMC:PMC7104441",
+   "pmid": null,
+   "doi": null,
+   "year": "2012",
+   "title": "President’s Plenary Session"
+  },
+  {
+   "europepmc_id": "PMC:PMC7104472",
+   "pmid": null,
+   "doi": null,
+   "year": "2011",
+   "title": "President’s Plenary Session"
+  },
+  {
+   "europepmc_id": "MED:21449604",
+   "pmid": "21449604",
+   "doi": "10.1021/ac103301r",
+   "year": "2011",
+   "title": "Highly sensitive detection of HER2 extracellular domain in the serum of breast cancer patients by piezoelectric microcantilevers."
+  },
+  {
+   "europepmc_id": "MED:27697780",
+   "pmid": "27697780",
+   "doi": "10.1158/1055-9965.epi-16-0106",
+   "year": "2017",
+   "title": "The OncoArray Consortium: A Network for Understanding the Genetic Architecture of Common Cancers."
+  },
+  {
+   "europepmc_id": "MED:28654092",
+   "pmid": "28654092",
+   "doi": "10.1038/nrurol.2017.90",
+   "year": "2017",
+   "title": "Risk factors for cryptorchidism."
+  },
+  {
+   "europepmc_id": "PMC:PMC11470995",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "UEG Week 2024 Poster Presentations"
+  },
+  {
+   "europepmc_id": "PMC:PMC7104455",
+   "pmid": null,
+   "doi": null,
+   "year": "2013",
+   "title": "Scientific Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC7104442",
+   "pmid": null,
+   "doi": null,
+   "year": "2014",
+   "title": "Scientific Abstracts"
+  },
+  {
+   "europepmc_id": "MED:35393538",
+   "pmid": "35393538",
+   "doi": "10.1038/s41431-021-01026-1",
+   "year": "2022",
+   "title": "Abstracts from the 54<sup>th</sup> European Society of Human Genetics (ESHG) Conference: e-Posters."
+  },
+  {
+   "europepmc_id": "PMC:PMC7104549",
+   "pmid": null,
+   "doi": null,
+   "year": "2012",
+   "title": "Scientific Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC10198255",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "Abstracts from the 55th European Society of Human Genetics (ESHG) Conference: Hybrid Posters"
+  },
+  {
+   "europepmc_id": "MED:36648635",
+   "pmid": "36648635",
+   "doi": "10.1007/s11307-022-01794-2",
+   "year": "2022",
+   "title": "World Molecular Imaging Congress 2022."
+  },
+  {
+   "europepmc_id": "PMC:PMC11047233",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "2024 International Congress on Integrative Medicine & Health Abstracts"
+  },
+  {
+   "europepmc_id": "MED:26843151",
+   "pmid": "26843151",
+   "doi": "10.3945/ajcn.115.119321",
+   "year": "2016",
+   "title": "Dietary fat intake and reproductive hormone concentrations and ovulation in regularly menstruating women."
+  },
+  {
+   "europepmc_id": "PMC:PMC1858267",
+   "pmid": null,
+   "doi": null,
+   "year": "1997",
+   "title": ""
+  },
+  {
+   "europepmc_id": "PMC:PMC10795779",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Book of Posters"
+  },
+  {
+   "europepmc_id": "PMC:PMC3399396",
+   "pmid": null,
+   "doi": null,
+   "year": "2010",
+   "title": "8/3/2010"
+  },
+  {
+   "europepmc_id": "PMC:PMC11292956",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Abstracts from the 17th European Headache Congress (EHC)"
+  },
+  {
+   "europepmc_id": "PMC:PMC12496564",
+   "pmid": null,
+   "doi": null,
+   "year": "2025",
+   "title": "UEG Week 2025 Moderated Posters"
+  },
+  {
+   "europepmc_id": "MED:34526696",
+   "pmid": "34526696",
+   "doi": "10.1038/s41573-021-00268-4",
+   "year": "2022",
+   "title": "Advances in TRP channel drug discovery: from target validation to clinical studies."
+  },
+  {
+   "europepmc_id": "PMC:PMC7104552",
+   "pmid": null,
+   "doi": null,
+   "year": "2011",
+   "title": "Scientific Abstracts"
+  },
+  {
+   "europepmc_id": "MED:18446191",
+   "pmid": "18446191",
+   "doi": "10.1371/journal.pone.0002067",
+   "year": "2008",
+   "title": "C. albicans colonization of human mucosal surfaces."
+  },
+  {
+   "europepmc_id": "MED:33262485",
+   "pmid": "33262485",
+   "doi": "10.1038/s41431-020-00739-z",
+   "year": "2020",
+   "title": "Abstracts from the 53rd European Society of Human Genetics (ESHG) Conference: Interactive e-Posters."
+  },
+  {
+   "europepmc_id": "PMC:PMC7104462",
+   "pmid": null,
+   "doi": null,
+   "year": "2009",
+   "title": "Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC11408449",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "ECR 2024 Book of Abstracts"
+  },
+  {
+   "europepmc_id": "MED:22899653",
+   "pmid": "22899653",
+   "doi": "10.1093/hmg/dds334",
+   "year": "2012",
+   "title": "Influence of common genetic variation on lung cancer risk: meta-analysis of 14 900 cases and 29 485 controls."
+  },
+  {
+   "europepmc_id": "PMC:PMC7104432",
+   "pmid": null,
+   "doi": null,
+   "year": "2007",
+   "title": "Scientific Abstracts"
+  },
+  {
+   "europepmc_id": "MED:40986224",
+   "pmid": "40986224",
+   "doi": "10.1007/s40520-025-03119-z",
+   "year": "2025",
+   "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2025)."
+  },
+  {
+   "europepmc_id": "MED:35353208",
+   "pmid": "35353208",
+   "doi": "10.1007/s00247-022-05360-4",
+   "year": "2022",
+   "title": "SPR 2022."
+  },
+  {
+   "europepmc_id": "MED:30570133",
+   "pmid": "30570133",
+   "doi": "10.1002/14651858.cd012378.pub2",
+   "year": "2018",
+   "title": "Inositol for subfertile women with polycystic ovary syndrome."
+  },
+  {
+   "europepmc_id": "MED:33262486",
+   "pmid": "33262486",
+   "doi": "10.1038/s41431-020-00741-5",
+   "year": "2020",
+   "title": "Abstracts from the 53rd European Society of Human Genetics (ESHG) Conference: e-Posters."
+  },
+  {
+   "europepmc_id": "MED:42241377",
+   "pmid": "42241377",
+   "doi": "10.1159/000552071",
+   "year": "2026",
+   "title": "33rd European Congress on Obesity (ECO 2026) - Late Breaking Abstracts."
+  },
+  {
+   "europepmc_id": "MED:27479272",
+   "pmid": "27479272",
+   "doi": "10.1002/14651858.cd010407.pub2",
+   "year": "2016",
+   "title": "Bioidentical hormones for women with vasomotor symptoms."
+  },
+  {
+   "europepmc_id": "PMC:PMC6611732",
+   "pmid": null,
+   "doi": null,
+   "year": "2019",
+   "title": "Abstracts of the 12th European Cytogenomics Conference 2019 : Salzburg, Austria. 6-9 July 2019"
+  },
+  {
+   "europepmc_id": "PMC:PMC11391898",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "ESOC 2023 Abstract Book"
+  },
+  {
+   "europepmc_id": "PMC:PMC11231130",
+   "pmid": null,
+   "doi": null,
+   "year": "2024",
+   "title": "Abstracts from the 2024 Annual Meeting of the Society of General Internal Medicine"
+  },
+  {
+   "europepmc_id": "PMC:PMC9548091",
+   "pmid": null,
+   "doi": null,
+   "year": "2022",
+   "title": "UEG Week 2022 Poster Presentations"
+  },
+  {
+   "europepmc_id": "PMC:PMC2659111",
+   "pmid": null,
+   "doi": null,
+   "year": "2007",
+   "title": "Abstracts"
+  },
+  {
+   "europepmc_id": "MED:25530442",
+   "pmid": "25530442",
+   "doi": "10.1016/s0140-6736(14)61682-2",
+   "year": "2015",
+   "title": "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013."
+  },
+  {
+   "europepmc_id": "MED:36585546",
+   "pmid": "36585546",
+   "doi": "10.1186/s13244-022-01337-x",
+   "year": "2022",
+   "title": "ECR 2022 Book of Abstracts."
+  },
+  {
+   "europepmc_id": "PMC:PMC6777521",
+   "pmid": null,
+   "doi": null,
+   "year": "2018",
+   "title": "Abstracts from the 50th European Society of Human Genetics Conference: Electronic Posters"
+  },
+  {
+   "europepmc_id": "MED:42750029",
+   "pmid": "42750029",
+   "doi": "10.1186/s12969-026-01260-1",
+   "year": "2026",
+   "title": "Proceedings of the 33rd European Paediatric Rheumatology Congress."
+  },
+  {
+   "europepmc_id": "PMC:PMC10187017",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "ISEV2023 Abstract Book"
+  },
+  {
+   "europepmc_id": "PMC:PMC3152264",
+   "pmid": null,
+   "doi": null,
+   "year": "2008",
+   "title": "Preliminary Program and Abstracts for the Eighth American Hepato Pancreato Biliary Congress Annual Scientific Session and Postgraduate Course March 27–30, 2008 Marriott's Harbor Beach Resort & Spa Ft. Lauderdale, Florida"
+  },
+  {
+   "europepmc_id": "MED:40498965",
+   "pmid": "40498965",
+   "doi": "10.1002/1878-0261.70070",
+   "year": "2025",
+   "title": "EACR 2025 Congress: Innovative Cancer Science, 16-19 June 2025."
+  },
+  {
+   "europepmc_id": "MED:26063472",
+   "pmid": "26063472",
+   "doi": "10.1016/s0140-6736(15)60692-4",
+   "year": "2015",
+   "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013."
+  },
+  {
+   "europepmc_id": "MED:35920845",
+   "pmid": "35920845",
+   "doi": "10.1007/s00125-022-05755-w",
+   "year": "2022",
+   "title": "58<sup>th</sup> EASD Annual Meeting of the European Association for the Study of Diabetes : Stockholm, Sweden, 19 - 23 September 2022."
+  },
+  {
+   "europepmc_id": "MED:30496103",
+   "pmid": "30496103",
+   "doi": "10.1016/s0140-6736(18)32203-7",
+   "year": "2018",
+   "title": "Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980-2017: a systematic analysis for the Global Burden of Disease Study 2017."
+  },
+  {
+   "europepmc_id": "MED:33068237",
+   "pmid": "33068237",
+   "doi": "10.1007/s11136-020-02626-y",
+   "year": "2020",
+   "title": "27th Annual Conference of the International Society for Quality of Life Research."
+  },
+  {
+   "europepmc_id": "PMC:PMC10903548",
+   "pmid": null,
+   "doi": null,
+   "year": "2022",
+   "title": "25th Congress of the World Association for Sexual Health (WAS) and SASHA (South African Sexual Health Association)"
+  },
+  {
+   "europepmc_id": "PMC:PMC7128807",
+   "pmid": null,
+   "doi": null,
+   "year": "2017",
+   "title": "Poster Presentation Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC8278368",
+   "pmid": null,
+   "doi": null,
+   "year": "2021",
+   "title": "Abstracts of 17th World Congress of the International Federation of Colposcopy and Cervical Pathology-IFCPC 2021"
+  },
+  {
+   "europepmc_id": "MED:27733281",
+   "pmid": "27733281",
+   "doi": "10.1016/s0140-6736(16)31012-1",
+   "year": "2016",
+   "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015."
+  },
+  {
+   "europepmc_id": "MED:34642903",
+   "pmid": "34642903",
+   "doi": "10.1007/s11136-021-02976-1",
+   "year": "2021",
+   "title": "28th Annual Conference of the International Society for Quality of Life Research."
+  },
+  {
+   "europepmc_id": "PMC:PMC10576948",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "UEG Week 2023 Poster Presentations"
+  },
+  {
+   "europepmc_id": "PMC:PMC11912877",
+   "pmid": null,
+   "doi": null,
+   "year": "2025",
+   "title": "Poster Abstracts - Academy of Managed Care Pharmacy 2025"
+  },
+  {
+   "europepmc_id": "PMC:PMC13434919",
+   "pmid": null,
+   "doi": null,
+   "year": "2026",
+   "title": "Abstracts of the 19th International Congress on Neuromuscular Diseases 7th – 11th July 2026"
+  },
+  {
+   "europepmc_id": "MED:37290960",
+   "pmid": "37290960",
+   "doi": "10.1002/1878-0261.13471",
+   "year": "2023",
+   "title": "EACR 2023: Innovative Cancer Science, 12-15 June 2023, Torino, Italy."
+  },
+  {
+   "europepmc_id": "PMC:PMC5350815",
+   "pmid": null,
+   "doi": null,
+   "year": "2014",
+   "title": "ACTS Abstracts"
+  },
+  {
+   "europepmc_id": "MED:11071270",
+   "pmid": "11071270",
+   "doi": "10.1007/bf03402191",
+   "year": "2000",
+   "title": "Changes in tumorigenesis- and angiogenesis-related gene transcript abundance profiles in ovarian cancer detected by tailored high density cDNA arrays."
+  },
+  {
+   "europepmc_id": "PMC:PMC7101653",
+   "pmid": null,
+   "doi": null,
+   "year": "2009",
+   "title": "Selected Abstracts from the National Congress of the Italian Society of Hypertension (SIIA 2009): 2009 October 1–4, Rome, Italy"
+  },
+  {
+   "europepmc_id": "PMC:PMC12496561",
+   "pmid": null,
+   "doi": null,
+   "year": "2025",
+   "title": "UEG Week 2025 Poster Presentations"
+  },
+  {
+   "europepmc_id": "PMC:PMC5425908",
+   "pmid": null,
+   "doi": null,
+   "year": "2017",
+   "title": "Meeting abstracts from the 4th International Clinical Trials Methodology Conference (ICTMC) and the 38th Annual Meeting of the Society for Clinical Trials : Liverpool, UK. 07–10 May 2017"
+  },
+  {
+   "europepmc_id": "PMC:PMC5350766",
+   "pmid": null,
+   "doi": null,
+   "year": "2015",
+   "title": "ACTS Abstracts"
+  },
+  {
+   "europepmc_id": "MED:33656611",
+   "pmid": "33656611",
+   "doi": "10.1007/s00198-020-05696-3",
+   "year": "2020",
+   "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2020): Poster Abstracts."
+  },
+  {
+   "europepmc_id": "MED:34468792",
+   "pmid": "34468792",
+   "doi": "10.1007/s00125-021-05519-y",
+   "year": "2021",
+   "title": "57<sup>th</sup> EASD Annual Meeting of the European Association for the Study of Diabetes."
+  },
+  {
+   "europepmc_id": "PMC:PMC3152263",
+   "pmid": null,
+   "doi": null,
+   "year": "2008",
+   "title": "Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC1858321",
+   "pmid": null,
+   "doi": null,
+   "year": "1997",
+   "title": ""
+  },
+  {
+   "europepmc_id": "MED:31880058",
+   "pmid": "31880058",
+   "doi": "10.1111/cas.14291",
+   "year": "2019",
+   "title": "\"Abstracts of the 78th Annual Meeting of the Japanese Cancer Association; 2019 Sept 26-28; Kyoto, Japan\" as Cancer Science, Supplement 1, Vol 110 (2019)."
+  },
+  {
+   "europepmc_id": "MED:27739587",
+   "pmid": "27739587",
+   "doi": "10.1002/ana.24759",
+   "year": "2016",
+   "title": "2016 Annual Meetings."
+  },
+  {
+   "europepmc_id": "PMC:PMC1002703",
+   "pmid": null,
+   "doi": null,
+   "year": "1991",
+   "title": ""
+  },
+  {
+   "europepmc_id": "MED:30295118",
+   "pmid": "30295118",
+   "doi": "10.18553/jmcp.2018.24.10-a.s1",
+   "year": "2018",
+   "title": "Meeting Abstracts - Academy of Managed Care Pharmacy Nexus 2018."
+  },
+  {
+   "europepmc_id": "MED:25869016",
+   "pmid": "25869016",
+   "doi": "10.1007/s11606-015-3271-0",
+   "year": "2015",
+   "title": "Abstracts from the 38th annual meeting of the society of general internal medicine."
+  },
+  {
+   "europepmc_id": "PMC:PMC1002424",
+   "pmid": null,
+   "doi": null,
+   "year": "1990",
+   "title": ""
+  },
+  {
+   "europepmc_id": "MED:40676363",
+   "pmid": "40676363",
+   "doi": "10.1007/s11606-025-09516-4",
+   "year": "2025",
+   "title": "Abstracts from the 2025 Annual Meeting of the Society of General Internal Medicine."
+  },
+  {
+   "europepmc_id": "MED:29189948",
+   "pmid": "29189948",
+   "doi": "10.1186/s10194-017-0817-z",
+   "year": "2017",
+   "title": "11th European Headache Federation Congress jointly with 31st Congress of the Italian Society for the Study of Headaches : Rome, Italy. 01-03 December 2017."
+  },
+  {
+   "europepmc_id": "PMC:PMC9931687",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "Abstracts"
+  },
+  {
+   "europepmc_id": "PMC:PMC5913041",
+   "pmid": null,
+   "doi": null,
+   "year": "2018",
+   "title": "SCIENTIFIC ABSTRACTS"
+  },
+  {
+   "europepmc_id": "MED:34541616",
+   "pmid": "34541616",
+   "doi": "10.1007/s00247-021-05192-8",
+   "year": "2021",
+   "title": "IPR 2021."
+  },
+  {
+   "europepmc_id": "PMC:PMC7741497",
+   "pmid": null,
+   "doi": null,
+   "year": "2020",
+   "title": "Program Abstracts from The GSA 2020 Annual Scientific Meeting “Turning 75: Why Age Matters”"
+  },
+  {
+   "europepmc_id": "MED:28397154",
+   "pmid": "28397154",
+   "doi": "10.1007/s11606-017-4028-8",
+   "year": "2017",
+   "title": "Abstracts from the 2017 Society of General Internal Medicine Annual Meeting."
+  },
+  {
+   "europepmc_id": "MED:22528616",
+   "pmid": "22528616",
+   "doi": "10.1007/s11606-012-2038-0",
+   "year": "2012",
+   "title": "Abstracts from the 35th Annual Meeting of the Society of General Internal Medicine. May 9-12, 2012. Orlando, Florida, USA."
+  },
+  {
+   "europepmc_id": "MED:20431960",
+   "pmid": "20431960",
+   "doi": "10.1007/s11606-010-1338-5",
+   "year": "2010",
+   "title": "Abstracts of the Society of General Internal Medicine 33rd Annual Meeting. Minneapolis, Minnesota, USA. April 28-May 1, 2010."
+  },
+  {
+   "europepmc_id": "MED:31090026",
+   "pmid": "31090026",
+   "doi": "10.1007/s11606-019-05007-5",
+   "year": "2019",
+   "title": "Abstracts from the 2019 Annual Meeting of the Society of General Internal Medicine."
+  },
+  {
+   "europepmc_id": "PMC:PMC10323075",
+   "pmid": null,
+   "doi": null,
+   "year": "2023",
+   "title": "Abstracts from the 2023 Annual Meeting of the Society of General Internal Medicine"
+  },
+  {
+   "europepmc_id": "MED:30430435",
+   "pmid": "30430435",
+   "doi": "10.1007/s13361-018-2096-6",
+   "year": "2019",
+   "title": "A Focus Honoring Carol Robinson's Election to the National Academy of Sciences."
+  },
+  {
+   "europepmc_id": "MED:29046763",
+   "pmid": "29046763",
+   "doi": "10.1080/20013078.2017.1310414",
+   "year": "2017",
+   "title": "Abstract Book: ISEV2017."
+  },
+  {
+   "europepmc_id": "MED:27114361",
+   "pmid": "27114361",
+   "doi": "10.1007/s11606-016-3657-7",
+   "year": "2016",
+   "title": "Abstracts from the 2016 Society of General Internal Medicine Annual Meeting."
+  },
+  {
+   "europepmc_id": "MED:30240102",
+   "pmid": "30240102",
+   "doi": "10.1002/pbc.27455",
+   "year": "2018",
+   "title": "Abstracts from the 50th Congress of the International Society of Paediatric Oncology (SIOP) Kyoto, Japan November 16-19, 2018."
+  },
+  {
+   "europepmc_id": "PMC:PMC7419731",
+   "pmid": null,
+   "doi": null,
+   "year": "2020",
+   "title": "Abstracts"
+  },
+  {
+   "europepmc_id": "MED:32725471",
+   "pmid": "32725471",
+   "doi": "10.1007/s11606-020-05890-3",
+   "year": "2020",
+   "title": "Abstracts from the 2020 Annual Meeting of the Society of General Internal Medicine."
+  },
+  {
+   "europepmc_id": "PMC:PMC7167823",
+   "pmid": null,
+   "doi": null,
+   "year": "2008",
+   "title": "Poster Presentations"
+  },
+  {
+   "europepmc_id": "MED:24737224",
+   "pmid": "24737224",
+   "doi": "10.1007/s11606-014-2834-9",
+   "year": "2014",
+   "title": "Abstracts from the 37th Annual Meeting of the Society of General Internal Medicine, 2014, San Diego, CA, USA."
+  },
+  {
+   "europepmc_id": "MED:23625304",
+   "pmid": "23625304",
+   "doi": "10.1007/s11606-013-2436-y",
+   "year": "2013",
+   "title": "Abstracts of the 36th Annual Meeting of the Society of General Internal Medicine. April 24-27, 2013. Denver, Colorado, USA."
+  },
+  {
+   "europepmc_id": "MED:11357836",
+   "pmid": "11357836",
+   "doi": "10.1046/j.1525-1497.2001.0160s1023.x",
+   "year": "2001",
+   "title": "Society of General Internal Medicine 24th annual meeting. San Diego, California, May 2-5, 2001. Abstracts."
+  }
+ ]
+}

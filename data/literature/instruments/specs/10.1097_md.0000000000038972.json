@@ -1,0 +1,51 @@
+{
+ "record_id": "doi:10.1097/md.0000000000038972",
+ "tables": {
+  "S1": {
+   "file": "10.1097_md.0000000000038972__Table_S1_IVs.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "source": "text/medi-103-e38972-s001.txt, [TABLE 1] (Supplementary Table S1, converted from files/medi-103-e38972-s001.docx)",
+   "description": "Instruments for the 41 systemic inflammatory regulators. In the converted table each regulator is one row whose cells hold space-separated per-SNP lists (SNP, chr, pos, alleles, exposure and outcome beta/SE/P, F). This copy was generated mechanically: each cell was split on whitespace and the i-th items written to one row per SNP; every value is copied verbatim, the regulator label goes to 'exposure', 'Number of SNPs' is kept on the first row of each block, and 'source_line' gives the line in the converted text file. List lengths were checked against 'Number of SNPs' for every regulator.",
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Effect allele",
+    "other_allele": "Other allele",
+    "beta_exposure": "Beta of exposure",
+    "se_exposure": "SE of exposure",
+    "pval_exposure": "P of exposure",
+    "beta_outcome": "Beta of outcome",
+    "se_outcome": "SE of outcome",
+    "pval_outcome": "P of outcome"
+   }
+  }
+ },
+ "claims": {
+  "LiuY2024Med-1": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "IL-6"
+    }
+   ],
+   "expected_n": 4,
+   "notes": "IL6 = 'IL-6' block of Supplementary Table S1 (4 SNPs, matching Figure 1 'IL-6 4 SNP, OR 1.351'). Outcome = GCST90044411 endometriosis (only outcome in the table; outcome betas given on the exposure effect allele, no outcome allele columns). The fixed-effect IVW recomputed from these rows is log-OR 0.557 (OR 1.75) vs reported OR 1.351; the rows are the only IL-6 instruments in the paper, so the label-based mapping is kept. Possible cause: rs13412535 is also a PDGFbb instrument (opposite exposure sign for the same G allele) despite the stated removal of SNPs shared between regulators, suggesting a table/analysis inconsistency in the source."
+  },
+  "LiuY2024Med-2": {
+   "status": "mapped",
+   "table": "S1",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "PDGFbb"
+    }
+   ],
+   "expected_n": 18,
+   "notes": "PDGFB = 'PDGFbb' block of Supplementary Table S1 (18 SNPs, matching Figure 1). Outcome = GCST90044411 endometriosis; outcome betas given on the exposure effect allele."
+  }
+ }
+}

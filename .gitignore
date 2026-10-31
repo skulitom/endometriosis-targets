@@ -1,0 +1,27 @@
+# Third-party data and text. Never redistributed: every file is listed with its source URL and checksum
+# (data/downloads.json, data/supplements_manifest.json, data/upstream/fulltext/*/provenance.json) so anyone
+# can fetch it again with src/fetch.py, src/supplements.py and src/fulltext.py.
+/data/upstream/
+/data/manual/
+
+# Python environment and caches
+/.venv/
+__pycache__/
+*.pyc
+
+# Working files that hold abstracts or full-text excerpts copied from papers. Their public counterparts
+# (identifiers, titles, decisions and reasons, no copied text) are written by src/public_export.py to
+# data/literature/public/.
+/data/literature/search_*.json
+/data/literature/records.json
+/data/literature/records_supplementary.json
+/data/literature/screening_decisions.json
+/data/literature/fulltext_queue.json
+/data/literature/screening/input_*.json
+/data/literature/extraction/input_*.json
+/data/literature/refscan/raw/
+/data/literature/refscan/europepmc_lookups.json
+/data/literature/refscan/fulltext_snippets.json
+/data/literature/refscan/supplementary_passages*.json
+/data/literature/refscan/candidates*.json
+/data/literature/refscan/screened.json

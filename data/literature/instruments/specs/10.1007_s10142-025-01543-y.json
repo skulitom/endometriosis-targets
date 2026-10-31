@@ -1,0 +1,164 @@
+{
+ "record_id": "doi:10.1007/s10142-025-01543-y",
+ "tables": {
+  "H": {
+   "file": "text/10142_2025_1543_MOESM3_ESM.csv",
+   "header_row": 1,
+   "description": "ESM3 (Supplementary table.SNP): TwoSampleMR harmonised data, eQTLGen cis-eQTL (IEU eqtl-a-*) exposures vs endometriosis ebi-a-GCST90018839; outcome effects already aligned to effect_allele.exposure.",
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   }
+  }
+ },
+ "claims": {
+  "Dou2025FIG-1": {
+   "status": "mapped",
+   "table": "H",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "HNMT"
+    },
+    {
+     "column": "id.exposure",
+     "op": "equals",
+     "value": "eqtl-a-ENSG00000150540"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "ebi-a-GCST90018839"
+    }
+   ],
+   "expected_n": 5,
+   "notes": "HNMT (eqtl-a-ENSG00000150540) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table)."
+  },
+  "Dou2025FIG-2": {
+   "status": "mapped",
+   "table": "H",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "CCDC28A"
+    },
+    {
+     "column": "id.exposure",
+     "op": "equals",
+     "value": "eqtl-a-ENSG00000024862"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "ebi-a-GCST90018839"
+    }
+   ],
+   "expected_n": 3,
+   "notes": "CCDC28A (eqtl-a-ENSG00000024862) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table)."
+  },
+  "Dou2025FIG-3": {
+   "status": "mapped",
+   "table": "H",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "FADS1"
+    },
+    {
+     "column": "id.exposure",
+     "op": "equals",
+     "value": "eqtl-a-ENSG00000149485"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "ebi-a-GCST90018839"
+    }
+   ],
+   "expected_n": 4,
+   "notes": "FADS1 (eqtl-a-ENSG00000149485) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table)."
+  },
+  "Dou2025FIG-4": {
+   "status": "mapped",
+   "table": "H",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "MGRN1"
+    },
+    {
+     "column": "id.exposure",
+     "op": "equals",
+     "value": "eqtl-a-ENSG00000102858"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "ebi-a-GCST90018839"
+    }
+   ],
+   "expected_n": 4,
+   "notes": "MGRN1 (eqtl-a-ENSG00000102858) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table)."
+  },
+  "Dou2025FIG-5": {
+   "status": "mapped",
+   "table": "H",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "CDH1"
+    },
+    {
+     "column": "id.exposure",
+     "op": "equals",
+     "value": "eqtl-a-ENSG00000039068"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "ebi-a-GCST90018839"
+    }
+   ],
+   "expected_n": 3,
+   "notes": "CDH1 (eqtl-a-ENSG00000039068) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table). IVW in ESM4/ESM6: b=-0.1176, OR 0.889 (0.802-0.986), 3 SNPs; the claim record has no estimate, so no recompute comparison. Fixed-effect IVW recomputed from these rows = -0.11758, matching ESM4."
+  },
+  "Dou2025FIG-6": {
+   "status": "mapped",
+   "table": "H",
+   "filters": [
+    {
+     "column": "exposure",
+     "op": "equals",
+     "value": "KRT23"
+    },
+    {
+     "column": "id.exposure",
+     "op": "equals",
+     "value": "eqtl-a-ENSG00000108244"
+    },
+    {
+     "column": "id.outcome",
+     "op": "equals",
+     "value": "ebi-a-GCST90018839"
+    }
+   ],
+   "expected_n": 6,
+   "notes": "KRT23 (eqtl-a-ENSG00000108244) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table). IVW in ESM4/ESM6: b=-0.0865, OR 0.917 (0.850-0.989), 6 SNPs; the claim record has no estimate, so no recompute comparison. Fixed-effect IVW recomputed from these rows = -0.08647, matching ESM4."
+  }
+ }
+}

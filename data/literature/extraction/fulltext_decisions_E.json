@@ -1,0 +1,112 @@
+[
+ {
+  "record_id": "doi:10.1016/j.heliyon.2024.e34494",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Drug-target MR: BMD-weighted variants near ESR1 (raloxifene proxy) with endometriosis estimate in Figure 3.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Endometriosis estimate only in Fig 3 (viewed on PMC); outcome GWAS listed in Table S2, not accessed."
+ },
+ {
+  "record_id": "doi:10.1016/j.rbmo.2024.103856",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Lipid-lowering drug-target MR; abstract reports PCSK9, APOB, ANGPTL3 estimates for endometriosis stages 1-2.",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 3,
+  "duplicate_of": null,
+  "notes": "ScienceDirect and RBMO pages returned 403; no PMC copy. Weighting trait, outcome GWAS and exposure scaling unknown; genome-wide lipid MR not extracted."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042579",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of nine SomaScan cathepsin levels on FinnGen R9 endometriosis; cathepsin H significant.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Source of record for the Research Square preprint rs-3756621; abstract estimates identical."
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000042685",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Drug-target MR of LDL-C-weighted PCSK9 and HMGCR variants; PCSK9 inhibition protective for endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "HMGCR null for endometriosis (P=0.849) and not claimed for it in abstract; not extracted."
+ },
+ {
+  "record_id": "doi:10.1186/s12916-023-02881-z",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of plasma ADAMTS13 and vWF levels on endometriosis (UKB, FinnGen, meta); proposed as therapeutic targets.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 2,
+  "duplicate_of": null,
+  "notes": "FXI nominal in UKB only (P=0.007, fails paper's Bonferroni, not in abstract); aPTT/ETP not gene products. VWF claim uses meta-analysis."
+ },
+ {
+  "record_id": "doi:10.1371/journal.pone.0301752",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "TG-weighted drug-target MR of LPL, PPARA, ANGPTL3, APOC3; ANGPTL3 significant after FDR.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Genome-wide lipid-trait MR (E2-type) not extracted; only the ANGPTL3 drug-target claim."
+ },
+ {
+  "record_id": "doi:10.1371/journal.pone.0356100",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "TG-weighted drug-target MR of seven TG-lowering drug target genes on FinnGen endometriosis.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 7,
+  "duplicate_of": null,
+  "notes": "Estimates only in Fig 5 image (viewed on PMC). Methods state a 100 Mb instrument window; scope unclear."
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-3756621/v1",
+  "final_decision": "exclude",
+  "reason_code": "E6",
+  "reason": "Preprint of the published Medicine 2025 cathepsin MR paper (same authors, identical estimates).",
+  "full_text_accessed": false,
+  "access_route": "abstract_only",
+  "n_claims": 0,
+  "duplicate_of": "doi:10.1097/md.0000000000042579",
+  "notes": "Europe PMC links PPR776118 as preprint of PMID 40419906; published version is source of record; no disagreements in abstracts."
+ },
+ {
+  "record_id": "doi:10.21203/rs.3.rs-4160567/v1",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "MR of plasma E-, P-, L-selectin levels on FinnGen endometriosis with EBI replication; E-selectin protective.",
+  "full_text_accessed": true,
+  "access_route": "preprint_html",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "No published version found. Read via Research Square article JSON (WebFetch summary); SNP counts inconsistent across tables."
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s509603",
+  "final_decision": "include",
+  "reason_code": "I",
+  "reason": "Drug-target MR with UGCG cis-eQTLs (eQTLGen) on FinnGen endometriosis; inhibition protective.",
+  "full_text_accessed": true,
+  "access_route": "europepmc_xml",
+  "n_claims": 1,
+  "duplicate_of": null,
+  "notes": "Recorded as eQTL exposure; paper frames it as UGCG-inhibitor proxy."
+ }
+]

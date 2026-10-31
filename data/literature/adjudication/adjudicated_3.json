@@ -1,0 +1,1030 @@
+[
+ {
+  "claim_id": "Hong2026RT-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.25,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PRLR row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.143,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PRLR row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.368,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PRLR row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.1e-06,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PRLR row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "Table S4 PRLR: beta positive, OR >1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, PRLR row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.389,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), SULT1B1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.202,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), SULT1B1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.604,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), SULT1B1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 7.81e-06,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), SULT1B1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "Table S4 SULT1B1: beta positive, OR >1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, SULT1B1 row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-3",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.163,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), DIP2B row: IVW, nSNP 5, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.087,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), DIP2B row: IVW, nSNP 5, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.245,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), DIP2B row: IVW, nSNP 5, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.29e-05,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), DIP2B row: IVW, nSNP 5, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": "S5 IVW p 1.285e-5, same analysis; S4 value kept."
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "Table S4 DIP2B: beta positive, OR >1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 5,
+    "evidence": "Supplementary Table S4, DIP2B row, nSNP column = 5",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-4",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.436,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), FBXO5 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.209,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), FBXO5 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.707,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), FBXO5 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 3.96e-05,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), FBXO5 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "Table S4 FBXO5: beta positive, OR >1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, FBXO5 row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-5",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.51,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), CDCA2 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.229,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), CDCA2 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.855,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), CDCA2 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 8.59e-05,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), CDCA2 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "Table S4 CDCA2: beta positive, OR >1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, CDCA2 row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-6",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.245,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), AGPAT1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.116,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), AGPAT1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.39,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), AGPAT1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 8.98e-05,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), AGPAT1 row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "risk_increasing",
+    "evidence": "Table S4 AGPAT1: beta positive, OR >1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, AGPAT1 row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-7",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.761,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PDE5A row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.678,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PDE5A row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.855,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PDE5A row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 4.41e-06,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), PDE5A row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "Table S4 PDE5A: beta negative, OR <1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, PDE5A row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Hong2026RT-8",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.546,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), VPS13B row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.415,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), VPS13B row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.718,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), VPS13B row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.48e-05,
+    "evidence": "Supplementary Table S4 (mmc1.xlsx), VPS13B row: Wald ratio, nSNP 1, OR (95% CI) and p-value",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "second",
+    "value": "protective",
+    "evidence": "Table S4 VPS13B: beta negative, OR <1 per higher genetically predicted expression (eQTL exposure)",
+    "source_inconsistent": false,
+    "note": "Exposure is gene expression (eQTL); beta sign and OR agree."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S4, VPS13B row, nSNP column = 1",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); S4 is the paper's MR results table and all eight genes are FDR-significant there. Outcome GWAS, eQTL tissue and cis window remain unverified."
+ },
+ {
+  "claim_id": "Ling2025-2",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Ling2025-3",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Ling2025-4",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Ling2025-5",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Ling2025-6",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Ling2025-8",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Ling2025-9",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "first",
+    "value": "unclear",
+    "evidence": "Methods 'Summary-data-based MR analysis': only 'most associated pQTL' at P<5e-8; 'cis' and any window absent from text and Fig. 1",
+    "source_inconsistent": false,
+    "note": "SMR software defaults to the top cis-QTL within 2 Mb, but the paper states no cis restriction or window; convention requires a stated window."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Meng2026IJWH-1",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods 'Screening of Instrumental Variables': extract_instruments, p<5e-8, clump r2 0.001, kb 10; no positional restriction stated",
+    "source_inconsistent": false,
+    "note": "Exposure IDs are eqtl-a (eQTLGen cis-eQTL data), so SNPs are probably de facto within 1 Mb, but the paper applies no cis window."
+   }
+  ],
+  "overall_note": "Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan."
+ },
+ {
+  "claim_id": "Meng2026IJWH-2",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods 'Screening of Instrumental Variables': extract_instruments, p<5e-8, clump r2 0.001, kb 10; no positional restriction stated",
+    "source_inconsistent": false,
+    "note": "Exposure IDs are eqtl-a (eQTLGen cis-eQTL data), so SNPs are probably de facto within 1 Mb, but the paper applies no cis window."
+   }
+  ],
+  "overall_note": "Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan."
+ },
+ {
+  "claim_id": "Meng2026IJWH-4",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods 'Screening of Instrumental Variables': extract_instruments, p<5e-8, clump r2 0.001, kb 10; no positional restriction stated",
+    "source_inconsistent": false,
+    "note": "Exposure IDs are eqtl-a (eQTLGen cis-eQTL data), so SNPs are probably de facto within 1 Mb, but the paper applies no cis window."
+   }
+  ],
+  "overall_note": "Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan."
+ },
+ {
+  "claim_id": "Meng2026IJWH-6",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods 'Screening of Instrumental Variables': extract_instruments, p<5e-8, clump r2 0.001, kb 10; no positional restriction stated",
+    "source_inconsistent": false,
+    "note": "Exposure IDs are eqtl-a (eQTLGen cis-eQTL data), so SNPs are probably de facto within 1 Mb, but the paper applies no cis window."
+   }
+  ],
+  "overall_note": "Outcome ebi-a-GCST90018839: paper reports European 4,511/227,260, but GWAS Catalog lists BBJ, UKB and FinnGen samples (file contains East Asian rs671); outcome_cohorts may need BioBank Japan."
+ },
+ {
+  "claim_id": "Zhou2024lipid-1",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00141650151714028,
+    "evidence": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, PCSK9 IVW row: P 0.001417, OR 1.402 (1.139-1.725)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "first",
+    "value": "null_or_unclear",
+    "evidence": "S13/S14 titles say 'Genetically Proxied Inhibition'; S8 PCSK9 instrument betas unflipped (mixed signs); conclusion favours lipid-lowering drugs",
+    "source_inconsistent": true,
+    "note": "Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher LDL-C. Main text paywalled, so scaling is unverifiable."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "cis",
+    "evidence": "S8 PCSK9 instruments all lie within ~100 kb of the gene coordinates given in Supplementary Table 2",
+    "source_inconsistent": false,
+    "note": "Exact window not verifiable (main text paywalled); positions imply roughly +/-100 kb gene-region selection."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table 1: endometriosis stage1-2, FinnGen, finngen_R8_N14_ENDOMETRIOSIS_ASRM_STAGE1_2",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 5112,
+    "evidence": "Supplementary Table 1: stage1-2 '190879 (5112 cases/185,757 controls)', FinnGen R8",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 185757,
+    "evidence": "Supplementary Table 1: stage1-2 '190879 (5112 cases/185,757 controls)', FinnGen R8",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 27,
+    "evidence": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, PCSK9 IVW row: Number of SNPs = 27",
+    "source_inconsistent": false,
+    "note": "S8 lists more PCSK9 variants before harmonisation with the outcome."
+   }
+  ],
+  "overall_note": "Main text inaccessible (403). S13 stage 1-2 is the abstract's headline result; overall endometriosis was null for all three targets."
+ },
+ {
+  "claim_id": "Zhou2024lipid-2",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.000266098982551543,
+    "evidence": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, APOB IVW row: P 0.0002661, OR 1.497 (1.205-1.859)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "first",
+    "value": "null_or_unclear",
+    "evidence": "S13/S14 titles say 'Genetically Proxied Inhibition'; S8 APOB instrument betas unflipped (mixed signs); conclusion favours lipid-lowering drugs",
+    "source_inconsistent": true,
+    "note": "Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher LDL-C. Main text paywalled, so scaling is unverifiable."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "cis",
+    "evidence": "S8 APOB instruments all lie within ~100 kb of the gene coordinates given in Supplementary Table 2",
+    "source_inconsistent": false,
+    "note": "Exact window not verifiable (main text paywalled); positions imply roughly +/-100 kb gene-region selection."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table 1: endometriosis stage1-2, FinnGen, finngen_R8_N14_ENDOMETRIOSIS_ASRM_STAGE1_2",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 5112,
+    "evidence": "Supplementary Table 1: stage1-2 '190879 (5112 cases/185,757 controls)', FinnGen R8",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 185757,
+    "evidence": "Supplementary Table 1: stage1-2 '190879 (5112 cases/185,757 controls)', FinnGen R8",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 26,
+    "evidence": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, APOB IVW row: Number of SNPs = 26",
+    "source_inconsistent": false,
+    "note": "S8 lists more APOB variants before harmonisation with the outcome."
+   }
+  ],
+  "overall_note": "Main text inaccessible (403). S13 stage 1-2 is the abstract's headline result; overall endometriosis was null for all three targets. Abstract rounds S13 OR 1.497 to 1.49."
+ },
+ {
+  "claim_id": "Zhou2024lipid-3",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00606000681390996,
+    "evidence": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, ANGPTL3 IVW row: P 0.00606, OR 1.568 (1.137-2.163)",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "direction",
+    "decision": "first",
+    "value": "null_or_unclear",
+    "evidence": "S13/S14 titles say 'Genetically Proxied Inhibition'; S8 ANGPTL3 instrument betas unflipped (mixed signs); conclusion favours lipid-lowering drugs",
+    "source_inconsistent": true,
+    "note": "Literal label means inhibition raises risk, contradicting the conclusion; OR is likely per higher TG. Main text paywalled, so scaling is unverifiable."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "cis",
+    "evidence": "S8 ANGPTL3 instruments all lie within ~100 kb of the gene coordinates given in Supplementary Table 2",
+    "source_inconsistent": false,
+    "note": "Exact window not verifiable (main text paywalled); positions imply roughly +/-100 kb gene-region selection."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table 1: endometriosis stage1-2, FinnGen, finngen_R8_N14_ENDOMETRIOSIS_ASRM_STAGE1_2",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 5112,
+    "evidence": "Supplementary Table 1: stage1-2 '190879 (5112 cases/185,757 controls)', FinnGen R8",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 185757,
+    "evidence": "Supplementary Table 1: stage1-2 '190879 (5112 cases/185,757 controls)', FinnGen R8",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 18,
+    "evidence": "Supplementary Table S13 (mmc5.xlsx), 'Endometriosis stage1-2' block, r2=0.3, ANGPTL3 IVW row: Number of SNPs = 18",
+    "source_inconsistent": false,
+    "note": "S8 lists more ANGPTL3 variants before harmonisation with the outcome."
+   }
+  ],
+  "overall_note": "Main text inaccessible (403). S13 stage 1-2 is the abstract's headline result; overall endometriosis was null for all three targets."
+ },
+ {
+  "claim_id": "Xie2025Med-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.9509,
+    "evidence": "Supplementary Table S5 (whole blood SMR), ADK row: b_SMR -0.0503675, se_SMR 0.012891",
+    "source_inconsistent": false,
+    "note": "OR = exp(b_SMR); recomputed and matches."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.9272,
+    "evidence": "Supplementary Table S5 (whole blood SMR), ADK row: b_SMR -0.0503675, se_SMR 0.012891",
+    "source_inconsistent": false,
+    "note": "exp(b - 1.96 SE); recomputed and matches."
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.9752,
+    "evidence": "Supplementary Table S5 (whole blood SMR), ADK row: b_SMR -0.0503675, se_SMR 0.012891",
+    "source_inconsistent": false,
+    "note": "exp(b + 1.96 SE); recomputed and matches."
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 9.34e-05,
+    "evidence": "Supplementary Table S5, ADK row, p_SMR = 9.34e-05",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S5, ADK: SMR estimate from single top cis-eQTL",
+    "source_inconsistent": false,
+    "note": "HEIDI used additional SNPs, but the SMR estimate rests on one top SNP."
+   }
+  ],
+  "overall_note": "Main text gives no numeric SMR estimates; S5 (GTEx v8 whole blood) is the only source of the primary values."
+ },
+ {
+  "claim_id": "Xie2025Med-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.8743,
+    "evidence": "Supplementary Table S5 (whole blood SMR), EHHADH row: b_SMR -0.134286, se_SMR 0.0461114",
+    "source_inconsistent": false,
+    "note": "OR = exp(b_SMR); recomputed and matches."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.7988,
+    "evidence": "Supplementary Table S5 (whole blood SMR), EHHADH row: b_SMR -0.134286, se_SMR 0.0461114",
+    "source_inconsistent": false,
+    "note": "exp(b - 1.96 SE); recomputed and matches."
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.957,
+    "evidence": "Supplementary Table S5 (whole blood SMR), EHHADH row: b_SMR -0.134286, se_SMR 0.0461114",
+    "source_inconsistent": false,
+    "note": "exp(b + 1.96 SE); recomputed and matches."
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00359,
+    "evidence": "Supplementary Table S5, EHHADH row, p_SMR = 0.00359",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S5, EHHADH: SMR estimate from single top cis-eQTL",
+    "source_inconsistent": false,
+    "note": "HEIDI used additional SNPs, but the SMR estimate rests on one top SNP."
+   }
+  ],
+  "overall_note": "Main text gives no numeric SMR estimates; S5 (GTEx v8 whole blood) is the only source of the primary values."
+ },
+ {
+  "claim_id": "Xie2025Med-3",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.761,
+    "evidence": "Supplementary Table S5 (whole blood SMR), CNOT7 row: b_SMR -0.273151, se_SMR 0.0913153",
+    "source_inconsistent": false,
+    "note": "OR = exp(b_SMR); recomputed and matches."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.6363,
+    "evidence": "Supplementary Table S5 (whole blood SMR), CNOT7 row: b_SMR -0.273151, se_SMR 0.0913153",
+    "source_inconsistent": false,
+    "note": "exp(b - 1.96 SE); recomputed and matches."
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.9101,
+    "evidence": "Supplementary Table S5 (whole blood SMR), CNOT7 row: b_SMR -0.273151, se_SMR 0.0913153",
+    "source_inconsistent": false,
+    "note": "exp(b + 1.96 SE); recomputed and matches."
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.00278,
+    "evidence": "Supplementary Table S5, CNOT7 row, p_SMR = 0.00278",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Supplementary Table S5, CNOT7: SMR estimate from single top cis-eQTL",
+    "source_inconsistent": false,
+    "note": "HEIDI used additional SNPs, but the SMR estimate rests on one top SNP."
+   }
+  ],
+  "overall_note": "Main text gives no numeric SMR estimates; S5 (GTEx v8 whole blood) is the only source of the primary values."
+ },
+ {
+  "claim_id": "LiuY2024Med-1",
+  "fields": [
+   {
+    "field": "outcome_cohorts",
+    "decision": "first",
+    "value": [
+     "UK Biobank"
+    ],
+    "evidence": "Methods 2.1 names GCST90044411; GWAS Catalog: cohort UKB, PheCode 615, 1,937/245,603, PMID 34737426",
+    "source_inconsistent": false,
+    "note": "Paper calls it a European 'GWAS meta-analysis', but the catalog lists UK Biobank only."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 4,
+    "evidence": "Supplementary Table S3, IL-6 row: Number of SNPs 4, IVW OR 1.351 (1.015-1.797), P 0.039; S1 lists 4 SNPs",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Abstract says none of 41 regulators were associated yet reports IL-6 and PDGF-BB as significant; nominal P<0.05 without correction."
+ },
+ {
+  "claim_id": "LiuY2024Med-2",
+  "fields": [
+   {
+    "field": "outcome_cohorts",
+    "decision": "first",
+    "value": [
+     "UK Biobank"
+    ],
+    "evidence": "Methods 2.1 names GCST90044411; GWAS Catalog: cohort UKB, PheCode 615, 1,937/245,603, PMID 34737426",
+    "source_inconsistent": false,
+    "note": "Paper calls it a European 'GWAS meta-analysis', but the catalog lists UK Biobank only."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 18,
+    "evidence": "Supplementary Table S3, PDGFbb row: Number of SNPs 18, IVW OR 0.856 (0.742-0.987), P 0.032; S1 lists 18 SNPs",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Abstract says none of 41 regulators were associated yet reports IL-6 and PDGF-BB as significant; nominal P<0.05 without correction."
+ },
+ {
+  "claim_id": "Chen2024HG-1",
+  "fields": [
+   {
+    "field": "outcome_cohorts",
+    "decision": "other",
+    "value": [
+     "FinnGen",
+     "UK Biobank",
+     "BioBank Japan"
+    ],
+    "evidence": "Methods: ebi-a-GCST90018839 and ukb-d-IBD_ENDOMETRIOSIS; GWAS Catalog lists BBJ, UKB, FinnGen for GCST90018839",
+    "source_inconsistent": false,
+    "note": "Catalog file carries East Asian rs671 (EAF 0.24), so BBJ is included; ukb-d is UK Biobank. Gene selection required OR>1 in both outcomes."
+   }
+  ],
+  "overall_note": "Fig. 1 does not label its outcome; log-odds-scale ORs suggest GCST90018839. Paper's N=231,771 is only the European part of that dataset."
+ },
+ {
+  "claim_id": "Chen2024HG-4",
+  "fields": [
+   {
+    "field": "outcome_cohorts",
+    "decision": "other",
+    "value": [
+     "FinnGen",
+     "UK Biobank",
+     "BioBank Japan"
+    ],
+    "evidence": "Methods: ebi-a-GCST90018839 and ukb-d-IBD_ENDOMETRIOSIS; GWAS Catalog lists BBJ, UKB, FinnGen for GCST90018839",
+    "source_inconsistent": false,
+    "note": "Catalog file carries East Asian rs671 (EAF 0.24), so BBJ is included; ukb-d is UK Biobank. Gene selection required OR>1 in both outcomes."
+   }
+  ],
+  "overall_note": "Fig. 1 does not label its outcome; log-odds-scale ORs suggest GCST90018839. Paper's N=231,771 is only the European part of that dataset."
+ },
+ {
+  "claim_id": "ZhengJ2026-11",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 6,
+    "evidence": "Supplementary Table S2 KHK IVW Nsnp 6; supplementary KHK forest plot shows 6 SNPs; Table 1/Table S6 list 8",
+    "source_inconsistent": true,
+    "note": "Table 1 Q-test p-values (IVW 0.917, Egger 0.899) match 5 and 4 df, i.e. 6 SNPs; '8' looks copied from HSPG2."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "WeiY2024ITT-1",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 7,
+    "evidence": "Figure 2 (UK Biobank outcome), CXCL5 'No. of SNP' = 7, IVW OR 0.888 (0.797-0.989), P 0.031",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "claim_id": "Rahmioglu2023-9",
+  "status": "disagree",
+  "differences": {
+   "outcome_controls": [
+    700352,
+    700345
+   ]
+  },
+  "soft_differences": {},
+  "second_source_location": "Supplementary Table 16 (sheet Supp16.SMR-blood-exp), row GDAP1; also Table 1 (GDAP1 (eQTL blood, rs10283076)) and Extended Data figure on GDAP1/8q21.11",
+  "first_source_location": "Supplementary Table 16, row GDAP1 (rs10283076); Table 1",
+  "notes": "SMR with eQTLGen blood cis-eQTLs (15,513 genes with PeQTL<5x10-8 tested; SMR threshold 3.22x10-6). Top SNP rs10283076; GWAS p 3.82x10-12 (printed 3.8200000000000003E-12); eQTL p 5.27x10-24; SMR p 1.05x10-8; HEIDI p 8.86x10-2, not marked * so passes HEIDI. Novel finding: Yes. Only SMR p-values reported (no beta/OR): estimate null, direction null_or_unclear. Outcome: SMR used 'the endometriosis meta-analysis of European cohorts in this study'; cases/controls 58,961/700,345 are the European-ancestry totals given in Methods (Study-level analyses), not restated in the SMR section. European meta includes 23andMe; BBJ excluded. estimate_scale OR by convention only. Headline: GDAP1 named in abstract among genes regulated by risk signals (pain perception) and in Discussion as potentially causal."
+ },
+ {
+  "claim_id": "Rahmioglu2023-10",
+  "status": "disagree",
+  "differences": {
+   "outcome_controls": [
+    700352,
+    700345
+   ]
+  },
+  "soft_differences": {},
+  "second_source_location": "Supplementary Table 16 (sheet Supp16.SMR-blood-exp), row SRP14",
+  "first_source_location": "Supplementary Table 16, row SRP14 (rs72731415)",
+  "notes": "SMR with eQTLGen blood cis-eQTLs (SMR threshold 3.22x10-6). Top SNP rs72731415; GWAS p 9.65x10-9 (printed 9.6500000000000004E-9); eQTL p printed 0; SMR p 1.10x10-8; HEIDI p 1.09x10-3*, marked * = significant heterogeneity detected: FAILS HEIDI. Novel finding: N/A. Not listed in main Table 1 (Table 1 lists SRP14 only as eQTL endometrium, rs4770); the SRP14-AS1/15q15.1 Extended Data figure caption mentions SRP14 expression in endometrium and blood and says SMR SNPs not passing HEIDI are in black. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline set true because SRP14 (SRP14/BMF) is named in the abstract; note this particular blood result fails HEIDI."
+ },
+ {
+  "claim_id": "Rahmioglu2023-32",
+  "status": "disagree",
+  "differences": {
+   "outcome_controls": [
+    700352,
+    700345
+   ]
+  },
+  "soft_differences": {},
+  "second_source_location": "Supplementary Table 18 (sheet Supp18.SMR-blood-meth), row cg23779890 (GDAP1); also Table 1 (GDAP1 (mQTL blood, rs4567029))",
+  "first_source_location": "Supplementary Table 18, row cg23779890 (GDAP1); Table 1",
+  "notes": "Methylation QTL claim: exposure = DNA methylation at cg23779890 mapped to GDAP1. Blood mQTL dataset (paper ref 13; 93,154 probes with PmQTL<5x10-8; SMR threshold 5.37x10-7). cg23779890 chr8:75262522; top SNP rs4567029; GWAS p 3.46x10-12; mQTL p 2.17x10-23; SMR p 1.16x10-8; HEIDI p 0.185 (not marked *): passes HEIDI. Novel finding: Yes. Only CpG for GDAP1 in Supp Table 18. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline: GDAP1 named in abstract."
+ },
+ {
+  "claim_id": "Rahmioglu2023-33",
+  "status": "disagree",
+  "differences": {
+   "outcome_controls": [
+    700352,
+    700345
+   ]
+  },
+  "soft_differences": {},
+  "second_source_location": "Supplementary Table 18 (sheet Supp18.SMR-blood-meth), row cg04231319 (MLLT10); also Table 1 (MLLT10 (mQTL blood, rs12251016))",
+  "first_source_location": "Supplementary Table 18, row cg04231319 (MLLT10); Table 1",
+  "notes": "Methylation QTL claim: exposure = DNA methylation at cg04231319 mapped to MLLT10. Blood mQTL dataset (paper ref 13; 93,154 probes; SMR threshold 5.37x10-7). cg04231319 chr10:21824447; top SNP rs12251016 (^ credible SNP); GWAS p 5.45x10-12; mQTL p 2.17x10-15; SMR p 1.96x10-7; HEIDI p 0.964 (not marked *): passes HEIDI. Novel finding: Yes. Only CpG for MLLT10 in Supp Table 18. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline: MLLT10 named in abstract."
+ },
+ {
+  "claim_id": "Rahmioglu2023-38",
+  "status": "disagree",
+  "differences": {
+   "outcome_controls": [
+    700352,
+    700345
+   ]
+  },
+  "soft_differences": {},
+  "second_source_location": "Supplementary Table 18 (sheet Supp18.SMR-blood-meth), row cg16650630 (BMF); also Table 1 (BMF (mQTL blood, rs7162269))",
+  "first_source_location": "Supplementary Table 18, row cg16650630 (BMF); Table 1",
+  "notes": "Methylation QTL claim: exposure = DNA methylation at cg16650630 mapped to BMF. Blood mQTL dataset (paper ref 13; 93,154 probes; SMR threshold 5.37x10-7). cg16650630 chr15:40364862; top SNP rs7162269 (^ credible SNP); GWAS p 7.69x10-13; mQTL p printed 0; SMR p 1.75x10-12; HEIDI p 0.163 (not marked *): passes HEIDI. Other BMF CpG: cg00868766 (chr15:40364524), same SNP rs7162269, GWAS p 7.69x10-13, mQTL p 0, SMR p 1.90x10-12, HEIDI p 0.108 (passes). cg27155939 at the same locus is annotated SRP14-AS1, not BMF, so not included. Novel finding: Yes. Only SMR p-values reported: estimate null, direction null_or_unclear. Outcome cases/controls 58,961/700,345 are the European totals from Methods. estimate_scale OR by convention only. Headline: BMF named in abstract (SRP14/BMF)."
+ },
+ {
+  "claim_id": "Mortlock2019-1",
+  "status": "disagree",
+  "differences": {
+   "headline": [
+    true,
+    false
+   ]
+  },
+  "soft_differences": {},
+  "second_source_location": "Table 5 (SMR with endometrial mQTLs and endometriosis meta-analysis), row cg16908938 (GREB1); Fig. 4",
+  "first_source_location": "Table 5 (row cg16908938)",
+  "notes": "Methylation QTL claim: exposure = DNA methylation at cg16908938 mapped to GREB1. Endometrial mQTLs from this study (66 European women); 4546 Bonferroni-significant DNAm probe sites tested; SMR threshold given as PSMR < 1.2x10-5 in Results and 1.10x10-5 in Methods. cg16908938 (chr2, probe bp 11,728,029); top SNP rs59129126; p_SMR 1.58E-07; p_HET (HEIDI) 1.25E-01: passes HEIDI (PHEIDI > 0.01). Only GREB1-annotated CpG in Table 5; the nearby cg07314298 (rs28689909, p_SMR 7.93E-06, p_HET 1.26E-02, also passes HEIDI) is annotated to Metazoa_SRP by the paper, so not treated as GREB1. Table 5 gives no b_SMR: estimate null, direction null_or_unclear. Blood replication (LBC-BSGS mQTLs, Table 6) is a separate dataset: GREB1 cg02584498 b_SMR 0.149038 p 1.01E-11; cg10849854 b_SMR 0.250387 p 4.40E-10; cg16908938 b_SMR 0.0779192 p 1.34E-08. Outcome: Sapkota et al. (ref 26), '~15,000 European endometriosis cases' (Methods); controls not given. outcome_cohorts deCODE + 23andMe + other is from extractor's knowledge of Sapkota 2017, not the local text; needs checking. estimate_scale OR by convention only. Headline false: abstract only says one mQTL lies in a known endometriosis risk region 'near GREB1', and neither Conclusion names GREB1 as a candidate target or causal gene (title refers generically to 'gene targets for reproductive diseases'); borderline."
+ }
+]

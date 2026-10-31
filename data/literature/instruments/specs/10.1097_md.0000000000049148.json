@@ -1,0 +1,66 @@
+{
+ "record_id": "doi:10.1097/md.0000000000049148",
+ "tables": {
+  "S6": {
+   "file": "text/medi-105-e49148-s002__Tab._S6.csv",
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "effect_allele.exposure",
+    "other_allele": "other_allele.exposure",
+    "beta_exposure": "beta.exposure",
+    "se_exposure": "se.exposure",
+    "pval_exposure": "pval.exposure",
+    "eaf_exposure": "eaf.exposure",
+    "beta_outcome": "beta.outcome",
+    "se_outcome": "se.outcome",
+    "pval_outcome": "pval.outcome",
+    "effect_allele_outcome": "effect_allele.outcome",
+    "other_allele_outcome": "other_allele.outcome"
+   },
+   "description": "Supplementary Tab. S6 (file s002): TwoSampleMR harmonised UKB-PPP pQTL instruments (with F statistics) against FinnGen R10 endometriosis (outcome 'Endometriosis_R10'); proteins identified by Olink ID in id.exposure. OID-to-gene mapping from Tab. S2 SMR (s004): OID21415 RSPO3, OID31123 WASHC3, OID30233 FSHB, OID30554 VEGFB. MR results in Tab. S1 (s001)."
+  }
+ },
+ "claims": {
+  "Yao2026-1": {
+   "status": "mapped",
+   "table": "S6",
+   "filters": [
+    {"column": "id.exposure", "op": "equals", "value": "OID21415"},
+    {"column": "outcome", "op": "equals", "value": "Endometriosis_R10"}
+   ],
+   "expected_n": 2,
+   "notes": "RSPO3 (OID21415): rs56080056, rs1936800; Tab. S1 IVW nsnp=2 b=0.4615."
+  },
+  "Yao2026-2": {
+   "status": "mapped",
+   "table": "S6",
+   "filters": [
+    {"column": "id.exposure", "op": "equals", "value": "OID31123"},
+    {"column": "outcome", "op": "equals", "value": "Endometriosis_R10"}
+   ],
+   "expected_n": 1,
+   "notes": "WASHC3 (OID31123): single pQTL rs10860846; Tab. S1 Wald ratio b=0.6919."
+  },
+  "Yao2026-3": {
+   "status": "mapped",
+   "table": "S6",
+   "filters": [
+    {"column": "id.exposure", "op": "equals", "value": "OID30233"},
+    {"column": "outcome", "op": "equals", "value": "Endometriosis_R10"}
+   ],
+   "expected_n": 2,
+   "notes": "FSHB (OID30233): rs7125669, rs11031006; Tab. S1 IVW nsnp=2 b=1.2928."
+  },
+  "Yao2026-4": {
+   "status": "mapped",
+   "table": "S6",
+   "filters": [
+    {"column": "id.exposure", "op": "equals", "value": "OID30554"},
+    {"column": "outcome", "op": "equals", "value": "Endometriosis_R10"}
+   ],
+   "expected_n": 3,
+   "notes": "VEGFB (OID30554): rs61884366, rs2253398, rs660442; Tab. S1 IVW nsnp=3 b=0.3921."
+  }
+ }
+}

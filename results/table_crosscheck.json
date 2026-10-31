@@ -1,0 +1,557 @@
+{
+ "claims_crosschecked": 34,
+ "claims_with_mismatches": 0,
+ "variants_checked": 154,
+ "not_checked_reasons": {
+  "table not from an .xlsx file (csv/txt/xls/docx source)": 73,
+  "transcribed table; verified by hand sample": 21
+ },
+ "claims": {
+  "Dou2025FIG-1": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Dou2025FIG-2": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Dou2025FIG-3": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Dou2025FIG-4": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Dou2025FIG-5": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Dou2025FIG-6": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Xiang2024bmd-1": {
+   "checked": true,
+   "variants_checked": 87,
+   "mismatches": []
+  },
+  "WeiL2024JRI-1": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-2": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-3": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-4": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-5": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-6": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-7": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-8": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-9": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-10": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "WeiL2024JRI-11": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Zhou2024lipid-1": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Zhou2024lipid-2": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Zhou2024lipid-3": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Chen2025SR-1": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-2": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-3": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-4": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-5": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-6": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-7": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-8": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-9": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-10": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-11": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-12": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-13": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-14": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-15": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-16": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-17": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-18": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-19": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-20": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-21": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-22": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-23": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-24": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Chen2025SR-25": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "LiuY2024Med-1": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "LiuY2024Med-2": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Xie2025Med-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Xie2025Med-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Xie2025Med-3": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Aru2025pcsk9-1": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Yao2026-1": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Yao2026-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Yao2026-3": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Yao2026-4": {
+   "checked": true,
+   "variants_checked": 3,
+   "mismatches": []
+  },
+  "Wang2025GOI-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Wang2025GOI-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Wang2025GOI-3": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Wang2025GOI-4": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Wang2025GOI-5": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Wang2025GOI-6": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Wang2025GOI-7": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Li2023coag-1": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Li2023coag-2": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Shi2025RBE-1": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Shi2025RBE-2": {
+   "checked": false,
+   "reason": "transcribed table; verified by hand sample"
+  },
+  "Zhang2024lipid-1": {
+   "checked": true,
+   "variants_checked": 24,
+   "mismatches": []
+  },
+  "Chen2024sel-1": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Guo2024-1": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Guo2024-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Guo2024-3": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Guo2024-4": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Guo2024-5": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Guo2024-6": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Guo2024-7": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Guo2024-8": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Guo2024-9": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Guo2024-10": {
+   "checked": true,
+   "variants_checked": 2,
+   "mismatches": []
+  },
+  "Chen2024-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Tao2024-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Tao2024-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Tao2024-3": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Tao2024-4": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Tao2024-5": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Tao2024-6": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Xie2026FI-1": {
+   "checked": true,
+   "variants_checked": 3,
+   "mismatches": []
+  },
+  "Zou2024Bio-1": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-2": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-3": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-4": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-5": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-6": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-7": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-8": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-9": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-10": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-11": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-12": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-13": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-14": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-15": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-16": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-17": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-18": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-19": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-20": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-21": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-22": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-23": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-24": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-25": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-26": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-27": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-28": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-29": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-30": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-31": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-32": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-33": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-34": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-35": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-36": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-37": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Zou2024Bio-38": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Alesi2024Biomol-1": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Du2025CIMB-1": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Du2025CIMB-2": {
+   "checked": false,
+   "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  }
+ }
+}

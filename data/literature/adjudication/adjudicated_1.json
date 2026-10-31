@@ -1,0 +1,1577 @@
+[
+ {
+  "claim_id": "Zeng2024Gene-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.059,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row IMMT, TopSNP rs13035593: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.03,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row IMMT, TopSNP rs13035593: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.08,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row IMMT, TopSNP rs13035593: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 4.88e-06,
+    "evidence": "mmc1.xlsx Supplementary Table S1, Whole_Blood_GTEx_V8 row IMMT, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.04e-5; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible. eQTLGen IMMT row is also Bonferroni-significant with opposite sign (OR 0.945, 0.92-0.97, P 6.56e-6); GTEx whole-blood row matches abstract and was kept."
+ },
+ {
+  "claim_id": "Zeng2024Gene-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.058,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row SKAP1, TopSNP rs2305433: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.03,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row SKAP1, TopSNP rs2305433: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.08,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row SKAP1, TopSNP rs2305433: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 1.19e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, Whole_Blood_GTEx_V8 row SKAP1, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 5.99e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-3",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.059,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row KMT5A, TopSNP rs28825193: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.03,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row KMT5A, TopSNP rs28825193: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.08,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row KMT5A, TopSNP rs28825193: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 2.02e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, Whole_Blood_GTEx_V8 row KMT5A, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.75e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-4",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.087,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row KLF12, TopSNP rs9600237: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.05,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row KLF12, TopSNP rs9600237: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.12,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row KLF12, TopSNP rs9600237: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 6.33e-06,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row KLF12, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 8.65e-6; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), eQTLGen row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-5",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.071,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row GIGYF1, TopSNP rs506597: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.04,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row GIGYF1, TopSNP rs506597: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.1,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row GIGYF1, TopSNP rs506597: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 6.12e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row GIGYF1, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 7.48e-5; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible. GTEx whole-blood GIGYF1 row has opposite sign (OR 0.935, P_HEIDI 0.021, fails HEIDI); eQTLGen row matches abstract, passes HEIDI, kept."
+ },
+ {
+  "claim_id": "Zeng2024Gene-6",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.054,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row WNT7A, TopSNP rs9310431: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.03,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row WNT7A, TopSNP rs9310431: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.08,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row WNT7A, TopSNP rs9310431: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 7.16e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row WNT7A, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.24e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), eQTLGen row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-7",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.95,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row SUN1, TopSNP rs10267796: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.92,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row SUN1, TopSNP rs10267796: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.98,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row SUN1, TopSNP rs10267796: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.000103884,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row SUN1, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.53e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "direction",
+    "decision": "other",
+    "value": "null_or_unclear",
+    "evidence": "Abstract lists SUN1 as positive association; Table S1 eQTLGen row (only FinnGen row) gives OR 0.950 (0.92-0.98).",
+    "source_inconsistent": true,
+    "note": "Abstract and table contradict on sign; per direction rule set null_or_unclear. Table estimate retained."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible. Abstract direction contradicts the only Table S1 row for this gene; numeric values from table, direction set null_or_unclear."
+ },
+ {
+  "claim_id": "Zeng2024Gene-8",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.068,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row PARP3, TopSNP rs62260389: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.03,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row PARP3, TopSNP rs62260389: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.1,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row PARP3, TopSNP rs62260389: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.000125814,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row PARP3, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.45e-3; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), eQTLGen row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-9",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.93,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row PAQR8, TopSNP rs9382100: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.9,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row PAQR8, TopSNP rs9382100: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.96,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row PAQR8, TopSNP rs9382100: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 6.71e-06,
+    "evidence": "mmc1.xlsx Supplementary Table S1, Whole_Blood_GTEx_V8 row PAQR8, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.46e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-10",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.938,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row AP3M1, TopSNP rs67594352: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.91,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row AP3M1, TopSNP rs67594352: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.97,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row AP3M1, TopSNP rs67594352: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 4.47e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, Whole_Blood_GTEx_V8 row AP3M1, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 7.75e-5; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Whole_Blood_GTEx_V8 row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-11",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.95,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Uterus_GTEx_V8 row SURF6, TopSNP rs886090: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.93,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Uterus_GTEx_V8 row SURF6, TopSNP rs886090: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.97,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), Uterus_GTEx_V8 row SURF6, TopSNP rs886090: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 4.04e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, Uterus_GTEx_V8 row SURF6, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 6.29e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible (ScienceDirect 403); all values from Supplementary Table S1 (FinnGen), Uterus_GTEx_V8 row."
+ },
+ {
+  "claim_id": "Zeng2024Gene-12",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.051,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row TUB, TopSNP rs2280729: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.03,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row TUB, TopSNP rs2280729: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.08,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row TUB, TopSNP rs2280729: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 6.49e-05,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row TUB, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.98e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "direction",
+    "decision": "other",
+    "value": "null_or_unclear",
+    "evidence": "Abstract lists TUB as inverse association; Table S1 eQTLGen row (only FinnGen row) gives OR 1.051 (1.03-1.08).",
+    "source_inconsistent": true,
+    "note": "Abstract and table contradict on sign; per direction rule set null_or_unclear. Table estimate retained."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible. Abstract direction contradicts the only Table S1 row for this gene; numeric values from table, direction set null_or_unclear."
+ },
+ {
+  "claim_id": "Zeng2024Gene-13",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.079,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row POLDIP2, TopSNP rs3093704: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.04,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row POLDIP2, TopSNP rs3093704: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.12,
+    "evidence": "mmc1.xlsx Supplementary Table S1 (FinnGen), eQTLGen row POLDIP2, TopSNP rs3093704: OR (95% CI) column.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.000118631,
+    "evidence": "mmc1.xlsx Supplementary Table S1, eQTLGen row POLDIP2, P-value column (basis of Bonferroni-corrected P).",
+    "source_inconsistent": false,
+    "note": "P_SMR column for same row is 1.43e-4; P-value column used as the paper bases significance on it."
+   },
+   {
+    "field": "direction",
+    "decision": "other",
+    "value": "null_or_unclear",
+    "evidence": "Abstract lists POLDIP2 as inverse association; Table S1 eQTLGen row (only FinnGen row) gives OR 1.079 (1.04-1.12).",
+    "source_inconsistent": true,
+    "note": "Abstract and table contradict on sign; per direction rule set null_or_unclear. Table estimate retained."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "FinnGen"
+    ],
+    "evidence": "Supplementary Table S1 title: endometriosis in the FinnGen study; UK Biobank results are separate Table S2.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 8288,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported. Main text paywalled (ScienceDirect 403)."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 68969,
+    "evidence": "Abstract (PMID 37931855): FinnGen 8,288 cases and 68,969 controls; Table S1 labels outcome \"Finngen R9\".",
+    "source_inconsistent": true,
+    "note": "Counts equal FinnGen R5 (finn-b) but Table S1 says R9; counts kept as reported."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table S1 gives a single TopSNP per gene and dataset (SMR/Wald ratio); HEIDI SNP count is not the instrument count.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text inaccessible. Abstract direction contradicts the only Table S1 row for this gene; numeric values from table, direction set null_or_unclear."
+ },
+ {
+  "claim_id": "Dou2025FIG-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.864712325,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000150540 HNMT, Inverse variance weighted row: OR 0.8647 (0.7877-0.9493), P 0.00227.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.787656868,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000150540 HNMT, Inverse variance weighted row: OR 0.8647 (0.7877-0.9493), P 0.00227.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.949306019,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000150540 HNMT, Inverse variance weighted row: OR 0.8647 (0.7877-0.9493), P 0.00227.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.002269485,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000150540 HNMT, Inverse variance weighted row: OR 0.8647 (0.7877-0.9493), P 0.00227.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "other",
+    "value": [
+     "FinnGen",
+     "UK Biobank",
+     "BioBank Japan"
+    ],
+    "evidence": "GWAS Catalog GCST90018839 cohorts BBJ, UKB, FinnGen; rs671 stats identical to BBJ-only GCST90018619; paper SNP rs10000290 matches file.",
+    "source_inconsistent": false,
+    "note": "Paper calls ebi-a-GCST90018839 European (4,511 cases), but it is the Sakaue 2021 cross-ancestry meta including BioBank Japan."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 5,
+    "evidence": "ESM 4 (MOESM4), HNMT Inverse variance weighted row, nsnp column.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text gives no numeric estimate; exact IVW values from ESM 4. Selection IVW p<0.05 without multiple-testing correction."
+ },
+ {
+  "claim_id": "Dou2025FIG-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 0.896162272,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000024862 CCDC28A, Inverse variance weighted row: OR 0.8962 (0.8048-0.9979), P 0.0456.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 0.804829746,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000024862 CCDC28A, Inverse variance weighted row: OR 0.8962 (0.8048-0.9979), P 0.0456.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.997859263,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000024862 CCDC28A, Inverse variance weighted row: OR 0.8962 (0.8048-0.9979), P 0.0456.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.045600098,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000024862 CCDC28A, Inverse variance weighted row: OR 0.8962 (0.8048-0.9979), P 0.0456.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "other",
+    "value": [
+     "FinnGen",
+     "UK Biobank",
+     "BioBank Japan"
+    ],
+    "evidence": "GWAS Catalog GCST90018839 cohorts BBJ, UKB, FinnGen; rs671 stats identical to BBJ-only GCST90018619; paper SNP rs10000290 matches file.",
+    "source_inconsistent": false,
+    "note": "Paper calls ebi-a-GCST90018839 European (4,511 cases), but it is the Sakaue 2021 cross-ancestry meta including BioBank Japan."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 3,
+    "evidence": "ESM 4 (MOESM4), CCDC28A Inverse variance weighted row, nsnp column.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text gives no numeric estimate; exact IVW values from ESM 4. Selection IVW p<0.05 without multiple-testing correction."
+ },
+ {
+  "claim_id": "Dou2025FIG-3",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.102400264,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000149485 FADS1, Inverse variance weighted row: OR 1.1024 (1.0206-1.1908), P 0.0132.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.020561379,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000149485 FADS1, Inverse variance weighted row: OR 1.1024 (1.0206-1.1908), P 0.0132.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.190801815,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000149485 FADS1, Inverse variance weighted row: OR 1.1024 (1.0206-1.1908), P 0.0132.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.013243539,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000149485 FADS1, Inverse variance weighted row: OR 1.1024 (1.0206-1.1908), P 0.0132.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "other",
+    "value": [
+     "FinnGen",
+     "UK Biobank",
+     "BioBank Japan"
+    ],
+    "evidence": "GWAS Catalog GCST90018839 cohorts BBJ, UKB, FinnGen; rs671 stats identical to BBJ-only GCST90018619; paper SNP rs10000290 matches file.",
+    "source_inconsistent": false,
+    "note": "Paper calls ebi-a-GCST90018839 European (4,511 cases), but it is the Sakaue 2021 cross-ancestry meta including BioBank Japan."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 4,
+    "evidence": "ESM 4 (MOESM4), FADS1 Inverse variance weighted row, nsnp column.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text gives no numeric estimate; exact IVW values from ESM 4. Selection IVW p<0.05 without multiple-testing correction."
+ },
+ {
+  "claim_id": "Dou2025FIG-4",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.087261874,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000102858 MGRN1, Inverse variance weighted row: OR 1.0873 (1.0002-1.1820), P 0.0496.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.000154871,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000102858 MGRN1, Inverse variance weighted row: OR 1.0873 (1.0002-1.1820), P 0.0496.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.181955331,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000102858 MGRN1, Inverse variance weighted row: OR 1.0873 (1.0002-1.1820), P 0.0496.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.049572472,
+    "evidence": "ESM 4 (MOESM4 CSV), eqtl-a-ENSG00000102858 MGRN1, Inverse variance weighted row: OR 1.0873 (1.0002-1.1820), P 0.0496.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "other",
+    "value": [
+     "FinnGen",
+     "UK Biobank",
+     "BioBank Japan"
+    ],
+    "evidence": "GWAS Catalog GCST90018839 cohorts BBJ, UKB, FinnGen; rs671 stats identical to BBJ-only GCST90018619; paper SNP rs10000290 matches file.",
+    "source_inconsistent": false,
+    "note": "Paper calls ebi-a-GCST90018839 European (4,511 cases), but it is the Sakaue 2021 cross-ancestry meta including BioBank Japan."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 4,
+    "evidence": "ESM 4 (MOESM4), MGRN1 Inverse variance weighted row, nsnp column.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Main text gives no numeric estimate; exact IVW values from ESM 4. Selection IVW p<0.05 without multiple-testing correction."
+ },
+ {
+  "claim_id": "Tao2024-1",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table_1.xlsx sheet S2: EPHB4, Endometriosis, Wald ratio, Nsnp 1; Table S1 lists single top cis-pQTL rs314361.",
+    "source_inconsistent": false,
+    "note": "Methods: Wald ratio for proteins with one top cis-pQTL SNP."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Tao2024-2",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table_1.xlsx sheet S2: FSHB, Endometriosis, Wald ratio, Nsnp 1; Table S1 lists single top cis-pQTL rs11031006.",
+    "source_inconsistent": false,
+    "note": "Methods: Wald ratio for proteins with one top cis-pQTL SNP."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Tao2024-3",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table_1.xlsx sheet S2: RSPO3, Endometriosis, Wald ratio, Nsnp 1; Table S1 lists single top cis-pQTL rs1936800.",
+    "source_inconsistent": false,
+    "note": "Methods: Wald ratio for proteins with one top cis-pQTL SNP."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Tao2024-4",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "Table_1.xlsx sheet S2: SEZ6L2, Endometriosis, Wald ratio, Nsnp 1; Table S1 lists single top cis-pQTL rs113443718.",
+    "source_inconsistent": false,
+    "note": "Methods: Wald ratio for proteins with one top cis-pQTL SNP."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Kai2025BMCWH-5",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods (MR): IVs P<5x10^-6 genome-wide, clump R2=0.001, kb=10, nSNP>=3, F>10; no cis window stated.",
+    "source_inconsistent": false,
+    "note": "Genome-wide p threshold without any position restriction, so genome_wide rather than unclear."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Kai2025BMCWH-13",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods (MR): IVs P<5x10^-6 genome-wide, clump R2=0.001, kb=10, nSNP>=3, F>10; no cis window stated.",
+    "source_inconsistent": false,
+    "note": "Genome-wide p threshold without any position restriction, so genome_wide rather than unclear."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Kai2025BMCWH-17",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods (MR): IVs P<5x10^-6 genome-wide, clump R2=0.001, kb=10, nSNP>=3, F>10; no cis window stated.",
+    "source_inconsistent": false,
+    "note": "Genome-wide p threshold without any position restriction, so genome_wide rather than unclear."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Yao2026-1",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "cis",
+    "evidence": "Methods 2.3: P<5e-8, r2<0.001, 10,000 kb, no window; Table S6: all 1,937 proteins have IVs on own chromosome, span <=2.6 Mb.",
+    "source_inconsistent": false,
+    "note": "Effective cis restriction (~1 Mb window, not stated in Methods); RSPO3 IVs <=0.95 Mb from TSS."
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 16588,
+    "evidence": "Table S6: ncase.outcome 16588, ncontrol.outcome 111583, outcome Endometriosis_R10; Methods 2.2 text says 8288 cases, 68,969 controls.",
+    "source_inconsistent": true,
+    "note": "Text counts equal FinnGen R5; harmonised supplementary data (R10) preferred per table-over-text rule."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 111583,
+    "evidence": "Table S6: ncase.outcome 16588, ncontrol.outcome 111583, outcome Endometriosis_R10; Methods 2.2 text says 8288 cases, 68,969 controls.",
+    "source_inconsistent": true,
+    "note": "Text counts equal FinnGen R5; harmonised supplementary data (R10) preferred per table-over-text rule."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 2,
+    "evidence": "Table S1: OID21415 (RSPO3), Endometriosis_R10, Inverse variance weighted, nsnp 2; Table S6 lists rs56080056, rs1936800.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Text describes FinnGen 8288/68,969 while all supplementary outcome data are FinnGen R10 (16,588/111,583); Table 1 betas match Table S1 R10 IVW rows."
+ },
+ {
+  "claim_id": "Yao2026-3",
+  "fields": [
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "cis",
+    "evidence": "Methods 2.3: P<5e-8, r2<0.001, 10,000 kb, no window; Table S6: all 1,937 proteins have IVs on own chromosome, span <=2.6 Mb.",
+    "source_inconsistent": false,
+    "note": "Effective cis restriction (~1 Mb window, not stated in Methods); FSHB IVs <=0.32 Mb from TSS."
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 16588,
+    "evidence": "Table S6: ncase.outcome 16588, ncontrol.outcome 111583, outcome Endometriosis_R10; Methods 2.2 text says 8288 cases, 68,969 controls.",
+    "source_inconsistent": true,
+    "note": "Text counts equal FinnGen R5; harmonised supplementary data (R10) preferred per table-over-text rule."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 111583,
+    "evidence": "Table S6: ncase.outcome 16588, ncontrol.outcome 111583, outcome Endometriosis_R10; Methods 2.2 text says 8288 cases, 68,969 controls.",
+    "source_inconsistent": true,
+    "note": "Text counts equal FinnGen R5; harmonised supplementary data (R10) preferred per table-over-text rule."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 2,
+    "evidence": "Table S1: OID30233 (FSHB), Endometriosis_R10, Inverse variance weighted, nsnp 2; Table S6 lists rs7125669, rs11031006.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Text describes FinnGen 8288/68,969 while all supplementary outcome data are FinnGen R10 (16,588/111,583); Table 1 betas match Table S1 R10 IVW rows."
+ },
+ {
+  "claim_id": "Li2023coag-1",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 4,
+    "evidence": "Additional file 1 Table S2 (UK Biobank discovery): ADAMDTS13, nSNP 4, IVW fixed OR 0.37 (0.22-0.61).",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Li2023coag-2",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "first",
+    "value": 1.26,
+    "evidence": "Additional file 1 Table S6 (meta-analysis) vWF: nSNP 14, IVW fixed OR 1.26 (1.09-1.46), P 1.6985e-3; Results text matches.",
+    "source_inconsistent": false,
+    "note": "vWF null in UKB discovery (1.24, P=0.082); paper bases vWF conclusion on meta (Bonferroni-robust), FinnGen alone P=0.009 not. Meta used."
+   },
+   {
+    "field": "ci_low",
+    "decision": "first",
+    "value": 1.09,
+    "evidence": "Additional file 1 Table S6 (meta-analysis) vWF: nSNP 14, IVW fixed OR 1.26 (1.09-1.46), P 1.6985e-3; Results text matches.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "ci_high",
+    "decision": "first",
+    "value": 1.46,
+    "evidence": "Additional file 1 Table S6 (meta-analysis) vWF: nSNP 14, IVW fixed OR 1.26 (1.09-1.46), P 1.6985e-3; Results text matches.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "p_value",
+    "decision": "other",
+    "value": 0.00169851431309716,
+    "evidence": "Additional file 1 Table S6 (meta-analysis) vWF: nSNP 14, IVW fixed OR 1.26 (1.09-1.46), P 1.6985e-3; Results text matches.",
+    "source_inconsistent": false,
+    "note": "Exact Table S6 value preferred over rounded text P = 0.002 (same analysis)."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "first",
+    "value": [
+     "FinnGen",
+     "UK Biobank"
+    ],
+    "evidence": "Abstract/Methods: MR in UK Biobank (Pan-UKB, 4354/217,500) and FinnGen finn-b-N14_ENDOMETRIOSIS (8288/68,969), then meta-analysis.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "first",
+    "value": null,
+    "evidence": "Methods give component counts only (UKB 4354, FinnGen 8288 cases); no combined meta-analysis N reported.",
+    "source_inconsistent": false,
+    "note": "Not summed: extraction rules forbid computed values."
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "first",
+    "value": null,
+    "evidence": "Methods give component counts only (UKB 217,500, FinnGen 68,969 controls); no combined meta-analysis N reported.",
+    "source_inconsistent": false,
+    "note": "Not summed: extraction rules forbid computed values."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "other",
+    "value": 14,
+    "evidence": "Additional file 1 Table S6 (meta-analysis): vWF nSNP 14 (UKB Table S2 nSNP 12; FinnGen Table S4 nSNP 14).",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": "Claim is the meta-analysis (UKB + FinnGen) estimate, per convention, because vWF was not significant in the UKB discovery GWAS."
+ },
+ {
+  "claim_id": "Zou2024Bio-34",
+  "fields": [
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.008741846,
+    "evidence": "Supplementary Table S10, UBE2D3 Esophagus_Mucosa Wald ratio row: pval 8.741846E-3, OR 1.38 (1.08 to 1.75).",
+    "source_inconsistent": false,
+    "note": "Figure 4A exponent illegible at available resolution; table value adopted, consistent with the CI."
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Guo2024-2",
+  "fields": [
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 1,
+    "evidence": "SupplementaryTable17.xlsx Table S1: R-spondin-3, Endometriosis, Wald ratio, nsnp 1; Table S8 IV rs2489623.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ },
+ {
+  "claim_id": "Xie2026FI-1",
+  "fields": [
+   {
+    "field": "estimate",
+    "decision": "second",
+    "value": 1.39142735288651,
+    "evidence": "Supplementary Table 6 (Table6.xlsx), LRP1 Inverse variance weighted: nsnp 3, OR 1.3914 (1.0618-1.8234), pval 0.01663.",
+    "source_inconsistent": true,
+    "note": "Results 3.8 text gives OR 1.3464 (1.1276-1.6077), p=0.0010; table preferred over text."
+   },
+   {
+    "field": "ci_low",
+    "decision": "second",
+    "value": 1.06180304880913,
+    "evidence": "Supplementary Table 6 (Table6.xlsx), LRP1 Inverse variance weighted: nsnp 3, OR 1.3914 (1.0618-1.8234), pval 0.01663.",
+    "source_inconsistent": true,
+    "note": "Results 3.8 text gives OR 1.3464 (1.1276-1.6077), p=0.0010; table preferred over text."
+   },
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 1.82337965645528,
+    "evidence": "Supplementary Table 6 (Table6.xlsx), LRP1 Inverse variance weighted: nsnp 3, OR 1.3914 (1.0618-1.8234), pval 0.01663.",
+    "source_inconsistent": true,
+    "note": "Results 3.8 text gives OR 1.3464 (1.1276-1.6077), p=0.0010; table preferred over text."
+   },
+   {
+    "field": "p_value",
+    "decision": "second",
+    "value": 0.0166319620372606,
+    "evidence": "Supplementary Table 6 (Table6.xlsx), LRP1 Inverse variance weighted: nsnp 3, OR 1.3914 (1.0618-1.8234), pval 0.01663.",
+    "source_inconsistent": true,
+    "note": "Results 3.8 text gives OR 1.3464 (1.1276-1.6077), p=0.0010; table preferred over text."
+   },
+   {
+    "field": "instrument_scope",
+    "decision": "second",
+    "value": "genome_wide",
+    "evidence": "Methods 2.12: r2<0.001, 10,000 kb, F>10, no window; Table 7 IVs on chr8, chr2, chr12 (only rs55909821 near LRP1).",
+    "source_inconsistent": false,
+    "note": "P threshold unstated (all IV p<5e-10); trans instruments included without position restriction."
+   },
+   {
+    "field": "n_instruments",
+    "decision": "second",
+    "value": 3,
+    "evidence": "Table 6 nsnp 3; Table 7 lists rs10098310, rs1375493, rs55909821; Results text says 12 SNPs retained.",
+    "source_inconsistent": true,
+    "note": "Text count (12) contradicts table and the three SNPs named in the same sentence."
+   }
+  ],
+  "overall_note": "Text and supplementary tables disagree on estimate, P, SNP count and Egger intercept P (text 0.420 vs Table 8 0.609); table values adopted."
+ },
+ {
+  "claim_id": "Xiang2024bmd-1",
+  "fields": [
+   {
+    "field": "ci_high",
+    "decision": "second",
+    "value": 0.999947956498415,
+    "evidence": "mmc1.xlsx sT5, ESR1 to ukb-d-N80 IVW: OR 0.99920, or_lci95 0.99846, or_uci95 0.99995, P 0.036.",
+    "source_inconsistent": false,
+    "note": "Figure 3 rounds to 0.99; exact table value preferred."
+   },
+   {
+    "field": "outcome_cohorts",
+    "decision": "second",
+    "value": [
+     "UK Biobank"
+    ],
+    "evidence": "mmc1.xlsx sT2 (Data Source for outcome): Endometriosis, ncase 1496, ncontrol 359698, ukb-d-N80.",
+    "source_inconsistent": false,
+    "note": "ukb-d-N80 is UK Biobank ICD-10 N80 main diagnosis."
+   },
+   {
+    "field": "outcome_cases",
+    "decision": "second",
+    "value": 1496,
+    "evidence": "mmc1.xlsx sT2 (Data Source for outcome): Endometriosis, ncase 1496, ncontrol 359698, ukb-d-N80.",
+    "source_inconsistent": false,
+    "note": null
+   },
+   {
+    "field": "outcome_controls",
+    "decision": "second",
+    "value": 359698,
+    "evidence": "mmc1.xlsx sT2 (Data Source for outcome): Endometriosis, ncase 1496, ncontrol 359698, ukb-d-N80.",
+    "source_inconsistent": false,
+    "note": null
+   }
+  ],
+  "overall_note": null
+ }
+]

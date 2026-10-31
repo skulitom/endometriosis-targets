@@ -1,0 +1,46 @@
+{
+ "records_identified": 282,
+ "title_abstract_excluded": {
+  "E2": 111,
+  "E1": 26,
+  "E3": 41,
+  "E4": 28
+ },
+ "full_text_assessed": 76,
+ "full_text_accessed": 59,
+ "full_text_excluded": {
+  "E2": 19,
+  "E6": 3,
+  "E3": 3,
+  "E5": 1
+ },
+ "papers_included": 50,
+ "papers_included_with_zero_claims": 5,
+ "claims": 488,
+ "other_sources": {
+  "records_identified": 746,
+  "title_abstract_excluded": {
+   "E3": 62,
+   "E1": 225,
+   "E2": 131,
+   "E4": 306,
+   "E6": 3
+  },
+  "full_text_assessed": 19,
+  "full_text_accessed": 19,
+  "full_text_excluded": {
+   "E5": 3,
+   "E3": 1
+  },
+  "papers_included": 15,
+  "papers_included_with_zero_claims": 0,
+  "awaiting_full_text_review": 0,
+  "records_by_source": {
+   "europepmc_fulltext": 717,
+   "reference_lists": 18,
+   "europepmc_fulltext + reference_lists": 11
+  }
+ },
+ "papers_included_all_sources": 65,
+ "corrections_applied": 278
+}

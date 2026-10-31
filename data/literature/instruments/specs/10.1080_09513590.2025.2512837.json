@@ -1,0 +1,18 @@
+{
+ "record_id": "doi:10.1080/09513590.2025.2512837",
+ "tables": {},
+ "claims": {
+  "Lv2025-1": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL6ST; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+  },
+  "Lv2025-2": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL3RA; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+  },
+  "Lv2025-3": {
+   "status": "not_available",
+   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL1RL1; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+  }
+ }
+}

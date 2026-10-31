@@ -1,0 +1,707 @@
+{
+ "record_id": "doi:10.3390/biology13110871",
+ "tables": {
+  "S11": {
+   "file": "text/biology-13-00871-s001__Supplementary_Tables__Table_S11.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   }
+  }
+ },
+ "claims": {
+  "Zou2024Bio-1": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Adipose Subcutaneous"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Adipose Subcutaneous' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.13558100000000001 vs S10 Wald b -0.13558100000000001; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-2": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Adipose Visceral Omentum"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Adipose Visceral Omentum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.272538 vs S10 Wald b -0.27253803199999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-3": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Artery Coronary"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Artery Coronary' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.17797399999999999 vs S10 Wald b -0.177973981; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-4": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain Caudate basal ganglia"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Caudate basal ganglia' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.1545 vs S10 Wald b -0.154528684; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-5": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain Cerebellum"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Cerebellum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.103084 vs S10 Wald b -0.103440329; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-6": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain Frontal Cortex"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Frontal Cortex' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.155088 vs S10 Wald b -0.15508755799999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-7": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain Nucleus accumbens"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Nucleus accumbens' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.11233 vs S10 Wald b -0.11181208199999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-8": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain Spinal cord cervical"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Spinal cord cervical' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.104658 vs S10 Wald b -0.10457327700000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-9": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Cells EBV-transformed lymphocytes"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Cells EBV-transformed lymphocytes' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -8.6462899999999995E-2 vs S10 Wald b -8.6729849999999997E-2; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-10": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Colon Sigmoid"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Colon Sigmoid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.12732599999999999 vs S10 Wald b -0.12732624200000001; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-11": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Colon Transverse"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Colon Transverse' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.167961 vs S10 Wald b -0.16799971999999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-12": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Esophagus Gastroesophageal Junction"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Esophagus Gastroesophageal Junction' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.11802799999999999 vs S10 Wald b -0.118028443; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-13": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Lung"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Lung' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.18368499999999999 vs S10 Wald b -0.18368483999999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-14": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Muscle Skeletal"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Muscle Skeletal' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.329121 vs S10 Wald b -0.32912100799999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-15": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Nerve Tibial"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Nerve Tibial' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.121083 vs S10 Wald b -0.121502019; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-16": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Pancreas"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Pancreas' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -8.8598200000000002E-2 vs S10 Wald b -8.8738108999999996E-2; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-17": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Small Intestine Terminal Ileum"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Small Intestine Terminal Ileum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.13136 vs S10 Wald b -0.13135997899999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-18": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Spleen"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Spleen' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.110181 vs S10 Wald b -0.110180998; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-19": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "IMMT"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Whole Blood"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Whole Blood' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.15768199999999999 vs S10 Wald b -0.157682345; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-20": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "EFR3B"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Adrenal Gland"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for EFR3B in GTEx v8 'Adrenal Gland' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.10456 vs S10 Wald b -0.10598959400000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-21": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Adipose Subcutaneous"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Adipose Subcutaneous' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.15671399999999999 vs S10 Wald b 0.155707502; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-22": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Adipose Visceral Omentum"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Adipose Visceral Omentum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.211424 vs S10 Wald b 0.212661186; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-23": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain Cerebellum"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Brain Cerebellum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.17806900000000001 vs S10 Wald b 0.181133341; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-24": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Breast Mammary Tissue"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Breast Mammary Tissue' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.23688200000000001 vs S10 Wald b 0.237918937; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-25": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Colon Sigmoid"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Colon Sigmoid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.20461599999999999 vs S10 Wald b 0.20461636599999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-26": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Esophagus Gastroesophageal Junction"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Esophagus Gastroesophageal Junction' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.19425700000000001 vs S10 Wald b 0.194256549; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-27": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Esophagus Mucosa"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Esophagus Mucosa' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.17075599999999999 vs S10 Wald b 0.170500438; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-28": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Esophagus Muscularis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Esophagus Muscularis' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.16763400000000001 vs S10 Wald b 0.16958884599999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-29": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Skin Not Sun Exposed Suprapubic"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Skin Not Sun Exposed Suprapubic' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.14424999999999999 vs S10 Wald b 0.14509429400000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-30": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Small Intestine Terminal Ileum"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Small Intestine Terminal Ileum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.21885399999999999 vs S10 Wald b 0.21885434600000001; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-31": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Thyroid"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Thyroid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.25957000000000002 vs S10 Wald b 0.26032702699999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-32": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CISD2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Uterus"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Uterus' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.122062 vs S10 Wald b 0.125559583; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-33": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "UBE2D3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Cells Cultured fibroblasts"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Cells Cultured fibroblasts' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.31606800000000002 vs S10 Wald b 0.31606785599999998; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-34": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "UBE2D3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Esophagus Mucosa"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Esophagus Mucosa' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.32113399999999998 vs S10 Wald b 0.32113429300000002; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-35": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "UBE2D3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Muscle Skeletal"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Muscle Skeletal' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.46387699999999998 vs S10 Wald b 0.45315978400000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP."
+  },
+  "Zou2024Bio-36": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "UBE2D3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Pancreas"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Pancreas' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.16855800000000001 vs S10 Wald b 0.16855782799999999; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-37": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "UBE2D3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Skin Not Sun Exposed Suprapubic"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Skin Not Sun Exposed Suprapubic' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.296628 vs S10 Wald b 0.29662760700000002; identical, so the same SNP was used."
+  },
+  "Zou2024Bio-38": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "UBE2D3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Thyroid"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Thyroid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.370612 vs S10 Wald b 0.37061191799999998; identical, so the same SNP was used."
+  }
+ }
+}

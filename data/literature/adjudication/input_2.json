@@ -1,0 +1,1406 @@
+[
+ {
+  "record_id": "doi:10.1016/j.jri.2024.104293",
+  "doi": "10.1016/j.jri.2024.104293",
+  "pmcid": null,
+  "title": "The interplay between systemic inflammatory factors and endometriosis: A bidirectional mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.jri.2024.104293",
+  "claims": [
+   {
+    "claim_id": "WeiL2024JRI-1",
+    "gene_symbol": "CCL2",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.871088007598916
+     ],
+     "ci_low": [
+      null,
+      0.78157166520986
+     ],
+     "ci_high": [
+      null,
+      0.970856993362093
+     ],
+     "p_value": [
+      null,
+      0.0126101876023709
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      16
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Monocyte chemotactic protein-1 (MCP-1) mapped to CCL2. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis (overall phenotype; source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "MCP1. Also significant for endometriosis of ovary (OR 0.752, P=0.0012); overall phenotype chosen. Main text inaccessible (ScienceDirect 403); outcome source/N not in supplement."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-2",
+    "gene_symbol": "CCL3",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.260936390252846
+     ],
+     "ci_low": [
+      null,
+      0.0817475784241833
+     ],
+     "ci_high": [
+      null,
+      0.832902956524068
+     ],
+     "p_value": [
+      null,
+      0.0232827461078712
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      4
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Macrophage inflammatory protein-1a (MIP-1a) mapped to CCL3. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of fallopian tube (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "MIP1a; only significant phenotype. Main text inaccessible; outcome source/N not in supplement (labels resemble FinnGen endpoints). IVs P<5e-6 incl. trans."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-3",
+    "gene_symbol": "CSF3",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.300479863051757
+     ],
+     "ci_low": [
+      null,
+      0.113981328039687
+     ],
+     "ci_high": [
+      null,
+      0.79213104156994
+     ],
+     "p_value": [
+      null,
+      0.0150497675979673
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      9
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Granulocyte colony-stimulating factor (G-CSF) mapped to CSF3. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of intestine (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "GCSF; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-4",
+    "gene_symbol": "MIF",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.978309234267435
+     ],
+     "p_value": [
+      null,
+      0.00126186750469628
+     ],
+     "estimate_scale": [
+      "OR",
+      "beta"
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      10
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Macrophage migration inhibitory factor. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of intestine (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "Table row internally inconsistent: beta 0.978 (SE 0.303; P matches beta/SE) but OR column 0.660 (0.468-0.921). Beta reported; true direction uncertain. Main text inaccessible."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-5",
+    "gene_symbol": "IL4",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      2.1233156425536
+     ],
+     "ci_low": [
+      null,
+      1.0398841357199
+     ],
+     "ci_high": [
+      null,
+      4.33554966659017
+     ],
+     "p_value": [
+      null,
+      0.0386985045788205
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      14
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Interleukin-4. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of intestine (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "IL4; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-6",
+    "gene_symbol": "IL5",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      3.10762415614106
+     ],
+     "ci_low": [
+      null,
+      1.46779910171021
+     ],
+     "ci_high": [
+      null,
+      6.57946164742789
+     ],
+     "p_value": [
+      null,
+      0.00304877177283195
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      8
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Interleukin-5. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of fallopian tube (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "IL5; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-7",
+    "gene_symbol": "CXCL8",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.28165629119052
+     ],
+     "ci_low": [
+      null,
+      1.01242458646587
+     ],
+     "ci_high": [
+      null,
+      1.62248415408629
+     ],
+     "p_value": [
+      null,
+      0.0391472056942755
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      8
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Interleukin-8 mapped to CXCL8. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of rectovaginal septum and vagina (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "IL8; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-8",
+    "gene_symbol": "IL9",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.46798601692913
+     ],
+     "ci_low": [
+      null,
+      1.09008739608794
+     ],
+     "ci_high": [
+      null,
+      1.97689006737732
+     ],
+     "p_value": [
+      null,
+      0.0114703830385068
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      6
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Interleukin-9. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of rectovaginal septum and vagina (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "IL9; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-9",
+    "gene_symbol": "IL12B",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      1.33305226413662
+     ],
+     "ci_low": [
+      null,
+      1.09047353643863
+     ],
+     "ci_high": [
+      null,
+      1.62959327259179
+     ],
+     "p_value": [
+      null,
+      0.00502904997682402
+     ],
+     "direction": [
+      "null_or_unclear",
+      "risk_increasing"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      15
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Interleukin-12p70 is the IL12A/IL12B heterodimer; mapped to IL12B as main subunit. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of uterus (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "IL-12p70 (mapped IL12B). Also significant for endometriosis of ovary (OR 1.196, 1.014-1.411, P=0.034); smaller-P phenotype chosen as main text inaccessible."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-10",
+    "gene_symbol": "IL16",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      -0.103622123319348
+     ],
+     "p_value": [
+      null,
+      0.010253878846708
+     ],
+     "estimate_scale": [
+      "OR",
+      "beta"
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      10
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Interleukin-16. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis (overall phenotype; source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "Table row internally inconsistent: beta -0.104 (SE 0.040; P matches beta/SE) but OR column 1.293 (1.133-1.476). Beta reported; true direction uncertain. Main text inaccessible."
+    }
+   },
+   {
+    "claim_id": "WeiL2024JRI-11",
+    "gene_symbol": "IL17A",
+    "exposure_type": "pQTL",
+    "exposure_source": "41 systemic inflammatory factors GWAS (source not stated in abstract)",
+    "differences": {
+     "estimate": [
+      null,
+      0.769677767666142
+     ],
+     "ci_low": [
+      null,
+      0.612920284022246
+     ],
+     "ci_high": [
+      null,
+      0.966526775964939
+     ],
+     "p_value": [
+      null,
+      0.0242581123850777
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "n_instruments": [
+      null,
+      8
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "not stated (abstract only)",
+      "IVW (fixed effect)"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Endometriosis phenotypes (GWAS source not stated in abstract)",
+     "method": "not stated (abstract only)",
+     "notes": "Abstract says 'Interleukin-17'; mapped to IL17A. Abstract only (Elsevier, subscription). Abstract lists this factor among 11 'upstream causes of endometriosis' (P<0.05) across endometriosis phenotypes; no estimate, direction, phenotype or outcome GWAS given. 41-factor panel names match Ahola-Olli 2017 cytokines."
+    },
+    "second": {
+     "source_location": "Supplementary Table S3 (mmc1.xls, sheet 'Table S3 MR IVW')",
+     "outcome_source": "Endometriosis of uterus (source not stated in supplement)",
+     "method": "IVW (fixed effect)",
+     "notes": "IL17; only significant phenotype. Main text inaccessible; outcome source/N not in supplement."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/frph.2026.1747031",
+  "doi": "10.3389/frph.2026.1747031",
+  "pmcid": "PMC13180925",
+  "title": "Multi-omics Mendelian randomization identifies mitochondrial genes associated with immune microenvironment signatures in endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.3389_frph.2026.1747031",
+  "claims": [
+   {
+    "claim_id": "Wang2026FRH-34",
+    "gene_symbol": "MTRFR",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "differences": {
+     "n_instruments": [
+      1,
+      null
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2C",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "Methylation QTL claim: exposure = DNA methylation at cg10672416 (per SD), not expression. HEIDI p=0.2991611 (nsnp_HEIDI 20). Paper uses the old symbol C12orf65. Text reports 113 significant CpG sites but Fig 2C shows 36 rows; the rest are only in supplementary tables (not extracted). Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+    },
+    "second": {
+     "source_location": "Figure 2C (mQTL forest plot), probe cg10672416 (C12orf65)",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "Per increase in cg10672416 methylation. Only SMR shown (P_HEIDI 0.299); TSMR table (Supp Table 5) not in supplement. Abstract names C12orf65 a key feature gene; conclusion names only GPD2/MRPS6."
+    }
+   },
+   {
+    "claim_id": "Wang2026FRH-41",
+    "gene_symbol": "PHYH",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "differences": {
+     "n_instruments": [
+      1,
+      null
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Figure 2C",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "Methylation QTL claim: exposure = DNA methylation at cg19411738 (per SD), not expression. HEIDI p=0.2171146 (nsnp_HEIDI 20). Text reports 113 significant CpG sites but Fig 2C shows 36 rows; the rest are only in supplementary tables (not extracted). Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+    },
+    "second": {
+     "source_location": "Figure 2C (mQTL forest plot), probe cg19411738",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "Per increase in cg19411738 methylation. Only SMR shown (P_HEIDI 0.217); TSMR table not in supplement. Abstract names PHYH a key feature gene; conclusion names only GPD2/MRPS6."
+    }
+   },
+   {
+    "claim_id": "Wang2026FRH-56",
+    "gene_symbol": "GPD2",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "differences": {
+     "estimate": [
+      0.88,
+      0.89
+     ],
+     "ci_low": [
+      0.79,
+      null
+     ],
+     "ci_high": [
+      0.99,
+      null
+     ],
+     "p_value": [
+      0.03237647,
+      0.0026
+     ],
+     "n_instruments": [
+      1,
+      3
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "SMR",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 2C",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "Methylation QTL claim: exposure = DNA methylation at cg05987564 (per SD), not expression. HEIDI p=0.09023094 (nsnp_HEIDI 13). Text TSMR: IVW OR 0.89, P 0.0026. Text reports 113 significant CpG sites but Fig 2C shows 36 rows; the rest are only in supplementary tables (not extracted). Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+    },
+    "second": {
+     "source_location": "Results text, mQTL MR section (TSMR IVW)",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "IVW",
+     "notes": "CpG cg05987564; 3 SNPs and IVW p 0.00259 from Datasheet5 Steiger csv. IVW CI not reported. Figure 2C SMR: OR 0.88 (0.79-0.99), p 0.0324."
+    }
+   },
+   {
+    "claim_id": "Wang2026FRH-58",
+    "gene_symbol": "MRPS6",
+    "exposure_type": "mQTL",
+    "exposure_source": "Brisbane Systems Genetics Study + Lothian Birth Cohorts mQTL meta (McRae 2018)",
+    "differences": {
+     "estimate": [
+      1.15,
+      1.2
+     ],
+     "ci_low": [
+      1.02,
+      null
+     ],
+     "ci_high": [
+      1.29,
+      null
+     ],
+     "n_instruments": [
+      1,
+      null
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "SMR",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 2C",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "SMR",
+     "notes": "Methylation QTL claim: exposure = DNA methylation at cg24282826 (per SD), not expression. HEIDI p=0.5492208 (nsnp_HEIDI 6). Text TSMR: IVW OR 1.20, P 0.019. Text reports 113 significant CpG sites but Fig 2C shows 36 rows; the rest are only in supplementary tables (not extracted). Significance = TSMR (IVW/Wald, instruments P<5e-8, r2<0.001) P<0.05 AND SMR P<0.05 with HEIDI P>0.05; no multiple-testing correction. Estimate shown is the SMR estimate read from Fig 2; TSMR estimates in supplementary tables. 128 genes significant across layers (Supplementary Table 7). No colocalisation run."
+    },
+    "second": {
+     "source_location": "Results text, mQTL MR section (TSMR IVW)",
+     "outcome_source": "FinnGen R10 endometriosis",
+     "method": "IVW",
+     "notes": "IVW CI not reported. Value matches Steiger csv CpG cg24865779 (2 SNPs, p 0.0189), which is unlabelled. Figure 2C SMR uses cg24282826: OR 1.15 (1.02-1.29), p 0.0178."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1371/journal.pone.0356100",
+  "doi": "10.1371/journal.pone.0356100",
+  "pmcid": "PMC13472424",
+  "title": "Genetically predicted triglyceride levels and endometriosis risk: Mendelian randomization with exploratory multi-omics analyses.",
+  "supplement_dir": "data/upstream/supplements/10.1371_journal.pone.0356100",
+  "claims": [
+   {
+    "claim_id": "Li2026tg-2",
+    "gene_symbol": "SCN3A",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "differences": {
+     "p_value": [
+      null,
+      1.177e-16
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "IVW (paper's stated primary method)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 5",
+     "outcome_source": "FinnGen N14_ENDOMETRIOSIS (release and case counts not stated; 377,277 participants)",
+     "method": "IVW (paper's stated primary method)",
+     "notes": "TG-lowering drug-target proxy (fenofibrate, probucol, omega-3 drugs); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 0.206; VLDL-weighted OR 1.949. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+    },
+    "second": {
+     "source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+    }
+   },
+   {
+    "claim_id": "Li2026tg-4",
+    "gene_symbol": "APOA1",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "differences": {
+     "p_value": [
+      null,
+      1.33e-08
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "IVW (paper's stated primary method)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 5",
+     "outcome_source": "FinnGen N14_ENDOMETRIOSIS (release and case counts not stated; 377,277 participants)",
+     "method": "IVW (paper's stated primary method)",
+     "notes": "TG-lowering drug-target proxy (fenofibrate); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 0.786. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+    },
+    "second": {
+     "source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "Fig 5 nsnp 235; S1 Table shows 250 SNPs, values identical to APOA5. TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+    }
+   },
+   {
+    "claim_id": "Li2026tg-6",
+    "gene_symbol": "ITGAV",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "differences": {
+     "p_value": [
+      null,
+      3.764e-12
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "IVW (paper's stated primary method)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 5",
+     "outcome_source": "FinnGen N14_ENDOMETRIOSIS (release and case counts not stated; 377,277 participants)",
+     "method": "IVW (paper's stated primary method)",
+     "notes": "TG-lowering drug-target proxy (probucol); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: HDL-C-weighted OR 269.917. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+    },
+    "second": {
+     "source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "S1 Table values identical to TFPI row. TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+    }
+   },
+   {
+    "claim_id": "Li2026tg-7",
+    "gene_symbol": "BACE1",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Table 1: 1.32 million = Graham 2021; Methods text cites Willer 2013, n=188,577)",
+    "differences": {
+     "p_value": [
+      null,
+      1.372e-07
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      null,
+      "R9"
+     ],
+     "method": [
+      "IVW (paper's stated primary method)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 5",
+     "outcome_source": "FinnGen N14_ENDOMETRIOSIS (release and case counts not stated; 377,277 participants)",
+     "method": "IVW (paper's stated primary method)",
+     "notes": "TG-lowering drug-target proxy (omega-3-carboxylic acids); TG-associated variants (P<5e-8, r2<0.3) in the target region; OR per unit genetically proxied TG (log-TG; Methods: 'doubling'), exposure defined as TG-raising. P reported as <0.001 (p_value left null). Methods state a '100 Mb window' and SNP counts reach 235, so scope recorded unclear. Sensitivity: VLDL-weighted OR 1.221. 21 TG-associated targets screened, 7 significant at P<0.05 without multiple-testing correction; all coloc PP.H4<0.8."
+    },
+    "second": {
+     "source_location": "Figure 5 (OR, 95% CI, nsnp); S1 Table (pone.0356100.s003.docx) for exact p and beta/SE",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "TG-associated SNPs (p<5e-8) within a stated '100 Mb window' of the target gene, clumped r2<0.3: regional, scope unclear. Only FinnGen total N 377,277 given. All PP.H4<0.8."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000043163",
+  "doi": "10.1097/md.0000000000043163",
+  "pmcid": "PMC12263052",
+  "title": "Causal links and mediating effects of lipid metabolism, immune cells, and inflammatory proteins in endometriosis: Evidence from Mendelian randomization.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000043163",
+  "claims": [
+   {
+    "claim_id": "Guo2025Med-1",
+    "gene_symbol": "IL17A",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "differences": {
+     "outcome_controls": [
+      null,
+      107564
+     ],
+     "n_instruments": [
+      null,
+      18
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "finngen_R9_N14_ENDOMETRIOSIS",
+      "R9"
+     ]
+    },
+    "first": {
+     "source_location": "Results 3.1.2; Figure 4; Table S8",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1."
+    },
+    "second": {
+     "source_location": "Supplementary Table S8 (medi-104-e43163-s001.xls, sheet Stable8), 'All - Inverse variance weighted' row; Figure 4",
+     "outcome_source": "FinnGen R9 finngen_R9_N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "91 proteins tested; P<0.05, no multiple-testing correction. Text/Fig 4: 1.134 (1.042-1.234), P=.004. IV threshold P<5e-5 stated for lipid/immune exposures; not stated separately for proteins."
+    }
+   },
+   {
+    "claim_id": "Guo2025Med-3",
+    "gene_symbol": "TNFSF10",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "differences": {
+     "estimate": [
+      null,
+      0.94616869
+     ],
+     "ci_low": [
+      null,
+      0.901014006
+     ],
+     "ci_high": [
+      null,
+      0.99358632
+     ],
+     "p_value": [
+      null,
+      0.026561692
+     ],
+     "outcome_controls": [
+      null,
+      107564
+     ],
+     "n_instruments": [
+      null,
+      36
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "finngen_R9_N14_ENDOMETRIOSIS",
+      "R9"
+     ]
+    },
+    "first": {
+     "source_location": "Results 3.1.2; Abstract; Figure 4 (values not read)",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "TRAIL. Text lists TRAIL as protective but prints 'OR = 1.061; CI = 1.007-1.119; P = .026', identical to CDCP1 (apparent copy error); estimate left null, true values in Figure 4/Table S8. 91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1."
+    },
+    "second": {
+     "source_location": "Supplementary Table S8 (medi-104-e43163-s001.xls, sheet Stable8), 'All - Inverse variance weighted' row; Figure 4",
+     "outcome_source": "FinnGen R9 finngen_R9_N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "Main text misreports TRAIL as OR 1.061 (1.007-1.119), P=.026 (duplicates CDCP1); Table S8 and Fig 4 give 0.946 (0.901-0.994), P=0.027. No multiple-testing correction."
+    }
+   },
+   {
+    "claim_id": "Guo2025Med-4",
+    "gene_symbol": "CCL4",
+    "exposure_type": "pQTL",
+    "exposure_source": "Zhao 2023 Olink inflammatory proteins (91 proteins, n=14,824; GCST90274758-GCST90274848)",
+    "differences": {
+     "outcome_controls": [
+      null,
+      107564
+     ],
+     "n_instruments": [
+      null,
+      31
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "finngen_R9_N14_ENDOMETRIOSIS",
+      "R9"
+     ]
+    },
+    "first": {
+     "source_location": "Results 3.1.2; Figure 4; Table S8",
+     "outcome_source": "FinnGen R9 N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "91 proteins tested; nominal P<0.05 (IVW), no correction; 6 significant, text gives values for 4. IV threshold stated (P<5e-5, r2<0.001, 10,000 kb) for lipid/immune exposures; protein threshold not stated. Controls in Table S1."
+    },
+    "second": {
+     "source_location": "Supplementary Table S8 (medi-104-e43163-s001.xls, sheet Stable8), 'All - Inverse variance weighted' row; Figure 4",
+     "outcome_source": "FinnGen R9 finngen_R9_N14_ENDOMETRIOSIS",
+     "method": "IVW",
+     "notes": "Text/Fig 4: 0.946 (0.904-0.989), P=.015. 91 proteins tested, P<0.05 without multiple-testing correction."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fendo.2024.1372221",
+  "doi": "10.3389/fendo.2024.1372221",
+  "pmcid": "PMC11324423",
+  "title": "Identification of programmed cell death-related genes and diagnostic biomarkers in endometriosis using a machine learning and Mendelian randomization approach.",
+  "supplement_dir": "data/upstream/supplements/10.3389_fendo.2024.1372221",
+  "claims": [
+   {
+    "claim_id": "Xie2024FE-1",
+    "gene_symbol": "PDK2",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL dataset not stated (TwoSampleMR / IEU OpenGWAS workflow)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "R5 (finn-b-N14_ENDOMETRIOSIS)",
+      "finn-b-N14_ENDOMETRIOSIS"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 3A",
+     "outcome_source": "IEU finn-b-N14_ENDOMETRIOSIS (FinnGen R5)",
+     "method": "IVW",
+     "notes": "269 PCD-related DEGs tested; instruments P<5e-8, clump r2<0.001 within 10,000 kb; Wald ratio for 1 SNP else IVW; P<0.05 nominal, no multiple-testing correction. Values read from forest-plot table in Fig 3A. Eight genes kept as candidates after expression-direction check."
+    },
+    "second": {
+     "source_location": "Supplementary Table 6 (Table_1.xlsx; beta/SE/p) and Figure 3A (OR, 95% CI)",
+     "outcome_source": "IEU OpenGWAS finn-b-N14_ENDOMETRIOSIS (FinnGen)",
+     "method": "IVW",
+     "notes": "Exposure IEU eqtl-a-ENSG00000005882 (eQTLGen not named). Fig 3A OR/CI equal exp(beta+-1.96SE) from Supp Table 6. IVs p<5e-8, r2<0.001, 10,000 kb. 269 genes tested, nominal p<0.05."
+    }
+   },
+   {
+    "claim_id": "Xie2024FE-15",
+    "gene_symbol": "AP3M1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL dataset not stated (TwoSampleMR / IEU OpenGWAS workflow)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "R5 (finn-b-N14_ENDOMETRIOSIS)",
+      "finn-b-N14_ENDOMETRIOSIS"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 3A",
+     "outcome_source": "IEU finn-b-N14_ENDOMETRIOSIS (FinnGen R5)",
+     "method": "IVW",
+     "notes": "269 PCD-related DEGs tested; instruments P<5e-8, clump r2<0.001 within 10,000 kb; Wald ratio for 1 SNP else IVW; P<0.05 nominal, no multiple-testing correction. Values read from forest-plot table in Fig 3A. Eight genes kept as candidates after expression-direction check."
+    },
+    "second": {
+     "source_location": "Supplementary Table 6 (Table_1.xlsx; beta/SE/p) and Figure 3A (OR, 95% CI)",
+     "outcome_source": "IEU OpenGWAS finn-b-N14_ENDOMETRIOSIS (FinnGen)",
+     "method": "IVW",
+     "notes": "Exposure IEU eqtl-a-ENSG00000185009 (eQTLGen not named). Fig 3A OR/CI equal exp(beta+-1.96SE) from Supp Table 6. IVs p<5e-8, r2<0.001, 10,000 kb. 269 genes tested, nominal p<0.05."
+    }
+   },
+   {
+    "claim_id": "Xie2024FE-17",
+    "gene_symbol": "TNFSF12",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTL dataset not stated (TwoSampleMR / IEU OpenGWAS workflow)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {
+     "outcome_release": [
+      "R5 (finn-b-N14_ENDOMETRIOSIS)",
+      "finn-b-N14_ENDOMETRIOSIS"
+     ]
+    },
+    "first": {
+     "source_location": "Figure 3A",
+     "outcome_source": "IEU finn-b-N14_ENDOMETRIOSIS (FinnGen R5)",
+     "method": "IVW",
+     "notes": "269 PCD-related DEGs tested; instruments P<5e-8, clump r2<0.001 within 10,000 kb; Wald ratio for 1 SNP else IVW; P<0.05 nominal, no multiple-testing correction. Values read from forest-plot table in Fig 3A. Eight genes kept as candidates after expression-direction check."
+    },
+    "second": {
+     "source_location": "Supplementary Table 6 (Table_1.xlsx; beta/SE/p) and Figure 3A (OR, 95% CI)",
+     "outcome_source": "IEU OpenGWAS finn-b-N14_ENDOMETRIOSIS (FinnGen)",
+     "method": "IVW",
+     "notes": "Exposure IEU eqtl-a-ENSG00000239697 (eQTLGen not named). Fig 3A OR/CI equal exp(beta+-1.96SE) from Supp Table 6. IVs p<5e-8, r2<0.001, 10,000 kb. 269 genes tested, nominal p<0.05."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3390/cimb47100831",
+  "doi": "10.3390/cimb47100831",
+  "pmcid": "PMC12564322",
+  "title": "Identification and Validation of Iron Metabolism-Related Biomarkers in Endometriosis: A Mendelian Randomization and Single-Cell Transcriptomics Study.",
+  "supplement_dir": "data/upstream/supplements/10.3390_cimb47100831",
+  "claims": [
+   {
+    "claim_id": "Du2025CIMB-1",
+    "gene_symbol": "BMP6",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000153162",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "outcome_cases": [
+      3809,
+      null
+     ],
+     "outcome_controls": [
+      459124,
+      null
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ukb-b-10903 (UK Biobank, endometriosis)",
+     "method": "IVW",
+     "notes": "Cochran Q 10.915 (p 0.282). Text gives lower CI 1.00001099 (rounding). 114 differentially expressed iron-metabolism genes tested; instruments p<5e-8, clump r2 0.001 within 10,000 kb, F>10, >=3 SNPs; cis restriction not stated. IVW p<0.05 nominal, no multiple-testing correction. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. Steiger TRUE."
+    },
+    "second": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU OpenGWAS ukb-b-10903 (UK Biobank)",
+     "method": "IVW",
+     "notes": "Cases/controls not stated. IVs P<5e-8, clump 10,000 kb, no cis restriction (trans SNPs, e.g. rs1354034). Abstract calls gene a 'biomarker' after MR causal screen."
+    }
+   },
+   {
+    "claim_id": "Du2025CIMB-2",
+    "gene_symbol": "SLC48A1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000211584",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ],
+     "outcome_cases": [
+      3809,
+      null
+     ],
+     "outcome_controls": [
+      459124,
+      null
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU ukb-b-10903 (UK Biobank, endometriosis)",
+     "method": "IVW",
+     "notes": "Cochran Q 1.048 (p 0.902). Text gives upper CI 1.00143442 (rounding). 114 differentially expressed iron-metabolism genes tested; instruments p<5e-8, clump r2 0.001 within 10,000 kb, F>10, >=3 SNPs; cis restriction not stated. IVW p<0.05 nominal, no multiple-testing correction. ukb-b outcome is a linear-model GWAS of a binary trait, hence OR close to 1. Steiger TRUE."
+    },
+    "second": {
+     "source_location": "Table 1",
+     "outcome_source": "IEU OpenGWAS ukb-b-10903 (UK Biobank)",
+     "method": "IVW",
+     "notes": "Cases/controls not stated. IVs P<5e-8, clump 10,000 kb, no cis restriction (trans SNPs, e.g. rs1354034). Abstract calls gene a 'biomarker' after MR causal screen."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.jri.2025.104798",
+  "doi": "10.1016/j.jri.2025.104798",
+  "pmcid": null,
+  "title": "Role of HLA-DRA-CREB3L4 regulatory axis in the pathogenesis of ovarian endometriosis: Inhibition of CREB3L4 expression by HLA-DRA increases the risk of disease.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.jri.2025.104798",
+  "claims": [
+   {
+    "claim_id": "Song2025-1",
+    "gene_symbol": "HLA-DRA",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023) and/or deCODE (Ferkingstad 2021); dataset for this protein not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      1.099741849
+     ],
+     "ci_low": [
+      null,
+      1.06537437
+     ],
+     "ci_high": [
+      null,
+      1.135217975
+     ],
+     "p_value": [
+      null,
+      4.37e-09
+     ],
+     "n_instruments": [
+      null,
+      165
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (primary method not stated in abstract)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Ovarian endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (primary method not stated in abstract)",
+     "notes": "Abstract only (ScienceDirect CAPTCHA; no open full text). Abstract: HLA-DRA significantly increases ovarian endometriosis risk, partly by lowering CREB3L4 (mediation proportion 13.99%). No estimates in abstract. 33 UKB-PPP and 19 deCODE Bonferroni-significant pQTL signals not named."
+    },
+    "second": {
+     "source_location": "Supplementary mmc1.xlsx, sheet UKB",
+     "outcome_source": "Ovarian endometriosis GWAS (source not identifiable; full text not accessible)",
+     "method": "IVW",
+     "notes": "Full text paywalled (403); abstract + supplement only. Dataset = UKB-PPP. 165 SNPs suggests genome-wide (cis+trans) selection, not stated. Abstract: HLA-DRA raises ovarian EM risk via CREB3L4."
+    }
+   },
+   {
+    "claim_id": "Song2025-2",
+    "gene_symbol": "CREB3L4",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023) and/or deCODE (Ferkingstad 2021); dataset for this protein not stated in abstract",
+    "differences": {
+     "estimate": [
+      null,
+      0.873682007
+     ],
+     "ci_low": [
+      null,
+      0.834884529
+     ],
+     "ci_high": [
+      null,
+      0.914282422
+     ],
+     "p_value": [
+      null,
+      5.65e-09
+     ],
+     "direction": [
+      "null_or_unclear",
+      "protective"
+     ],
+     "n_instruments": [
+      null,
+      110
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "MR (primary method not stated in abstract)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Abstract",
+     "outcome_source": "Ovarian endometriosis GWAS (source not stated in abstract)",
+     "method": "MR (primary method not stated in abstract)",
+     "notes": "Abstract only. Direction inferred from abstract/title mediation statement (HLA-DRA inhibits CREB3L4 expression, which increases risk), i.e. lower CREB3L4 -> higher risk; abstract does not state CREB3L4's own MR estimate or whether it passed Bonferroni. [Lead correction 2026-10-29: direction was inferred from a mediation statement, no estimate reported]"
+    },
+    "second": {
+     "source_location": "Supplementary mmc1.xlsx, sheet deCODE",
+     "outcome_source": "Ovarian endometriosis GWAS (source not identifiable; full text not accessible)",
+     "method": "IVW",
+     "notes": "Full text paywalled; dataset = deCODE. 110 SNPs; selection unclear. HLA-DRA->CREB3L4 MR OR 0.906 (mmc3). Mediation 13.99% (abstract). Coloc unknown."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1186/s40360-025-01030-x",
+  "doi": "10.1186/s40360-025-01030-x",
+  "pmcid": "PMC12619379",
+  "title": "Mechanistic decoding of triclosan-induced endometriosis via network toxicology, Mendelian randomization, and molecular docking.",
+  "supplement_dir": "data/upstream/supplements/10.1186_s40360-025-01030-x",
+  "claims": [
+   {
+    "claim_id": "Xu2025BMCPT-1",
+    "gene_symbol": "IL1B",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa) via IEU OpenGWAS eqtl-a-ENSG00000125538",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Table 1",
+     "outcome_source": "BioBank Japan bbj-a-114 (Ishigaki 2019), East Asian",
+     "method": "IVW",
+     "notes": "Table 1 gives P '<0.05' for every method although the IVW CI (0.84-2.49) includes 1; internally inconsistent. Abstract headlines MR-Egger OR 2.66 (1.32-3.51). Threshold printed as P<5x10^8 (presumably 5e-8). Trans-ancestry: European exposure, East Asian outcome. eqtl-a data may include trans-eQTLs; SNP locations not checked. Single gene tested (hub gene from network toxicology)."
+    },
+    "second": {
+     "source_location": "Table 1",
+     "outcome_source": "BioBank Japan bbj-a-114 (Ishigaki 2019)",
+     "method": "IVW",
+     "notes": "Table 1 gives P '<0.05' for all methods although IVW CI includes 1; abstract highlights MR-Egger OR 2.66. EUR exposure, East Asian outcome. IVs P<5e-8, no cis window stated. n from Fig 6B."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1371/journal.pone.0301752",
+  "doi": "10.1371/journal.pone.0301752",
+  "pmcid": "PMC11142702",
+  "title": "Genetic association of serum lipids and lipid-modifying targets with endometriosis: Trans-ethnic Mendelian-randomization and mediation analysis.",
+  "supplement_dir": "data/upstream/supplements/10.1371_journal.pone.0301752",
+  "claims": [
+   {
+    "claim_id": "Zhang2024lipid-1",
+    "gene_symbol": "ANGPTL3",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "GLGC TG, European (Graham 2021; GCST90239664)",
+    "differences": {
+     "p_value": [
+      0.01,
+      0.0117519960815432
+     ],
+     "headline": [
+      true,
+      false
+     ]
+    },
+    "soft_differences": {
+     "method": [
+      "IVW (random effects)",
+      "IVW"
+     ]
+    },
+    "first": {
+     "source_location": "Results (TG-lowering drug targets); Fig 4; S5 Table; Abstract",
+     "outcome_source": "Rahmioglu 2023 European endometriosis meta-analysis (GCST90269970)",
+     "method": "IVW (random effects)",
+     "notes": "OR per 1 mmol/l higher TG proxied by variants within +/-100 kb of ANGPTL3 (P<5e-8, r2<0.3); exposure defined as TG-raising, so paper reads it as ANGPTL3 agonism protective (inhibitors not supported). PFDR=0.04; called 'suggestive' because coloc PP.H4=0.85% (recorded 0.0085). LPL, PPARA, APOC3 null. Drug-target MR run only in the EUR discovery outcome; no replication. Outcome is the non-23andMe European meta."
+    },
+    "second": {
+     "source_location": "Supplementary Table S5 (pone.0301752.s005.xlsx); Fig 4; Results text",
+     "outcome_source": "Rahmioglu 2023 meta-analysis (GCST90269970)",
+     "method": "IVW",
+     "notes": "Per 1 mmol/L TG via ANGPTL3 (+/-100 kb, r2<0.30). Text P=0.01, PFDR=0.04. PP.H4 reported as 0.85%. Called 'suggestive'; conclusion does not name it a target."
+    }
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/md.0000000000049618",
+  "doi": "10.1097/md.0000000000049618",
+  "pmcid": "PMC13384611",
+  "title": "Associations between granulysin and ovarian endometriosis: A 2-sample Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.1097_md.0000000000049618",
+  "claims": [
+   {
+    "claim_id": "Lai2026-1",
+    "gene_symbol": "GNLY",
+    "exposure_type": "eQTL",
+    "exposure_source": "IEU OpenGWAS GNLY (ENSG00000115523), stated as 'SSGAC', n=31,684 (ID and n match eQTLGen, Vosa 2021)",
+    "differences": {
+     "instrument_scope": [
+      "unclear",
+      "genome_wide"
+     ]
+    },
+    "soft_differences": {},
+    "first": {
+     "source_location": "Results section 4 text and Abstract; Table 1 (rounded 0.89, 0.82-0.96)",
+     "outcome_source": "FinnGen ovarian endometriosis (via IEU OpenGWAS; endpoint ID not given)",
+     "method": "IVW",
+     "notes": "Single-exposure study; alpha 0.05, no multiple-testing correction. Exposure described as granulysin/'GNLY expression'; Ensembl gene ID and n suggest blood eQTL data, recorded as eQTL, tissue not stated. IVs P<5e-8, r2<0.001, 10,000 kb. Table 1: weighted median 0.87 (0.80-0.95) P=.003, MR-Egger 0.89 (0.79-0.99) P=.068, Q=9.06; text says WM/Egger P>.05 (disagrees with table). 3,231/68,969 matches FinnGen R5 ovarian endpoint."
+    },
+    "second": {
+     "source_location": "Results text and Abstract; Table 1 (rounded: 0.89 (0.82-0.96), P .004)",
+     "outcome_source": "FinnGen ovarian endometriosis GWAS (via IEU OpenGWAS)",
+     "method": "IVW",
+     "notes": "Per 1-SD increase in GNLY expression. Instruments P<5e-8, r2<0.001, no cis restriction stated. FinnGen release/ID not stated. Outcome is ovarian endometriosis only."
+    }
+   }
+  ]
+ }
+]

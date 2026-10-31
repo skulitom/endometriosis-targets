@@ -1,0 +1,44 @@
+{
+ "record_id": "doi:10.1097/md.0000000000041804",
+ "tables": {
+  "S5_SMR_whole_blood": {
+   "file": "text/medi-104-e41804-s004__Table_S5.csv",
+   "header_row": 3,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   }
+  }
+ },
+ "claims": {
+  "Xie2025Med-1": {
+   "status": "mapped",
+   "table": "S5_SMR_whole_blood",
+   "filters": [{"column": "Gene", "op": "equals", "value": "ADK"}, {"column": "probeID", "op": "equals", "value": "ENSG00000156110"}],
+   "expected_n": 1,
+   "notes": "Supplementary Table S5 = SMR results for GTEx v8 whole blood (title row 1); ADK is absent from the uterus table S6, so the tissue is whole blood. The SMR top cis-eQTL SNP is a one-variant instrument; b_SMR -0.0503675 (OR 0.9509) matches the claim. A1/A2 are the SMR-harmonised alleles for both eQTL and GWAS effects. The follow-up two-sample MR in s005 (ADK IVW b -0.0418) has no per-SNP table."
+  },
+  "Xie2025Med-2": {
+   "status": "mapped",
+   "table": "S5_SMR_whole_blood",
+   "filters": [{"column": "Gene", "op": "equals", "value": "EHHADH"}, {"column": "probeID", "op": "equals", "value": "ENSG00000113790"}],
+   "expected_n": 1,
+   "notes": "Supplementary Table S5 (GTEx v8 whole blood SMR); EHHADH not in uterus table S6. One-variant SMR instrument (topSNP); b_SMR -0.134286 (OR 0.8743) matches the claim."
+  },
+  "Xie2025Med-3": {
+   "status": "mapped",
+   "table": "S5_SMR_whole_blood",
+   "filters": [{"column": "Gene", "op": "equals", "value": "CNOT7"}, {"column": "probeID", "op": "equals", "value": "ENSG00000198791"}],
+   "expected_n": 1,
+   "notes": "Supplementary Table S5 (GTEx v8 whole blood SMR); CNOT7 not in uterus table S6. One-variant SMR instrument (topSNP); b_SMR -0.273151 (OR 0.761) matches the claim."
+  }
+ }
+}

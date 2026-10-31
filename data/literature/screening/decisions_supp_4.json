@@ -1,0 +1,950 @@
+[
+ {
+  "record_id": "doi:10.1101/2022.11.27.518106",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Preprint without full text on endometrial DNA methylation and 118,185 cis-mQTL in 984 women that reports an association between genetic regulation of endometrial methylation and endometriosis risk (probably mQTL-SMR with endometriosis as outcome), but the abstract does not state the method or give estimates.",
+  "exposure_summary": "endometrial DNA methylation instrumented by cis-mQTL (likely SMR)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1101/2023.03.21.23285637",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Preprint without full text benchmarking GWAS, eQTL-GWAS and pQTL-GWAS gene-prioritisation (possible MR/SMR-type integration) across 30 common clinical traits; endometriosis may be one of the 30 traits, but neither the trait list nor per-trait estimates are visible.",
+  "exposure_summary": "gene expression and protein QTL integrated with GWAS across 30 traits",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1101/2023.05.01.23288879",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Observational Cox regression of 1,468 Olink plasma proteins against 23 incident diseases in UK Biobank with penalised ProteinScores; the abstract reports no MR or genetic instruments.",
+  "exposure_summary": "measured Olink protein levels (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1101/2024.03.19.24304530",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Infertility and reproductive-hormone GWAS meta-analysis with genetic correlation (endometriosis vs female infertility), colocalisation and exome burden tests; no gene- or protein-level MR with endometriosis as outcome is reported.",
+  "exposure_summary": "GWAS, genetic correlation, colocalisation, exome burden",
+  "genes_or_proteins_named": [
+   "EBAG9",
+   "FSHB",
+   "ARL14EP",
+   "GPC2"
+  ],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1101/2025.10.03.25337275",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR between hypertension and type 2 diabetes (disease exposures) plus colocalisation; endometriosis is not an outcome.",
+  "exposure_summary": "hypertension and type 2 diabetes liability",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1101/cshperspect.a038216",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of epithelial ovarian cancer prevention strategies with no original MR estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1111/1471-0528.18127",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Danish register cohort of medically assisted reproduction and postpartum depression using logistic regression; no MR or genetic instruments.",
+  "exposure_summary": "medically assisted reproduction (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1111/aogs.14982",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Commentary on chronic pelvic pain research priorities with no original MR estimates.",
+  "exposure_summary": "none (commentary)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1111/aogs.70223",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Swedish nationwide cohort estimating gynaecological and breast cancer incidence after an endometriosis or adenomyosis diagnosis; no MR or genetic instruments.",
+  "exposure_summary": "endometriosis/adenomyosis diagnosis (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1111/apt.16647",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Nested case-control study of hormonal contraceptive use and incident IBD that only cites an MR of oestradiol; no MR of its own.",
+  "exposure_summary": "contraceptive use (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1111/bjh.20243",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review arguing for iron-deficiency screening in adolescent females with no original MR estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1111/cas.14291",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Conference abstract supplement (Japanese Cancer Association 2019) with no MR passages.",
+  "exposure_summary": "none (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1111/crj.70182",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Proteome-wide two-sample MR of plasma pQTLs (Sun et al.) on lung squamous cell carcinoma; endometriosis is not an outcome.",
+  "exposure_summary": "plasma protein levels (pQTL)",
+  "genes_or_proteins_named": [
+   "MICB",
+   "SPINK2",
+   "TXNDC11"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1111/jcmm.70119",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "eQTL-instrumented MR of ferroptosis genes (FANCD2, GPX4, MUC1) on recurrent implantation failure; the outcome is RIF, not endometriosis.",
+  "exposure_summary": "gene expression (eQTLGen eQTL) of ferroptosis genes",
+  "genes_or_proteins_named": [
+   "FANCD2",
+   "GPX4",
+   "MUC1",
+   "GJA1"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1111/jhn.13411",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Scoping review of diet and supplement interventions in endometriosis with no MR.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1128/spectrum.02263-24",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Two-sample and two-step MR of gut microbiota taxa and plasma metabolites on vaginitis; non-gene exposures and endometriosis is not an outcome.",
+  "exposure_summary": "gut microbiota taxa, plasma metabolites",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bcr-2025-271171",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Case report of subarachnoid haemorrhage during dienogest therapy; no MR or genetic instruments.",
+  "exposure_summary": "dienogest therapy (case report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmj-2023-078797",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Nurses' Health Study II prospective cohort of endometriosis/fibroids and premature mortality; no MR of its own.",
+  "exposure_summary": "endometriosis and fibroid diagnosis (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmj.b249",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Danish cohort of fertility drug use and ovarian cancer risk; no MR or genetic instruments.",
+  "exposure_summary": "fertility drug use (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1136/bmj.j5024",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Umbrella review of meta-analyses on coffee consumption and health outcomes; no original MR estimates.",
+  "exposure_summary": "none (umbrella review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmjment-2024-301506",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Czech matched cohort of rheumatoid arthritis/axial spondyloarthritis and psychiatric outcomes that only cites MR studies; no MR of its own.",
+  "exposure_summary": "RA/axSpA (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmjonc-2024-000330",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Narrative review of gender-affirming hormone therapy and cancer risk that cites MR studies; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmjopen-2019-030318",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "UK Biobank cohort of female reproductive history and COPD/lung function that only cites an MR of age at menarche; no MR of its own.",
+  "exposure_summary": "reproductive factors (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmjopen-2021-054896",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Protocol for an RCT of cognitive behavioural therapy after endometriosis surgery; no MR.",
+  "exposure_summary": "none (trial protocol)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1136/bmjopen-2024-097872",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Protocol for the CodeEndo RCT of online supportive care for endometriosis; no MR.",
+  "exposure_summary": "none (trial protocol)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1136/bmjopen-2026-116964",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Protocol for the PEARL RCT of anti-inflammatory diet and CBT in endometriosis; no MR.",
+  "exposure_summary": "none (trial protocol)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1136/bmjph-2023-000302",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Obesity health-economic model for Japan that borrows an external BMI-endometrial cancer MR estimate; no MR of its own.",
+  "exposure_summary": "BMI (simulation model)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/bmjresp-2020-000667",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Analysis of chest discomfort during thoracentesis from two trials; no MR or genetic instruments.",
+  "exposure_summary": "none (clinical study)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1136/egastro-2024-100126",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR and multiresponse MR of modifiable factors and coexisting disorders (smoking, education, depression, chronic pain etc.) on irritable bowel syndrome; non-gene exposures.",
+  "exposure_summary": "lifestyle factors and disease liabilities",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/jmg.2008.065961",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Clinical and cellular case series of Hermansky-Pudlak syndrome type 6 in which endometriosis appears only in a patient history; no MR.",
+  "exposure_summary": "HPS6 mutations (case series)",
+  "genes_or_proteins_named": [
+   "HPS6"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1136/rmdopen-2025-006380",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Construction of a meta-polygenic risk score for SLE that includes an endometriosis PRS; no MR and endometriosis is a predictor, not an outcome.",
+  "exposure_summary": "trait polygenic risk scores",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1142/9789819807024_0021",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Bidirectional two-sample MR between uterine fibroids and blood pressure traits with LDSC; non-gene exposures and endometriosis is not an outcome.",
+  "exposure_summary": "uterine fibroid liability, blood pressure traits",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1155/2024/9234876",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "MR of genetically predicted IL-18 levels (and MDD) on FinnGen female infertility subtypes and PCOS; IL-18 is a protein exposure and the reproductive-health outcome set may include endometriosis, although no endometriosis outcome is named in the excerpts.",
+  "exposure_summary": "circulating IL-18 level (protein) and MDD liability",
+  "genes_or_proteins_named": [
+   "IL18"
+  ],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1155/ijbc/8689986",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Scoping review of breast cancer risk factors that cites an MR of tea consumption; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1155/prm/7732443",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Bibliometric analysis of female chronic pelvic pain treatment literature in which MR appears only as a burst keyword; no MR of its own.",
+  "exposure_summary": "none (bibliometric analysis)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/0008-5472.can-19-1554",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Nested case-control analysis of measured CRP and epithelial ovarian cancer that only cites a CRP MR; no MR of its own.",
+  "exposure_summary": "measured serum CRP (observational)",
+  "genes_or_proteins_named": [
+   "CRP"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/1055-9965.epi-16-0106",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Description of the OncoArray genotyping consortium and array quality control; no MR analysis of its own.",
+  "exposure_summary": "none (consortium resource)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/1055-9965.epi-23-1014",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Sister Study cohort of fibroids, endometriosis and gynaecological surgery with breast cancer incidence; no MR or genetic instruments.",
+  "exposure_summary": "fibroid/endometriosis history (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/1055-9965.epi-24-0717",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Women's Health Initiative cohort of infertility history (including endometriosis-related infertility) and endometrial cancer; no MR of its own.",
+  "exposure_summary": "infertility history (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/1055-9965.epi-25-0949",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "MR of atrial fibrillation liability on ovarian cancer plus cis-eQTL SMR (CAGE blood) with AF and ovarian cancer as outcomes; endometriosis is not an outcome.",
+  "exposure_summary": "AF liability; blood gene expression (cis-eQTL SMR)",
+  "genes_or_proteins_named": [
+   "NUP50",
+   "SYTL2"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/1078-0432.ccr-20-3609",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Phase IIb RCT of low-dose tamoxifen in chest-irradiated cancer survivors; no MR or genetic instruments.",
+  "exposure_summary": "low-dose tamoxifen (trial)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1158/2767-9764.crc-22-0314",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Uterine lavage duplex sequencing of somatic mutations in ovarian cancer; no MR or genetic instruments.",
+  "exposure_summary": "somatic mutations (sequencing study)",
+  "genes_or_proteins_named": [
+   "TP53"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1159/000538974",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "NHANES cross-sectional analysis of waist-hip ratio and female infertility; no MR.",
+  "exposure_summary": "waist-hip ratio (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1159/000539515",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of oral contraceptives and psychiatric side effects; no original MR estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1159/000551335",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Case report of intestinal endometriosis mimicking ulcerative colitis-associated neoplasia; no MR.",
+  "exposure_summary": "none (case report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1159/000552071",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Conference late-breaking abstract collection (ECO 2026) with no MR passages.",
+  "exposure_summary": "none (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1161/atvbaha.123.319370",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of sex, racial and ethnic disparities in acute coronary syndrome that cites an MR of hypertensive disorders of pregnancy; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1161/cir.0000000000001123",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "AHA Heart Disease and Stroke Statistics 2023 report summarising published MR studies; no original MR estimates.",
+  "exposure_summary": "none (statistical report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1161/cir.0000000000001209",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "AHA Heart Disease and Stroke Statistics 2024 report summarising published MR studies; no original MR estimates.",
+  "exposure_summary": "none (statistical report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1161/cir.0000000000001303",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "AHA Heart Disease and Stroke Statistics 2025 report summarising published MR studies; no original MR estimates.",
+  "exposure_summary": "none (statistical report)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1161/jaha.120.017759",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of mass cytometry immune profiling in coronary artery disease; no MR.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1161/jaha.123.029832",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Editorial spotlight on JAHA Go Red for Women articles that cites a reproductive-factor MR; no original estimates.",
+  "exposure_summary": "none (editorial)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "doi:10.1161/jaha.124.036697",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "MR of blood pressure, obesity, lipid traits and SHBG (genome-wide instruments) on uterine fibroids; non-gene exposures and endometriosis is not an outcome.",
+  "exposure_summary": "BP, BMI/WHR, lipids, SHBG with genome-wide instruments",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1161/jaha.125.048454",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "UK Biobank cohort of endometriosis and cardiovascular disease that only cites MR studies by others (ADAMTS13, vWF, EPHB4); no MR of its own.",
+  "exposure_summary": "endometriosis diagnosis (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "exposure",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1172/jci199832",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review on women's midlife and Alzheimer prevention calling for MR; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1177/15578100261479264",
+  "decision": "unsure",
+  "reason_code": "U",
+  "reason": "Multi-omics SMR/HEIDI of blood mQTL, eQTL and pQTL (with GTEx uterus eQTL) on adenomyosis GWAS prioritising ACTR1B, ARF5, CKAP4, PTPRF, RAC1, SFRP1 and UBE2G; the outcome is adenomyosis, so eligibility depends on whether adenomyosis (ICD-10 N80.0, endometriosis of uterus) counts as an endometriosis subtype (no full text).",
+  "exposure_summary": "methylation, expression and protein levels (mQTL/eQTL/pQTL SMR)",
+  "genes_or_proteins_named": [
+   "ACTR1B",
+   "ARF5",
+   "CKAP4",
+   "PTPRF",
+   "RAC1",
+   "SFRP1",
+   "UBE2G"
+  ],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1177/19160216261416896",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Outcome-wide UK Biobank cohort plus MR/MVMR of tonsillectomy and tonsillitis on many diseases; non-gene exposures.",
+  "exposure_summary": "tonsillectomy/tonsillitis liability",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1177/1933719113482087",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Conference abstract book (SGI 2013 annual meeting) with no MR passages.",
+  "exposure_summary": "none (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1177/21501319221129734",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Cross-sectional survey of medical cannabis users in Pennsylvania; no MR (HEIDI match is a person's name).",
+  "exposure_summary": "none (survey)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/1471-2482-14-77",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Study protocol for an RCT of laparoscopic versus open adhesiolysis; no MR (HEIDI match is a person's name).",
+  "exposure_summary": "none (trial protocol)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/2050-5736-3-s1-o95",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Conference abstract on MR-guided focused ultrasound for adenomyosis, where MR means magnetic resonance; no Mendelian randomization.",
+  "exposure_summary": "none (conference abstract)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1186/s10194-017-0817-z",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Headache congress proceedings in which MR refers to imaging; no Mendelian randomization estimates.",
+  "exposure_summary": "none (conference abstracts)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "passages"
+ },
+ {
+  "record_id": "doi:10.1186/s10194-023-01547-8",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of migraine genetics summarising published MR studies; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s10194-025-02132-x",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "MR of single-cell immune eQTL (14 cell types) on migraine and its subtypes; endometriosis is not an outcome.",
+  "exposure_summary": "immune-cell-specific gene expression (sc-eQTL)",
+  "genes_or_proteins_named": [
+   "CDC42",
+   "NELFCD",
+   "HOXB3",
+   "HAX1",
+   "FHL3"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s10194-025-02145-6",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of cluster headache hallmarks citing a smoking MR; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s10194-026-02339-6",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of shared genetic and molecular signatures of migraine and comorbidities; no original MR estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s11658-024-00591-9",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of proinflammatory cytokines and CXC chemokines in prostate cancer; no original MR estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12865-026-00821-z",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Two-sample MR of Sjogren's syndrome liability on endometrial cancer and its histological subtypes; disease exposure and the outcome is not endometriosis.",
+  "exposure_summary": "Sjogren's syndrome liability",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12866-022-02703-x",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Bidirectional MR between gut microbiota taxa and longevity traits; non-gene exposures.",
+  "exposure_summary": "gut microbiota taxa",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12876-024-03277-w",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Two-step MR of gut microbiota and blood metabolites on NAFLD; non-gene exposures.",
+  "exposure_summary": "gut microbiota taxa, blood metabolites",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12884-025-07318-4",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "MR of 731 immune-cell traits and 41 circulating cytokines (e.g. MIP1B, IL-18, IL-17) on female infertility and four infertility subtypes; endometriosis is not among the outcomes.",
+  "exposure_summary": "immune-cell traits and circulating cytokine levels",
+  "genes_or_proteins_named": [
+   "CCL4",
+   "IL18",
+   "IL17"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12885-023-11053-4",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Hospital cohort nomogram of metabolic syndrome score for lymph node metastasis in endometrial cancer; no MR.",
+  "exposure_summary": "metabolic syndrome score (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12885-024-12385-5",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Two-sample MR of TSH, free T4, hypothyroidism and hyperthyroidism (genome-wide instruments) on ovarian cancer; non-gene exposures and endometriosis is not an outcome.",
+  "exposure_summary": "thyroid function traits and thyroid disease liability",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12885-024-12434-z",
+  "decision": "exclude",
+  "reason_code": "E3",
+  "reason": "Drug-target MR of HMGCR and PCSK9 inhibition proxies on ovarian and cervical cancer (CHD positive control); endometriosis is not an outcome.",
+  "exposure_summary": "HMGCR and PCSK9 drug-target proxies",
+  "genes_or_proteins_named": [
+   "HMGCR",
+   "PCSK9"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12889-024-18219-0",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Household survey of dysmenorrhoea, well-being and academic performance in Palestine refugee camps; no MR.",
+  "exposure_summary": "dysmenorrhoea (survey)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1186/s12889-024-19241-y",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Qualitative interview study of women's health and work participation in Norwegian teachers; no MR.",
+  "exposure_summary": "none (qualitative study)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1186/s12889-025-22679-3",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "NHANES cross-sectional analysis of cardiometabolic index and infertility that only cites an LDL-C MR; no MR of its own.",
+  "exposure_summary": "cardiometabolic index (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12902-022-01208-y",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Review of lifestyle management in PCOS citing a smoking MR; no original estimates.",
+  "exposure_summary": "none (review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12903-026-07725-9",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Systematic review and meta-analysis of published MR studies of periodontitis and systemic diseases.",
+  "exposure_summary": "none (meta-analysis of published MR)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12903-026-08685-w",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Scoping review of periodontal disease and female reproductive disorders (including endometriosis) that includes one published MR; no original estimates.",
+  "exposure_summary": "none (scoping review)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-023-02589-5",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Multicentre case-control study and prediction model for ovulatory-dysfunction abnormal uterine bleeding that only cites a BMI MR; no MR of its own.",
+  "exposure_summary": "clinical risk factors (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-024-03196-8",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Bidirectional two-sample MR between psychological distress traits (depression, anxiety, mood swings) and uterine fibroids; non-gene exposures.",
+  "exposure_summary": "psychological distress traits",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-024-03530-0",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Single-centre retrospective study of serum lipids and fibroid recurrence after myomectomy; no MR.",
+  "exposure_summary": "serum lipids (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-025-04134-y",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "NHANES cross-sectional analysis of HDL-related inflammation indices and female infertility; no MR.",
+  "exposure_summary": "HDL-related inflammation indices (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-026-04340-2",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "COGENS RCT of CBT plus surgery for endometriosis-related chronic pain; no MR.",
+  "exposure_summary": "cognitive behavioural therapy (trial)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-026-04547-3",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Two-sample MR of 44 salivary oral microbiome traits on six FinnGen female reproductive diseases; microbiota exposures, not gene products.",
+  "exposure_summary": "oral microbiome traits",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12905-026-04646-1",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "UK Biobank observational study of early-life exposures and six gynaecological diseases including endometriosis, using logistic and Cox models; no MR.",
+  "exposure_summary": "early-life exposures (observational)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "outcome",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12916-020-01700-z",
+  "decision": "exclude",
+  "reason_code": "E1",
+  "reason": "Cross-sectional study of AMH/antral follicle count and NMR serum metabolomics in IVF patients; no MR.",
+  "exposure_summary": "ovarian reserve markers (observational)",
+  "genes_or_proteins_named": [
+   "AMH"
+  ],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12916-022-02246-y",
+  "decision": "exclude",
+  "reason_code": "E4",
+  "reason": "Systematic review of published MR studies on cancer risk; no original MR estimates.",
+  "exposure_summary": "none (systematic review of MR)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "not_studied",
+  "evidence": "abstract + passages"
+ },
+ {
+  "record_id": "doi:10.1186/s12916-023-02843-5",
+  "decision": "exclude",
+  "reason_code": "E2",
+  "reason": "Phenome-wide MR of anti-varicella-zoster IgG antibody levels (genome-wide and MHC instruments) on 1,370 UK Biobank traits; an immune-response trait, not a gene- or protein-level instrument.",
+  "exposure_summary": "anti-VZV IgG antibody level (immune response trait)",
+  "genes_or_proteins_named": [],
+  "endometriosis_role": "unclear",
+  "evidence": "abstract + passages"
+ }
+]

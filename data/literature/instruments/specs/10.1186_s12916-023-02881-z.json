@@ -1,0 +1,33 @@
+{
+ "record_id": "doi:10.1186/s12916-023-02881-z",
+ "tables": {
+  "S1_platelet_adhesion": {
+   "file": "10.1186_s12916-023-02881-z__TableS1_platelet_adhesion.csv",
+   "transcribed": true,
+   "header_row": 1,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Effect Allele",
+    "other_allele": "Other Allele",
+    "beta_exposure": "Beta",
+    "se_exposure": "Se"
+   }
+  }
+ },
+ "claims": {
+  "Li2023coag-1": {
+   "status": "mapped",
+   "table": "S1_platelet_adhesion",
+   "filters": [{"column": "Exposure", "op": "equals", "value": "ADAMDTS13"}, {"column": "MR_keep_UKBBa", "op": "equals", "value": "T"}],
+   "expected_n": 4,
+   "notes": "Source: Additional file 1 Table S1 (MOESM1 xlsx), converted text/12916_2023_2881_MOESM1_ESM__Table_S1.csv lines 20-24 (ADAMTS13 block, labelled 'ADAMDTS13', Ma 2017). The xlsx merges the Exposure cell over each block, so continuation rows are blank in the converted CSV and cannot be selected by label; the transcribed file copies lines 4-24 verbatim by script with only the Exposure label filled down (source_line column gives the CSV line). Filter MR_keep_UKBBa = T is the paper's inclusion flag for the UK Biobank analysis (claim outcome), leaving 4 SNPs (rs144473590 excluded). Table S1 has no outcome effects (MOESM2 PDF holds only plots), so no recompute. P-value column not mapped because one vWF row reads 'p<1E-320' (non-numeric)."
+  },
+  "Li2023coag-2": {
+   "status": "mapped",
+   "table": "S1_platelet_adhesion",
+   "filters": [{"column": "Exposure", "op": "equals", "value": "vWF"}, {"column": "MR_keep_Metaa", "op": "equals", "value": "T"}],
+   "expected_n": 14,
+   "notes": "Source: Additional file 1 Table S1, converted CSV lines 4-19 (vWF block, Sabater-Lleal 2019); Exposure label filled down in the transcribed copy (merged xlsx cell; rs548630 and rs4981022 also appear in the FVIII block, so SNP IDs alone cannot isolate the vWF rows). Filter MR_keep_Metaa = T is the paper's inclusion flag for the UKB+FinnGen meta-analysis (claim outcome), giving 14 SNPs (rs2238109, rs80082277 excluded). No per-SNP outcome effects supplied, so no recompute. P-value column not mapped because rs8176719 reads 'p<1E-320' (non-numeric)."
+  }
+ }
+}

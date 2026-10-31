@@ -1,0 +1,155 @@
+{
+ "note": "Effect of the 2026-10-31 additions on blinding. Gate B (2026-10-30) read the replication sources at 14 positive-control lead variants chosen more than 1 Mb from the claimed genes known then. Some genes added later lie near those leads, so outcome data near them was seen before they became claims.",
+ "new_genes": 63,
+ "unresolved_gene_positions": [
+  "HCG2P7 (GRCh38)",
+  "ENSG00000289405 (GRCh37)",
+  "HCG2P7 (GRCh37)"
+ ],
+ "new_genes_within_1Mb_of_a_positive_control_lead": {
+  "CDKN2A": [
+   [
+    "rs1537377",
+    22169700
+   ]
+  ],
+  "CDKN2B": [
+   [
+    "rs1537377",
+    22169700
+   ]
+  ],
+  "FGD6": [
+   [
+    "rs4471514",
+    95667337
+   ]
+  ],
+  "GDAP1": [
+   [
+    "rs6472847",
+    75327897
+   ]
+  ],
+  "GREB1": [
+   [
+    "rs11674184",
+    11721535
+   ]
+  ],
+  "LNC-LBCS": [
+   [
+    "rs6938760",
+    19802104
+   ]
+  ],
+  "LOC100506885": [
+   [
+    "rs6938760",
+    19802104
+   ]
+  ],
+  "MLLT10": [
+   [
+    "rs1802669",
+    21827796
+   ]
+  ],
+  "ROCK2": [
+   [
+    "rs11674184",
+    11721535
+   ]
+  ],
+  "RP4-625H18.2": [
+   [
+    "rs6938760",
+    19802104
+   ]
+  ],
+  "SKIDA1": [
+   [
+    "rs1802669",
+    21827796
+   ]
+  ],
+  "SLC66A3": [
+   [
+    "rs11674184",
+    11721535
+   ]
+  ],
+  "VEZT": [
+   [
+    "rs4471514",
+    95667337
+   ]
+  ]
+ },
+ "claims_on_those_genes": [
+  "Rahmioglu2023-5",
+  "Rahmioglu2023-7",
+  "Rahmioglu2023-9",
+  "Rahmioglu2023-19",
+  "Rahmioglu2023-23",
+  "Rahmioglu2023-25",
+  "Rahmioglu2023-32",
+  "Rahmioglu2023-33",
+  "Sapkota2017-2",
+  "Mortlock2019-1",
+  "Mortlock2019-3",
+  "Mortlock2023CB-7",
+  "Mortlock2023CB-8",
+  "Mortlock2023CB-9",
+  "Mortlock2023CB-17",
+  "Mortlock2023CB-22",
+  "Mortlock2023CB-23",
+  "Mortlock2023CB-24",
+  "Mortlock2023CB-25",
+  "Mortlock2023CB-26",
+  "Mortlock2023CB-33",
+  "Mortlock2023CB-50",
+  "Mortlock2023CB-51",
+  "Mortlock2023CB-52",
+  "Mortlock2023CB-53",
+  "Mortlock2023CB-55",
+  "Koller2026-2",
+  "Koller2026-4",
+  "Yang2025-1"
+ ],
+ "positive_control_leads_now_inside_masked_regions": [
+  "rs11674184",
+  "rs1537377",
+  "rs6472847",
+  "rs6938760",
+  "rs4471514",
+  "rs1802669"
+ ],
+ "new_genes_in_regions_unmasked_during_gate_b": [
+  "ANGPTL4",
+  "ARHGAP26",
+  "CDKN2A",
+  "CDKN2B",
+  "ETAA1",
+  "FGD6",
+  "GDAP1",
+  "GREB1",
+  "HLCS",
+  "LGALS9B",
+  "LNC-LBCS",
+  "LOC100506885",
+  "MET",
+  "MLLT10",
+  "RAI1",
+  "ROCK2",
+  "RP11-624M8.1",
+  "RP4-625H18.2",
+  "SEMA3F",
+  "SKIDA1",
+  "SLC5A2",
+  "SLC66A3",
+  "TOP3A",
+  "VEZT"
+ ],
+ "what_was_seen": "At the 6 leads: beta, SE and p in Rahmioglu 2023, FinnGen R12, FinnGen R10, Estonia + FinnGen and Pan-UKBB (results/gateb_positive_controls.json). Elsewhere in unmasked regions: only the count of genome-wide significant variants in the Rahmioglu file, used to choose leads; no estimates stored."
+}

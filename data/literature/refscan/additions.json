@@ -1,0 +1,92 @@
+{
+ "note": "Reference-list scan (PROTOCOL.md section 1). Studies not found by the database search; each addition names the included paper(s) whose reference list it came from.",
+ "candidates_screened": 29,
+ "decisions": {
+  "exclude": 23,
+  "include": 6
+ },
+ "reason_codes": {
+  "E1": 13,
+  "E2": 1,
+  "E4": 5,
+  "I": 6,
+  "E3": 3,
+  "E6": 1
+ },
+ "additions_for_full_text": [
+  {
+   "ref_id": "pmid:28537267",
+   "title": "Meta-analysis identifies five novel loci associated with endometriosis highlighting key genes involved in hormone metabolism.",
+   "doi": "10.1038/ncomms15539",
+   "pmid": "28537267",
+   "found_via_reference_list_of": [
+    "doi:10.1093/humrep/dez279",
+    "doi:10.21203/rs.3.rs-4265646/v1",
+    "doi:10.3389/fendo.2024.1371498",
+    "doi:10.3389/fendo.2024.1416978",
+    "doi:10.3390/biology13110871"
+   ],
+   "decision": "include",
+   "reason": "GWAS meta-analysis (Sapkota 2017) whose full text reports SMR of blood eQTL (Westra 2013) on endometriosis to find causal genes at risk loci."
+  },
+  {
+   "ref_id": "pmid:30061686",
+   "title": "Genetic regulation of disease risk and endometrial gene expression highlights potential target genes for endometriosis and polycystic ovarian syndrome.",
+   "doi": "10.1038/s41598-018-29462-y",
+   "pmid": "30061686",
+   "found_via_reference_list_of": [
+    "doi:10.1093/humrep/dez279"
+   ],
+   "decision": "include",
+   "reason": "Endometrial eQTL study (Fung 2018) with SMR and HEIDI of endometrial eQTL on endometriosis (Sapkota 2017 GWAS); LINC00339 passes, VEZT near threshold."
+  },
+  {
+   "ref_id": "pmid:30871624",
+   "title": "Genetic regulation of methylation in human endometrium and blood and gene targets for reproductive diseases.",
+   "doi": "10.1186/s13148-019-0648-7",
+   "pmid": "30871624",
+   "found_via_reference_list_of": [
+    "doi:10.1093/humrep/dez279",
+    "doi:10.3390/biology13110871"
+   ],
+   "decision": "include",
+   "reason": "Endometrial and blood mQTL study (Mortlock 2019) with SMR and HEIDI on endometriosis (Sapkota 2017 GWAS); GREB1, KDR, WNT4 and others. Methylation claims are mQTL (secondary only)."
+  },
+  {
+   "ref_id": "pmid:36851918",
+   "title": "Identification of <i>MKNK1</i> and <i>TOP3A</i> as ovarian endometriosis risk-associated genes using integrative genomic analyses and functional experiments.",
+   "doi": "10.1016/j.csbj.2023.02.001",
+   "pmid": "36851918",
+   "found_via_reference_list_of": [
+    "doi:10.1016/j.gene.2023.147970"
+   ],
+   "decision": "include",
+   "reason": "Sherlock/S-PrediXcan study (MKNK1, TOP3A) whose full text reports SMR and HEIDI of GTEx and eQTLGen blood eQTL on endometriosis (UK Biobank, Gene ATLAS)."
+  },
+  {
+   "ref_id": "doi:10.1038/s41588-023-01323-z",
+   "title": "The genetic basis of endometriosis and comorbidity with other pain and inflammatory conditions.",
+   "doi": "10.1038/s41588-023-01323-z",
+   "pmid": "36914876",
+   "found_via_reference_list_of": [
+    "doi:10.1038/s41598-025-96711-2",
+    "doi:10.1155/mi/6617402",
+    "doi:10.1371/journal.pone.0301752",
+    "doi:10.21203/rs.3.rs-4265646/v1"
+   ],
+   "decision": "include",
+   "reason": "Rahmioglu 2023 GWAS meta-analysis; Supplementary Tables 14-18 report SMR of GTEx uterus, endometrial and eQTLGen eQTL and endometrial and blood mQTL on endometriosis."
+  },
+  {
+   "ref_id": "doi:10.1038/s42003-023-05070-z",
+   "title": "Global endometrial DNA methylation analysis reveals insights into mQTL regulation and associated endometriosis disease risk and endometrial function.",
+   "doi": "10.1038/s42003-023-05070-z",
+   "pmid": "37587191",
+   "found_via_reference_list_of": [
+    "doi:10.3390/biology13110871"
+   ],
+   "decision": "include",
+   "reason": "Endometrial mQTL study (Mortlock 2023) with SMR of endometrial mQTL on endometriosis (31,021 cases); 45 DNAm sites. Methylation claims are mQTL (secondary only)."
+  }
+ ]
+}
