@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1021/envhealth.5c00576",
+ "tables": {},
+ "claims": {
+  "Qi2026-1": {
+   "status": "not_available",
+   "reason": "No per-variant instrument data. SI Text S5 (eh5c00576_si_001.pdf, the only supplementary file; no tables converted) gives only the selection rules: deCODE index cis-SNP(s) for ANGPTL4 within 1 Mb, P < 5e-8, LD-pruned with 1000 Genomes EUR, Wald ratio. Figure 6F lists outcome, OR and P only (endometriosis OR 1.305, P 0.022). No rsid, alleles or pQTL/GWAS effects anywhere. The endometriosis outcome GWAS is not named either (Text S5 names sources only for the other ovary outcomes). The Wald ratio method implies a single index cis-pQTL, but it is unidentified."
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "record_id": "doi:10.1038/s44161-025-00700-7",
+ "tables": {
+  "STable2": {
+   "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Effect allele",
+    "other_allele": "Other allele",
+    "beta_exposure": "Beta (UKB+CHARGE)",
+    "se_exposure": "Standard error (UKB+CHARGE)",
+    "pval_exposure": "p-value (UKB+CHARGE)"
+   },
+   "description": "Supplementary Table 2: variants of the 12-, 8- and 3-variant IL6 instruments (IL-6 signalling downregulation), in three consecutive blocks under section-label rows. The effects are on ln-CRP per effect allele from the UKB+CHARGE meta-analysis, with mixed signs. The 'Minor Allele Frequency (UKB+CHARGE)' column is not mapped as EAF, because the minor allele is not always the effect allele."
+  }
+ },
+ "claims": {
+  "Zhang2025IL6-1": {
+   "status": "mapped",
+   "table": "STable2",
+   "filters": [
+    {"column": "SNP", "op": "regex", "value": "^(rs4719703|rs111654392|rs6962836|rs1004224|rs57561814|rs1880241|rs6461665|rs79941637|rs61542988|rs1581498|rs11767035|rs141072253)$"}
+   ],
+   "expected_n": 12,
+   "notes": "The 12 rows of the block '12-variant IL6 genetic instrument (300 kb upstream or downstream of IL6)' (CSV lines 5-16). The SNP list is the same as source data Fig2c and ED_fig2a. The table has no block-label column, and 5 of the 12 rsids (rs6962836, rs1004224, rs57561814, rs1880241, rs6461665) recur in the 8-variant block (rs1880241 also in the 3-variant block) as byte-identical rows. A label filter therefore also matches those 6 later rows, which --check reports as 'duplicate variant' problems (status error). The first occurrences kept are exactly the 12-variant block, and the values are identical. There are no per-SNP outcome effects, so no recompute. The claim estimate (OR 0.6412) is Supplementary Table 15 scaled_beta_IVWFE -0.4444 for FinnGen R12 N14_ENDOMETRIOSIS_NOS. That equals Supplementary Table 14 b 1.6192 per unit ln-CRP increase x ln(0.76), i.e. scaled to a 24% CRP decrease, so the sign is opposite to a CRP-raising orientation."
+  }
+ }
+}

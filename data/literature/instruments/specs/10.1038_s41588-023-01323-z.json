@@ -1,0 +1,110 @@
+{
+ "record_id": "doi:10.1038/s41588-023-01323-z",
+ "tables": {
+  "S14": {
+   "file": "text/NIHMS1873427-supplement-Supplementary_Materials__Supp14.SMR-uterus-GTEx.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "Top SNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "eQTL beta",
+    "se_exposure": "eQTL SE",
+    "pval_exposure": "eQTL p-value",
+    "eaf_exposure": "Frequency",
+    "beta_outcome": "GWAS beta",
+    "se_outcome": "GWAS SE",
+    "pval_outcome": "GWAS p-value"
+   },
+   "description": "Supplementary Table 14: significant SMR results, GTEx uterus cis-eQTL vs the European endometriosis GWAS meta-analysis; full SMR columns (A1/A2, Frequency, GWAS and eQTL beta/SE/p, SMR beta/SE/p, HEIDI); one top SNP per probe."
+  }
+ },
+ "claims": {
+  "Rahmioglu2023-1": {
+   "status": "mapped",
+   "table": "S14",
+   "filters": [
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "HCG4P7"
+    },
+    {
+     "column": "probe ID",
+     "op": "equals",
+     "value": "ENSG00000230521.1"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs72838653 (GTEx uterus) from Supplementary Table 14, the only row. A1 is the effect allele for both eQTL beta and GWAS beta; Frequency is the A1 frequency. GWAS beta / eQTL beta reproduces the table's SMR beta (-0.0553, OR 0.946). The row is marked Pass HEIDI = No (HEIDI p = 0.006)."
+  },
+  "Rahmioglu2023-2": {
+   "status": "not_available",
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LINC00339: top SNP rs2473290. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-3": {
+   "status": "not_available",
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = SRP14: top SNP rs4770. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-4": {
+   "status": "not_available",
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HOXB9: top SNP rs2938475. The exposure is the endometrial RNA-seq eQTL meta-analysis; its only tables here, Supplementary Tables 34-35 (UK cohort, N=163, one of the two meta-analysed cohorts), are not converted locally (sheets too large) and give variant chr:pos, p-value and slope without alleles, not the meta-analysis effects used by SMR."
+  },
+  "Rahmioglu2023-5": {
+   "status": "not_available",
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = VEZT: top SNP rs7296348. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-6": {
+   "status": "not_available",
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = TRA2A: top SNP rs10238290. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-7": {
+   "status": "not_available",
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LNC-LBCS: top SNP rs17483277. The exposure is the endometrial RNA-seq eQTL meta-analysis; its only tables here, Supplementary Tables 34-35 (UK cohort, N=163, one of the two meta-analysed cohorts), are not converted locally (sheets too large) and give variant chr:pos, p-value and slope without alleles, not the meta-analysis effects used by SMR."
+  },
+  "Rahmioglu2023-8": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = CDC42: top SNP rs2473290. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-9": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = GDAP1: top SNP rs10283076. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-10": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = SRP14: top SNP rs72731415. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-11": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = RMND1: top SNP rs3757316. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-12": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LGALS9B: top SNP rs9912844. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-13": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = ABO: top SNP rs550057. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-14": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HLA-H: top SNP rs147947139. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-15": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = ESR1: top SNP rs2941739. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-16": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HCG4P6: top SNP rs147947139. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-17": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = CALCRL: top SNP rs8176580. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-18": {
+   "status": "not_available",
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HLA-J: top SNP rs137886986. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  }
+ }
+}

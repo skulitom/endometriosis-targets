@@ -190,14 +190,20 @@ def apply_spec(spec, supp_dir, claims):
             out[cid] = {"status": "not_available", "reason": entry.get("reason")}
             continue
         t, body = tables[entry["table"]]
-        variants, problems, seen = [], [], set()
+        variants, problems, seen, dropped = [], [], {}, []
         for line, row in body:
             if row_matches(row, entry["filters"]):
                 v, p = to_variant(row, t["columns"], t["file"], line)
                 if v["rsid"] in seen:
-                    problems.append(f"duplicate variant {v['rsid']} (line {line})")
+                    # A row repeated with every mapped value identical (a table listing the same variant in
+                    # several blocks) adds nothing; any difference is a real conflict and stays an error.
+                    first = seen[v["rsid"]]
+                    if all(v.get(f) == first.get(f) for f in FIELDS):
+                        dropped.append(line)
+                    else:
+                        problems.append(f"duplicate variant {v['rsid']} with different values (line {line})")
                     continue
-                seen.add(v["rsid"])
+                seen[v["rsid"]] = v
                 variants.append(v)
                 problems += [f"line {line}: {x}" for x in p]
         flags = []
@@ -211,6 +217,7 @@ def apply_spec(spec, supp_dir, claims):
         check = compare_estimate(claims[cid], recompute(variants)) if variants else None
         out[cid] = {"status": "error" if problems else "extracted", "n": len(variants), "variants": variants,
                     "problems": problems, "flags": flags, "recompute": check, "notes": entry.get("notes"),
+                    "identical_repeats_ignored": dropped,
                     "transcribed": bool(t.get("transcribed")), "record_id": spec["record_id"]}
     return out
 
@@ -241,7 +248,7 @@ def main():
             results.update(apply_spec(spec, SUPP / slug(spec["record_id"]), claims))
         except Exception as exc:
             spec_errors[spec_path.name] = str(exc)[:200]
-    (LIT / "instruments" / "instruments.json").write_text(json.dumps(results, indent=1) + "\n", encoding="utf-8")
+    (LIT / "instruments" / "instruments.json").write_text(json.dumps(results, indent=1) + "\n", encoding="utf-8", newline="\n")
     primary = [cid for cid, c in claims.items() if c["exposure_type"] != "mQTL"]
     checked = [r["recompute"] for r in results.values() if r.get("recompute")]
     summary = {
@@ -259,7 +266,7 @@ def main():
                       for cid, r in sorted(results.items())},
     }
     RESULTS.mkdir(exist_ok=True)
-    (RESULTS / "instrument_verification.json").write_text(json.dumps(summary, indent=1) + "\n", encoding="utf-8")
+    (RESULTS / "instrument_verification.json").write_text(json.dumps(summary, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in summary.items() if k not in ("per_claim", "primary_without_spec")}, indent=1))
     print(f"primary claims without a spec: {len(summary['primary_without_spec'])}")
 

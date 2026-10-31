@@ -25,7 +25,7 @@ SCREEN_FIELDS = ("decision", "reason_code", "reason", "lead_checked", "screener_
 
 
 def _write(name, obj):
-    (OUT / name).write_text(json.dumps(obj, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (OUT / name).write_text(json.dumps(obj, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
 
 
 def main():

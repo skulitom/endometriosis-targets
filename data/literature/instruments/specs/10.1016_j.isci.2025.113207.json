@@ -1,0 +1,64 @@
+{
+ "record_id": "doi:10.1016/j.isci.2025.113207",
+ "tables": {
+  "S11": {
+   "file": "text/mmc12__Sheet1.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "topSNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   },
+   "description": "Table S11 (mmc12.xlsx): SMR of endometrial splicing (LeafCutter intron-cluster sQTL, 206 samples; effect columns keep the SMR eQTL header names) on endometriosis (Rahmioglu 2023 GWAS). One top sQTL per intron probe (probeID). b_eQTL and b_GWAS are harmonised to A1, and b_SMR = b_GWAS / b_eQTL."
+  }
+ },
+ "claims": {
+  "Yang2025-1": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {"column": "probeID", "op": "equals", "value": "2:11588931:11592776:clu_53175_NA"},
+    {"column": "Gene", "op": "equals", "value": "GREB1"}
+   ],
+   "expected_n": 1,
+   "notes": "Top sQTL rs12470971 for GREB1 intron 2:11588931:11592776 (clu_53175). Single-variant Wald ratio; b_SMR 0.1317 = OR 1.1408. A second GREB1 intron in the same cluster (2:11588931:11591396, rs72772088) has the opposite sign and is not this claim."
+  },
+  "Yang2025-2": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {"column": "probeID", "op": "equals", "value": "12:102046119:102050189:clu_42350_NA"},
+    {"column": "Gene", "op": "equals", "value": "WASHC3"}
+   ],
+   "expected_n": 1,
+   "notes": "Top sQTL rs143511013 for WASHC3 intron 12:102046119:102050189 (clu_42350). Single-variant Wald ratio; b_SMR -0.0933 = OR 0.9109."
+  },
+  "Yang2025-3": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {"column": "probeID", "op": "equals", "value": "11:30331374:30332866:clu_68773_NA"},
+    {"column": "Gene", "op": "equals", "value": "ARL14EP"}
+   ],
+   "expected_n": 1,
+   "notes": "Top sQTL rs1222220 for ARL14EP intron 11:30331374:30332866 (clu_68773). Single-variant Wald ratio; b_SMR -0.0444 = OR 0.9566. Two other ARL14EP introns in S11 (11:30323202:30330886 and 11:30323202:30332866) are different probes, not this claim. This probe has p_HEIDI 5.3e-6, so it fails the HEIDI test."
+  },
+  "Yang2025-4": {
+   "status": "mapped",
+   "table": "S11",
+   "filters": [
+    {"column": "probeID", "op": "equals", "value": "6:125645700:125720424:clu_62702_NA"},
+    {"column": "Gene", "op": "equals", "value": "RP11-624M8.1"}
+   ],
+   "expected_n": 1,
+   "notes": "Top sQTL rs926855 for RP11-624M8.1 intron 6:125645700:125720424 (clu_62702). Single-variant Wald ratio; b_SMR 0.0617 = OR 1.0637. Two other introns of this cluster (rs926853) are different probes. This probe has p_HEIDI 1.5e-4, so it fails the HEIDI test."
+  }
+ }
+}

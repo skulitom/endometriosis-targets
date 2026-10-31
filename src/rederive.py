@@ -588,7 +588,7 @@ def ensembl_grch38(rsids):
                 print(f"Ensembl lookup: {exc}; retrying", file=sys.stderr)
                 time.sleep(15 * (attempt + 1))
         ENSEMBL_CACHE.write_text(json.dumps({"retrieved_at": time.strftime("%Y-%m-%d"), "endpoint": f"{ENSEMBL}/variation/homo_sapiens",
-                                             "requested": sorted(rsids), "response": data}, indent=1) + "\n", encoding="utf-8")
+                                             "requested": sorted(rsids), "response": data}, indent=1) + "\n", encoding="utf-8", newline="\n")
     out = {}
     for rs, rec in data.items():
         for m in rec.get("mappings", []):
@@ -725,7 +725,7 @@ def spotcheck():
            "sample_seed": SEED, "sampled": len(sample), "found_in_ensembl": found, "within_0.01": agree,
            "allele_mismatch": allele_mismatch, "share_within_0.01": round(agree / found, 4) if found else None,
            "passed": passed and panel.n == 503, "variants": rows}
-    SPOT.write_text(json.dumps(out, indent=1) + "\n", encoding="utf-8")
+    SPOT.write_text(json.dumps(out, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in out.items() if k != "variants"}, indent=1))
     return out
 
@@ -772,7 +772,7 @@ def build():
     out = {"built_at": time.strftime("%Y-%m-%d"), "protocol": "PROTOCOL.md section 3, re-derivation (fixed details 2026-10-31)",
            "ld_reference": {"file": "1kg.v3.tgz > EUR.bed/bim/fam", "check": "results/ld_reference_check.json"},
            "claims": results}
-    OUT.write_text(json.dumps(out, indent=1) + "\n", encoding="utf-8")
+    OUT.write_text(json.dumps(out, indent=1) + "\n", encoding="utf-8", newline="\n")
     summary = [{k: r.get(k) for k in ("claim_id", "gene", "route", "n_reported", "n_rebuilt", "analysis_role")}
                | {"reading_used": r.get("reading_used"), "reasons": r["reasons"]} for r in results]
     counts = {}
@@ -780,7 +780,7 @@ def build():
         counts[(r["route"], r["analysis_role"])] = counts.get((r["route"], r["analysis_role"]), 0) + 1
     REPORT.write_text(json.dumps({"built_at": out["built_at"],
                                   "counts": {f"{a} / {b}": n for (a, b), n in sorted(counts.items())},
-                                  "claims": summary}, indent=1) + "\n", encoding="utf-8")
+                                  "claims": summary}, indent=1) + "\n", encoding="utf-8", newline="\n")
     for s in summary:
         print(s["claim_id"], s["route"], s["n_reported"], s["n_rebuilt"], s["analysis_role"], "; ".join(s["reasons"]))
     print(json.dumps(counts and {f"{a} / {b}": n for (a, b), n in sorted(counts.items())}, indent=1))

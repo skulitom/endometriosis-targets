@@ -91,8 +91,12 @@ def main():
             for row in candidates:
                 by_rsid.setdefault(row.get(t["columns"]["rsid"], "").strip(), []).append(row)
             mismatches, checked = [], 0
+            mapped_cols = [c for c in t["columns"].values() if c]
             for v in r["variants"]:
                 hits = by_rsid.get(v["rsid"], [])
+                # Rows repeated with identical mapped values (src/instruments.py ignores them) count as one.
+                if len(hits) > 1 and all([h.get(c) for c in mapped_cols] == [hits[0].get(c) for c in mapped_cols] for h in hits):
+                    hits = hits[:1]
                 if len(hits) != 1:
                     mismatches.append(f"{v['rsid']}: {len(hits)} matching rows in original")
                     continue
@@ -106,7 +110,7 @@ def main():
                     numeric = field.startswith(("beta", "se"))
                     if not same(None if ours is None else str(ours), theirs, numeric):
                         mismatches.append(f"{v['rsid']} {field}: extracted {ours!r} vs original {theirs!r}")
-            if len(candidates) != r["n"]:
+            if len(candidates) != r["n"] + len(r.get("identical_repeats_ignored") or []):
                 mismatches.append(f"filters match {len(candidates)} rows in original vs {r['n']} extracted")
             report[cid] = {"checked": True, "variants_checked": checked, "mismatches": mismatches}
     summary = {"claims_crosschecked": sum(v["checked"] for v in report.values()),
@@ -116,7 +120,7 @@ def main():
     for v in report.values():
         if not v["checked"]:
             summary["not_checked_reasons"][v["reason"]] = summary["not_checked_reasons"].get(v["reason"], 0) + 1
-    (ROOT / "results" / "table_crosscheck.json").write_text(json.dumps(summary, indent=1) + "\n", encoding="utf-8")
+    (ROOT / "results" / "table_crosscheck.json").write_text(json.dumps(summary, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in summary.items() if k != "claims"}, indent=1))
 
 

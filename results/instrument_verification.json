@@ -1,15 +1,15 @@
 {
- "primary_claims": 305,
- "claims_in_specs": 305,
+ "primary_claims": 356,
+ "claims_in_specs": 356,
  "primary_without_spec": [],
  "status": {
-  "extracted": 128,
+  "extracted": 150,
   "error": 0,
-  "not_available": 177
+  "not_available": 206
  },
- "variants_extracted": 537,
- "recomputed": 106,
- "recompute_agree": 104,
+ "variants_extracted": 579,
+ "recomputed": 126,
+ "recompute_agree": 124,
  "recompute_sign_mismatch": 0,
  "claims_with_count_flags": 5,
  "spec_errors": {},
@@ -533,6 +533,14 @@
    },
    "reason": null
   },
+  "Chen2026AD-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The instruments are in Supplemental Digital Content Table S1 (http://links.lww.com/JS9/H14) and the PheWAS results in Table S11 (http://links.lww.com/JS9/H24). Both are publisher-hosted and not in the local supplement folder, which holds figure images only (no tables converted). The main text gives no EPHB4 instrument SNPs: Table 1 has only the EPHB4-LOAD IVW result, and Fig. 5 is a Manhattan plot. The EPHB4 to endometriosis-of-ovary estimate, SNP count and FinnGen R12 endpoint are not reported locally."
+  },
   "Dou2025FIG-1": {
    "status": "extracted",
    "n": 5,
@@ -638,6 +646,14 @@
     "same_sign": true
    },
    "reason": null
+  },
+  "Fung2018-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The endometriosis SMR result is given only in the Results text (LINC00339, top SNP rs61768001, pSMR = 4.82e-7) and as a locus plot (Fig. S11, MOESM1). Table S23 (MOESM2) tabulates SMR results for other traits only, with no endometriosis rows. rs61768001 appears in no local supplement table, including the sentinel cis-eQTL Tables S10/S11, where the LINC00339 probes (HSPC157/HS.279842) have sentinels rs2501281 and rs2473325. So no alleles or effect sizes exist for the SMR instrument."
   },
   "Gao2025Med-1": {
    "status": "not_available",
@@ -917,6 +933,38 @@
    "recompute": null,
    "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for VPS13B (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
   },
+  "Huang2023-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. TOP3A, 'SMR_GTEx_v8_whole blood': p_SMR 0.00998, p_HEIDI 0.0653. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data. The S9 header names GTEx v8 (not v7) for the SMR."
+  },
+  "Huang2023-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. TOP3A, 'SMR_eQTLGen': p_SMR 0.0177, p_HEIDI 0.282. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data."
+  },
+  "Huang2023-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. MKNK1, 'SMR_GTEx_v8_whole blood': p_SMR 0.0318, p_HEIDI 0.176. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data. The S9 header names GTEx v8 (not v7) for the SMR."
+  },
+  "Huang2023-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. MKNK1, 'SMR_eQTLGen': p_SMR 0.0281, p_HEIDI 0.148. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data."
+  },
   "Kai2025BMCWH-1": {
    "status": "not_available",
    "n": null,
@@ -1141,6 +1189,14 @@
    "recompute": null,
    "reason": "No supplementary material was retrieved (no supplement folder exists); the per-SNP instrument list (Supplementary Table S2, hosted on Figshare) is not available locally, and there is no open full text (no PMCID) that carries per-variant exposure effects."
   },
+  "Lin2024SGLT2-1": {
+   "status": "extracted",
+   "n": 10,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
   "Ling2025-1": {
    "status": "not_available",
    "n": null,
@@ -1212,6 +1268,30 @@
    "problems": null,
    "recompute": null,
    "reason": "Supplementary Tables S1 (deCODE) and S2 (UKB-PPP) give only per-protein SMR results (probeID, Gene, b_SMR, SE, OR, P, P_FDR, P_HEIDI, nsnp_HEIDI) without the top pQTL rsID, alleles or pQTL/GWAS effects; main-text Table 2 and Fig. 2 report only ORs, P values and PPH4. No per-variant exposure effect for this SMR instrument is reported anywhere."
+  },
+  "Liu2025POP-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "The ESR1 instruments are in Table S6 (blood cis-eQTL instruments for the twelve POP genes) and the phe-MR results in Table S15. Both are publisher-hosted and not in the local supplement folder, which holds main-text figure images only (no tables converted; Figures S3-S12 absent too). The main text names no ESR1 instrument SNP, and it reports no estimate, SNP count, method or endpoint for the ESR1 to endometriosis phe-MR result."
+  },
+  "Liu2026-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant instrument table in the paper or the local supplement (figure images only; no tables converted). Results 3.7 states 18 SNPs for MET. Figure 7 shows funnel, leave-one-out and scatter plots only, and Table 1 gives only Cochran's Q, MR-Egger intercept, MR-PRESSO and F-statistic summaries (mean F 115.6). No rsids, alleles or effects. The Table 1 IVW Cochran's Q (38.709, p 0.096) implies about 28-29 df, i.e. about 29-30 SNPs, which does not fit the 18 SNPs stated (df 17 would give p 0.002). The pQTL source is given only as 'FinnGen' (P < 5e-6, r2 < 0.001), and the endometriosis GWAS is not named, so re-derivation is underdetermined."
+  },
+  "Liu2026-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant instrument table in the paper or the local supplement (figure images only; no tables converted). Results 3.7 states 19 SNPs for SELL. Figure 7 shows funnel, leave-one-out and scatter plots only, and Table 1 gives only Cochran's Q, MR-Egger intercept, MR-PRESSO and F-statistic summaries (mean F 236.0). No rsids, alleles or effects. The pQTL source is given only as 'FinnGen' (P < 5e-6, r2 < 0.001), and the endometriosis GWAS is not named, so re-derivation is underdetermined."
   },
   "LiuY2024Med-1": {
    "status": "extracted",
@@ -1323,6 +1403,201 @@
    "recompute": null,
    "reason": "No supplementary tables in the PMC deposit or local supplement folder (figure images only); main-text Table 1 gives gene-level IVW results (nSNP, beta, SE, P) only and Tables 2-5 are heterogeneity/pleiotropy/multivariable results. The per-SNP table (Supplementary Table S2 per the hint) is not available, so no SNP-exposure effects can be extracted."
   },
+  "Mortlock2023CB-46": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.4231085432807596,
+    "recomputed_log": 0.4231031761784198,
+    "recomputed_se": 0.053250971830235895,
+    "difference": -5.36710233978166e-06,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-47": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.164874643190234,
+    "recomputed_log": -0.16484515836416505,
+    "recomputed_se": 0.02992998685382885,
+    "difference": 2.9484826068959524e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-48": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.26266430947649305,
+    "recomputed_log": -0.26270505098946356,
+    "recomputed_se": 0.04619377406660367,
+    "difference": -4.074151297051021e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-49": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.07742389696480363,
+    "recomputed_log": 0.07741914421530917,
+    "recomputed_se": 0.015040767475564583,
+    "difference": -4.752749494463249e-06,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-50": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.11644881264324676,
+    "recomputed_log": 0.11642713251536484,
+    "recomputed_se": 0.02063099300780167,
+    "difference": -2.1680127881923417e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-51": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.1158255655055904,
+    "recomputed_log": 0.11582940916542689,
+    "recomputed_se": 0.020525075890487608,
+    "difference": 3.843659836494373e-06,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-52": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.11448872648469795,
+    "recomputed_log": 0.11447782735038096,
+    "recomputed_se": 0.020285574372471568,
+    "difference": -1.0899134316982861e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-53": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.09276148008131108,
+    "recomputed_log": 0.0927621720619366,
+    "recomputed_se": 0.01623596545565668,
+    "difference": 6.919806255223371e-07,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-54": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.9465871261055052,
+    "recomputed_log": 0.9466051117811733,
+    "recomputed_se": 0.11697699641686966,
+    "difference": 1.7985675668130696e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-55": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.28501895503229724,
+    "recomputed_log": -0.2849581895407486,
+    "recomputed_se": 0.040234271303424475,
+    "difference": 6.0765491548653294e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-56": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.33295841732141634,
+    "recomputed_log": -0.3330138955438428,
+    "recomputed_se": 0.055103018687110684,
+    "difference": -5.547822242646383e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-57": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.23622879086286527,
+    "recomputed_log": -0.23618367361174084,
+    "recomputed_se": 0.018414793217217833,
+    "difference": 4.5117251124437985e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Mortlock2023CB-58": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.2482049819095809,
+    "recomputed_log": -0.24816293713592136,
+    "recomputed_se": 0.03788156984317803,
+    "difference": 4.204477365954418e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
   "Pan2025Authorea-1": {
    "status": "not_available",
    "n": null,
@@ -1354,6 +1629,211 @@
    "problems": null,
    "recompute": null,
    "reason": "Authorea preprint known only from its abstract; no supplementary material folder exists and the abstract gives no exposure source, instruments or per-variant data."
+  },
+  "Qi2026-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "No per-variant instrument data. SI Text S5 (eh5c00576_si_001.pdf, the only supplementary file; no tables converted) gives only the selection rules: deCODE index cis-SNP(s) for ANGPTL4 within 1 Mb, P < 5e-8, LD-pruned with 1000 Genomes EUR, Wald ratio. Figure 6F lists outcome, OR and P only (endometriosis OR 1.305, P 0.022). No rsid, alleles or pQTL/GWAS effects anywhere. The endometriosis outcome GWAS is not named either (Text S5 names sources only for the other ovary outcomes). The Wald ratio method implies a single index cis-pQTL, but it is unidentified."
+  },
+  "Rahmioglu2023-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.05530131578508931,
+    "recomputed_log": -0.05534587075592961,
+    "recomputed_se": 0.011953398121842788,
+    "difference": -4.4554970840299246e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Rahmioglu2023-10": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = SRP14: top SNP rs72731415. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-11": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = RMND1: top SNP rs3757316. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-12": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LGALS9B: top SNP rs9912844. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-13": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = ABO: top SNP rs550057. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-14": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HLA-H: top SNP rs147947139. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-15": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = ESR1: top SNP rs2941739. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-16": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HCG4P6: top SNP rs147947139. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-17": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = CALCRL: top SNP rs8176580. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-18": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HLA-J: top SNP rs137886986. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LINC00339: top SNP rs2473290. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-3": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = SRP14: top SNP rs4770. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-4": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HOXB9: top SNP rs2938475. The exposure is the endometrial RNA-seq eQTL meta-analysis; its only tables here, Supplementary Tables 34-35 (UK cohort, N=163, one of the two meta-analysed cohorts), are not converted locally (sheets too large) and give variant chr:pos, p-value and slope without alleles, not the meta-analysis effects used by SMR."
+  },
+  "Rahmioglu2023-5": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = VEZT: top SNP rs7296348. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-6": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = TRA2A: top SNP rs10238290. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+  },
+  "Rahmioglu2023-7": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LNC-LBCS: top SNP rs17483277. The exposure is the endometrial RNA-seq eQTL meta-analysis; its only tables here, Supplementary Tables 34-35 (UK cohort, N=163, one of the two meta-analysed cohorts), are not converted locally (sheets too large) and give variant chr:pos, p-value and slope without alleles, not the meta-analysis effects used by SMR."
+  },
+  "Rahmioglu2023-8": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = CDC42: top SNP rs2473290. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Rahmioglu2023-9": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = GDAP1: top SNP rs10283076. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+  },
+  "Riishede2026-1": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 11 (row FSHB, Endometriosis) gives only N_SNP 8, mean F-statistic 92.6 and the IVW / weighted median / MR-Egger estimates (IVW beta 1.133 = OR 3.105). Supplementary Table 12 gives only N_SNP 3 after r2 < 0.01 re-clumping, with PP4 0.993. None of Supplementary Tables 1-14 (MOESM2 xlsx) lists per-SNP rsids, alleles or pQTL effects. MOESM1 is the 3-page image-only Reporting Summary. The instruments can be re-derived from the UKB-PPP cis-pQTLs: within 1 Mb of the TSS, P < 5e-8, PLINK clumping r2 < 0.1 against a UKB EUR LD reference, F > 10, and proxies r2 >= 0.8 for variants missing from the outcome."
+  },
+  "Riishede2026-2": {
+   "status": "not_available",
+   "n": null,
+   "flags": null,
+   "problems": null,
+   "recompute": null,
+   "reason": "Supplementary Table 11 (row SEZ6L2, Endometriosis) gives only N_SNP 17, mean F-statistic 121.7 and the IVW / weighted median / MR-Egger estimates (IVW beta 0.1876 = OR 1.206). Supplementary Table 12 gives only N_SNP 8 after r2 < 0.01 re-clumping, with PP4 0.089. None of Supplementary Tables 1-14 (MOESM2 xlsx) lists per-SNP rsids, alleles or pQTL effects. MOESM1 is the 3-page image-only Reporting Summary. The instruments can be re-derived from the UKB-PPP cis-pQTLs: within 1 Mb of the TSS, P < 5e-8, PLINK clumping r2 < 0.1 against a UKB EUR LD reference, F > 10, and proxies r2 >= 0.8 for variants missing from the outcome."
+  },
+  "Sapkota2017-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.14314750921848493,
+    "recomputed_log": 0.14312165813290004,
+    "recomputed_se": 0.019720558505110813,
+    "difference": -2.5851085584893685e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Sapkota2017-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.11350724079359495,
+    "recomputed_log": 0.11352653806945308,
+    "recomputed_se": 0.024161624720320917,
+    "difference": 1.929727585812946e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
   },
   "Shi2025RBE-1": {
    "status": "extracted",
@@ -2202,6 +2682,66 @@
    "recompute": null,
    "reason": "Instruments (24 SNPs, F>21) are in Supplementary Table 1, which was not obtainable (no supplementary files downloaded; PMC XML lists none); main text has only Table 1 (data sources), Table 2 (MR summary) and Table 3 (mediation), no per-SNP data."
   },
+  "Yang2025-1": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.13172977067789446,
+    "recomputed_log": 0.1317224140301053,
+    "recomputed_se": 0.01174424765415326,
+    "difference": -7.356647789169557e-06,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Yang2025-2": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.09332215723137284,
+    "recomputed_log": -0.09331089843405023,
+    "recomputed_se": 0.012782314853979482,
+    "difference": 1.1258797322610814e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Yang2025-3": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": -0.04436994773594053,
+    "recomputed_log": -0.04437276769443837,
+    "recomputed_se": 0.008109191632043152,
+    "difference": -2.8199584978377823e-06,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
+  "Yang2025-4": {
+   "status": "extracted",
+   "n": 1,
+   "flags": [],
+   "problems": [],
+   "recompute": {
+    "reported_log": 0.061753396275482215,
+    "recomputed_log": 0.06172348936395666,
+    "recomputed_se": 0.012185753264987153,
+    "difference": -2.9906911525552637e-05,
+    "agree": true,
+    "same_sign": true
+   },
+   "reason": null
+  },
   "Yao2026-1": {
    "status": "extracted",
    "n": 2,
@@ -2369,6 +2909,14 @@
   "Zhang2024lipid-1": {
    "status": "extracted",
    "n": 24,
+   "flags": [],
+   "problems": [],
+   "recompute": null,
+   "reason": null
+  },
+  "Zhang2025IL6-1": {
+   "status": "extracted",
+   "n": 12,
    "flags": [],
    "problems": [],
    "recompute": null,

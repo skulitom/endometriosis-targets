@@ -1,0 +1,14 @@
+{
+ "record_id": "doi:10.1038/s41591-026-04326-5",
+ "tables": {},
+ "claims": {
+  "Riishede2026-1": {
+   "status": "not_available",
+   "reason": "Supplementary Table 11 (row FSHB, Endometriosis) gives only N_SNP 8, mean F-statistic 92.6 and the IVW / weighted median / MR-Egger estimates (IVW beta 1.133 = OR 3.105). Supplementary Table 12 gives only N_SNP 3 after r2 < 0.01 re-clumping, with PP4 0.993. None of Supplementary Tables 1-14 (MOESM2 xlsx) lists per-SNP rsids, alleles or pQTL effects. MOESM1 is the 3-page image-only Reporting Summary. The instruments can be re-derived from the UKB-PPP cis-pQTLs: within 1 Mb of the TSS, P < 5e-8, PLINK clumping r2 < 0.1 against a UKB EUR LD reference, F > 10, and proxies r2 >= 0.8 for variants missing from the outcome."
+  },
+  "Riishede2026-2": {
+   "status": "not_available",
+   "reason": "Supplementary Table 11 (row SEZ6L2, Endometriosis) gives only N_SNP 17, mean F-statistic 121.7 and the IVW / weighted median / MR-Egger estimates (IVW beta 0.1876 = OR 1.206). Supplementary Table 12 gives only N_SNP 8 after r2 < 0.01 re-clumping, with PP4 0.089. None of Supplementary Tables 1-14 (MOESM2 xlsx) lists per-SNP rsids, alleles or pQTL effects. MOESM1 is the 3-page image-only Reporting Summary. The instruments can be re-derived from the UKB-PPP cis-pQTLs: within 1 Mb of the TSS, P < 5e-8, PLINK clumping r2 < 0.1 against a UKB EUR LD reference, F > 10, and proxies r2 >= 0.8 for variants missing from the outcome."
+  }
+ }
+}

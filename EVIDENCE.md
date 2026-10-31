@@ -31,7 +31,7 @@ Listed in `data/datasets.json` (role `exposure_for_rederivation`); provenance wi
 - **GLGC 2021 log triglycerides, European**: no published checksum; whole gzip stream read without error. Li 2026's instrument counts cannot be reproduced under any reading of its window (as printed ±100 Mb, ±50 Mb, ±100 kb). Its counts are also internally inconsistent: SCN3A (36) and ITGAV (3) lie 21 Mb apart, so a 100 Mb window would give them nearly the same variants. The methods text cites Willer 2013 (188,577 people), while Table 1 names GLGC 2021. The paper may have used the older, smaller GWAS; this was not tested.
 - **GTEx v8 significant cis-eQTL pairs** (whole blood, uterus): source MD5 matched. 5 of the 6 SMR top SNPs Zeng 2024 lists are GTEx's own top variant for the gene; SURF6 (uterus) is not (GTEx top rs1141748, listed rs886090, exposure p 7e-10).
 - **1000 Genomes phase 3 European LD reference** (MRC IEU `1kg.v3`): plain http only, no published checksum (approved by Artem). Size and gzip CRC matched, the download resumed once after the server closed the connection, and its structure is correct (503 people, 8,550,156 variants). All 199 of 200 seeded random variants that Ensembl knows agree with Ensembl's 1000 Genomes European frequencies within 0.01 (`results/ld_reference_check.json`).
-- **eQTLGen**: still blocked: download servers present expired TLS certificates (checked 2026-10-31); not bypassed. 61 claims depend on it.
+- **eQTLGen**: still blocked. Rechecked 2026-10-31: www.eqtlgen.org has a valid certificate again, but every download link still points to download.gcc.rug.nl, whose certificate has expired (as has molgenis26.gcc.rug.nl). This is not bypassed. 61 claims depend on it, plus the eQTLGen claims added in batch G.
 
 ## Single-cell data
 

@@ -166,7 +166,7 @@ def cmd_search():
         payload = {"name": name, "source": spec["source"], "query": spec["query"],
                    "run_at": datetime.now(timezone.utc).isoformat(), "count": len(records), "records": records}
         path = LIT / f"search_{name}_{stamp}.json"
-        path.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         print(f"{name}: {len(records)} records -> {path.name}")
 
 
@@ -179,7 +179,7 @@ def cmd_supplementary():
         records = search_europepmc(spec["query"])
         payload = {"name": name, "source": spec["source"], "query": spec["query"],
                    "run_at": datetime.now(timezone.utc).isoformat(), "count": len(records), "records": records}
-        path.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         print(f"{name}: {len(records)} records -> {path.name}")
 
 
@@ -207,13 +207,13 @@ def cmd_merge():
         payload = json.loads(path.read_text(encoding="utf-8"))
         (main_sets if payload["name"] in QUERIES else other_sets).append((payload["name"], payload["records"]))
     records = merge(main_sets)
-    (LIT / "records.json").write_text(json.dumps(records, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (LIT / "records.json").write_text(json.dumps(records, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     hinted = sum(r["gene_level_hint"] for r in records)
     print(f"{len(records)} unique records ({hinted} with gene-level hint terms) -> records.json")
     if other_sets:
         extra = supplementary_only(records, merge(other_sets))
         (LIT / "records_supplementary.json").write_text(
-            json.dumps(extra, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+            json.dumps(extra, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         print(f"{len(extra)} records from other sources not in records.json -> records_supplementary.json")
 
 

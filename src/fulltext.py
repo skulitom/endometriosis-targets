@@ -100,11 +100,11 @@ def main():
         d.mkdir(parents=True, exist_ok=True)
         (d / "article.xml").write_bytes(body)
         text = to_text(root)
-        (d / "fulltext.txt").write_text(text, encoding="utf-8")
+        (d / "fulltext.txt").write_text(text, encoding="utf-8", newline="\n")
         (d / "provenance.json").write_text(json.dumps({
             "record_id": rec["record_id"], "pmcid": rec["pmcid"], "url": url, "bytes": len(body),
             "sha256": hashlib.sha256(body).hexdigest(), "retrieved_at": datetime.now(timezone.utc).isoformat(),
-            "text_chars": len(text)}, indent=1) + "\n", encoding="utf-8")
+            "text_chars": len(text)}, indent=1) + "\n", encoding="utf-8", newline="\n")
         print(f"{rec['record_id']}: {len(text):,} chars")
         time.sleep(0.4)
 

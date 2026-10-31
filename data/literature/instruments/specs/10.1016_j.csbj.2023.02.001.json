@@ -1,0 +1,22 @@
+{
+ "record_id": "doi:10.1016/j.csbj.2023.02.001",
+ "tables": {},
+ "claims": {
+  "Huang2023-1": {
+   "status": "not_available",
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. TOP3A, 'SMR_GTEx_v8_whole blood': p_SMR 0.00998, p_HEIDI 0.0653. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data. The S9 header names GTEx v8 (not v7) for the SMR."
+  },
+  "Huang2023-2": {
+   "status": "not_available",
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. TOP3A, 'SMR_eQTLGen': p_SMR 0.0177, p_HEIDI 0.282. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data."
+  },
+  "Huang2023-3": {
+   "status": "not_available",
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. MKNK1, 'SMR_GTEx_v8_whole blood': p_SMR 0.0318, p_HEIDI 0.176. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data. The S9 header names GTEx v8 (not v7) for the SMR."
+  },
+  "Huang2023-4": {
+   "status": "not_available",
+   "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. MKNK1, 'SMR_eQTLGen': p_SMR 0.0281, p_HEIDI 0.148. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data."
+  }
+ }
+}

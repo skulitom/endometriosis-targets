@@ -14,7 +14,8 @@ Start with [GOAL.md](GOAL.md), [PROTOCOL.md](PROTOCOL.md) and [STATUS.md](STATUS
 Current state: Gates A and B (claim inventory and data checks) are nearly finished.
 - **Claims:** 488 claims from 60 papers. 133 of them come from 15 papers added from reference lists and a supplementary full-text search.
 - **Checks:** all 189 headline claims were double-extracted and adjudicated.
-- **Instruments:** extracted and verified for 128 claims, and re-derived from public exposure data for 29 more.
+- **Instruments:** extracted and verified for 150 claims, and re-derived from public exposure data for 29 more.
+- **Dry run of the tier rules, with no outcome data:** 96 genes are testable.
 
 No replication analysis has been run and no target is endorsed.
 
@@ -44,7 +45,7 @@ No replication analysis has been run and no target is endorsed.
 - `src/reconcile.py`: turns agreements, adjudications and not-found results into `corrections_second.json`.
 - `src/instruments.py`: extracts per-variant instruments from supplement tables using the mapping specs in `data/literature/instruments/specs/`, and recomputes each estimate as a check (`--check <spec>` for one spec).
 - `src/verify_tables.py`: re-reads original .xlsx files with openpyxl and compares every extracted value (project venv).
-- `src/genes.py`: looks up GRCh37 and GRCh38 positions of every claimed gene from Ensembl (`data/reference/claimed_genes.json`).
+- `src/genes.py`: looks up GRCh37 and GRCh38 positions of every claimed gene from Ensembl (`data/reference/claimed_genes.json`). `--fill` resolves the rest by Ensembl assembly mapping, then by the logged overrides in `data/reference/gene_overrides.json`.
 - `src/blinding.py`: the only way GWAS files are read before the freeze; drops rows within 1 Mb of any claimed gene and logs each read.
 - `src/gateb.py`: positive controls at known endometriosis loci in each replication source.
 - `src/reproduce.py`: recomputes a published estimate from FinnGen R10 and the paper's own instrument.

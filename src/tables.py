@@ -182,7 +182,7 @@ def convert_paper(paper_dir):
             elif ext == ".docx":
                 out = text / f"{f.stem}.txt"
                 body = docx_text(f)
-                out.write_text(body, encoding="utf-8")
+                out.write_text(body, encoding="utf-8", newline="\n")
                 index.append(f"{out.name}\t{body.count(chr(10))} lines\t{body[:300].replace(chr(10), ' | ')}")
             elif ext in {".csv", ".tsv", ".txt"}:
                 out = text / f.name
@@ -193,7 +193,7 @@ def convert_paper(paper_dir):
                 index.append(f"{f.name}\tnot converted ({ext}); read the original in files/")
         except Exception as exc:
             index.append(f"{f.name}\tconversion failed: {str(exc)[:100]}; read the original in files/")
-    (text / "INDEX.txt").write_text("\n".join(index) + "\n", encoding="utf-8")
+    (text / "INDEX.txt").write_text("\n".join(index) + "\n", encoding="utf-8", newline="\n")
     return index
 
 

@@ -1,44 +1,48 @@
 {
  "note": "Dry run of PROTOCOL.md source and tier rules before the freeze. No outcome data used: shows eligible sources and the best tier each claim could reach given its instruments.",
- "distinct_testable_genes": 89,
- "alpha_strict": 0.0005617977528089888,
+ "distinct_testable_genes": 96,
+ "alpha_strict": 0.0005208333333333333,
  "claims_by_ceiling": {
-  "not testable": 217,
-  "Tier 1": 92,
-  "Tier 2": 47
+  "not testable": 208,
+  "Tier 1": 98,
+  "Tier 2": 50
  },
  "genes_by_ceiling": {
-  "not testable": 174,
-  "Tier 2": 40,
-  "Tier 1": 49
+  "not testable": 167,
+  "Tier 2": 42,
+  "Tier 1": 54
  },
  "primary_source_of_testable_claims": {
-  "Rahmioglu 2023 (public, no 23andMe)": 98,
-  "FinnGen R12": 39,
-  "Pan-UKBB females": 2
+  "Rahmioglu 2023 (public, no 23andMe)": 100,
+  "FinnGen R12": 44,
+  "Pan-UKBB females": 2,
+  "FinnGen R12 + Pan-UKBB females": 2
  },
- "near_independent_testable_claims": 124,
+ "near_independent_testable_claims": 131,
  "tier2_reasons": {
   "instrument scope genome_wide": 29,
   "sensitivity-only instruments (re-derived); instrument scope genome_wide": 5,
-  "MHC region": 1,
+  "MHC region": 2,
   "sensitivity-only instruments (published list problems)": 4,
   "sensitivity-only instruments (re-derived); instrument scope unclear": 6,
   "sensitivity-only instruments (re-derived); instrument scope unclear; MHC region": 1,
-  "sensitivity-only instruments (published list problems); instrument scope genome_wide": 1
+  "sensitivity-only instruments (published list problems); instrument scope genome_wide": 1,
+  "not blind: Gate B positive-control locus": 2
  },
  "not_testable_reasons": {
-  "no usable instruments": 199,
-  "no independent source": 18
+  "no usable instruments": 177,
+  "no independent source": 31
  },
  "genes_that_could_reach_tier1": [
   "ADK",
   "ANGPTL3",
   "AP3M1",
   "APEX1",
+  "ARL14EP",
   "ATF7IP",
   "BRAF",
   "CD28",
+  "CDC42",
   "CDH1",
   "CISD2",
   "CNOT7",
@@ -51,6 +55,7 @@
   "FGFR1",
   "FSHB",
   "HNRNPA1",
+  "IL6",
   "IMMT",
   "INO80E",
   "KDR",
@@ -68,12 +73,14 @@
   "PSMB1",
   "PTGER4",
   "RAP1GAP",
+  "RP11-624M8.1",
   "RPS6KB1",
   "RSPO3",
   "RSPRY1",
   "S100A6",
   "SEZ6L2",
   "SKAP1",
+  "SLC5A2",
   "SMARCA2",
   "SURF6",
   "THRB",
@@ -395,30 +402,6 @@
    ]
   },
   {
-   "claim_id": "Koller2026-5",
-   "gene": "ENSG00000289405",
-   "exposure_type": "mQTL",
-   "leads_within_1Mb": [
-    "position unknown"
-   ]
-  },
-  {
-   "claim_id": "Koller2026-6",
-   "gene": "HCG2P7",
-   "exposure_type": "mQTL",
-   "leads_within_1Mb": [
-    "position unknown"
-   ]
-  },
-  {
-   "claim_id": "Koller2026-10",
-   "gene": "HCG2P7",
-   "exposure_type": "mQTL",
-   "leads_within_1Mb": [
-    "position unknown"
-   ]
-  },
-  {
    "claim_id": "Yang2025-1",
    "gene": "GREB1",
    "exposure_type": "sQTL",
@@ -443,7 +426,7 @@
   "APOA1": "Tier 2",
   "APOB": "Tier 2",
   "ARG1": "not testable",
-  "ARL14EP": "not testable",
+  "ARL14EP": "Tier 1",
   "ARMT1": "not testable",
   "ASF1A": "not testable",
   "ATF7IP": "Tier 1",
@@ -467,7 +450,7 @@
   "CD200": "Tier 2",
   "CD274": "Tier 2",
   "CD28": "Tier 1",
-  "CDC42": "not testable",
+  "CDC42": "Tier 1",
   "CDCA2": "not testable",
   "CDCP1": "Tier 2",
   "CDH1": "Tier 1",
@@ -523,13 +506,13 @@
   "GLS": "not testable",
   "GLUD1": "not testable",
   "GNLY": "not testable",
-  "GREB1": "not testable",
+  "GREB1": "Tier 2",
   "GSTA4": "not testable",
   "GYS1": "not testable",
   "HCAR2": "Tier 2",
   "HCG22": "Tier 2",
   "HCG4P6": "not testable",
-  "HCG4P7": "not testable",
+  "HCG4P7": "Tier 2",
   "HLA-DRA": "not testable",
   "HLA-H": "not testable",
   "HLA-J": "not testable",
@@ -554,7 +537,7 @@
   "IL3RA": "not testable",
   "IL4": "not testable",
   "IL5": "not testable",
-  "IL6": "Tier 2",
+  "IL6": "Tier 1",
   "IL6ST": "not testable",
   "IL9": "Tier 2",
   "IMMT": "Tier 1",
@@ -631,7 +614,7 @@
   "RLN2": "not testable",
   "RMI1": "not testable",
   "RMND1": "not testable",
-  "RP11-624M8.1": "not testable",
+  "RP11-624M8.1": "Tier 1",
   "RP4-625H18.2": "not testable",
   "RPL21": "not testable",
   "RPS6KB1": "Tier 1",
@@ -650,7 +633,7 @@
   "SKAP1": "Tier 1",
   "SLAMF1": "Tier 2",
   "SLC48A1": "Tier 2",
-  "SLC5A2": "not testable",
+  "SLC5A2": "Tier 1",
   "SLC9A1": "Tier 2",
   "SMARCA2": "Tier 1",
   "SRD5A3": "not testable",
@@ -680,7 +663,7 @@
   "UNG": "not testable",
   "VEGFA": "Tier 2",
   "VEGFB": "Tier 2",
-  "VEZT": "not testable",
+  "VEZT": "Tier 2",
   "VPS13B": "not testable",
   "VRK1": "not testable",
   "VWF": "not testable",
@@ -8014,11 +7997,13 @@
      "cases": 20190
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
+   "primary_sources": [
+    "FinnGen R12"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 2",
    "reasons": [
-    "no usable instruments"
+    "MHC region"
    ]
   },
   {
@@ -8422,12 +8407,13 @@
      "cases": 4354
     }
    ],
-   "primary_sources": [],
+   "primary_sources": [
+    "FinnGen R12",
+    "Pan-UKBB females"
+   ],
    "near_independent": false,
-   "ceiling": "not testable",
-   "reasons": [
-    "no usable instruments"
-   ]
+   "ceiling": "Tier 1",
+   "reasons": []
   },
   {
    "claim_id": "Sapkota2017-2",
@@ -8456,11 +8442,14 @@
      "cases": 4354
     }
    ],
-   "primary_sources": [],
+   "primary_sources": [
+    "FinnGen R12",
+    "Pan-UKBB females"
+   ],
    "near_independent": false,
-   "ceiling": "not testable",
+   "ceiling": "Tier 2",
    "reasons": [
-    "no usable instruments"
+    "not blind: Gate B positive-control locus"
    ]
   },
   {
@@ -8512,7 +8501,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8531,7 +8520,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8550,7 +8539,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8569,7 +8558,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8588,7 +8577,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8607,7 +8596,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8626,7 +8615,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8645,7 +8634,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8664,7 +8653,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8683,7 +8672,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8702,7 +8691,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8721,7 +8710,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8740,7 +8729,7 @@
    "near_independent": false,
    "ceiling": "not testable",
    "reasons": [
-    "no usable instruments"
+    "no independent source"
    ]
   },
   {
@@ -8861,11 +8850,13 @@
      "cases": 20190
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
+   "primary_sources": [
+    "FinnGen R12"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 2",
    "reasons": [
-    "no usable instruments"
+    "not blind: Gate B positive-control locus"
    ]
   },
   {
@@ -8882,12 +8873,12 @@
      "cases": 20190
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
-   "reasons": [
-    "no usable instruments"
-   ]
+   "primary_sources": [
+    "FinnGen R12"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 1",
+   "reasons": []
   },
   {
    "claim_id": "Yang2025-3",
@@ -8903,12 +8894,12 @@
      "cases": 20190
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
-   "reasons": [
-    "no usable instruments"
-   ]
+   "primary_sources": [
+    "FinnGen R12"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 1",
+   "reasons": []
   },
   {
    "claim_id": "Yang2025-4",
@@ -8924,12 +8915,12 @@
      "cases": 20190
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
-   "reasons": [
-    "no usable instruments"
-   ]
+   "primary_sources": [
+    "FinnGen R12"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 1",
+   "reasons": []
   },
   {
    "claim_id": "Qi2026-1",
@@ -9039,12 +9030,12 @@
      "cases": 4354
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
-   "reasons": [
-    "no usable instruments"
-   ]
+   "primary_sources": [
+    "Rahmioglu 2023 (public, no 23andMe)"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 1",
+   "reasons": []
   },
   {
    "claim_id": "Chen2026AD-1",
@@ -9106,12 +9097,12 @@
      "cases": 4354
     }
    ],
-   "primary_sources": [],
-   "near_independent": false,
-   "ceiling": "not testable",
-   "reasons": [
-    "no usable instruments"
-   ]
+   "primary_sources": [
+    "Rahmioglu 2023 (public, no 23andMe)"
+   ],
+   "near_independent": true,
+   "ceiling": "Tier 1",
+   "reasons": []
   }
  ]
 }

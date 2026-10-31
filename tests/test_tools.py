@@ -557,6 +557,24 @@ class FetchTests(unittest.TestCase):
                 fetch("k", {"k": record}, Path(directory))
 
 
+class GeneOverrideTests(unittest.TestCase):
+    def test_override_fills_a_symbol_neither_build_knows_and_unknown_ones_stay_unresolved(self):
+        import genes as genes_mod
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "overrides.json"
+            path.write_text(json.dumps({"genes": {"WITHDRAWN1": {"GRCh37": {"chrom": "6", "start": 1, "end": 2}}}}),
+                            encoding="utf-8")
+            old = genes_mod.OVERRIDES
+            genes_mod.OVERRIDES = path
+            try:
+                out, still = genes_mod.fill_unresolved({}, ["WITHDRAWN1 (GRCh37)", "OTHER (GRCh37)"])
+            finally:
+                genes_mod.OVERRIDES = old
+        self.assertEqual(out["WITHDRAWN1"]["GRCh37"]["chrom"], "6")
+        self.assertIn("override", out["WITHDRAWN1"]["GRCh37"]["method"])
+        self.assertEqual(still, ["OTHER (GRCh37)"])
+
+
 class GateBLocusTests(unittest.TestCase):
     def test_claims_near_positive_control_leads_are_capped_and_unknown_positions_count_as_near(self):
         from tier_dryrun import GATEB_LABEL, ceiling, gate_b_lead_near

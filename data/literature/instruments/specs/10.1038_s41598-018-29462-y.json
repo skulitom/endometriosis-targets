@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1038/s41598-018-29462-y",
+ "tables": {},
+ "claims": {
+  "Fung2018-1": {
+   "status": "not_available",
+   "reason": "The endometriosis SMR result is given only in the Results text (LINC00339, top SNP rs61768001, pSMR = 4.82e-7) and as a locus plot (Fig. S11, MOESM1). Table S23 (MOESM2) tabulates SMR results for other traits only, with no endometriosis rows. rs61768001 appears in no local supplement table, including the sentinel cis-eQTL Tables S10/S11, where the LINC00339 probes (HSPC157/HS.279842) have sentinels rs2501281 and rs2473325. So no alleles or effect sizes exist for the SMR instrument."
+  }
+ }
+}

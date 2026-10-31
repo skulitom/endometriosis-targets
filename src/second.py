@@ -88,7 +88,7 @@ def main():
               "fields_disagreeing": dict(Counter(f for r in out for f in r.get("differences", {})).most_common()),
               "claims": out}
     RESULTS.mkdir(exist_ok=True)
-    (RESULTS / "second_extraction_comparison.json").write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (RESULTS / "second_extraction_comparison.json").write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in report.items() if k != "claims"}, indent=1))
 
 

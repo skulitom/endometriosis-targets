@@ -149,6 +149,7 @@
    "same_sign": true
   },
   "notes": "HNMT (eqtl-a-ENSG00000150540) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1007/s10142-025-01543-y"
  },
@@ -222,6 +223,7 @@
    "same_sign": true
   },
   "notes": "CCDC28A (eqtl-a-ENSG00000024862) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1007/s10142-025-01543-y"
  },
@@ -313,6 +315,7 @@
    "same_sign": true
   },
   "notes": "FADS1 (eqtl-a-ENSG00000149485) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1007/s10142-025-01543-y"
  },
@@ -404,6 +407,7 @@
    "same_sign": true
   },
   "notes": "MGRN1 (eqtl-a-ENSG00000102858) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1007/s10142-025-01543-y"
  },
@@ -470,6 +474,7 @@
   "flags": [],
   "recompute": null,
   "notes": "CDH1 (eqtl-a-ENSG00000039068) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table). IVW in ESM4/ESM6: b=-0.1176, OR 0.889 (0.802-0.986), 3 SNPs; the claim record has no estimate, so no recompute comparison. Fixed-effect IVW recomputed from these rows = -0.11758, matching ESM4.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1007/s10142-025-01543-y"
  },
@@ -590,8 +595,25 @@
   "flags": [],
   "recompute": null,
   "notes": "KRT23 (eqtl-a-ENSG00000108244) rows of the harmonised SNP table; all rows mr_keep=TRUE; outcome ebi-a-GCST90018839 (only outcome in table). IVW in ESM4/ESM6: b=-0.0865, OR 0.917 (0.850-0.989), 6 SNPs; the claim record has no estimate, so no recompute comparison. Fixed-effect IVW recomputed from these rows = -0.08647, matching ESM4.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1007/s10142-025-01543-y"
+ },
+ "Huang2023-1": {
+  "status": "not_available",
+  "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. TOP3A, 'SMR_GTEx_v8_whole blood': p_SMR 0.00998, p_HEIDI 0.0653. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data. The S9 header names GTEx v8 (not v7) for the SMR."
+ },
+ "Huang2023-2": {
+  "status": "not_available",
+  "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. TOP3A, 'SMR_eQTLGen': p_SMR 0.0177, p_HEIDI 0.282. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data."
+ },
+ "Huang2023-3": {
+  "status": "not_available",
+  "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. MKNK1, 'SMR_GTEx_v8_whole blood': p_SMR 0.0318, p_HEIDI 0.176. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data. The S9 header names GTEx v8 (not v7) for the SMR."
+ },
+ "Huang2023-4": {
+  "status": "not_available",
+  "reason": "Supplementary Table S9 (SMR) gives Gene, p_SMR, p_SMR_multi and p_HEIDI only. MKNK1, 'SMR_eQTLGen': p_SMR 0.0281, p_HEIDI 0.148. There is no top SNP, no alleles and no eQTL or GWAS effect size. S9 was not converted: text/mmc1.txt has the legends only, and the xlsx exists only inside raw/PMC9957794_supplementary.zip > mmc2.zip > 'Supplementary Material.rar'; it was read in place there. No other supplementary table gives per-variant SMR data."
  },
  "Zeng2024Gene-1": {
   "status": "not_available",
@@ -2238,8 +2260,161 @@
   ],
   "recompute": null,
   "notes": "All 87 ESR1 rows of sT3, which the main text names as the instrument table. sT5 reports nsnp=134 for ESR1 on endometriosis (ukb-d-N80; IVW OR 0.9992, rounded 0.99 in the claim) and 128-134 for other outcomes, i.e. more SNPs than sT3 lists, so the supplement's ESR1 list is incomplete or from a different selection step; the 134-SNP set cannot be reconstructed. No outcome effects, so no recompute.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1016/j.heliyon.2024.e34494"
+ },
+ "Yang2025-1": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs12470971",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": -0.749303,
+    "se_exposure": 0.112321,
+    "pval_exposure": 2.538704e-11,
+    "eaf_exposure": 0.338187,
+    "beta_outcome": -0.0987,
+    "se_outcome": 0.0088,
+    "pval_outcome": 3.406678e-29,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/mmc12__Sheet1.csv",
+     "line": 4
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.13172977067789446,
+   "recomputed_log": 0.1317224140301053,
+   "recomputed_se": 0.01174424765415326,
+   "difference": -7.356647789169557e-06,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "Top sQTL rs12470971 for GREB1 intron 2:11588931:11592776 (clu_53175). Single-variant Wald ratio; b_SMR 0.1317 = OR 1.1408. A second GREB1 intron in the same cluster (2:11588931:11591396, rs72772088) has the opposite sign and is not this claim.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1016/j.isci.2025.113207"
+ },
+ "Yang2025-2": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs143511013",
+    "effect_allele": "G",
+    "other_allele": "C",
+    "beta_exposure": 0.860564,
+    "se_exposure": 0.137275,
+    "pval_exposure": 3.636023e-10,
+    "eaf_exposure": 0.175217,
+    "beta_outcome": -0.0803,
+    "se_outcome": 0.011,
+    "pval_outcome": 2.877677e-13,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/mmc12__Sheet1.csv",
+     "line": 7
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.09332215723137284,
+   "recomputed_log": -0.09331089843405023,
+   "recomputed_se": 0.012782314853979482,
+   "difference": 1.1258797322610814e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "Top sQTL rs143511013 for WASHC3 intron 12:102046119:102050189 (clu_42350). Single-variant Wald ratio; b_SMR -0.0933 = OR 0.9109.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1016/j.isci.2025.113207"
+ },
+ "Yang2025-3": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs1222220",
+    "effect_allele": "C",
+    "other_allele": "A",
+    "beta_exposure": -1.09752,
+    "se_exposure": 0.0981835,
+    "pval_exposure": 5.209054e-29,
+    "eaf_exposure": 0.360463,
+    "beta_outcome": 0.0487,
+    "se_outcome": 0.0089,
+    "pval_outcome": 4.452106e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/mmc12__Sheet1.csv",
+     "line": 6
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.04436994773594053,
+   "recomputed_log": -0.04437276769443837,
+   "recomputed_se": 0.008109191632043152,
+   "difference": -2.8199584978377823e-06,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "Top sQTL rs1222220 for ARL14EP intron 11:30331374:30332866 (clu_68773). Single-variant Wald ratio; b_SMR -0.0444 = OR 0.9566. Two other ARL14EP introns in S11 (11:30323202:30330886 and 11:30323202:30332866) are different probes, not this claim. This probe has p_HEIDI 5.3e-6, so it fails the HEIDI test.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1016/j.isci.2025.113207"
+ },
+ "Yang2025-4": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs926855",
+    "effect_allele": "G",
+    "other_allele": "A",
+    "beta_exposure": 0.75498,
+    "se_exposure": 0.0921511,
+    "pval_exposure": 2.551073e-16,
+    "eaf_exposure": 0.438573,
+    "beta_outcome": 0.0466,
+    "se_outcome": 0.0092,
+    "pval_outcome": 4.079346e-07,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/mmc12__Sheet1.csv",
+     "line": 8
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.061753396275482215,
+   "recomputed_log": 0.06172348936395666,
+   "recomputed_se": 0.012185753264987153,
+   "difference": -2.9906911525552637e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "Top sQTL rs926855 for RP11-624M8.1 intron 6:125645700:125720424 (clu_62702). Single-variant Wald ratio; b_SMR 0.0617 = OR 1.0637. Two other introns of this cluster (rs926853) are different probes. This probe has p_HEIDI 1.5e-4, so it fails the HEIDI test.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1016/j.isci.2025.113207"
  },
  "WeiL2024JRI-1": {
   "status": "extracted",
@@ -2538,6 +2713,7 @@
   "flags": [],
   "recompute": null,
   "notes": "CCL2 = 'MCP1' block of Table S1 (exposure SNPs only; same 16 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row MCP1 -> Endometriosis (overall) (beta -0.138, OR 0.871). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -2622,6 +2798,7 @@
   "flags": [],
   "recompute": null,
   "notes": "CCL3 = 'MIP1a' block of Table S1 (exposure SNPs only; same 4 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row MIP1a -> Endometriosis of fallopian tube (beta -1.343, OR 0.261). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -2796,6 +2973,7 @@
   "flags": [],
   "recompute": null,
   "notes": "CSF3 = 'GCSF' block of Table S1 (exposure SNPs only; same 9 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row GCSF -> Endometriosis of intestine (beta -1.202, OR 0.300). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -2988,6 +3166,7 @@
   "flags": [],
   "recompute": null,
   "notes": "MIF = 'MIF' block of Table S1 (exposure SNPs only; same 10 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row MIF -> Endometriosis of intestine (beta 0.978 but OR column 0.660 (exp(beta)=2.66; internally inconsistent in Table S3)). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -3252,6 +3431,7 @@
   "flags": [],
   "recompute": null,
   "notes": "IL4 = 'IL4' block of Table S1 (exposure SNPs only; same 14 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL4 -> Endometriosis of intestine (beta 0.753, OR 2.123). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -3408,6 +3588,7 @@
   "flags": [],
   "recompute": null,
   "notes": "IL5 = 'IL5' block of Table S1 (exposure SNPs only; same 8 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL5 -> Endometriosis of fallopian tube (beta 1.134, OR 3.108). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -3564,6 +3745,7 @@
   "flags": [],
   "recompute": null,
   "notes": "CXCL8 = 'IL8' block of Table S1 (exposure SNPs only; same 8 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL8 -> Endometriosis of rectovaginal septum and vagina (beta 0.248, OR 1.282). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -3684,6 +3866,7 @@
   "flags": [],
   "recompute": null,
   "notes": "IL9 = 'IL9' block of Table S1 (exposure SNPs only; same 6 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL9 -> Endometriosis of rectovaginal septum and vagina (beta 0.384, OR 1.468). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -3966,6 +4149,7 @@
   "flags": [],
   "recompute": null,
   "notes": "IL12B = 'IL12P70' block of Table S1 (exposure SNPs only; same 15 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL12P70 -> Endometriosis of uterus (beta 0.287, OR 1.333). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -4158,6 +4342,7 @@
   "flags": [],
   "recompute": null,
   "notes": "IL16 = 'IL16' block of Table S1 (exposure SNPs only; same 10 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL16 -> Endometriosis (overall) (beta -0.104 but OR column 1.293 (exp(beta)=0.90; internally inconsistent in Table S3)). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -4314,6 +4499,7 @@
   "flags": [],
   "recompute": null,
   "notes": "IL17A = 'IL17' block of Table S1 (exposure SNPs only; same 8 SNPs used for every endometriosis subtype). Claim estimate matches Table S3 row IL17 -> Endometriosis of uterus (beta -0.262, OR 0.770). No per-SNP outcome effects in the paper, so the IVW estimate cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.jri.2024.104293"
  },
@@ -4930,6 +5116,7 @@
   ],
   "recompute": null,
   "notes": "All 33 PCSK9 LDL-C variants listed in Table S8. The stage 1-2 IVW (Table S13, r2<0.3: 27 SNPs, OR 1.402) used 27 of them; the same 27 appear for every endometriosis outcome, so the 6 dropped were removed by LD pruning (r2<0.3) or outcome availability, but they are not identified in the supplement, so the full listed set is extracted. No outcome effects, so no recompute.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.rbmo.2024.103856"
  },
@@ -5502,6 +5689,7 @@
   ],
   "recompute": null,
   "notes": "All 31 APOB LDL-C variants listed in Table S8. The stage 1-2 IVW (Table S13, r2<0.3: 26 SNPs, OR 1.497) used 26 of them (same count for every outcome); the 5 dropped are not identified in the supplement. No outcome effects, so no recompute.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.rbmo.2024.103856"
  },
@@ -5894,6 +6082,7 @@
   ],
   "recompute": null,
   "notes": "All 21 ANGPTL3 TG variants listed in Table S8 (right block). The stage 1-2 IVW (Table S13, r2<0.3: 18 SNPs, OR 1.568) used 18 (same count for every outcome); the 3 dropped are not identified in the supplement. No outcome effects, so no recompute.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1016/j.rbmo.2024.103856"
  },
@@ -5929,6 +6118,204 @@
   "status": "not_available",
   "reason": "mmc1.xlsx S4/S5 give only per-gene MR results for VPS13B (method, nSNP, beta, SE, P, OR) and S6 pleiotropy/heterogeneity; S1-S3/S7 are EDC and gene lists. No SNP IDs, alleles or SNP-exposure effects anywhere in the supplement."
  },
+ "Qi2026-1": {
+  "status": "not_available",
+  "reason": "No per-variant instrument data. SI Text S5 (eh5c00576_si_001.pdf, the only supplementary file; no tables converted) gives only the selection rules: deCODE index cis-SNP(s) for ANGPTL4 within 1 Mb, P < 5e-8, LD-pruned with 1000 Genomes EUR, Wald ratio. Figure 6F lists outcome, OR and P only (endometriosis OR 1.305, P 0.022). No rsid, alleles or pQTL/GWAS effects anywhere. The endometriosis outcome GWAS is not named either (Text S5 names sources only for the other ovary outcomes). The Wald ratio method implies a single index cis-pQTL, but it is unidentified."
+ },
+ "Sapkota2017-1": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs2268177",
+    "effect_allele": "T",
+    "other_allele": "A",
+    "beta_exposure": 0.846832,
+    "se_exposure": 0.022925,
+    "pval_exposure": 1.09249e-298,
+    "eaf_exposure": 0.172152,
+    "beta_outcome": 0.1212,
+    "se_outcome": 0.0167,
+    "pval_outcome": 3.943536e-13,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/ncomms15539-s2__Supplementary_Data_14.csv",
+     "line": 3
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.14314750921848493,
+   "recomputed_log": 0.14312165813290004,
+   "recomputed_se": 0.019720558505110813,
+   "difference": -2.5851085584893685e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL (Westra 2013 peripheral-blood eQTL) from Supplementary Data 14, the SMR table for the GWAS meta-analysis including all endometriosis cases. The footnote calls RA the risk allele, but it is the SMR effect allele for both BETA (GWAS) and b_eQTL (BETA is negative for VEZT); RAF is its frequency. BETA / b_eQTL reproduces the table's b_SMR. Top SNP rs2268177.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/ncomms15539"
+ },
+ "Sapkota2017-2": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs14121",
+    "effect_allele": "G",
+    "other_allele": "A",
+    "beta_exposure": -0.604264,
+    "se_exposure": 0.019656,
+    "pval_exposure": 1.557488e-207,
+    "eaf_exposure": 0.292305,
+    "beta_outcome": -0.0686,
+    "se_outcome": 0.0146,
+    "pval_outcome": 2.619123e-06,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/ncomms15539-s2__Supplementary_Data_14.csv",
+     "line": 4
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.11350724079359495,
+   "recomputed_log": 0.11352653806945308,
+   "recomputed_se": 0.024161624720320917,
+   "difference": 1.929727585812946e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL (Westra 2013 peripheral-blood eQTL) from Supplementary Data 14, the SMR table for the GWAS meta-analysis including all endometriosis cases. The footnote calls RA the risk allele, but it is the SMR effect allele for both BETA (GWAS) and b_eQTL (BETA is negative for VEZT); RAF is its frequency. BETA / b_eQTL reproduces the table's b_SMR. Top SNP rs14121; HEIDI p_HET = 0.004 in the table.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/ncomms15539"
+ },
+ "Rahmioglu2023-1": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs72838653",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": -1.22141,
+    "se_exposure": 0.146184,
+    "pval_exposure": 6.527132e-17,
+    "eaf_exposure": 0.100096,
+    "beta_outcome": 0.0676,
+    "se_outcome": 0.0146,
+    "pval_outcome": 3.654e-06,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/NIHMS1873427-supplement-Supplementary_Materials__Supp14.SMR-uterus-GTEx.csv",
+     "line": 3
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.05530131578508931,
+   "recomputed_log": -0.05534587075592961,
+   "recomputed_se": 0.011953398121842788,
+   "difference": -4.4554970840299246e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs72838653 (GTEx uterus) from Supplementary Table 14, the only row. A1 is the effect allele for both eQTL beta and GWAS beta; Frequency is the A1 frequency. GWAS beta / eQTL beta reproduces the table's SMR beta (-0.0553, OR 0.946). The row is marked Pass HEIDI = No (HEIDI p = 0.006).",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s41588-023-01323-z"
+ },
+ "Rahmioglu2023-2": {
+  "status": "not_available",
+  "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LINC00339: top SNP rs2473290. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+ },
+ "Rahmioglu2023-3": {
+  "status": "not_available",
+  "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = SRP14: top SNP rs4770. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+ },
+ "Rahmioglu2023-4": {
+  "status": "not_available",
+  "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HOXB9: top SNP rs2938475. The exposure is the endometrial RNA-seq eQTL meta-analysis; its only tables here, Supplementary Tables 34-35 (UK cohort, N=163, one of the two meta-analysed cohorts), are not converted locally (sheets too large) and give variant chr:pos, p-value and slope without alleles, not the meta-analysis effects used by SMR."
+ },
+ "Rahmioglu2023-5": {
+  "status": "not_available",
+  "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = VEZT: top SNP rs7296348. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+ },
+ "Rahmioglu2023-6": {
+  "status": "not_available",
+  "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = TRA2A: top SNP rs10238290. The exposure is the Fung 2018 endometrial microarray eQTL dataset, whose per-variant effects are not in this supplement."
+ },
+ "Rahmioglu2023-7": {
+  "status": "not_available",
+  "reason": "Supplementary Table 15 (SMR, endometrial eQTL) lists Gene, SNP, Chr, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LNC-LBCS: top SNP rs17483277. The exposure is the endometrial RNA-seq eQTL meta-analysis; its only tables here, Supplementary Tables 34-35 (UK cohort, N=163, one of the two meta-analysed cohorts), are not converted locally (sheets too large) and give variant chr:pos, p-value and slope without alleles, not the meta-analysis effects used by SMR."
+ },
+ "Rahmioglu2023-8": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = CDC42: top SNP rs2473290. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-9": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = GDAP1: top SNP rs10283076. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-10": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = SRP14: top SNP rs72731415. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-11": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = RMND1: top SNP rs3757316. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-12": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = LGALS9B: top SNP rs9912844. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-13": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = ABO: top SNP rs550057. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-14": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HLA-H: top SNP rs147947139. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-15": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = ESR1: top SNP rs2941739. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-16": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HCG4P6: top SNP rs147947139. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-17": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = CALCRL: top SNP rs8176580. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Rahmioglu2023-18": {
+  "status": "not_available",
+  "reason": "Supplementary Table 16 (SMR, eQTLGen blood) lists Gene, SNP, Chromosome, Position (hg19) and GWAS, eQTL, SMR and HEIDI p-values only, plus annotations; no alleles, allele frequency or eQTL/GWAS effect sizes (no b_SMR either). The SNP is not in the eQTL look-up tables (Supplementary Tables 31-32). Row Gene = HLA-J: top SNP rs137886986. Re-derivation would need eQTLGen cis-eQTL effects for this SNP-gene pair."
+ },
+ "Riishede2026-1": {
+  "status": "not_available",
+  "reason": "Supplementary Table 11 (row FSHB, Endometriosis) gives only N_SNP 8, mean F-statistic 92.6 and the IVW / weighted median / MR-Egger estimates (IVW beta 1.133 = OR 3.105). Supplementary Table 12 gives only N_SNP 3 after r2 < 0.01 re-clumping, with PP4 0.993. None of Supplementary Tables 1-14 (MOESM2 xlsx) lists per-SNP rsids, alleles or pQTL effects. MOESM1 is the 3-page image-only Reporting Summary. The instruments can be re-derived from the UKB-PPP cis-pQTLs: within 1 Mb of the TSS, P < 5e-8, PLINK clumping r2 < 0.1 against a UKB EUR LD reference, F > 10, and proxies r2 >= 0.8 for variants missing from the outcome."
+ },
+ "Riishede2026-2": {
+  "status": "not_available",
+  "reason": "Supplementary Table 11 (row SEZ6L2, Endometriosis) gives only N_SNP 17, mean F-statistic 121.7 and the IVW / weighted median / MR-Egger estimates (IVW beta 0.1876 = OR 1.206). Supplementary Table 12 gives only N_SNP 8 after r2 < 0.01 re-clumping, with PP4 0.089. None of Supplementary Tables 1-14 (MOESM2 xlsx) lists per-SNP rsids, alleles or pQTL effects. MOESM1 is the 3-page image-only Reporting Summary. The instruments can be re-derived from the UKB-PPP cis-pQTLs: within 1 Mb of the TSS, P < 5e-8, PLINK clumping r2 < 0.1 against a UKB EUR LD reference, F > 10, and proxies r2 >= 0.8 for variants missing from the outcome."
+ },
+ "Fung2018-1": {
+  "status": "not_available",
+  "reason": "The endometriosis SMR result is given only in the Results text (LINC00339, top SNP rs61768001, pSMR = 4.82e-7) and as a locus plot (Fig. S11, MOESM1). Table S23 (MOESM2) tabulates SMR results for other traits only, with no endometriosis rows. rs61768001 appears in no local supplement table, including the sentinel cis-eQTL Tables S10/S11, where the LINC00339 probes (HSPC157/HS.279842) have sentinels rs2501281 and rs2473325. So no alleles or effect sizes exist for the SMR instrument."
+ },
  "Chen2025SR-1": {
   "status": "extracted",
   "n": 1,
@@ -5963,6 +6350,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for THRB in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6000,6 +6388,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for RPS6KB1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6037,6 +6426,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for CD28 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6074,6 +6464,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for HNRNPA1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6111,6 +6502,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for ZNF148 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6148,6 +6540,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for PMVK in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6185,6 +6578,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for MAP2K1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6222,6 +6616,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for FGFR1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6259,6 +6654,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for PSMB1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6296,6 +6692,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for MAP3K5 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6333,6 +6730,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for PARK7 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6370,6 +6768,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for CDH1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6407,6 +6806,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for EGLN1 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6444,6 +6844,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for KL in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6481,6 +6882,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for SMARCA2 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6518,6 +6920,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for ATF7IP in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6555,6 +6958,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for BRAF in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6592,6 +6996,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL for PDZD2 in the discovery-GWAS (GCST90269970) eQTL table; single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6629,6 +7034,7 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for S100A6 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6666,6 +7072,7 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for ENG in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6703,6 +7110,7 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for FGFR1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6740,6 +7148,7 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for WIF1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6777,6 +7186,7 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for EGLN1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6814,6 +7224,7 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for PSMB1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
  },
@@ -6851,8 +7262,739 @@
    "same_sign": true
   },
   "notes": "SMR top pQTL for APEX1 in the discovery-GWAS (GCST90269970) pQTL table (columns named b_eQTL/se_eQTL hold the pQTL effects); single-variant Wald ratio.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1038/s41598-025-96711-2"
+ },
+ "Mortlock2023CB-46": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs2473290",
+    "effect_allele": "C",
+    "other_allele": "T",
+    "beta_exposure": -0.206569,
+    "se_exposure": 0.037763,
+    "pval_exposure": 4.496867e-08,
+    "eaf_exposure": 0.747252,
+    "beta_outcome": -0.0874,
+    "se_outcome": 0.011,
+    "pval_outcome": 1.935e-15,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 3
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.4231085432807596,
+   "recomputed_log": 0.4231031761784198,
+   "recomputed_se": 0.053250971830235895,
+   "difference": -5.36710233978166e-06,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs2473290 (GTEx v8 Colon_Sigmoid) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-47": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs2811471",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": 0.434347,
+    "se_exposure": 0.0468263,
+    "pval_exposure": 1.764435e-20,
+    "eaf_exposure": 0.850338,
+    "beta_outcome": -0.0716,
+    "se_outcome": 0.013,
+    "pval_outcome": 3.636e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 4
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.164874643190234,
+   "recomputed_log": -0.16484515836416505,
+   "recomputed_se": 0.02992998685382885,
+   "difference": 2.9484826068959524e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs2811471 (GTEx v8 Testis) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-48": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs2254379",
+    "effect_allele": "C",
+    "other_allele": "A",
+    "beta_exposure": -0.283588,
+    "se_exposure": 0.0339797,
+    "pval_exposure": 7.073557e-17,
+    "eaf_exposure": 0.143587,
+    "beta_outcome": 0.0745,
+    "se_outcome": 0.0131,
+    "pval_outcome": 1.293e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 5
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.26266430947649305,
+   "recomputed_log": -0.26270505098946356,
+   "recomputed_se": 0.04619377406660367,
+   "difference": -4.074151297051021e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs2254379 (GTEx v8 Muscle_Skeletal) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-49": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs11935857",
+    "effect_allele": "A",
+    "other_allele": "C",
+    "beta_exposure": 0.857669,
+    "se_exposure": 0.0830055,
+    "pval_exposure": 5.014412e-25,
+    "eaf_exposure": 0.190646,
+    "beta_outcome": 0.0664,
+    "se_outcome": 0.0129,
+    "pval_outcome": 2.643e-07,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 6
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.07742389696480363,
+   "recomputed_log": 0.07741914421530917,
+   "recomputed_se": 0.015040767475564583,
+   "difference": -4.752749494463249e-06,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs11935857 (GTEx v8 Spleen) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-50": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs7750716",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": 0.760991,
+    "se_exposure": 0.102542,
+    "pval_exposure": 1.16019e-13,
+    "eaf_exposure": 0.113018,
+    "beta_outcome": 0.0886,
+    "se_outcome": 0.0157,
+    "pval_outcome": 1.668e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 7
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.11644881264324676,
+   "recomputed_log": 0.11642713251536484,
+   "recomputed_se": 0.02063099300780167,
+   "difference": -2.1680127881923417e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs7750716 (GTEx v8 Brain_Nucleus_accumbens_basal_ganglia) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-51": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs7750716",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": 0.764918,
+    "se_exposure": 0.101099,
+    "pval_exposure": 3.847926e-14,
+    "eaf_exposure": 0.113018,
+    "beta_outcome": 0.0886,
+    "se_outcome": 0.0157,
+    "pval_outcome": 1.668e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 9
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.1158255655055904,
+   "recomputed_log": 0.11582940916542689,
+   "recomputed_se": 0.020525075890487608,
+   "difference": 3.843659836494373e-06,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs7750716 (GTEx v8 Brain_Hypothalamus) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-52": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs7750716",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": 0.773949,
+    "se_exposure": 0.119594,
+    "pval_exposure": 9.705354e-11,
+    "eaf_exposure": 0.113018,
+    "beta_outcome": 0.0886,
+    "se_outcome": 0.0157,
+    "pval_outcome": 1.668e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 11
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.11448872648469795,
+   "recomputed_log": 0.11447782735038096,
+   "recomputed_se": 0.020285574372471568,
+   "difference": -1.0899134316982861e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs7750716 (GTEx v8 Brain_Anterior_cingulate_cortex_BA24) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-53": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs7750703",
+    "effect_allele": "G",
+    "other_allele": "C",
+    "beta_exposure": 0.966989,
+    "se_exposure": 0.155273,
+    "pval_exposure": 4.734403e-10,
+    "eaf_exposure": 0.113211,
+    "beta_outcome": 0.0897,
+    "se_outcome": 0.0157,
+    "pval_outcome": 1.108e-08,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 12
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.09276148008131108,
+   "recomputed_log": 0.0927621720619366,
+   "recomputed_se": 0.01623596545565668,
+   "difference": 6.919806255223371e-07,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs7750703 (GTEx v8 Brain_Substantia_nigra) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-54": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs1874415",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": 0.176103,
+    "se_exposure": 0.02973,
+    "pval_exposure": 3.153371e-09,
+    "eaf_exposure": 0.0514947,
+    "beta_outcome": 0.1667,
+    "se_outcome": 0.0206,
+    "pval_outcome": 5.858e-16,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 14
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": 0.9465871261055052,
+   "recomputed_log": 0.9466051117811733,
+   "recomputed_se": 0.11697699641686966,
+   "difference": 1.7985675668130696e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs1874415 (GTEx v8 Whole_Blood) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-55": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs6997725",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": 0.241088,
+    "se_exposure": 0.0301387,
+    "pval_exposure": 1.251321e-15,
+    "eaf_exposure": 0.422662,
+    "beta_outcome": -0.0687,
+    "se_outcome": 0.0097,
+    "pval_outcome": 1.416e-12,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 16
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.28501895503229724,
+   "recomputed_log": -0.2849581895407486,
+   "recomputed_se": 0.040234271303424475,
+   "difference": 6.0765491548653294e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs6997725 (GTEx v8 Artery_Tibial) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-56": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs6480726",
+    "effect_allele": "G",
+    "other_allele": "T",
+    "beta_exposure": 0.33392,
+    "se_exposure": 0.0266163,
+    "pval_exposure": 4.197244e-36,
+    "eaf_exposure": 0.738476,
+    "beta_outcome": -0.1112,
+    "se_outcome": 0.0184,
+    "pval_outcome": 1.508e-09,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 17
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.33295841732141634,
+   "recomputed_log": -0.3330138955438428,
+   "recomputed_se": 0.055103018687110684,
+   "difference": -5.547822242646383e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs6480726 (GTEx v8 Lung) vs the severe endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-57": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs4071559",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": 0.716815,
+    "se_exposure": 0.0593341,
+    "pval_exposure": 1.331056e-33,
+    "eaf_exposure": 0.145709,
+    "beta_outcome": -0.1693,
+    "se_outcome": 0.0132,
+    "pval_outcome": 1.176e-37,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 18
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.23622879086286527,
+   "recomputed_log": -0.23618367361174084,
+   "recomputed_se": 0.018414793217217833,
+   "difference": 4.5117251124437985e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs4071559 (GTEx v8 Testis) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Mortlock2023CB-58": {
+  "status": "extracted",
+  "n": 1,
+  "variants": [
+   {
+    "rsid": "rs2305433",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": -0.258701,
+    "se_exposure": 0.0426708,
+    "pval_exposure": 1.338401e-09,
+    "eaf_exposure": 0.605014,
+    "beta_outcome": 0.0642,
+    "se_outcome": 0.0098,
+    "pval_outcome": 5.715e-11,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+     "line": 20
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": {
+   "reported_log": -0.2482049819095809,
+   "recomputed_log": -0.24816293713592136,
+   "recomputed_se": 0.03788156984317803,
+   "difference": 4.204477365954418e-05,
+   "agree": true,
+   "same_sign": true
+  },
+  "notes": "SMR top cis-eQTL rs2305433 (GTEx v8 Liver) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s42003-023-05070-z"
+ },
+ "Zhang2025IL6-1": {
+  "status": "extracted",
+  "n": 12,
+  "variants": [
+   {
+    "rsid": "rs4719703",
+    "effect_allele": "A",
+    "other_allele": "T",
+    "beta_exposure": -0.0182,
+    "se_exposure": 0.0033,
+    "pval_exposure": 2.2999999999999998e-08,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 5
+    }
+   },
+   {
+    "rsid": "rs111654392",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": -0.0358,
+    "se_exposure": 0.0061,
+    "pval_exposure": 4.6e-09,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 6
+    }
+   },
+   {
+    "rsid": "rs6962836",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": -0.0186,
+    "se_exposure": 0.003,
+    "pval_exposure": 3e-10,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 7
+    }
+   },
+   {
+    "rsid": "rs1004224",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": -0.014,
+    "se_exposure": 0.0024,
+    "pval_exposure": 1e-08,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 8
+    }
+   },
+   {
+    "rsid": "rs57561814",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": -0.0482,
+    "se_exposure": 0.0042,
+    "pval_exposure": 7.700000000000001e-31,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 9
+    }
+   },
+   {
+    "rsid": "rs1880241",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": 0.0252,
+    "se_exposure": 0.002,
+    "pval_exposure": 3.5e-35,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 10
+    }
+   },
+   {
+    "rsid": "rs6461665",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": -0.0149,
+    "se_exposure": 0.0022,
+    "pval_exposure": 2.8999999999999997e-11,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 11
+    }
+   },
+   {
+    "rsid": "rs79941637",
+    "effect_allele": "A",
+    "other_allele": "T",
+    "beta_exposure": 0.0292,
+    "se_exposure": 0.0045,
+    "pval_exposure": 7.099999999999999e-11,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 12
+    }
+   },
+   {
+    "rsid": "rs61542988",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": -0.0271,
+    "se_exposure": 0.0023,
+    "pval_exposure": 5.700000000000001e-31,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 13
+    }
+   },
+   {
+    "rsid": "rs1581498",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": -0.0135,
+    "se_exposure": 0.002,
+    "pval_exposure": 3.4e-11,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 14
+    }
+   },
+   {
+    "rsid": "rs11767035",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": 0.0164,
+    "se_exposure": 0.0022,
+    "pval_exposure": 2.5e-13,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 15
+    }
+   },
+   {
+    "rsid": "rs141072253",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": -0.0408,
+    "se_exposure": 0.0051,
+    "pval_exposure": 1.1000000000000001e-15,
+    "eaf_exposure": null,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/44161_2025_700_MOESM2_ESM__STable2.csv",
+     "line": 16
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": null,
+  "notes": "The 12 rows of the block '12-variant IL6 genetic instrument (300 kb upstream or downstream of IL6)' (CSV lines 5-16). The SNP list is the same as source data Fig2c and ED_fig2a. The table has no block-label column, and 5 of the 12 rsids (rs6962836, rs1004224, rs57561814, rs1880241, rs6461665) recur in the 8-variant block (rs1880241 also in the 3-variant block) as byte-identical rows. A label filter therefore also matches those 6 later rows, which --check reports as 'duplicate variant' problems (status error). The first occurrences kept are exactly the 12-variant block, and the values are identical. There are no per-SNP outcome effects, so no recompute. The claim estimate (OR 0.6412) is Supplementary Table 15 scaled_beta_IVWFE -0.4444 for FinnGen R12 N14_ENDOMETRIOSIS_NOS. That equals Supplementary Table 14 b 1.6192 per unit ln-CRP increase x ln(0.76), i.e. scaled to a 24% CRP decrease, so the sign is opposite to a CRP-raising orientation.",
+  "identical_repeats_ignored": [
+   18,
+   21,
+   23,
+   24,
+   25,
+   28
+  ],
+  "transcribed": false,
+  "record_id": "doi:10.1038/s44161-025-00700-7"
  },
  "Lv2025-1": {
   "status": "not_available",
@@ -6865,6 +8007,10 @@
  "Lv2025-3": {
   "status": "not_available",
   "reason": "Supplementary Tables S1-S5 (immune-trait catalogue, heterogeneity Q, MR results by model, Steiger directionality, mediation z-tests) contain no SNP IDs or per-SNP exposure effects for IL1RL1; despite its file label, Table S2 'MR_Test-Instrumental_v' holds only Cochran Q statistics."
+ },
+ "Chen2026AD-1": {
+  "status": "not_available",
+  "reason": "The instruments are in Supplemental Digital Content Table S1 (http://links.lww.com/JS9/H14) and the PheWAS results in Table S11 (http://links.lww.com/JS9/H24). Both are publisher-hosted and not in the local supplement folder, which holds figure images only (no tables converted). The main text gives no EPHB4 instrument SNPs: Table 1 has only the EPHB4-LOAD IVW result, and Fig. 5 is a Manhattan plot. The EPHB4 to endometriosis-of-ovary estimate, SNP count and FinnGen R12 endpoint are not reported locally."
  },
  "LiuY2024Med-1": {
   "status": "extracted",
@@ -6954,6 +8100,7 @@
    "same_sign": true
   },
   "notes": "IL6 = 'IL-6' block of Supplementary Table S1 (4 SNPs, matching Figure 1 'IL-6 4 SNP, OR 1.351'). Outcome = GCST90044411 endometriosis (only outcome in the table; outcome betas given on the exposure effect allele, no outcome allele columns). The fixed-effect IVW recomputed from these rows is log-OR 0.557 (OR 1.75) vs reported OR 1.351; the rows are the only IL-6 instruments in the paper, so the label-based mapping is kept. Possible cause: rs13412535 is also a PDGFbb instrument (opposite exposure sign for the same G allele) despite the stated removal of SNPs shared between regulators, suggesting a table/analysis inconsistency in the source.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1097/md.0000000000038972"
  },
@@ -7297,6 +8444,7 @@
    "same_sign": true
   },
   "notes": "PDGFB = 'PDGFbb' block of Supplementary Table S1 (18 SNPs, matching Figure 1). Outcome = GCST90044411 endometriosis; outcome betas given on the exposure effect allele.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1097/md.0000000000038972"
  },
@@ -7334,6 +8482,7 @@
    "same_sign": true
   },
   "notes": "Supplementary Table S5 = SMR results for GTEx v8 whole blood (title row 1); ADK is absent from the uterus table S6, so the tissue is whole blood. The SMR top cis-eQTL SNP is a one-variant instrument; b_SMR -0.0503675 (OR 0.9509) matches the claim. A1/A2 are the SMR-harmonised alleles for both eQTL and GWAS effects. The follow-up two-sample MR in s005 (ADK IVW b -0.0418) has no per-SNP table.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000041804"
  },
@@ -7371,6 +8520,7 @@
    "same_sign": true
   },
   "notes": "Supplementary Table S5 (GTEx v8 whole blood SMR); EHHADH not in uterus table S6. One-variant SMR instrument (topSNP); b_SMR -0.134286 (OR 0.8743) matches the claim.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000041804"
  },
@@ -7408,6 +8558,7 @@
    "same_sign": true
   },
   "notes": "Supplementary Table S5 (GTEx v8 whole blood SMR); CNOT7 not in uterus table S6. One-variant SMR instrument (topSNP); b_SMR -0.273151 (OR 0.761) matches the claim.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000041804"
  },
@@ -7658,6 +8809,7 @@
   "flags": [],
   "recompute": null,
   "notes": "PCSK9 rows of Supplementary Table 1: the 13 PCSK9-region LDL-C SNPs from ieu-a-300 (GLGC) used in the main analysis (Supp. Table 2 is the ieu-b-5089 replication set, 15 SNPs). Exposure beta is on LDL-C per effect allele. Other allele not mapped because the source repeats the effect allele in 'Other alleles' for all PCSK9 rows. No per-SNP outcome (FinnGen endometriosis) effects are reported, so the IVW (OR 0.791) cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1097/md.0000000000042685"
  },
@@ -7745,6 +8897,7 @@
    "same_sign": true
   },
   "notes": "RSPO3 (OID21415): rs56080056, rs1936800; Tab. S1 IVW nsnp=2 b=0.4615.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000049148"
  },
@@ -7782,6 +8935,7 @@
    "same_sign": true
   },
   "notes": "WASHC3 (OID31123): single pQTL rs10860846; Tab. S1 Wald ratio b=0.6919.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000049148"
  },
@@ -7837,6 +8991,7 @@
    "same_sign": true
   },
   "notes": "FSHB (OID30233): rs7125669, rs11031006; Tab. S1 IVW nsnp=2 b=1.2928.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000049148"
  },
@@ -7910,6 +9065,7 @@
    "same_sign": true
   },
   "notes": "VEGFB (OID30554): rs61884366, rs2253398, rs660442; Tab. S1 IVW nsnp=3 b=0.3921.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1097/md.0000000000049148"
  },
@@ -8047,6 +9203,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8084,6 +9241,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8121,6 +9279,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8158,6 +9317,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8195,6 +9355,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8232,6 +9393,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS. Table topSNP is rs1265054 (the input hint 'rs126505' is truncated).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8269,6 +9431,7 @@
    "same_sign": true
   },
   "notes": "SMR top cis-eQTL (eQTLGen whole blood) from Table S2 'SMR analysis in eQTL data and EM3-4' (FinnGen R10 ASRM stage 3-4); identical rows are repeated in Table S3 (7 genes). A1 is the effect allele for b_eQTL and b_GWAS.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1159/000543707"
  },
@@ -8421,6 +9584,7 @@
   "flags": [],
   "recompute": null,
   "notes": "Source: Additional file 1 Table S1 (MOESM1 xlsx), converted text/12916_2023_2881_MOESM1_ESM__Table_S1.csv lines 20-24 (ADAMTS13 block, labelled 'ADAMDTS13', Ma 2017). The xlsx merges the Exposure cell over each block, so continuation rows are blank in the converted CSV and cannot be selected by label; the transcribed file copies lines 4-24 verbatim by script with only the Exposure label filled down (source_line column gives the CSV line). Filter MR_keep_UKBBa = T is the paper's inclusion flag for the UK Biobank analysis (claim outcome), leaving 4 SNPs (rs144473590 excluded). Table S1 has no outcome effects (MOESM2 PDF holds only plots), so no recompute. P-value column not mapped because one vWF row reads 'p<1E-320' (non-numeric).",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1186/s12916-023-02881-z"
  },
@@ -8685,6 +9849,7 @@
   "flags": [],
   "recompute": null,
   "notes": "Source: Additional file 1 Table S1, converted CSV lines 4-19 (vWF block, Sabater-Lleal 2019); Exposure label filled down in the transcribed copy (merged xlsx cell; rs548630 and rs4981022 also appear in the FVIII block, so SNP IDs alone cannot isolate the vWF rows). Filter MR_keep_Metaa = T is the paper's inclusion flag for the UKB+FinnGen meta-analysis (claim outcome), giving 14 SNPs (rs2238109, rs80082277 excluded). No per-SNP outcome effects supplied, so no recompute. P-value column not mapped because rs8176719 reads 'p<1E-320' (non-numeric).",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1186/s12916-023-02881-z"
  },
@@ -8866,6 +10031,7 @@
    "same_sign": true
   },
   "notes": "Supplementary Table 17 (MOESM20) holds only EPHB4 (GTEx v8 EUR whole-blood cis-eQTL -> GCST90454213) harmonised TwoSampleMR rows with F>10, so no row filter is needed; identical to the 'initial SNP dataset' table. Mechanical TSV->CSV copy, values unchanged.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1186/s12958-025-01508-7"
  },
@@ -8975,6 +10141,7 @@
    "same_sign": true
   },
   "notes": "Supplementary Table 22 (MOESM25) holds only PTGER4 (GTEx v8 EUR whole-blood cis-eQTL -> GCST90454213) harmonised TwoSampleMR rows with F>10, so no row filter is needed; identical to the 'initial SNP dataset' table. Mechanical TSV->CSV copy, values unchanged.",
+  "identical_repeats_ignored": [],
   "transcribed": true,
   "record_id": "doi:10.1186/s12958-025-01508-7"
  },
@@ -9463,6 +10630,7 @@
   "flags": [],
   "recompute": null,
   "notes": "ANGPTL3 block of S2 Table (label row line 68, SNP rows lines 69-92, all chr1 ~63.0-63.2 Mb). The table has no gene column, so rows are selected by the 24 rsIDs listed in that block (no rsID appears in more than one block). Count matches S5 Table (TG via ANGPTL3 -> EMS EUR, IVW 24 SNPs, OR 0.798). No per-SNP endometriosis (GCST90269970) effects are reported, so IVW cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.1371/journal.pone.0301752"
  },
@@ -9493,6 +10661,14 @@
  "Li2026tg-7": {
   "status": "not_available",
   "reason": "S1 Table (s003.docx) gives only the gene-level IVW result for BACE1 (NSNPs, B, SE, P); S1 File (s004 xlsx) lists ChEMBL/DGIdb drug-target genes and coordinates; S1/S2 Figs are leave-one-out (TG on EM) and transcriptome plots; main-text Tables 1-4 are data sources, GEO sets, drug targets and coloc. No per-SNP TG instruments for the drug-target loci are reported."
+ },
+ "Liu2026-1": {
+  "status": "not_available",
+  "reason": "No per-variant instrument table in the paper or the local supplement (figure images only; no tables converted). Results 3.7 states 18 SNPs for MET. Figure 7 shows funnel, leave-one-out and scatter plots only, and Table 1 gives only Cochran's Q, MR-Egger intercept, MR-PRESSO and F-statistic summaries (mean F 115.6). No rsids, alleles or effects. The Table 1 IVW Cochran's Q (38.709, p 0.096) implies about 28-29 df, i.e. about 29-30 SNPs, which does not fit the 18 SNPs stated (df 17 would give p 0.002). The pQTL source is given only as 'FinnGen' (P < 5e-6, r2 < 0.001), and the endometriosis GWAS is not named, so re-derivation is underdetermined."
+ },
+ "Liu2026-2": {
+  "status": "not_available",
+  "reason": "No per-variant instrument table in the paper or the local supplement (figure images only; no tables converted). Results 3.7 states 19 SNPs for SELL. Figure 7 shows funnel, leave-one-out and scatter plots only, and Table 1 gives only Cochran's Q, MR-Egger intercept, MR-PRESSO and F-statistic summaries (mean F 236.0). No rsids, alleles or effects. The pQTL source is given only as 'FinnGen' (P < 5e-6, r2 < 0.001), and the endometriosis GWAS is not named, so re-derivation is underdetermined."
  },
  "Chen2024sel-1": {
   "status": "extracted",
@@ -9764,6 +10940,7 @@
    "same_sign": true
   },
   "notes": "Mapped by labels to the only per-SNP data for E-selectin (prot-a-2665) -> finn-b-N14_ENDOMETRIOSIS: the authors' TwoSampleMR harmonised file (datF; same 14 SNPs as dat), whose IVW result (OR file: 14 SNPs, b -0.08123, OR 0.922) is manuscript Table 2. The claim's Table 1 figures (2 SNPs, OR 0.92, 0.86-0.98, P 0.015) match instead the supplied result file 'P_L_E-selectin\u591a\u53d8\u91cf_result.csv' (converted as P_L_E-selectin__result.csv): a multivariable P/L/E-selectin MR with outcome ebi-a-GCST90018839, b -0.0813003, se 0.0334, nsnp 2. No per-SNP data for that multivariable analysis are supplied, so the 2-SNP Table 1 instrument set is not available; the count flag (2 vs 14) is expected.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4160567/v1"
  },
@@ -9819,6 +10996,7 @@
    "same_sign": true
   },
   "notes": "ICAM2 rows of Table S8 (FinnGen endometriosis); Table S1 reports IVW with nsnp=2, beta 0.3299.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -9856,6 +11034,7 @@
    "same_sign": true
   },
   "notes": "RSPO3 single pQTL (rs2489623); Table S1 reports Wald ratio beta -0.2834.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -9911,6 +11090,7 @@
    "same_sign": true
   },
   "notes": "Table S8 lists 2 ICAM4 pQTLs (rs635634 T/C, rs72660908 G/C), but Table S1 reports a Wald ratio with nsnp=1 (beta 0.4188 = rs635634 alone). rs72660908 is a palindromic G/C SNP with eaf 0.45, presumably dropped by TwoSampleMR harmonisation; the table has no mr_keep column, so both label-matched rows are kept and the 2-SNP IVW recompute is not expected to match.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -9948,6 +11128,7 @@
    "same_sign": true
   },
   "notes": "ENG single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.3711.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -9985,6 +11166,7 @@
    "same_sign": true
   },
   "notes": "CD200 = 'OX-2 membrane glycoprotein'; single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.4658.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -10022,6 +11204,7 @@
    "same_sign": true
   },
   "notes": "LIFR single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.2943.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -10059,6 +11242,7 @@
    "same_sign": true
   },
   "notes": "IGF1R single pQTL (rs635634, ABO locus trans-pQTL); Table S1 Wald ratio beta 0.4046.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -10114,6 +11298,7 @@
    "same_sign": true
   },
   "notes": "HCAR2 2 pQTLs (rs704, rs9564162; trans); Table S1 IVW nsnp=2 beta -0.2760.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -10169,6 +11354,7 @@
    "same_sign": true
   },
   "notes": "TPSG1 = 'Tryptase gamma'; 2 pQTLs (rs62143194, rs704); Table S1 IVW nsnp=2 beta -0.2456.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
@@ -10224,12 +11410,17 @@
    "same_sign": true
   },
   "notes": "FUT9 = 'Alpha-(1,3)-fucosyltransferase 9'; 2 pQTLs (rs62143206, rs704); Table S1 IVW nsnp=2 beta -0.0933.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.21203/rs.3.rs-4265646/v1"
  },
  "Xue2025ugcg-1": {
   "status": "not_available",
   "reason": "Instruments (24 SNPs, F>21) are in Supplementary Table 1, which was not obtainable (no supplementary files downloaded; PMC XML lists none); main text has only Table 1 (data sources), Table 2 (MR summary) and Table 3 (mediation), no per-SNP data."
+ },
+ "Liu2025POP-1": {
+  "status": "not_available",
+  "reason": "The ESR1 instruments are in Table S6 (blood cis-eQTL instruments for the twelve POP genes) and the phe-MR results in Table S15. Both are publisher-hosted and not in the local supplement folder, which holds main-text figure images only (no tables converted; Figures S3-S12 absent too). The main text names no ESR1 instrument SNP, and it reports no estimate, SNP count, method or endpoint for the ESR1 to endometriosis phe-MR result."
  },
  "Meng2026IJWH-1": {
   "status": "not_available",
@@ -10326,6 +11517,7 @@
   "flags": [],
   "recompute": null,
   "notes": "Supplementary Table S1 (genetic instruments of plasma and brain proteins), Plasma RSPO3 row: rs2489623, Author = Sun (INTERVAL), same SNP and effect allele C as main-text Table 1 (OR 1.0029). Supplementary Table S2 holds deCODE/FENN validation instruments, not used here. No per-SNP outcome (UKB endometriosis) effect is reported, so the Wald ratio cannot be recomputed.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1371498"
  },
@@ -10431,6 +11623,7 @@
    "same_sign": true
   },
   "notes": "Single cis-pQTL rs314361 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.3349.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1416978"
  },
@@ -10468,6 +11661,7 @@
    "same_sign": true
   },
   "notes": "Single cis-pQTL rs11031006 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 1.3623.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1416978"
  },
@@ -10505,6 +11699,7 @@
    "same_sign": true
   },
   "notes": "Single cis-pQTL rs1936800 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.4705.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1416978"
  },
@@ -10542,6 +11737,7 @@
    "same_sign": true
   },
   "notes": "Single cis-pQTL rs113443718 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.3613.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1416978"
  },
@@ -10579,6 +11775,7 @@
    "same_sign": true
   },
   "notes": "Single cis-pQTL rs10860846 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta 0.6919 (claim n_instruments not stated).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1416978"
  },
@@ -10616,6 +11813,7 @@
    "same_sign": true
   },
   "notes": "Single cis-pQTL rs1870377 (same SNP/beta as Table S1 IV); Table S2 Wald ratio beta -0.1969 (OR 0.821). The claim's OR 0.8 is the text value rounded to one decimal, so the recompute check against log(0.8) may fall just outside tolerance.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fendo.2024.1416978"
  },
@@ -10697,8 +11895,202 @@
    "same_sign": true
   },
   "notes": "Table7.xlsx = TwoSampleMR harmonised data (Supplementary File 6, IVs; the three SNPs rs10098310, rs1375493, rs55909821 named in the text); exposure LRP1 (local id Twk6Uc), outcome Endometriosis (local id 4yYehe). Table6.xlsx (MR results) IVW b 0.33033 (OR 1.3914) for the same ids. Two of the three SNPs lie on chr8 and chr2, i.e. not cis to LRP1 (chr12).",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3389/fimmu.2026.1735221"
+ },
+ "Lin2024SGLT2-1": {
+  "status": "extracted",
+  "n": 10,
+  "variants": [
+   {
+    "rsid": "rs11150620",
+    "effect_allele": "C",
+    "other_allele": "G",
+    "beta_exposure": 0.013,
+    "se_exposure": 0.003,
+    "pval_exposure": 2.9e-07,
+    "eaf_exposure": 0.302,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 4
+    }
+   },
+   {
+    "rsid": "rs111510548",
+    "effect_allele": "C",
+    "other_allele": "T",
+    "beta_exposure": 0.015,
+    "se_exposure": 0.004,
+    "pval_exposure": 6.69e-05,
+    "eaf_exposure": 0.103,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 5
+    }
+   },
+   {
+    "rsid": "rs2070896",
+    "effect_allele": "C",
+    "other_allele": "T",
+    "beta_exposure": 0.017,
+    "se_exposure": 0.002,
+    "pval_exposure": 1.7e-12,
+    "eaf_exposure": 0.375,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 6
+    }
+   },
+   {
+    "rsid": "rs4457053",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta_exposure": 0.024,
+    "se_exposure": 0.002,
+    "pval_exposure": 4.44e-23,
+    "eaf_exposure": 0.68,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 7
+    }
+   },
+   {
+    "rsid": "rs4488457",
+    "effect_allele": "G",
+    "other_allele": "T",
+    "beta_exposure": 0.013,
+    "se_exposure": 0.003,
+    "pval_exposure": 2.9e-07,
+    "eaf_exposure": 0.712,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 8
+    }
+   },
+   {
+    "rsid": "rs67464975",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": 0.012,
+    "se_exposure": 0.002,
+    "pval_exposure": 4.03e-07,
+    "eaf_exposure": 0.47,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 9
+    }
+   },
+   {
+    "rsid": "rs72789325",
+    "effect_allele": "G",
+    "other_allele": "A",
+    "beta_exposure": 0.012,
+    "se_exposure": 0.002,
+    "pval_exposure": 3.63e-07,
+    "eaf_exposure": 0.33,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 10
+    }
+   },
+   {
+    "rsid": "rs8050328",
+    "effect_allele": "G",
+    "other_allele": "T",
+    "beta_exposure": 0.016,
+    "se_exposure": 0.002,
+    "pval_exposure": 1.1e-11,
+    "eaf_exposure": 0.364,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 11
+    }
+   },
+   {
+    "rsid": "rs8057207",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta_exposure": 0.013,
+    "se_exposure": 0.002,
+    "pval_exposure": 4.55e-08,
+    "eaf_exposure": 0.362,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 12
+    }
+   },
+   {
+    "rsid": "rs9926717",
+    "effect_allele": "G",
+    "other_allele": "A",
+    "beta_exposure": 0.011,
+    "se_exposure": 0.003,
+    "pval_exposure": 9.61e-06,
+    "eaf_exposure": 0.284,
+    "beta_outcome": null,
+    "se_outcome": null,
+    "pval_outcome": null,
+    "effect_allele_outcome": null,
+    "other_allele_outcome": null,
+    "source": {
+     "file": "text/Table1__ST2.csv",
+     "line": 13
+    }
+   }
+  ],
+  "problems": [],
+  "flags": [],
+  "recompute": null,
+  "notes": "All 10 rows of ST2; the paper uses the same instrument for every PheWAS outcome. The exposure betas are HbA1c-raising as tabulated. The claim estimate (OR 10.95) is ST4 'SGLT2 inhibitor, Endometriosis || id:finn-b-N14_ENDOMETRIOSIS' IVW beta 2.393, which is per unit HbA1c lowering (inverted betas). In the ST2 orientation it corresponds to beta -2.393. There are no per-SNP outcome effects, so no recompute.",
+  "identical_repeats_ignored": [],
+  "transcribed": false,
+  "record_id": "doi:10.3389/fphar.2024.1443045"
  },
  "Wang2026FRH-1": {
   "status": "not_available",
@@ -10854,6 +12246,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Adipose Subcutaneous' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.13558100000000001 vs S10 Wald b -0.13558100000000001; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -10891,6 +12284,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Adipose Visceral Omentum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.272538 vs S10 Wald b -0.27253803199999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -10928,6 +12322,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Artery Coronary' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.17797399999999999 vs S10 Wald b -0.177973981; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -10965,6 +12360,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Caudate basal ganglia' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.1545 vs S10 Wald b -0.154528684; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11002,6 +12398,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Cerebellum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.103084 vs S10 Wald b -0.103440329; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11039,6 +12436,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Frontal Cortex' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.155088 vs S10 Wald b -0.15508755799999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11076,6 +12474,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Nucleus accumbens' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.11233 vs S10 Wald b -0.11181208199999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11113,6 +12512,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Brain Spinal cord cervical' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.104658 vs S10 Wald b -0.10457327700000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11150,6 +12550,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Cells EBV-transformed lymphocytes' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -8.6462899999999995E-2 vs S10 Wald b -8.6729849999999997E-2; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11187,6 +12588,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Colon Sigmoid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.12732599999999999 vs S10 Wald b -0.12732624200000001; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11224,6 +12626,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Colon Transverse' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.167961 vs S10 Wald b -0.16799971999999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11261,6 +12664,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Esophagus Gastroesophageal Junction' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.11802799999999999 vs S10 Wald b -0.118028443; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11298,6 +12702,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Lung' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.18368499999999999 vs S10 Wald b -0.18368483999999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11335,6 +12740,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Muscle Skeletal' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.329121 vs S10 Wald b -0.32912100799999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11372,6 +12778,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Nerve Tibial' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.121083 vs S10 Wald b -0.121502019; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11409,6 +12816,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Pancreas' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -8.8598200000000002E-2 vs S10 Wald b -8.8738108999999996E-2; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11446,6 +12854,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Small Intestine Terminal Ileum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.13136 vs S10 Wald b -0.13135997899999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11483,6 +12892,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Spleen' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.110181 vs S10 Wald b -0.110180998; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11520,6 +12930,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for IMMT in GTEx v8 'Whole Blood' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.15768199999999999 vs S10 Wald b -0.157682345; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11557,6 +12968,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for EFR3B in GTEx v8 'Adrenal Gland' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR -0.10456 vs S10 Wald b -0.10598959400000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11594,6 +13006,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Adipose Subcutaneous' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.15671399999999999 vs S10 Wald b 0.155707502; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11631,6 +13044,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Adipose Visceral Omentum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.211424 vs S10 Wald b 0.212661186; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11668,6 +13082,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Brain Cerebellum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.17806900000000001 vs S10 Wald b 0.181133341; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11705,6 +13120,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Breast Mammary Tissue' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.23688200000000001 vs S10 Wald b 0.237918937; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11742,6 +13158,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Colon Sigmoid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.20461599999999999 vs S10 Wald b 0.20461636599999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11779,6 +13196,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Esophagus Gastroesophageal Junction' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.19425700000000001 vs S10 Wald b 0.194256549; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11816,6 +13234,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Esophagus Mucosa' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.17075599999999999 vs S10 Wald b 0.170500438; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11853,6 +13272,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Esophagus Muscularis' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.16763400000000001 vs S10 Wald b 0.16958884599999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11890,6 +13310,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Skin Not Sun Exposed Suprapubic' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.14424999999999999 vs S10 Wald b 0.14509429400000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11927,6 +13348,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Small Intestine Terminal Ileum' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.21885399999999999 vs S10 Wald b 0.21885434600000001; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -11964,6 +13386,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Thyroid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.25957000000000002 vs S10 Wald b 0.26032702699999999; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12001,6 +13424,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for CISD2 in GTEx v8 'Uterus' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.122062 vs S10 Wald b 0.125559583; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12038,6 +13462,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Cells Cultured fibroblasts' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.31606800000000002 vs S10 Wald b 0.31606785599999998; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12075,6 +13500,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Esophagus Mucosa' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.32113399999999998 vs S10 Wald b 0.32113429300000002; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12112,6 +13538,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Muscle Skeletal' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.46387699999999998 vs S10 Wald b 0.45315978400000001; they differ slightly, so the TwoSampleMR Wald-ratio SNP or its eQTL estimate may differ from the SMR top SNP.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12149,6 +13576,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Pancreas' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.16855800000000001 vs S10 Wald b 0.16855782799999999; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12186,6 +13614,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Skin Not Sun Exposed Suprapubic' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.296628 vs S10 Wald b 0.29662760700000002; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12223,6 +13652,7 @@
    "same_sign": true
   },
   "notes": "Table S10 (MR Wald ratios) gives no SNP; the per-variant instrument is the SMR top cis-eQTL for UBE2D3 in GTEx v8 'Thyroid' from Table S11 (A1 = effect allele for b_eQTL and b_GWAS; GWAS = FinnGen R11 EMT). S11 b_SMR 0.370612 vs S10 Wald b 0.37061191799999998; identical, so the same SNP was used.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biology13110871"
  },
@@ -12350,6 +13780,7 @@
    "same_sign": true
   },
   "notes": "Supplementary data file S3, sheet 'Harmonized data IL-9 vs ENDO' (TwoSampleMR harmonise_data output, ebi-a-GCST004450 IL-9 -> finn-b-N14_ENDOMETRIOSIS). The sheet has 8 SNPs; filtered on TwoSampleMR's mr_keep flag (TRUE/FALSE label, not a numeric value), which drops the two palindromic/ambiguous SNPs rs117807175 and rs3736858 that TwoSampleMR excludes from the MR - leaving the 6 instruments reported in Table 2.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/biom14121544"
  },
@@ -12549,6 +13980,7 @@
    "same_sign": true
   },
   "notes": "The sheet stacks two blocks with no exposure column; the table is read from the BMP6 block header (line 2) and rows are selected by the rsIDs listed in that block (lines 3-12) so the SLC48A1 block below is excluded (no rsID overlap). Outcome ukb-b-10903 betas are on the linear (BOLT-LMM) risk scale, consistent with the reported OR 1.001002.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/cimb47100831"
  },
@@ -12658,6 +14090,7 @@
    "same_sign": true
   },
   "notes": "Read from the SLC48A1 block's own header (line 16); the rsID-format filter only drops the trailing 'Note:' footer row. Outcome ukb-b-10903 betas are on the linear (BOLT-LMM) risk scale, consistent with the reported OR 1.000723.",
+  "identical_repeats_ignored": [],
   "transcribed": false,
   "record_id": "doi:10.3390/cimb47100831"
  }

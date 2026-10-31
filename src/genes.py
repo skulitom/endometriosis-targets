@@ -1,6 +1,7 @@
 """Look up genomic positions (GRCh37 and GRCh38) of every gene named in the claim table.
 
-  python src/genes.py
+  python src/genes.py          # full lookup
+  python src/genes.py --fill   # only resolve what is still unresolved (assembly map, then gene_overrides.json)
 
 Uses the public Ensembl REST API (symbol lookup, then alias lookup for symbols that fail).
 Writes data/reference/claimed_genes.json. src/blinding.py refuses to run while any gene is unresolved,
@@ -95,18 +96,63 @@ def main():
                                  "method": f"stable id from {other}"}
         else:
             still.append(item)
-    unresolved = still
+    genes, unresolved = fill_unresolved(genes, still)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"retrieved_at": datetime.now(timezone.utc).isoformat(),
                                "source": "Ensembl REST (rest.ensembl.org, grch37.rest.ensembl.org)",
-                               "genes": genes, "unresolved": unresolved}, indent=1) + "\n", encoding="utf-8")
+                               "genes": genes, "unresolved": unresolved}, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(f"{len(symbols)} symbols; resolved in both builds: "
           f"{sum(1 for g in genes.values() if len(g) == 2)}; unresolved: {unresolved}")
 
 
+OVERRIDES = ROOT / "data" / "reference" / "gene_overrides.json"
+
+
+def map_assembly(rec, src, dst):
+    """Ensembl assembly mapping of a gene span; returns the merged mapped span on one chromosome, or None."""
+    region = f"{rec['chrom']}:{rec['start']}..{rec['end']}:1"
+    data = _request(f"https://rest.ensembl.org/map/human/{src}/{region}/{dst}")
+    spans = [m["mapped"] for m in (data or {}).get("mappings", [])]
+    chroms = {str(s["seq_region_name"]) for s in spans}
+    if len(chroms) != 1 or not chroms <= PRIMARY_CHROMS:
+        return None
+    return {"chrom": chroms.pop(), "start": min(s["start"] for s in spans), "end": max(s["end"] for s in spans)}
+
+
+def fill_unresolved(genes, unresolved):
+    """Second pass for symbols one build lacks: Ensembl assembly mapping from the other build, then the
+    logged overrides in data/reference/gene_overrides.json."""
+    overrides = json.loads(OVERRIDES.read_text(encoding="utf-8"))["genes"] if OVERRIDES.exists() else {}
+    still = []
+    for item in unresolved:
+        sym, build = item.rsplit(" (", 1)
+        build = build.rstrip(")")
+        other = "GRCh38" if build == "GRCh37" else "GRCh37"
+        src = genes.get(sym, {}).get(other)
+        mapped = map_assembly(src, other, build) if src and "override" not in src.get("method", "") else None
+        if mapped:
+            genes[sym][build] = {**mapped, "ensembl_id": src.get("ensembl_id"), "ensembl_name": src.get("ensembl_name"),
+                                 "method": f"Ensembl assembly map from {other}"}
+        elif sym in overrides and build in overrides[sym]:
+            genes.setdefault(sym, {})[build] = {**overrides[sym][build], "ensembl_id": None, "ensembl_name": None,
+                                                "method": "override (data/reference/gene_overrides.json)"}
+        else:
+            still.append(item)
+    return genes, still
+
+
+def fill_only():
+    """Apply the second pass to the existing file without repeating the Ensembl symbol lookups."""
+    data = json.loads(OUT.read_text(encoding="utf-8"))
+    genes, unresolved = fill_unresolved(data["genes"], data["unresolved"])
+    data.update(genes=genes, unresolved=unresolved, filled_at=datetime.now(timezone.utc).isoformat())
+    OUT.write_text(json.dumps(data, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(f"unresolved after fill: {unresolved}")
+
+
 if __name__ == "__main__":
     try:
-        main()
+        fill_only() if sys.argv[1:] == ["--fill"] else main()
     except Exception as exc:
         print(f"Gene lookup failed: {exc}", file=sys.stderr)
         sys.exit(1)

@@ -1,0 +1,323 @@
+{
+ "record_id": "doi:10.1038/s42003-023-05070-z",
+ "tables": {
+  "SD16": {
+   "file": "text/42003_2023_5070_MOESM4_ESM__Data_16.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "Freq",
+    "beta_outcome": "b_GWAS",
+    "se_outcome": "se_GWAS",
+    "pval_outcome": "p_GWAS"
+   },
+   "description": "Supplementary Data 16: SMR results for GTEx v8 eQTLs significantly associated with endometriosis (overall or severe GWAS); standard SMR columns; one top SNP per gene-tissue-GWAS row."
+  }
+ },
+ "claims": {
+  "Mortlock2023CB-46": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "CDC42"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Colon_Sigmoid"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs2473290 (GTEx v8 Colon_Sigmoid) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-47": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "EEFSEC"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Testis"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs2811471 (GTEx v8 Testis) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-48": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "EEFSEC"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Muscle_Skeletal"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs2254379 (GTEx v8 Muscle_Skeletal) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-49": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "SRD5A3"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Spleen"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs11935857 (GTEx v8 Spleen) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-50": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "RP4-625H18.2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain_Nucleus_accumbens_basal_ganglia"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs7750716 (GTEx v8 Brain_Nucleus_accumbens_basal_ganglia) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-51": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "RP4-625H18.2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain_Hypothalamus"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs7750716 (GTEx v8 Brain_Hypothalamus) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-52": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "RP4-625H18.2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain_Anterior_cingulate_cortex_BA24"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs7750716 (GTEx v8 Brain_Anterior_cingulate_cortex_BA24) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-53": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "RP4-625H18.2"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Brain_Substantia_nigra"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs7750703 (GTEx v8 Brain_Substantia_nigra) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-54": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "ARMT1"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Whole_Blood"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs1874415 (GTEx v8 Whole_Blood) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-55": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "GDAP1"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Artery_Tibial"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs6997725 (GTEx v8 Artery_Tibial) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-56": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "ADK"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Lung"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Severe Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs6480726 (GTEx v8 Lung) vs the severe endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-57": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "ARL14EP"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Testis"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs4071559 (GTEx v8 Testis) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  },
+  "Mortlock2023CB-58": {
+   "status": "mapped",
+   "table": "SD16",
+   "filters": [
+    {
+     "column": "Gene_Name",
+     "op": "equals",
+     "value": "SKAP1"
+    },
+    {
+     "column": "Tissue",
+     "op": "equals",
+     "value": "Liver"
+    },
+    {
+     "column": "GWAS",
+     "op": "equals",
+     "value": "Overall Endometriosis"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL rs2305433 (GTEx v8 Liver) vs the overall endometriosis GWAS, from Supplementary Data 16. A1 is the effect allele for b_eQTL and b_GWAS; Freq is the A1 frequency. b_GWAS / b_eQTL reproduces the table's b_SMR."
+  }
+ }
+}

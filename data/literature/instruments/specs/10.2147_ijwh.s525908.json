@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.2147/ijwh.s525908",
+ "tables": {},
+ "claims": {
+  "Liu2025POP-1": {
+   "status": "not_available",
+   "reason": "The ESR1 instruments are in Table S6 (blood cis-eQTL instruments for the twelve POP genes) and the phe-MR results in Table S15. Both are publisher-hosted and not in the local supplement folder, which holds main-text figure images only (no tables converted; Figures S3-S12 absent too). The main text names no ESR1 instrument SNP, and it reports no estimate, SNP count, method or endpoint for the ESR1 to endometriosis phe-MR result."
+  }
+ }
+}

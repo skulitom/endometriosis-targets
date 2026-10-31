@@ -246,7 +246,7 @@ def summary(claims):
 def write_csv(claims, path):
     cols = [f for f in FIELDS if f != "instruments"]
     with open(path, "w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=cols, extrasaction="ignore")
+        writer = csv.DictWriter(handle, fieldnames=cols, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for c in claims:
             writer.writerow({k: ("; ".join(map(str, c[k])) if isinstance(c.get(k), list) else c.get(k))

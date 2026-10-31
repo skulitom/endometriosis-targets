@@ -1,0 +1,60 @@
+{
+ "record_id": "doi:10.1038/ncomms15539",
+ "tables": {
+  "SD14": {
+   "file": "text/ncomms15539-s2__Supplementary_Data_14.csv",
+   "header_row": 2,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "RA",
+    "other_allele": "OA",
+    "beta_exposure": "b_eQTL",
+    "se_exposure": "se_eQTL",
+    "pval_exposure": "p_eQTL",
+    "eaf_exposure": "RAF",
+    "beta_outcome": "BETA",
+    "se_outcome": "SE",
+    "pval_outcome": "P"
+   },
+   "description": "Supplementary Data 14: genes identified by SMR (Westra et al. blood eQTL) using the GWAS meta-analysis including all endometriosis cases; one top SNP per probe."
+  }
+ },
+ "claims": {
+  "Sapkota2017-1": {
+   "status": "mapped",
+   "table": "SD14",
+   "filters": [
+    {
+     "column": "ProbeID",
+     "op": "equals",
+     "value": "ILMN_1675156"
+    },
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "CDC42"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (Westra 2013 peripheral-blood eQTL) from Supplementary Data 14, the SMR table for the GWAS meta-analysis including all endometriosis cases. The footnote calls RA the risk allele, but it is the SMR effect allele for both BETA (GWAS) and b_eQTL (BETA is negative for VEZT); RAF is its frequency. BETA / b_eQTL reproduces the table's b_SMR. Top SNP rs2268177."
+  },
+  "Sapkota2017-2": {
+   "status": "mapped",
+   "table": "SD14",
+   "filters": [
+    {
+     "column": "ProbeID",
+     "op": "equals",
+     "value": "ILMN_1774828"
+    },
+    {
+     "column": "Gene",
+     "op": "equals",
+     "value": "VEZT"
+    }
+   ],
+   "expected_n": 1,
+   "notes": "SMR top cis-eQTL (Westra 2013 peripheral-blood eQTL) from Supplementary Data 14, the SMR table for the GWAS meta-analysis including all endometriosis cases. The footnote calls RA the risk allele, but it is the SMR effect allele for both BETA (GWAS) and b_eQTL (BETA is negative for VEZT); RAF is its frequency. BETA / b_eQTL reproduces the table's b_SMR. Top SNP rs14121; HEIDI p_HET = 0.004 in the table."
+  }
+ }
+}

@@ -1630,6 +1630,14 @@
     "ensembl_id": "ENSG00000289405",
     "ensembl_name": null,
     "method": "alias"
+   },
+   "GRCh37": {
+    "chrom": "8",
+    "start": 135728063,
+    "end": 135844257,
+    "ensembl_id": "ENSG00000289405",
+    "ensembl_name": null,
+    "method": "Ensembl assembly map from GRCh38"
    }
   },
   "EPHB4": {
@@ -5969,11 +5977,26 @@
     "ensembl_name": "LNC-LBCS",
     "method": "stable id from GRCh37"
    }
+  },
+  "HCG2P7": {
+   "GRCh38": {
+    "chrom": "6",
+    "start": 28510120,
+    "end": 33480577,
+    "ensembl_id": null,
+    "ensembl_name": null,
+    "method": "override (data/reference/gene_overrides.json)"
+   },
+   "GRCh37": {
+    "chrom": "6",
+    "start": 28477797,
+    "end": 33448354,
+    "ensembl_id": null,
+    "ensembl_name": null,
+    "method": "override (data/reference/gene_overrides.json)"
+   }
   }
  },
- "unresolved": [
-  "HCG2P7 (GRCh38)",
-  "ENSG00000289405 (GRCh37)",
-  "HCG2P7 (GRCh37)"
- ]
+ "unresolved": [],
+ "filled_at": "2026-10-31T18:34:36.874913+00:00"
 }

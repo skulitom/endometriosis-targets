@@ -1,7 +1,7 @@
 {
- "claims_crosschecked": 34,
+ "claims_crosschecked": 56,
  "claims_with_mismatches": 0,
- "variants_checked": 154,
+ "variants_checked": 196,
  "not_checked_reasons": {
   "table not from an .xlsx file (csv/txt/xls/docx source)": 73,
   "transcribed table; verified by hand sample": 21
@@ -34,6 +34,26 @@
   "Xiang2024bmd-1": {
    "checked": true,
    "variants_checked": 87,
+   "mismatches": []
+  },
+  "Yang2025-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Yang2025-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Yang2025-3": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Yang2025-4": {
+   "checked": true,
+   "variants_checked": 1,
    "mismatches": []
   },
   "WeiL2024JRI-1": {
@@ -91,6 +111,21 @@
   "Zhou2024lipid-3": {
    "checked": false,
    "reason": "transcribed table; verified by hand sample"
+  },
+  "Sapkota2017-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Sapkota2017-2": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Rahmioglu2023-1": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
   },
   "Chen2025SR-1": {
    "checked": false,
@@ -191,6 +226,76 @@
   "Chen2025SR-25": {
    "checked": false,
    "reason": "table not from an .xlsx file (csv/txt/xls/docx source)"
+  },
+  "Mortlock2023CB-46": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-47": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-48": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-49": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-50": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-51": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-52": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-53": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-54": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-55": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-56": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-57": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Mortlock2023CB-58": {
+   "checked": true,
+   "variants_checked": 1,
+   "mismatches": []
+  },
+  "Zhang2025IL6-1": {
+   "checked": true,
+   "variants_checked": 12,
+   "mismatches": []
   },
   "LiuY2024Med-1": {
    "checked": false,
@@ -387,6 +492,11 @@
   "Xie2026FI-1": {
    "checked": true,
    "variants_checked": 3,
+   "mismatches": []
+  },
+  "Lin2024SGLT2-1": {
+   "checked": true,
+   "variants_checked": 10,
    "mismatches": []
   },
   "Zou2024Bio-1": {

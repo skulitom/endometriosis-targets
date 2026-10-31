@@ -82,7 +82,7 @@ def main():
         for a in json.loads(path.read_text(encoding="utf-8")):
             adjudicated[a["claim_id"]] = a
     corrections = build(claims, comparison, second, adjudicated)
-    (LIT / "corrections_second.json").write_text(json.dumps(corrections, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (LIT / "corrections_second.json").write_text(json.dumps(corrections, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(f"{len(corrections)} second-stage corrections written")
 
 

@@ -136,7 +136,7 @@ def fetch(key, manifest, target_dir, allow_http=False, resume=False):
         provenance["transport"] = f"plain http ({record['plain_http_approved']})"
     if resumed_from or attempts > 1:
         provenance["resumed"] = {"started_from_bytes": resumed_from, "connections": attempts}
-    provenance_path.write_text(json.dumps(provenance, indent=2) + "\n", encoding="utf-8")
+    provenance_path.write_text(json.dumps(provenance, indent=2) + "\n", encoding="utf-8", newline="\n")
     return {"status": "downloaded_verified", "path": str(target), **provenance}
 
 

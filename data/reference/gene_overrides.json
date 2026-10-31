@@ -1,0 +1,11 @@
+{
+ "note": "Positions for claimed gene symbols that Ensembl cannot resolve. Applied by src/genes.py after the Ensembl lookups and assembly mapping. Each override is chosen so masking can only cover more, never less.",
+ "genes": {
+  "HCG2P7": {
+   "why": "HGNC:19242 'HLA complex group 2 pseudogene 7' is withdrawn and has no Ensembl ID; HGNC gives only band 6p21.3, and Koller 2026 places it in the MHC region. The span is set to the whole MHC interval used by the tier rules.",
+   "source": "rest.genenames.org/fetch/symbol/HCG2P7 (status 'Entry Withdrawn', location 6p21.3), checked 2026-10-31",
+   "GRCh37": {"chrom": "6", "start": 28477797, "end": 33448354},
+   "GRCh38": {"chrom": "6", "start": 28510120, "end": 33480577}
+  }
+ }
+}

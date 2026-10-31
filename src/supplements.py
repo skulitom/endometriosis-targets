@@ -334,7 +334,7 @@ def main():
             if entry["status"] == "downloaded":
                 unpack(entry)
                 print(f"re-unpacked {entry['record_id']}: {len(entry['extracted'])} files, {len(entry['skipped'])} skipped")
-        MANIFEST.write_text(json.dumps(manifest, indent=1) + "\n", encoding="utf-8")
+        MANIFEST.write_text(json.dumps(manifest, indent=1) + "\n", encoding="utf-8", newline="\n")
     for rec in (addition_records() if args.additions else included_records()):
         prior = manifest.get(rec["record_id"])
         if prior and (prior["status"] in ("downloaded", "manual") or not args.retry):
@@ -345,7 +345,7 @@ def main():
             continue
         entry = process(rec, max_bytes=args.max_mb * 1024 * 1024)
         manifest[rec["record_id"]] = entry
-        MANIFEST.write_text(json.dumps(manifest, indent=1) + "\n", encoding="utf-8")
+        MANIFEST.write_text(json.dumps(manifest, indent=1) + "\n", encoding="utf-8", newline="\n")
         print(f"{entry['status']:15} {entry.get('route') or '-':18} files={len(entry['files'])} "
               f"unpacked={len(entry['extracted'])} skipped={len(entry['skipped'])} {rec['record_id']}")
     counts = {}

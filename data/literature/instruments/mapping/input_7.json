@@ -1,0 +1,356 @@
+[
+ {
+  "record_id": "doi:10.1016/j.csbj.2023.02.001",
+  "doi": "10.1016/j.csbj.2023.02.001",
+  "pmcid": "PMC9957794",
+  "title": "Identification of <i>MKNK1</i> and <i>TOP3A</i> as ovarian endometriosis risk-associated genes using integrative genomic analyses and functional experiments.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.csbj.2023.02.001",
+  "fulltext_path": "data/upstream/fulltext/10.1016_j.csbj.2023.02.001/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1016_j.csbj.2023.02.001.json",
+  "claims": [
+   {
+    "claim_id": "Huang2023-1",
+    "gene_symbol": "TOP3A",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx whole blood (version used for SMR not restated; the paper's GTEx dataset #5 is v7, n=369)",
+    "exposure_tissue": "Whole blood",
+    "outcome_source": "Gene ATLAS UK Biobank endometriosis GWAS (4,252 EM patients among 245,494 subjects)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": null,
+    "p_value": null,
+    "instruments_location": "Supplementary Table S9 (SMR with GTEx whole blood and eQTLGen; top cis-eQTL per gene) - not in the obtained supplement (mmc1.docx has legends only)",
+    "source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with GTEx blood); values in Supplementary Table S9 (not obtained)"
+   },
+   {
+    "claim_id": "Huang2023-2",
+    "gene_symbol": "TOP3A",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021); named as 'eQTLGen' blood eQTL, release not stated",
+    "exposure_tissue": "Whole blood",
+    "outcome_source": "Gene ATLAS UK Biobank endometriosis GWAS (4,252 EM patients among 245,494 subjects)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": null,
+    "p_value": null,
+    "instruments_location": "Supplementary Table S9 (SMR with GTEx whole blood and eQTLGen; top cis-eQTL per gene) - not in the obtained supplement (mmc1.docx has legends only)",
+    "source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with eQTLGen blood); values in Supplementary Table S9 (not obtained)"
+   },
+   {
+    "claim_id": "Huang2023-3",
+    "gene_symbol": "MKNK1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "GTEx whole blood (version used for SMR not restated; the paper's GTEx dataset #5 is v7, n=369)",
+    "exposure_tissue": "Whole blood",
+    "outcome_source": "Gene ATLAS UK Biobank endometriosis GWAS (4,252 EM patients among 245,494 subjects)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": null,
+    "p_value": null,
+    "instruments_location": "Supplementary Table S9 (SMR with GTEx whole blood and eQTLGen; top cis-eQTL per gene) - not in the obtained supplement (mmc1.docx has legends only)",
+    "source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with GTEx blood); values in Supplementary Table S9 (not obtained)"
+   },
+   {
+    "claim_id": "Huang2023-4",
+    "gene_symbol": "MKNK1",
+    "exposure_type": "SMR_eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021); named as 'eQTLGen' blood eQTL, release not stated",
+    "exposure_tissue": "Whole blood",
+    "outcome_source": "Gene ATLAS UK Biobank endometriosis GWAS (4,252 EM patients among 245,494 subjects)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": null,
+    "p_value": null,
+    "instruments_location": "Supplementary Table S9 (SMR with GTEx whole blood and eQTLGen; top cis-eQTL per gene) - not in the obtained supplement (mmc1.docx has legends only)",
+    "source_location": "Results 3.3 text (P_SMR<0.05 and P_HEIDI>0.05 with eQTLGen blood); values in Supplementary Table S9 (not obtained)"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1016/j.isci.2025.113207",
+  "doi": "10.1016/j.isci.2025.113207",
+  "pmcid": "PMC12359188",
+  "title": "Regulation of RNA splicing in endometrial tissue and its association with endometriosis.",
+  "supplement_dir": "data/upstream/supplements/10.1016_j.isci.2025.113207",
+  "fulltext_path": "data/upstream/fulltext/10.1016_j.isci.2025.113207/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1016_j.isci.2025.113207.json",
+  "claims": [
+   {
+    "claim_id": "Yang2025-1",
+    "gene_symbol": "GREB1",
+    "exposure_type": "sQTL",
+    "exposure_source": "Endometrial sQTL, 206 samples, LeafCutter + QTLtools (this study, Yang 2025)",
+    "exposure_tissue": "Endometrium",
+    "outcome_source": "Rahmioglu 2023 European endometriosis GWAS meta-analysis (cited as ref 17; Key resources GCST90205183)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": 1.1408,
+    "p_value": 9.833942e-09,
+    "instruments_location": "Table S11 (mmc12.xlsx, Sheet1), row probeID 2:11588931:11592776:clu_53175_NA; columns topSNP, A1, A2, Freq, b_eQTL/se_eQTL (sQTL effect), b_GWAS/se_GWAS",
+    "source_location": "Table S11 (mmc12.xlsx), row 2:11588931:11592776:clu_53175_NA; Results 'Endometriosis risk genes with genetically driven effects on splicing in endometrium' text; Figure 6A"
+   },
+   {
+    "claim_id": "Yang2025-2",
+    "gene_symbol": "WASHC3",
+    "exposure_type": "sQTL",
+    "exposure_source": "Endometrial sQTL, 206 samples, LeafCutter + QTLtools (this study, Yang 2025)",
+    "exposure_tissue": "Endometrium",
+    "outcome_source": "Rahmioglu 2023 European endometriosis GWAS meta-analysis (cited as ref 17; Key resources GCST90205183)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": 0.9109,
+    "p_value": 1.975468e-06,
+    "instruments_location": "Table S11 (mmc12.xlsx, Sheet1), row probeID 12:102046119:102050189:clu_42350_NA; columns topSNP, A1, A2, Freq, b_eQTL/se_eQTL (sQTL effect), b_GWAS/se_GWAS",
+    "source_location": "Table S11 (mmc12.xlsx), row 12:102046119:102050189:clu_42350_NA; Results 'Endometriosis risk genes with genetically driven effects on splicing in endometrium' text; Figure S11"
+   },
+   {
+    "claim_id": "Yang2025-3",
+    "gene_symbol": "ARL14EP",
+    "exposure_type": "sQTL",
+    "exposure_source": "Endometrial sQTL, 206 samples, LeafCutter + QTLtools (this study, Yang 2025)",
+    "exposure_tissue": "Endometrium",
+    "outcome_source": "Rahmioglu 2023 European endometriosis GWAS meta-analysis (cited as ref 17; Key resources GCST90205183)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": 0.9566,
+    "p_value": 8.893303e-07,
+    "instruments_location": "Table S11 (mmc12.xlsx, Sheet1), row probeID 11:30331374:30332866:clu_68773_NA; columns topSNP, A1, A2, Freq, b_eQTL/se_eQTL (sQTL effect), b_GWAS/se_GWAS",
+    "source_location": "Table S11 (mmc12.xlsx), row 11:30331374:30332866:clu_68773_NA; Results 'Endometriosis risk genes with genetically driven effects on splicing in endometrium' text"
+   },
+   {
+    "claim_id": "Yang2025-4",
+    "gene_symbol": "RP11-624M8.1",
+    "exposure_type": "sQTL",
+    "exposure_source": "Endometrial sQTL, 206 samples, LeafCutter + QTLtools (this study, Yang 2025)",
+    "exposure_tissue": "Endometrium",
+    "outcome_source": "Rahmioglu 2023 European endometriosis GWAS meta-analysis (cited as ref 17; Key resources GCST90205183)",
+    "method": "SMR",
+    "n_instruments": 1,
+    "estimate_scale": "OR",
+    "estimate": 1.0637,
+    "p_value": 1.645006e-05,
+    "instruments_location": "Table S11 (mmc12.xlsx, Sheet1), row probeID 6:125645700:125720424:clu_62702_NA; columns topSNP, A1, A2, Freq, b_eQTL/se_eQTL (sQTL effect), b_GWAS/se_GWAS",
+    "source_location": "Table S11 (mmc12.xlsx), row 6:125645700:125720424:clu_62702_NA; Results 'Endometriosis risk genes with genetically driven effects on splicing in endometrium' text"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1021/envhealth.5c00576",
+  "doi": "10.1021/envhealth.5c00576",
+  "pmcid": "PMC13288232",
+  "title": "Prenatal Exposure to PFOA Induces Ovarian Function Impairment via the Disruption of the PPARγ/ANGPTL4 Pathway.",
+  "supplement_dir": "data/upstream/supplements/10.1021_envhealth.5c00576",
+  "fulltext_path": "data/upstream/fulltext/10.1021_envhealth.5c00576/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1021_envhealth.5c00576.json",
+  "claims": [
+   {
+    "claim_id": "Qi2026-1",
+    "gene_symbol": "ANGPTL4",
+    "exposure_type": "pQTL",
+    "exposure_source": "deCODE (Ferkingstad 2021); described as pQTL study of 35,559 Icelanders, 4,907 proteins",
+    "exposure_tissue": "plasma",
+    "outcome_source": "Endometriosis GWAS (source not stated; SI Text S5 names sources only for the other ovary-related outcomes)",
+    "method": "Wald ratio",
+    "n_instruments": null,
+    "estimate_scale": "OR",
+    "estimate": 1.305,
+    "p_value": 0.022,
+    "instruments_location": "Not reported; SI Text S5 (eh5c00576_si_001.pdf p.3) gives selection rules only",
+    "source_location": "Figure 6F (forest plot table); Results text"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1038/s41591-026-04326-5",
+  "doi": "10.1038/s41591-026-04326-5",
+  "pmcid": "PMC13279269",
+  "title": "Plasma proteomic signature of the human menstrual cycle.",
+  "supplement_dir": "data/upstream/supplements/10.1038_s41591-026-04326-5",
+  "fulltext_path": "data/upstream/fulltext/10.1038_s41591-026-04326-5/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1038_s41591-026-04326-5.json",
+  "claims": [
+   {
+    "claim_id": "Riishede2026-1",
+    "gene_symbol": "FSHB",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma",
+    "outcome_source": "Pujol Gualdo 2025 EstBB + FinnGen female reproductive traits meta-analysis, endometriosis (N80)",
+    "method": "IVW (random effects)",
+    "n_instruments": 8,
+    "estimate_scale": "OR",
+    "estimate": 3.1049,
+    "p_value": 2.0370963427807e-23,
+    "instruments_location": "Not listed per SNP; Supplementary Table 11 gives N_SNP and mean F only (instruments derivable from UKB-PPP with the stated rules)",
+    "source_location": "Supplementary Table 11 (row FSHB, Endometriosis); Supplementary Table 12; Results text"
+   },
+   {
+    "claim_id": "Riishede2026-2",
+    "gene_symbol": "SEZ6L2",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023)",
+    "exposure_tissue": "plasma",
+    "outcome_source": "Pujol Gualdo 2025 EstBB + FinnGen female reproductive traits meta-analysis, endometriosis (N80)",
+    "method": "IVW (random effects)",
+    "n_instruments": 17,
+    "estimate_scale": "OR",
+    "estimate": 1.2064,
+    "p_value": 1.51767249947279e-07,
+    "instruments_location": "Not listed per SNP; Supplementary Table 11 gives N_SNP and mean F only (instruments derivable from UKB-PPP with the stated rules)",
+    "source_location": "Supplementary Table 11 (row SEZ6L2, Endometriosis); Supplementary Table 12; Results text"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1038/s44161-025-00700-7",
+  "doi": "10.1038/s44161-025-00700-7",
+  "pmcid": "PMC12436178",
+  "title": "IL6 genetic perturbation mimicking IL-6 inhibition is associated with lower cardiometabolic risk.",
+  "supplement_dir": "data/upstream/supplements/10.1038_s44161-025-00700-7",
+  "fulltext_path": "data/upstream/fulltext/10.1038_s44161-025-00700-7/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1038_s44161-025-00700-7.json",
+  "claims": [
+   {
+    "claim_id": "Zhang2025IL6-1",
+    "gene_symbol": "IL6",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "CRP GWAS of CHARGE + UK Biobank (n=575,531; paper ref. 32); 12 CRP-associated variants within +/-300 kb of IL6 (IL-6 signalling downregulation instrument)",
+    "exposure_tissue": null,
+    "outcome_source": "FinnGen R12 N14_ENDOMETRIOSIS_NOS (Unspecified/other endometriosis)",
+    "method": "IVW (fixed effects)",
+    "n_instruments": 12,
+    "estimate_scale": "OR",
+    "estimate": 0.6412,
+    "p_value": 4.07687681644768e-05,
+    "instruments_location": "Supplementary Table 2 (44161_2025_700_MOESM2_ESM.xlsx, sheet STable2), block '12-variant IL6 genetic instrument (300 kb upstream or downstream of IL6)', columns SNP, Effect allele, Other allele, Beta (UKB+CHARGE), Standard error (UKB+CHARGE)",
+    "source_location": "Supplementary Table 15 (sheet STable15, row 'IL6, Unspecified/other endometriosis', IVWFE columns); also Supplementary Table 14 and Fig. 7 source data"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1097/js9.0000000000005020",
+  "doi": "10.1097/js9.0000000000005020",
+  "pmcid": "PMC13249244",
+  "title": "Proteome-wide genetic study identified therapeutic targets for early-onset and late-onset Alzheimer's disease.",
+  "supplement_dir": "data/upstream/supplements/10.1097_js9.0000000000005020",
+  "fulltext_path": "data/upstream/fulltext/10.1097_js9.0000000000005020/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1097_js9.0000000000005020.json",
+  "claims": [
+   {
+    "claim_id": "Chen2026AD-1",
+    "gene_symbol": "EPHB4",
+    "exposure_type": "pQTL",
+    "exposure_source": "UKB-PPP (Sun 2023), Olink, n=54,219",
+    "exposure_tissue": "plasma",
+    "outcome_source": "FinnGen R12 endometriosis of the ovary (phenome-wide MR; endpoint code not given in the main text)",
+    "method": "IVW (method of the EPHB4 proteome-wide MR; PheWAS method not stated separately)",
+    "n_instruments": null,
+    "estimate_scale": "OR",
+    "estimate": null,
+    "p_value": null,
+    "instruments_location": "Supplemental Digital Content Table S1 (http://links.lww.com/JS9/H14; instruments of the proteome-wide MR, cis-pQTL within +/-1 Mb, P<5e-8, r2<0.001); not available locally. PheWAS used the same selection criteria.",
+    "source_location": "Results, 'Phenome-wide MR analysis of EOAD and LOAD prior protein targets' (OR > 1, FDR < 0.05); Fig. 5; Supplemental Digital Content Table S11 (http://links.lww.com/JS9/H24, not available locally)"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.1515/biol-2025-1372",
+  "doi": "10.1515/biol-2025-1372",
+  "pmcid": "PMC13552619",
+  "title": "Immune regulatory networks and gut microbiota-associated targets in endometriosis: an integrative multi-omics and network analysis.",
+  "supplement_dir": "data/upstream/supplements/10.1515_biol-2025-1372",
+  "fulltext_path": "data/upstream/fulltext/10.1515_biol-2025-1372/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.1515_biol-2025-1372.json",
+  "claims": [
+   {
+    "claim_id": "Liu2026-1",
+    "gene_symbol": "MET",
+    "exposure_type": "pQTL",
+    "exposure_source": "FinnGen pQTL summary data (as stated; dataset and platform not specified)",
+    "exposure_tissue": "not stated",
+    "outcome_source": "Endometriosis GWAS (source not stated)",
+    "method": "IVW",
+    "n_instruments": 18,
+    "estimate_scale": "OR",
+    "estimate": 0.888,
+    "p_value": 0.0194,
+    "instruments_location": "Not reported (Figure 7 funnel/leave-one-out/scatter plots only)",
+    "source_location": "Results 3.7 text; Figure 7A, E, I; Table 1"
+   },
+   {
+    "claim_id": "Liu2026-2",
+    "gene_symbol": "SELL",
+    "exposure_type": "pQTL",
+    "exposure_source": "FinnGen pQTL summary data (as stated; dataset and platform not specified)",
+    "exposure_tissue": "not stated",
+    "outcome_source": "Endometriosis GWAS (source not stated)",
+    "method": "IVW",
+    "n_instruments": 19,
+    "estimate_scale": "OR",
+    "estimate": 1.057,
+    "p_value": 0.0309,
+    "instruments_location": "Not reported (Figure 7 funnel/leave-one-out/scatter plots only)",
+    "source_location": "Results 3.7 text; Figure 7D, H, L; Table 1"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.2147/ijwh.s525908",
+  "doi": "10.2147/ijwh.s525908",
+  "pmcid": "PMC12517201",
+  "title": "Identification of Novel Disease-Modifying Agents for Pelvic Organ Prolapse by Systematic Druggable Genome-Wide Mendelian Randomization.",
+  "supplement_dir": "data/upstream/supplements/10.2147_ijwh.s525908",
+  "fulltext_path": "data/upstream/fulltext/10.2147_ijwh.s525908/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.2147_ijwh.s525908.json",
+  "claims": [
+   {
+    "claim_id": "Liu2025POP-1",
+    "gene_symbol": "ESR1",
+    "exposure_type": "eQTL",
+    "exposure_source": "eQTLGen (Vosa 2021) blood cis-eQTL",
+    "exposure_tissue": "Whole blood",
+    "outcome_source": "Endometriosis in the phe-MR outcome set (UK Biobank or FinnGen R11; which one, and the endpoint, are not stated in the main text)",
+    "method": "IVW or Wald ratio (phe-MR method for this result not stated)",
+    "n_instruments": null,
+    "estimate_scale": "OR",
+    "estimate": null,
+    "p_value": null,
+    "instruments_location": "Table S6 (blood cis-eQTL instruments for the twelve POP-associated genes, including ESR1); supplementary file not available locally",
+    "source_location": "Results, 'Phe-MR Analysis of Drug Candidate Genes for POP-Related Phenotypes'; Table S15 (not available locally); Manhattan plots Figures S3-S12 (not available)"
+   }
+  ]
+ },
+ {
+  "record_id": "doi:10.3389/fphar.2024.1443045",
+  "doi": "10.3389/fphar.2024.1443045",
+  "pmcid": "PMC11333260",
+  "title": "Pharmacological targets of SGLT2 inhibition on prostate cancer mediated by circulating metabolites: a drug-target Mendelian randomization study.",
+  "supplement_dir": "data/upstream/supplements/10.3389_fphar.2024.1443045",
+  "fulltext_path": "data/upstream/fulltext/10.3389_fphar.2024.1443045/fulltext.txt",
+  "spec_path": "data/literature/instruments/specs/10.3389_fphar.2024.1443045.json",
+  "claims": [
+   {
+    "claim_id": "Lin2024SGLT2-1",
+    "gene_symbol": "SLC5A2",
+    "exposure_type": "drug_target_proxy",
+    "exposure_source": "SLC5A2 expression-associated variants (GTEx v8 / eQTLGen) weighted by UK Biobank HbA1c GWAS (ukb-d-30750_irnt, n=344,182); SGLT2 inhibition proxy",
+    "exposure_tissue": null,
+    "outcome_source": "FinnGen R5 N14_ENDOMETRIOSIS via IEU OpenGWAS (finn-b-N14_ENDOMETRIOSIS)",
+    "method": "IVW",
+    "n_instruments": 10,
+    "estimate_scale": "OR",
+    "estimate": 10.9499,
+    "p_value": 6.18e-09,
+    "instruments_location": "Supplementary Table 2 (Table1.XLSX, sheet ST2), all 10 rows, columns SNP, Effect_allele, Other_allele, Beta, Se (HbA1c associations; per Methods step 5 betas are inverted to represent SGLT2 inhibition)",
+    "source_location": "Supplementary Table 4 (Table1.XLSX, sheet ST4, row 'SGLT2 inhibitor, Endometriosis || id:finn-b-N14_ENDOMETRIOSIS', Inverse variance weighted); Results 'PheWAS analysis'"
+   }
+  ]
+ }
+]

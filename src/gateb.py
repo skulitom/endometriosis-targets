@@ -176,7 +176,7 @@ def main():
         s = report["sources"][key]
         print(f"{key}: matched {s['matched']}/{s['leads']}, concordant {s['concordant']} "
               f"({s['concordance']}), binomial p {s['binomial_p']}, passes={s['passes']} [{time.time() - t:.0f}s]")
-    OUT.write_text(json.dumps(report, indent=1) + "\n", encoding="utf-8")
+    OUT.write_text(json.dumps(report, indent=1) + "\n", encoding="utf-8", newline="\n")
 
 
 if __name__ == "__main__":

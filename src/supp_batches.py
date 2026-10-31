@@ -50,7 +50,7 @@ def main():
     batches = build(records, passages, n)
     for k, batch in enumerate(batches, 1):
         path = LIT / "screening" / f"input_supp_{k}.json"
-        path.write_text(json.dumps(batch, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(batch, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         print(path.name, len(batch), sum(len(json.dumps(x)) for x in batch))
 
 

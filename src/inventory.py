@@ -196,9 +196,9 @@ def main():
     flow, summ = build(screened, decisions, claims)
     flow["corrections_applied"] = len(corrections)
     RESULTS.mkdir(exist_ok=True)
-    (LIT / "claims.json").write_text(json.dumps(claims, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-    (RESULTS / "inventory_flow.json").write_text(json.dumps(flow, indent=1) + "\n", encoding="utf-8")
-    (RESULTS / "inventory_summary.json").write_text(json.dumps(summ, indent=1) + "\n", encoding="utf-8")
+    (LIT / "claims.json").write_text(json.dumps(claims, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    (RESULTS / "inventory_flow.json").write_text(json.dumps(flow, indent=1) + "\n", encoding="utf-8", newline="\n")
+    (RESULTS / "inventory_summary.json").write_text(json.dumps(summ, indent=1) + "\n", encoding="utf-8", newline="\n")
     write_csv(claims, RESULTS / "claims_review.csv")
     print(json.dumps(flow, indent=1))
 

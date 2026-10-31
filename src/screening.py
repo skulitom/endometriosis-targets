@@ -58,7 +58,7 @@ def write_sample(path, sample):
         old = kept.get(s["record_id"], {})
         row.update({k: v for k, v in old.items() if k not in row or (k == "human_agrees" and v is not None)})
         rows.append(row)
-    path.write_text(json.dumps(rows, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    path.write_text(json.dumps(rows, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
 
 
 def apply_lead_checks(rows, checks):
@@ -103,8 +103,8 @@ def main():
     sample = exclusion_sample(merged)
     merged = merged + merged_supp
     queue = [m for m in merged if m["screening"]["decision"] in {"include", "unsure"}]
-    (LIT / "screening_decisions.json").write_text(json.dumps(merged, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-    (LIT / "fulltext_queue.json").write_text(json.dumps(queue, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (LIT / "screening_decisions.json").write_text(json.dumps(merged, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    (LIT / "fulltext_queue.json").write_text(json.dumps(queue, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     write_sample(LIT / "exclusion_review_sample.json", sample)
     print(json.dumps({"records": len(merged),
                       "decisions": dict(Counter(m["screening"]["decision"] for m in merged)),

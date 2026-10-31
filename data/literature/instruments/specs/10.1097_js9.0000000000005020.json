@@ -1,0 +1,10 @@
+{
+ "record_id": "doi:10.1097/js9.0000000000005020",
+ "tables": {},
+ "claims": {
+  "Chen2026AD-1": {
+   "status": "not_available",
+   "reason": "The instruments are in Supplemental Digital Content Table S1 (http://links.lww.com/JS9/H14) and the PheWAS results in Table S11 (http://links.lww.com/JS9/H24). Both are publisher-hosted and not in the local supplement folder, which holds figure images only (no tables converted). The main text gives no EPHB4 instrument SNPs: Table 1 has only the EPHB4-LOAD IVW result, and Fig. 5 is a Manhattan plot. The EPHB4 to endometriosis-of-ovary estimate, SNP count and FinnGen R12 endpoint are not reported locally."
+  }
+ }
+}

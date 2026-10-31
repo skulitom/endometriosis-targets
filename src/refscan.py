@@ -171,7 +171,7 @@ def cmd_fetch():
                 routes[name] = {"status": f"error: {type(exc).__name__}: {exc}"[:200], "references": []}
             time.sleep(0.3)
         out.write_text(json.dumps({"paper": p, "retrieved_at": datetime.now(timezone.utc).isoformat(),
-                                   "routes": routes}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+                                   "routes": routes}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
         print(p["record_id"], {k: len(v["references"]) for k, v in routes.items()})
     print(f"{len(papers)} included papers")
 
@@ -251,7 +251,7 @@ def epmc_lookup(query, page_size=100):
 def save_cache():
     if _cache is not None:
         SCAN.mkdir(parents=True, exist_ok=True)
-        CACHE_PATH.write_text(json.dumps(_cache, ensure_ascii=False) + "\n", encoding="utf-8")
+        CACHE_PATH.write_text(json.dumps(_cache, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
 
 
 def _clean(item):
@@ -361,7 +361,7 @@ def cmd_match():
             rest["endometriosis, no genetic-causal term" if endo else
                  "genetic-causal term, endometriosis not found" if terms else "neither"] += 1
     SCAN.mkdir(parents=True, exist_ok=True)
-    (SCAN / "candidates.json").write_text(json.dumps(candidates, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (SCAN / "candidates.json").write_text(json.dumps(candidates, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     per_paper = {}
     for path in raw_files:
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -379,7 +379,7 @@ def cmd_match():
         "candidates": len(candidates),
         "per_paper_routes": per_paper,
     }
-    (SCAN / "match_summary.json").write_text(json.dumps(summary, indent=1) + "\n", encoding="utf-8")
+    (SCAN / "match_summary.json").write_text(json.dumps(summary, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in summary.items() if k != "per_paper_routes"}, indent=1))
 
 
@@ -415,7 +415,7 @@ def cmd_snippets():
                 if text and SNIPPET_TERMS.search(text) and text not in snippets:
                     snippets.append(text[:1500])
         out[c["ref_id"]] = {"pmcid": pmcid, "full_text": "europepmc_xml", "snippets": snippets}
-    (SCAN / "fulltext_snippets.json").write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    (SCAN / "fulltext_snippets.json").write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print({k: len(v["snippets"]) for k, v in out.items()})
 
 
@@ -514,14 +514,14 @@ def cmd_passages():
         for i, (rid, row) in enumerate(pool.map(_passage_row, todo)):
             done[rid] = row
             if i % 100 == 99:
-                path.write_text(json.dumps(done, ensure_ascii=False) + "\n", encoding="utf-8")
+                path.write_text(json.dumps(done, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
                 print(f"{i + 1}/{len(todo)}", flush=True)
     # Europe PMC has no XML for some PMC articles (HTTP 500); NCBI serves the same open-access XML.
     by_id = {r["record_id"]: r for r in recs}
     for rid, row in list(done.items()):
         if row["status"].startswith("error") and by_id[rid].get("pmcid"):
             done[rid] = _passage_row(by_id[rid], route="ncbi")[1]
-    path.write_text(json.dumps(done, ensure_ascii=False) + "\n", encoding="utf-8")
+    path.write_text(json.dumps(done, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({"records": len(done), "status": dict(Counter(v["status"] for v in done.values())),
                       "own_analysis_with_endometriosis": sum(v["own_analysis_with_endometriosis"] for v in done.values())}))
 
@@ -571,7 +571,7 @@ def cmd_report():
     (LIT / f"search_reference_lists_{summary['run_at'][:10]}.json").write_text(json.dumps(
         {"name": "reference_lists", "source": "reference lists of included papers (src/refscan.py)",
          "query": "candidate rules (a)-(c), PROTOCOL.md section 1 (Search)", "run_at": summary["run_at"],
-         "count": len(recs), "records": recs}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+         "count": len(recs), "records": recs}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     # The same decisions keyed by record_id, for src/screening.py (screened by the lead, so lead_checked).
     from literature import record_key  # noqa: E402
     rows = [{"record_id": record_key(rec), "decision": m["screening"]["decision"],
@@ -579,9 +579,9 @@ def cmd_report():
              "evidence": m["screening"].get("evidence"), "source": "reference_lists", "lead_checked": True}
             for rec, m in zip(recs, merged)]
     (LIT / "screening" / "decisions_supp_refscan.json").write_text(
-        json.dumps(rows, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-    (SCAN / "screened.json").write_text(json.dumps(merged, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-    (SCAN / "additions.json").write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        json.dumps(rows, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    (SCAN / "screened.json").write_text(json.dumps(merged, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    (SCAN / "additions.json").write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(json.dumps({k: v for k, v in out.items() if k != "note"}, indent=1, ensure_ascii=False))
 
 

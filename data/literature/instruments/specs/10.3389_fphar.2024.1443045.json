@@ -1,0 +1,30 @@
+{
+ "record_id": "doi:10.3389/fphar.2024.1443045",
+ "tables": {
+  "ST2": {
+   "file": "text/Table1__ST2.csv",
+   "header_row": 3,
+   "columns": {
+    "rsid": "SNP",
+    "effect_allele": "Effect_allele",
+    "other_allele": "Other_allele",
+    "beta_exposure": "Beta",
+    "se_exposure": "Se",
+    "pval_exposure": "P",
+    "eaf_exposure": "Effect allele frequency"
+   },
+   "description": "Supplementary Table 2 (Table1.XLSX, sheet ST2): the 10 SLC5A2-region instruments for SGLT2 inhibition. Their effects are on HbA1c from UK Biobank ukb-d-30750_irnt (n = 344,182), as tabulated, i.e. HbA1c-raising per effect allele. Methods step 5 inverts these betas to represent SGLT2 inhibition."
+  }
+ },
+ "claims": {
+  "Lin2024SGLT2-1": {
+   "status": "mapped",
+   "table": "ST2",
+   "filters": [
+    {"column": "SNP", "op": "regex", "value": "^rs[0-9]+$"}
+   ],
+   "expected_n": 10,
+   "notes": "All 10 rows of ST2; the paper uses the same instrument for every PheWAS outcome. The exposure betas are HbA1c-raising as tabulated. The claim estimate (OR 10.95) is ST4 'SGLT2 inhibitor, Endometriosis || id:finn-b-N14_ENDOMETRIOSIS' IVW beta 2.393, which is per unit HbA1c lowering (inverted betas). In the ST2 orientation it corresponds to beta -2.393. There are no per-SNP outcome effects, so no recompute."
+  }
+ }
+}

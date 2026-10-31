@@ -31,7 +31,7 @@ def add_exemption(gene, claim_id, role):
                                   "replication source.",
                         "added": datetime.now(timezone.utc).isoformat()})
         EXEMPTIONS.parent.mkdir(parents=True, exist_ok=True)
-        EXEMPTIONS.write_text(json.dumps(entries, indent=1) + "\n", encoding="utf-8")
+        EXEMPTIONS.write_text(json.dumps(entries, indent=1) + "\n", encoding="utf-8", newline="\n")
 
 
 def grch38_position(rsid):
@@ -103,7 +103,7 @@ def main():
         report["targets"][cid] = out
         print(json.dumps({k: out.get(k) for k in ("role", "gene", "reported_estimate", "recomputed_or", "agree",
                                                    "found_in_r10", "missing", "kept_masked_because_of")}))
-    (ROOT / "results" / "gateb_reproduction.json").write_text(json.dumps(report, indent=1) + "\n", encoding="utf-8")
+    (ROOT / "results" / "gateb_reproduction.json").write_text(json.dumps(report, indent=1) + "\n", encoding="utf-8", newline="\n")
 
 
 if __name__ == "__main__":

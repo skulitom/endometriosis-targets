@@ -1,0 +1,14 @@
+{
+ "record_id": "doi:10.1515/biol-2025-1372",
+ "tables": {},
+ "claims": {
+  "Liu2026-1": {
+   "status": "not_available",
+   "reason": "No per-variant instrument table in the paper or the local supplement (figure images only; no tables converted). Results 3.7 states 18 SNPs for MET. Figure 7 shows funnel, leave-one-out and scatter plots only, and Table 1 gives only Cochran's Q, MR-Egger intercept, MR-PRESSO and F-statistic summaries (mean F 115.6). No rsids, alleles or effects. The Table 1 IVW Cochran's Q (38.709, p 0.096) implies about 28-29 df, i.e. about 29-30 SNPs, which does not fit the 18 SNPs stated (df 17 would give p 0.002). The pQTL source is given only as 'FinnGen' (P < 5e-6, r2 < 0.001), and the endometriosis GWAS is not named, so re-derivation is underdetermined."
+  },
+  "Liu2026-2": {
+   "status": "not_available",
+   "reason": "No per-variant instrument table in the paper or the local supplement (figure images only; no tables converted). Results 3.7 states 19 SNPs for SELL. Figure 7 shows funnel, leave-one-out and scatter plots only, and Table 1 gives only Cochran's Q, MR-Egger intercept, MR-PRESSO and F-statistic summaries (mean F 236.0). No rsids, alleles or effects. The pQTL source is given only as 'FinnGen' (P < 5e-6, r2 < 0.001), and the endometriosis GWAS is not named, so re-derivation is underdetermined."
+  }
+ }
+}
